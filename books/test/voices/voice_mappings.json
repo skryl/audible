@@ -42,5 +42,8 @@
   "Duchess of Monmouth": {
     "openai": "ash",
     "cartesia": "71a7ad14-091c-4e8e-a314-022ece01c121"
+  },
+  "picard": {
+    "cartesia": "06067f64-cb45-4d4b-8219-ea6974aa6073"
   }
 }
