@@ -1,0 +1,46 @@
+{
+  "DEFAULT": {
+    "openai": "fable",
+    "cartesia": "en_male_neutral"
+  },
+  "NARRATOR": {
+    "openai": "fable",
+    "cartesia": "22dff604-4a52-4f96-ba17-91c96c346c76"
+  },
+  "Dorian Gray": {
+    "openai": "alloy",
+    "cartesia": "4f7f1324-1853-48a6-b294-4e78e8036a83"
+  },
+  "Lord Henry Wotton": {
+    "openai": "verse",
+    "cartesia": "70159582-7999-433b-9aa1-106d96a0f3fa"
+  },
+  "Lord Henry": {
+    "openai": "verse",
+    "cartesia": "70159582-7999-433b-9aa1-106d96a0f3fa"
+  },
+  "Basil Hallward": {
+    "openai": "ballad",
+    "cartesia": "b35daad3-cf44-4b9c-a6ba-bc004a4573f2"
+  },
+  "Sibyl Vane": {
+    "openai": "nova",
+    "cartesia": "4f7f1324-1853-48a6-b294-4e78e8036a83"
+  },
+  "James Vane": {
+    "openai": "shimmer",
+    "cartesia": "4f7f1324-1853-48a6-b294-4e78e8036a83"
+  },
+  "Alan Campbell": {
+    "openai": "sage",
+    "cartesia": "4f7f1324-1853-48a6-b294-4e78e8036a83"
+  },
+  "Lady Narborough": {
+    "openai": "ash",
+    "cartesia": "71a7ad14-091c-4e8e-a314-022ece01c121"
+  },
+  "Duchess of Monmouth": {
+    "openai": "ash",
+    "cartesia": "71a7ad14-091c-4e8e-a314-022ece01c121"
+  }
+}

@@ -1,0 +1,482 @@
+{
+  "title": "Chapter 11",
+  "segments": [
+    {
+      "type": "narration",
+      "text": "Dorian Gray\u2019s eyes fixed steadily on his servant as he entered the room. Dorian wondered, almost imperceptibly, if the man had secretly peered behind the screen. The servant remained impassive, waiting silently for his orders while Dorian lit a cigarette and walked over to the glass. In the reflection he saw Victor\u2019s face\u2014a placid mask of servility\u2014reminding him that appearances could be deceiving, and that caution was always necessary.",
+      "voice_id": "22dff604-4a52-4f96-ba17-91c96c346c76",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "emotion": "measured, commanding",
+      "text": "Tell the house-keeper that I want to see her, and then go to the frame-maker and ask him to send two of his men round at once.",
+      "voice_traits": {
+        "accent": "refined British",
+        "tone": "cold and deliberate",
+        "pacing": "slow and precise",
+        "emotion": "controlled, slightly wary",
+        "pronunciation": "clear and articulate",
+        "pauses": "brief, after each instruction",
+        "distinctive_speech_patterns": "formal, measured delivery"
+      },
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "narration",
+      "text": "As his servant departed, Dorian\u2019s gaze wandered to the glass where Victor\u2019s image, unchanging yet laden with an undercurrent of menace, remained. A subtle unease crept in despite the calm exterior.",
+      "voice_id": "22dff604-4a52-4f96-ba17-91c96c346c76",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "narration",
+      "text": "Moments later, Mrs. Leaf, dressed in a black silk gown and wearing old-fashioned thread mittens, bustled into the library. Her aged hands trembled as she prepared to serve him.",
+      "voice_id": "22dff604-4a52-4f96-ba17-91c96c346c76",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Mrs. Leaf",
+      "emotion": "concern mixed with indignation",
+      "text": "The old schoolroom, Mr. Dorian? Why, it\u2019s full of dust. I must get it arranged and put straight before you go into it. It is not fit for you to see, sir. It is not, indeed!",
+      "voice_traits": {
+        "accent": "old-fashioned British",
+        "tone": "worn, matter-of-fact",
+        "pacing": "slightly hurried",
+        "emotion": "anxious yet proper",
+        "pronunciation": "deliberate, with a touch of tremor",
+        "pauses": "short breaks between phrases",
+        "distinctive_speech_patterns": "formal, slightly archaic phrasing"
+      },
+      "voice_id": "en_male_neutral",
+      "character_voice_traits": "Her voice might be characterized by an old-fashioned British quality\u2014soft, slightly tremulous, and careful. There is a touch of formality in her tone, reflective of her long-standing role in a traditional household."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "emotion": "impatient and petulant",
+      "text": "I don\u2019t want it put straight, Leaf. I only want the key.",
+      "voice_traits": {
+        "accent": "refined",
+        "tone": "coolly dismissive",
+        "pacing": "even, with a hint of irritation",
+        "emotion": "impatient, commanding",
+        "pronunciation": "crisp and clear",
+        "pauses": "minimal, quick transition",
+        "distinctive_speech_patterns": "brief and clipped sentences"
+      },
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "dialogue",
+      "character": "Mrs. Leaf",
+      "emotion": "exasperated and concerned",
+      "text": "Well, sir, you\u2019ll be covered with cobwebs if you go into it. Why, it hasn\u2019t been opened for nearly five years \u2013 not since his lordship died.",
+      "voice_traits": {
+        "accent": "posh, traditional",
+        "tone": "worry mixed with formality",
+        "pacing": "measured yet slightly quick due to anxiety",
+        "emotion": "concerned, a touch exasperated",
+        "pronunciation": "meticulous",
+        "pauses": "pauses after key points",
+        "distinctive_speech_patterns": "somewhat antiquated phrasing"
+      },
+      "voice_id": "en_male_neutral",
+      "character_voice_traits": "Her voice might be characterized by an old-fashioned British quality\u2014soft, slightly tremulous, and careful. There is a touch of formality in her tone, reflective of her long-standing role in a traditional household."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "emotion": "bitter and brusque",
+      "text": "That does not matter. I simply want to see the place \u2013 that is all. Give me the key.",
+      "voice_traits": {
+        "accent": "refined and clipped",
+        "tone": "bitter, resolute",
+        "pacing": "steady, with heavy emphasis on finality",
+        "emotion": "cold, with a hint of resentment",
+        "pronunciation": "sharp and deliberate",
+        "pauses": "short pauses for effect",
+        "distinctive_speech_patterns": "terse and unyielding"
+      },
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "dialogue",
+      "character": "Mrs. Leaf",
+      "emotion": "hesitant and soft-hearted",
+      "text": "And here is the key, sir. I\u2019ll have it off the bunch in a moment. But you don\u2019t think of living up there, sir, and you so comfortable here?",
+      "voice_traits": {
+        "accent": "refined elderly",
+        "tone": "gentle, with concern",
+        "pacing": "slow and careful",
+        "emotion": "tender, cautious",
+        "pronunciation": "measured and soft",
+        "pauses": "deliberate, as if weighing every word",
+        "distinctive_speech_patterns": "old-world etiquette evident in her speech"
+      },
+      "voice_id": "en_male_neutral",
+      "character_voice_traits": "Her voice might be characterized by an old-fashioned British quality\u2014soft, slightly tremulous, and careful. There is a touch of formality in her tone, reflective of her long-standing role in a traditional household."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "emotion": "petulantly dismissive",
+      "text": "No, no. Thank you, Leaf. That will do.",
+      "voice_traits": {
+        "accent": "precise, upper-crust British",
+        "tone": "dismissive, slightly irritated",
+        "pacing": "brisk",
+        "emotion": "petulant yet authoritative",
+        "pronunciation": "sharp and clear",
+        "pauses": "minimal",
+        "distinctive_speech_patterns": "abrupt, with little warmth"
+      },
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "narration",
+      "text": "Mrs. Leaf lingered for a few moments, chatting idly about household details. Dorian sighed, dismissing her chatter with a vague gesture to manage things as she saw fit. Once she left, Dorian slipped the key into his pocket. His eyes then fell upon a large, purple satin coverlet, heavily embroidered with gold\u2014a splendid piece of late seventeenth-century Venetian work his grandfather once prized. He mused darkly that this very coverlet, once used as a pall for the dead, would now serve to conceal something equally dreadful\u2014a corruption far worse than death itself.",
+      "voice_id": "22dff604-4a52-4f96-ba17-91c96c346c76",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "narration",
+      "text": "His thoughts drifted to memories of his grandfather and regretfully recalled how Basil might have helped him resist Lord Henry\u2019s influence. Dorian\u2019s inner monologue revealed the conflict between a noble, intellectual love for Basil and the poisonous temptations that now ruled his fate. It was too late for redemption; the future, rife with forbidden passions and haunting dreams, was inevitable.",
+      "voice_id": "22dff604-4a52-4f96-ba17-91c96c346c76",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "narration",
+      "text": "Clutching the opulent coverlet, Dorian moved behind the screen to face the portrait. He examined it intently\u2014gold hair, blue eyes, and rose-red lips remained unchanged, but the expression had become cruelly altered. It was as if his own soul stared back, accusing him. Overwhelmed by disgust, Dorian flung the rich pall over the picture just as a knock sounded at the door.",
+      "voice_id": "22dff604-4a52-4f96-ba17-91c96c346c76",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Unnamed Servant",
+      "emotion": "businesslike, slightly sly",
+      "text": "The persons are here, Monsieur.",
+      "voice_traits": {
+        "accent": "neutral British",
+        "tone": "measured, with a hint of treachery in his choice of words",
+        "pacing": "even, controlled",
+        "emotion": "cautious, secretive",
+        "pronunciation": "clear, with subtle emphasis on 'Monsieur'",
+        "pauses": "brief, deliberate",
+        "distinctive_speech_patterns": "slightly formal with an undercurrent of slyness"
+      },
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "emotion": "ominous and decisive",
+      "text": "Wait for an answer and show the men in here.",
+      "voice_traits": {
+        "accent": "refined",
+        "tone": "commanding, with underlying tension",
+        "pacing": "firm and unyielding",
+        "emotion": "decisive and alert",
+        "pronunciation": "precise",
+        "pauses": "short between clauses",
+        "distinctive_speech_patterns": "staccato commands that leave no room for argument"
+      },
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "narration",
+      "text": "Within minutes, Mr. Hubbard, the celebrated frame-maker from South Audley Street, arrived along with a rough young assistant. Hubbard, with his florid red whiskered face and fat, freckled hands, exuded both charm and the perennial frustration of dealing with impecunious artists.",
+      "voice_id": "22dff604-4a52-4f96-ba17-91c96c346c76",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Mr. Hubbard",
+      "emotion": "cheerful and eager",
+      "text": "What can I do for you, Mr. Gray? I thought I\u2019d do myself the honour of coming round in person. I have just acquired a beauty of a frame \u2013 an old Florentine piece from Fonthill, eminently suited for a religious subject.",
+      "voice_traits": {
+        "accent": "slightly theatrical British",
+        "tone": "enthusiastic, with a hint of self-importance",
+        "pacing": "lively but measured",
+        "emotion": "eager and genial",
+        "pronunciation": "clear and florid",
+        "pauses": "well-placed between ideas",
+        "distinctive_speech_patterns": "expressive, using elaborate descriptions"
+      },
+      "voice_id": "en_male_neutral",
+      "character_voice_traits": "His voice is likely robust and enthusiastic, with a slightly rough, working-man\u2019s timbre softened by a pleasant and genial tone. One might imagine a mild, somewhat jovial British accent reflecting his tradesman background, with an undercurrent of refined appreciation for art."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "emotion": "apologetic yet focused",
+      "text": "I am so sorry you went to the trouble, Mr. Hubbard. I shall certainly drop in to view the frame another time \u2013 though religious art isn\u2019t my usual pursuit. Today, however, I only require your help in carrying a picture to the top of the house. It\u2019s rather heavy, so I\u2019d ask you to lend a couple of your men.",
+      "voice_traits": {
+        "accent": "refined",
+        "tone": "cool and measured",
+        "pacing": "steady with a formal quality",
+        "emotion": "apologetic but resolute",
+        "pronunciation": "precise",
+        "pauses": "strategic, causing slight emphasis on the request",
+        "distinctive_speech_patterns": "formal and reserved"
+      },
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "dialogue",
+      "character": "Mr. Hubbard",
+      "emotion": "relaxed and accommodating",
+      "text": "No trouble at all, Mr. Gray. I am delighted to be of service. Which work of art are we moving, sir?",
+      "voice_traits": {
+        "accent": "characteristically urbane",
+        "tone": "pleasant and unhurried",
+        "pacing": "smooth and conversational",
+        "emotion": "genuine friendliness",
+        "pronunciation": "crisp",
+        "pauses": "light pauses, emphasizing his readiness",
+        "distinctive_speech_patterns": "informal charm mixed with professionalism"
+      },
+      "voice_id": "en_male_neutral",
+      "character_voice_traits": "His voice is likely robust and enthusiastic, with a slightly rough, working-man\u2019s timbre softened by a pleasant and genial tone. One might imagine a mild, somewhat jovial British accent reflecting his tradesman background, with an undercurrent of refined appreciation for art."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "emotion": "grim and secretive",
+      "text": "This.",
+      "voice_traits": {
+        "accent": "refined",
+        "tone": "flat, with dark undertones",
+        "pacing": "abrupt",
+        "emotion": "secretive, with an edge of menace",
+        "pronunciation": "dry, understated",
+        "pauses": "a noticeable pause as he reveals the object",
+        "distinctive_speech_patterns": "short, clipped statement that carries ominous weight"
+      },
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "dialogue",
+      "character": "Mr. Hubbard",
+      "emotion": "practical and focused",
+      "text": "There will be no difficulty, sir. I\u2019ll have my assistant unhook it from these brass chains. And now, where shall we carry it?",
+      "voice_traits": {
+        "accent": "upright British",
+        "tone": "matter-of-fact yet courteous",
+        "pacing": "even and deliberate",
+        "emotion": "focused, with a gentle inquisitiveness",
+        "pronunciation": "clear and steady",
+        "pauses": "well-timed to delineate instructions",
+        "distinctive_speech_patterns": "businesslike with hints of artistic flair"
+      },
+      "voice_id": "en_male_neutral",
+      "character_voice_traits": "His voice is likely robust and enthusiastic, with a slightly rough, working-man\u2019s timbre softened by a pleasant and genial tone. One might imagine a mild, somewhat jovial British accent reflecting his tradesman background, with an undercurrent of refined appreciation for art."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "emotion": "resigned and secretive",
+      "text": "I\u2019ll show you the way, Mr. Hubbard. Please follow me \u2013 we\u2019ll take the front staircase; it\u2019s wider, and the picture is rather bulky.",
+      "voice_traits": {
+        "accent": "refined, controlled",
+        "tone": "resigned, with underlying secrecy",
+        "pacing": "even and measured",
+        "emotion": "slightly troubled yet determined",
+        "pronunciation": "precise",
+        "pauses": "a pause after the instruction adds gravity",
+        "distinctive_speech_patterns": "direct and minimalistic"
+      },
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "narration",
+      "text": "Dorian led Mr. Hubbard and his assistant from the door, up the front staircase. Despite Mr. Hubbard\u2019s periodic protests about a gentleman doing useful work, Dorian found himself lending a hand with the cumbersome frame. Upon reaching the top landing, the little frame-maker grunted, 'Something of a load to carry, sir,' as he wiped his shiny forehead. Dorian merely murmured his acknowledgment while unlocking the door to a room that had seen little use in years\u2014an almost forgotten study from his childhood.",
+      "voice_id": "22dff604-4a52-4f96-ba17-91c96c346c76",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "narration",
+      "text": "Inside the spacious, well-proportioned room built by his great-uncaring grandfather, every detail stirred the echoes of his youth: the huge Italian cassone, the satinwood book-case crammed with old schoolbooks, and the faded Flemish tapestry. These relics of a purer, boyish past now served as the perfect hideaway for the portrait\u2014a portrait that carried the ever-growing burden of his soul\u2019s corruption. Dorian justified his act by convincing himself that no one would ever see the cursed image again, not even his own eyes.",
+      "voice_id": "22dff604-4a52-4f96-ba17-91c96c346c76",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "emotion": "weary and decisive",
+      "text": "Bring it in, Mr. Hubbard, please. I\u2019m sorry for keeping you so long.",
+      "voice_traits": {
+        "accent": "cultivated British",
+        "tone": "wearily instructive",
+        "pacing": "measured, as though weighed down by thought",
+        "emotion": "apologetic yet firm",
+        "pronunciation": "clear and deliberate",
+        "pauses": "slight pause after the apology",
+        "distinctive_speech_patterns": "concise and business-like"
+      },
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "dialogue",
+      "character": "Mr. Hubbard",
+      "emotion": "curious yet respectful",
+      "text": "Might one look at the work of art, sir?",
+      "voice_traits": {
+        "accent": "refined, with a craftsman\u2019s lilt",
+        "tone": "inquisitive, politely curious",
+        "pacing": "moderate",
+        "emotion": "genuine interest mixed with deference",
+        "pronunciation": "crisp",
+        "pauses": "a slight pause before the question",
+        "distinctive_speech_patterns": "formal in inquiry yet warm"
+      },
+      "voice_id": "en_male_neutral",
+      "character_voice_traits": "His voice is likely robust and enthusiastic, with a slightly rough, working-man\u2019s timbre softened by a pleasant and genial tone. One might imagine a mild, somewhat jovial British accent reflecting his tradesman background, with an undercurrent of refined appreciation for art."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "emotion": "intensely guarded",
+      "text": "It would not interest you, Mr. Hubbard.",
+      "voice_traits": {
+        "accent": "refined",
+        "tone": "cold and curt",
+        "pacing": "brief and brittle",
+        "emotion": "guarded, even hostile",
+        "pronunciation": "sharp",
+        "pauses": "almost none, delivered in one swift statement",
+        "distinctive_speech_patterns": "short, dismissive retort"
+      },
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "dialogue",
+      "character": "Mr. Hubbard",
+      "emotion": "affable and dutiful",
+      "text": "Not at all, Mr. Gray. Ever ready to do anything for you, sir.",
+      "voice_traits": {
+        "accent": "cheerful British",
+        "tone": "warm and obliging",
+        "pacing": "easy, relaxed",
+        "emotion": "earnest and friendly",
+        "pronunciation": "clear and comforting",
+        "pauses": "natural, conversational breaks",
+        "distinctive_speech_patterns": "unaffected and courteous"
+      },
+      "voice_id": "en_male_neutral",
+      "character_voice_traits": "His voice is likely robust and enthusiastic, with a slightly rough, working-man\u2019s timbre softened by a pleasant and genial tone. One might imagine a mild, somewhat jovial British accent reflecting his tradesman background, with an undercurrent of refined appreciation for art."
+    },
+    {
+      "type": "narration",
+      "text": "After Mr. Hubbard and his assistant departed, their footsteps faded into the background. Dorian listened to the sound of the house settling. He then secured the secret room with the key, ensuring that no curious eye would ever lay upon the portrait\u2014only his, a constant reminder of his shame. Meanwhile, returning to the library just after five o\u2019clock, he noticed that tea had been served. On a small, dark perfumed table lay a note from Lord Henry and a tattered yellow-bound book\u2014a thoughtful present from Lady Radley. Alongside, a copy of the third edition of The St. James\u2019s Gazette sat as if heralding another twist in his carefully concealed life.",
+      "voice_id": "22dff604-4a52-4f96-ba17-91c96c346c76",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "narration",
+      "text": "Dorian\u2019s eyes fell upon Lord Henry\u2019s note: a brief instruction mentioning the evening paper and a meeting set for eight-fifteen at the club. As he perused The St. James\u2019s Gazette, a red pencil mark on the fifth page caught his eye with a chilling report about an inquest into Sibyl Vane\u2014a young actress now declared dead by misadventure. With a frown of distaste and disgust, he tore the marked page in two and flung the pieces aside, cursing the vulgarity of reality and the implication that Victor might have known more than he dared admit.",
+      "voice_id": "22dff604-4a52-4f96-ba17-91c96c346c76",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "narration",
+      "text": "His attention then shifted back to the yellow book sent by Lord Henry. On a delicate, pearl-coloured octagonal stand, the volume beckoned him. Seated in a worn arm-chair, Dorian became lost in its strange, hypnotic prose\u2014a tale of sensual ecstasy, mysticism, and the shifting moral landscapes of centuries past. The text wove a tapestry of dreamlike imagery and dark introspection, making him forget the passage of time until even the fading daylight and a solitary star could be seen through the window.",
+      "voice_id": "22dff604-4a52-4f96-ba17-91c96c346c76",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "narration",
+      "text": "At length, his valet\u2019s gentle reminders of the late hour coaxed him from his reverie. He rose, left the library, and dressed for dinner before setting out to the club. There, in the early evening, he found Lord Henry seated alone in the morning-room, looking most bored.",
+      "voice_id": "22dff604-4a52-4f96-ba17-91c96c346c76",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "emotion": "apologetic, with a trace of self-reproach",
+      "text": "I am so sorry, Harry, but really it is entirely your fault. That book you sent me so fascinated me that I completely lost track of time.",
+      "voice_traits": {
+        "accent": "refined, hinting at aristocracy",
+        "tone": "guiltily amused yet earnest",
+        "pacing": "steady and measured",
+        "emotion": "apologetic with an undercurrent of wonder",
+        "pronunciation": "clear and immaculate",
+        "pauses": "a deliberate pause after \u2018Harry\u2019 and before the confession",
+        "distinctive_speech_patterns": "marked by refined articulation and subtle irony"
+      },
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "emotion": "amused and intrigued",
+      "text": "Yes, I thought you would like it.",
+      "voice_traits": {
+        "accent": "smooth, well-educated British",
+        "tone": "slightly ironic and relaxed",
+        "pacing": "casual yet deliberate",
+        "emotion": "amused, with a hint of condescension",
+        "pronunciation": "articulate and clear",
+        "pauses": "short, allowing for a measured delivery",
+        "distinctive_speech_patterns": "inflected with wit and a touch of nonchalance"
+      },
+      "voice_id": "70159582-7999-433b-9aa1-106d96a0f3fa",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "emotion": "matter-of-fact, with restrained intensity",
+      "text": "I didn\u2019t say I liked it, Harry. I said it fascinated me. There is a great difference.",
+      "voice_traits": {
+        "accent": "refined and controlled",
+        "tone": "firm and precise",
+        "pacing": "even and measured",
+        "emotion": "intensely serious with a hint of reproach",
+        "pronunciation": "sharp and deliberate",
+        "pauses": "strategic, particularly before emphasizing the difference",
+        "distinctive_speech_patterns": "succinct and direct"
+      },
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "emotion": "intrigued and playful",
+      "text": "Ah, you have discovered that?",
+      "voice_traits": {
+        "accent": "elegant and urbane",
+        "tone": "musing, flirtatiously teasing",
+        "pacing": "leisurely and unhurried",
+        "emotion": "playfully provocative",
+        "pronunciation": "smooth and measured",
+        "pauses": "a subtle pause after the question for effect",
+        "distinctive_speech_patterns": "a touch of ironic playfulness in his speech"
+      },
+      "voice_id": "70159582-7999-433b-9aa1-106d96a0f3fa",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "narration",
+      "text": "With that, the two men left the morning-room and passed into the dining-room, marking the end of a day steeped in secrets, brooding introspection, and the unspoken promise of hidden sins. The chapter closed on the tableau of refined conversation and dark musings, leaving the secret of the portrait and its corrupted beauty safe for yet another day.",
+      "voice_id": "22dff604-4a52-4f96-ba17-91c96c346c76",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    }
+  ],
+  "chapter_number": 11,
+  "status": "pending",
+  "audio_file": "chapter_11.mp3"
+}

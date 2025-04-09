@@ -1,0 +1,65 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "characters": [
+        "Lord Henry Wotton",
+        "Lord Fermor (Uncle George)"
+      ],
+      "location": "The Albany (Lord Fermor\u2019s residence)",
+      "summary": "Lord Henry visits his uncle at the Albany early in the day. In a witty and meandering conversation, the two discuss aristocratic values, the art of doing nothing, and various family anecdotes. The dialogue centers on the mysterious background of Mr. Dorian Gray, touching on his parentage and the scandalous, tragic history involving Lady Margaret Devereux, thereby setting the stage for the intrigue surrounding Dorian Gray."
+    },
+    {
+      "scene_number": 2,
+      "characters": [
+        "Lord Henry Wotton",
+        "Aunt Agatha",
+        "Dorian Gray",
+        "Duchess of Harley",
+        "Sir Thomas Burdon",
+        "Mr. Erskine of Treadley",
+        "Mrs. Vandeleur",
+        "Lord Faudel"
+      ],
+      "location": "Aunt Agatha\u2019s dining room",
+      "summary": "Lord Henry arrives for luncheon at his aunt\u2019s house. At the table, a colorful mix of guests engages in lively conversation that ranges from the merits (or faults) of American marriages and the fashion for marrying Americans to humorous debates on politics, art, and the state of the East End. The dialogue is full of repartee and paradoxical observations as the characters comment on life, modernity, and culture. Dorian Gray\u2019s shy yet attentive presence adds an undercurrent of intrigue as the conversation weaves between light banter and more pointed philosophical musings."
+    },
+    {
+      "scene_number": 3,
+      "characters": [
+        "Lord Henry Wotton",
+        "Mr. Erskine of Treadley",
+        "Dorian Gray"
+      ],
+      "location": "Post-lunch in Aunt Agatha\u2019s home leading to the entrance and departing into the park",
+      "summary": "After the luncheon, as the guests depart (including the Duchess making a hasty exit), Lord Henry engages in a more intimate conversation with Mr. Erskine about literature, art, and the philosophy of life. Their discussion touches on the merits of writing versus reading and the beauty of living without being overly burdened by convention. As Lord Henry prepares to leave for a walk in the park, Dorian Gray expresses his desire to accompany him, underscoring the magnetic pull that Lord Henry exerts over him. This scene transitions the narrative from the animated chatter of the dining room to the reflective promise of new experiences outside."
+    }
+  ],
+  "characters": [
+    "Basil Hallward",
+    "Margaret Devereux",
+    "Dorian Gray",
+    "Duchess of Harley",
+    "Aunt Agatha",
+    "Mr. Erskine of Treadley",
+    "Lord Henry Wotton",
+    "Prim",
+    "Lord Faudel",
+    "Mrs. Vandeleur",
+    "Lord Fermor (Uncle George)",
+    "Isabella",
+    "Carlington",
+    "Sir Thomas Burdon",
+    "Lord Kelso",
+    "Dartmoor"
+  ],
+  "major_characters": [
+    "Lord Henry Wotton",
+    "Lord Fermor (Uncle George)",
+    "Dorian Gray",
+    "Aunt Agatha",
+    "Duchess of Harley",
+    "Sir Thomas Burdon",
+    "Mr. Erskine of Treadley"
+  ]
+}

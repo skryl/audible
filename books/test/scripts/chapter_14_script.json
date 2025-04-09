@@ -1,0 +1,306 @@
+{
+  "title": "Chapter 14",
+  "segments": [
+    {
+      "type": "narration",
+      "text": "Dorian Gray and Basil Hallward slip out of the room and slowly begin their ascent. Their footsteps are soft as they move through the darkened corridor. The lamp\u2019s light dances, casting fantastic, shifting shadows on walls and the staircase, while a rising wind rattles some of the windows.",
+      "voice_traits": "Narrator: calm, measured pace with an undercurrent of suspense. The delivery is clear and descriptive, with deliberate pauses to emphasize the eerie, nocturnal atmosphere."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "You insist on knowing, Basil?",
+      "emotion": "low, mysterious, slightly insidious",
+      "voice_traits": "Dorian: spoken in a quiet, almost conspiratorial tone, with a smooth accent and measured, velvety pacing that hints at dark secrets."
+    },
+    {
+      "type": "dialogue",
+      "character": "Basil Hallward",
+      "text": "Yes.",
+      "emotion": "cautious, curious",
+      "voice_traits": "Basil: clear, thoughtful, with a hint of anxious wonder. The delivery is succinct and soft, matching the quiet night."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "I am delighted. You are the one man in the world who is entitled to know everything about me. You have had more to do with my life than you think.",
+      "emotion": "amused, confident with a touch of harshness",
+      "voice_traits": "Dorian: smooth and self-assured with a slight sneer. His pacing remains deliberate, with slight pauses before revealing each dark secret."
+    },
+    {
+      "type": "narration",
+      "text": "At the top landing, Dorian sets the lamp down, retrieves a key, and secures the door. A cold current brushes past them as the light flares into a murky flame. Basil glances around as the room reveals signs of neglect \u2013 a faded Flemish tapestry, a curtained picture, an old Italian cassone, an almost empty book-case, a solitary chair and table, dust covering every surface, holes in the carpet, and even a mouse scurrying behind the wainscoting. A damp odor of mildew hangs in the air.",
+      "voice_traits": "Narrator: detailed and observant, with a careful pace that allows the listener to visualize the decaying room. The tone is somber and slightly foreboding."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "So you think that it is only God who sees the soul, Basil? Draw that curtain back, and you will see mine.",
+      "emotion": "cold, cruel, almost taunting",
+      "voice_traits": "Dorian: clipped and deliberate, with an icy calmness. His words are enunciated sharply to underline the cruelty and unsettling nature of his revelation."
+    },
+    {
+      "type": "dialogue",
+      "character": "Basil Hallward",
+      "text": "You are mad, Dorian, or playing a part.",
+      "emotion": "puzzled, incredulous",
+      "voice_traits": "Basil: his tone is tentative and questioning, with a slight tremor suggestive of inner conflict and fear. The pacing is measured and cautious."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "You won\u2019t? Then I must do it myself.",
+      "emotion": "defiant, imperious",
+      "voice_traits": "Dorian: resolute and brisk, with a hint of menace. The delivery is sharp and brisk as he abruptly moves to tear back the curtain."
+    },
+    {
+      "type": "narration",
+      "text": "Dorian tears away the curtain, and Basil\u2019s exclamation of horror is nearly lost in the dim light. Before Basil\u2019s eyes, on the canvas, a hideous face grins\u2014a visage disturbingly reminiscent of Dorian\u2019s own features. Despite its grotesque alterations, traces of golden hair, a scarlet sensual mouth, and sodden blue eyes hint at a marvellous beauty arrested in a perverse transformation. In the left-hand corner of the canvas, Dorian\u2019s name is traced in long, bright vermilion letters.",
+      "voice_traits": "Narrator: delivers this description with increasing intensity, each detail carefully enunciated. The pace slows as the horror in the transformation is vividly depicted, evoking a chilling, almost cinematic quality."
+    },
+    {
+      "type": "narration",
+      "text": "Basil seizes the lighted candle and holds it to the picture, his blood turning from warmth to the chill of sluggish ice. His eyes, wide with horror and disbelief, dart to Dorian, whose expression remains a peculiar mix of detached fascination and inscrutable emotion.",
+      "voice_traits": "Narrator: the tone becomes urgent and tremulous, matching Basil\u2019s inner turmoil. The rhythmic delivery underscores the shock and revulsion building in the scene."
+    },
+    {
+      "type": "dialogue",
+      "character": "Basil Hallward",
+      "text": "What does this mean?",
+      "emotion": "shrill, curious, and desperate",
+      "voice_traits": "Basil: his voice rises in pitch, trembling with a mix of incredulity and distress. The delivery is quick, punctuated by short, uneven pauses that mirror his racing thoughts."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "Years ago, when I was a boy, you met me, flattered me, and taught me to be vain of my good looks. One day you introduced me to a friend of yours, who explained to me the wonder of youth, and you finished a portrait of me that revealed the wonder of beauty. In a mad moment\u2014one for which, even now, I cannot say whether I regret it or not\u2014I made a wish\u2026 perhaps you would call it a prayer\u2026",
+      "emotion": "wistful, reflective, with an undercurrent of remorse",
+      "voice_traits": "Dorian: his tone is almost confessional, with measured pauses and a softened tempo as he recalls his past. The accent is refined, and the pacing is introspective, mingling regret with a disturbing sense of acceptance."
+    },
+    {
+      "type": "dialogue",
+      "character": "Basil Hallward",
+      "text": "I remember it! Oh, how well I remember it! No! The thing is impossible. The room is damp. Mildew has got into the canvas. The paints I used had some wretched mineral poison in them. I tell you the thing is impossible.",
+      "emotion": "aghast, incredulous",
+      "voice_traits": "Basil: delivered in a tremulous, almost anguished tone. His words tumble out quickly with a mix of disbelief and bitter emotion; his cadence is erratic as his mind struggles to grasp the reality before him."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "Ah, what is impossible?",
+      "emotion": "murmuring, detached",
+      "voice_traits": "Dorian: speaks in a subdued, reflective murmur with an almost indiscernible sigh. His pacing is slow and almost melancholy as he turns toward the window, leaning his forehead against the cold, mist-stained glass."
+    },
+    {
+      "type": "dialogue",
+      "character": "Basil Hallward",
+      "text": "You told me you had destroyed it.",
+      "emotion": "disbelieving, pressured",
+      "voice_traits": "Basil: the words are sharp and strained, his inflection rising with panic. Each syllable is stressed as he struggles with the implications of what he sees."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "I was wrong. It has destroyed me.",
+      "emotion": "bitter resignation, darkness underlying his tone",
+      "voice_traits": "Dorian: his cadence is measured, with a flat, almost regretful quality. The delivery is slow and heavy, as if each word carries a profound weight of his inner decay."
+    },
+    {
+      "type": "dialogue",
+      "character": "Basil Hallward",
+      "text": "I don\u2019t believe it is my picture.",
+      "emotion": "confused, desperate",
+      "voice_traits": "Basil: speaks haltingly, his voice laced with both confusion and longing for a past ideal that now seems corrupted. The pacing is uneven, filled with pauses that express his inner torment."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "Can\u2019t you see your ideal in it?",
+      "emotion": "bitter, resentful",
+      "voice_traits": "Dorian: the tone is cutting and sharply ironic. Each word is delivered with a cool, detached bitterness, his accent refined and his speech rhythmically cold."
+    },
+    {
+      "type": "dialogue",
+      "character": "Basil Hallward",
+      "text": "My ideal, as you call it...",
+      "emotion": "broken, nostalgic",
+      "voice_traits": "Basil: his voice falters, heavy with disillusionment. The speech is slow and laden with regret, each syllable weighed down by lost reverence."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "As you called it.",
+      "emotion": "flat, dismissive",
+      "voice_traits": "Dorian: his tone is clipped, dismissing Basil\u2019s ideal with a hint of irony. The pacing is brisk, with a deliberate undertone of scorn."
+    },
+    {
+      "type": "dialogue",
+      "character": "Basil Hallward",
+      "text": "There was nothing evil in it, nothing shameful. You were to me such an ideal as I shall never meet again. This is the face of a satyr.",
+      "emotion": "mourning, anguished realization",
+      "voice_traits": "Basil: delivered in a voice heavy with despair and loss. His articulation is precise, though trembling with emotion, and his pacing reflects the deep internal conflict."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "It is the face of my soul.",
+      "emotion": "resigned and darkly introspective",
+      "voice_traits": "Dorian: speaks in a low, almost whispering tone that carries a fatalistic weight. His delivery is slow, the words tinged with bitter acceptance."
+    },
+    {
+      "type": "dialogue",
+      "character": "Basil Hallward",
+      "text": "Christ! What a thing I must have worshipped! It has the eyes of a devil.",
+      "emotion": "aghast, filled with horror",
+      "voice_traits": "Basil: his voice rises in a mix of revulsion and disbelief. The pacing quickens momentarily as his words spill out in a near-shattering crescendo of horror."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "Each of us has heaven and hell in him, Basil!",
+      "emotion": "desperate, wild",
+      "voice_traits": "Dorian: shouts with a sudden, frantic intensity. His voice trembles with despair and an almost animalistic ferocity, punctuated by a loud, impassioned outburst."
+    },
+    {
+      "type": "narration",
+      "text": "Basil turns back to the portrait, his hands shaking as he examines the canvas. Though the surface appears unchanged, an inner corruption is unmistakable \u2013 like the slow, leprous rotting of a corpse in a watery grave. His trembling hand fumbles with the candle; it falls, sputtering out as his fear and disgust deepen. Overwhelmed by the revelation, Basil sinks into a rickety chair, burying his face in his hands and crying out in despair, desperate for absolution in a prayer of repentance.",
+      "voice_traits": "Narrator: somber, heavy, and paced slowly to match the mounting tension and despair. The tone is rich in descriptive imagery and emotional detail, underscoring the horror of the moment."
+    },
+    {
+      "type": "dialogue",
+      "character": "Basil Hallward",
+      "text": "Good God, Dorian, what a lesson! What an awful lesson! Pray, Dorian, pray. What is it that one was taught to say in one\u2019s boyhood? 'Lead us not into temptation. Forgive us our sins. Wash away our iniquities.' Let us say that together. The prayer of your pride has been answered. The prayer of your repentance will be answered also. I worshipped you too much. I am punished for it. You worshipped yourself too much. We are both punished.",
+      "emotion": "broken, imploring, and mournful",
+      "voice_traits": "Basil: his voice is ragged and desperate, fluctuating between prayerful supplication and bitter reproach. The pacing is irregular, as if his heart is caught between shock and pleading remorse."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "It is too late, Basil.",
+      "emotion": "resigned, with a trace of sorrow",
+      "voice_traits": "Dorian: spoken slowly, with tear-dimmed eyes in a subdued, almost defeated tone. The words are delivered with regret and a deep sense of inevitability."
+    },
+    {
+      "type": "dialogue",
+      "character": "Basil Hallward",
+      "text": "It is never too late, Dorian. Let us kneel down and try if we cannot remember a prayer. Isn\u2019t there a verse somewhere, 'Though your sins be as scarlet, yet I will make them as white as snow'?",
+      "emotion": "earnest, pleading, yet desperate",
+      "voice_traits": "Basil: his tone carries both hope and despair. The speech is measured and reflective, with a plaintive quality that underscores his belief in forgiveness even amid horror."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "Those words mean nothing to me now.",
+      "emotion": "bitter and void of hope",
+      "voice_traits": "Dorian: delivered in a cold, dismissive tone. His pacing is slow as he contrasts his inner emptiness with Basil\u2019s desperate faith."
+    },
+    {
+      "type": "dialogue",
+      "character": "Basil Hallward",
+      "text": "Hush! Don\u2019t say that. You have done enough evil in your life. My God! Don\u2019t you see that accursed thing leering at us?",
+      "emotion": "urgent, anxious, and chiding",
+      "voice_traits": "Basil: his tone becomes commanding yet trembling with fear and disbelief, punctuated by short, emphatic pauses to stress his horror and urgency."
+    },
+    {
+      "type": "narration",
+      "text": "In an instant, an uncontrollable hatred surges within Dorian\u2014a violent, animalistic fury seemingly whispered into his ear by the grotesque image on the canvas. His gaze snaps to a glimmer on the painted chest: a knife he had forgotten days before. Moving past a stunned Basil, Dorian seizes the knife, turns sharply, and in a frenzy, plunges it into Basil\u2019s neck. Basil flails violently\u2014a stifled groan, convulsive arms, and the sickening sound of blood choking the air. Finally, Dorian discards the knife on the table, pauses to listen to the drip of blood on the threadbare carpet, and then, with a chilling calmness, locks the door behind him.",
+      "voice_traits": "Narrator: the tone becomes dark, fast-paced, and shockingly visceral. The descriptive language is delivered with a blend of quiet menace and detached horror, each word measured to mirror the brutality of the act."
+    },
+    {
+      "type": "narration",
+      "text": "Outside, the house lies in an eerie silence. Dorian steps out onto the landing, peers over the balustrade into a dark well of night, and then retrieves the key to lock himself away. Momentarily, he surveys the surroundings\u2014the policeman\u2019s lantern sweeping the silent doors, a prowling hansom\u2019s fleeting crimson glimmer, and a woman in a fluttering shawl singing hoarsely as she skirts by. The scene unfolds like a doomed performance under a bitter, flashing sky, as gas-lamps flicker blue and leafless trees shudder. Feeling a shiver, Dorian retreats, closing the window behind him.",
+      "voice_traits": "Narrator: delivered with a detached yet vividly atmospheric tone. The pacing allows the listener to absorb the chilling details, with subtle pauses accentuating the desolate beauty and impending dread."
+    },
+    {
+      "type": "narration",
+      "text": "Returning to the room, Dorian avoids glancing at the lifeless form on the table\u2014Basil\u2019s still figure, horrifically white and wax-like. Instead, his thoughts turn to practicality. He recalls the peculiar Moorish lamp, its dull silver and intricate arabesques that might arouse questions. Hesitating for a moment, he retrieves the lamp from the table and then, with careful, furtive steps, creeps quietly downstairs. Every creak of the woodwork sounds like a cry of pain. After ensuring all is still, he reaches the library.",
+      "voice_traits": "Narrator: the delivery is careful and methodical, with a tone of steely resignation. The pacing is slow, heavy with the weight of what has transpired, emphasizing Dorian\u2019s calculated detachment."
+    },
+    {
+      "type": "narration",
+      "text": "In the library, Dorian finds Basil\u2019s bag and coat discarded in a corner. He unlocks a secret press hidden within the wainscoting\u2014the repository for his peculiar disguises\u2014and stows them away, silently planning that they may be burned later. Consulting his watch, he notes it is twenty minutes to two. As he paces the room, his mind wanders to the string of recent murders in England\u2014a madness in the air\u2014as he contemplates the evidence and realizes that Basil left at eleven, his own exit unsuspicious. The weight of his guilt and cynical plan for destruction presses upon him.",
+      "voice_traits": "Narrator: grave, thoughtful, and introspective, with measured pacing to underscore Dorian\u2019s mental machinations. The tone is almost confessional, laced with cold calculation."
+    },
+    {
+      "type": "narration",
+      "text": "Dorian dons his fur coat and hat and steps into the hall. He pauses as the heavy tread of a policeman and the flash of a bull\u2019s-eye in the window remind him of the precarious balance he maintains. Holding his breath, he slips out with quiet precision, gently closing the door behind him before summoning his valet.",
+      "voice_traits": "Narrator: concise yet laden with tension, this passage is delivered with a hushed, deliberate pace, each word evoking a sense of impending inevitability."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "I am sorry to have had to wake you up, Francis, but I had forgotten my latch-key. What time is it?",
+      "emotion": "impatient yet controlled",
+      "voice_traits": "Dorian: his accent is refined, his tone brisk and businesslike, with a clipped cadence that betrays an undercurrent of irritation wrapped in cold disinterest."
+    },
+    {
+      "type": "dialogue",
+      "character": "Francis (the valet)",
+      "text": "Ten minutes past two, sir.",
+      "emotion": "sleepy, dutiful",
+      "voice_traits": "Francis: speaks in a half-drowsy tone with clear enunciation and a slightly lower volume, his words gentle and deferential, with a relaxed pacing indicative of someone roused from sleep."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "Ten minutes past two? How horribly late! You must wake me at nine to-morrow. I have some work to do.",
+      "emotion": "irritated, commanding",
+      "voice_traits": "Dorian: his tone sharp and brisk, with clipped articulation. The delivery is brisk and imperious, his words punctuated by a slight edge of anxiety about delays."
+    },
+    {
+      "type": "dialogue",
+      "character": "Francis (the valet)",
+      "text": "All right, sir.",
+      "emotion": "subdued, obedient",
+      "voice_traits": "Francis: measured and quiet, his voice polite and uninflected, with a resigned pacing that conveys his habitual deference to his master\u2019s demands."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "Did anyone call this evening?",
+      "emotion": "curious, slightly agitated",
+      "voice_traits": "Dorian: speaks in a clipped tone, his pacing steady and deliberate, with an undercurrent of suspicion as he seeks out any information that might complicate his plans."
+    },
+    {
+      "type": "dialogue",
+      "character": "Francis (the valet)",
+      "text": "Mr. Hallward, sir. He stayed here till eleven, and then he went away to catch his train.",
+      "emotion": "neutral, factual",
+      "voice_traits": "Francis: his delivery is clear and quiet, with a neutral tone and steady pacing, simply reporting the facts without emotion."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "Oh! I am sorry I didn\u2019t see him. Did he leave any message?",
+      "emotion": "curious, slightly regretful",
+      "voice_traits": "Dorian: his tone is lightly laced with feigned concern, delivered in a measured pace with precise articulation that masks a deeper disinterest in the truth."
+    },
+    {
+      "type": "dialogue",
+      "character": "Francis (the valet)",
+      "text": "No, sir, except that he would write to you from Paris, if he did not find you at the club.",
+      "emotion": "matter-of-fact, calm",
+      "voice_traits": "Francis: delivered plainly and evenly, his voice calm and devoid of any emotional inflection, with a natural, unhurried rhythm."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "That will do, Francis. Don\u2019t forget to call me at nine to-morrow.",
+      "emotion": "curt, authoritative",
+      "voice_traits": "Dorian: speaks in a clipped, no-nonsense tone. His articulation is precise and his pacing brisk, conveying finality and command."
+    },
+    {
+      "type": "dialogue",
+      "character": "Francis (the valet)",
+      "text": "No, sir.",
+      "emotion": "subdued, compliant",
+      "voice_traits": "Francis: his response is short and respectful, delivered in a flat, obedient manner with a soft, almost whispered cadence."
+    },
+    {
+      "type": "narration",
+      "text": "After dismissing Francis, Dorian throws his hat and coat upon the table and retreats into the library. There, he paces for a quarter of an hour, biting his lip in tense contemplation. Finally, he plucks the Blue Book from a shelf and turns its pages slowly, reading the address: 'Alan Campbell, 152, Hertford Street, Mayfair.' In that quiet moment, his purpose\u2014and the dark culmination of his machinations\u2014becomes unmistakably clear.",
+      "voice_traits": "Narrator: the closing narration is uttered in a reflective, almost hushed tone. The pacing slows to a deliberate crawl, evoking a sense of impending doom and the gravity of Dorian\u2019s final, fateful decision."
+    }
+  ],
+  "chapter_number": 14
+}

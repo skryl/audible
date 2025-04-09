@@ -1,0 +1,110 @@
+{
+  "Narrator": {
+    "openai": "onyx",
+    "cartesia": "en_male_neutral"
+  },
+  "Artist": {
+    "openai": "alloy",
+    "cartesia": "en_male_neutral"
+  },
+  "Critic": {
+    "openai": "fable",
+    "cartesia": "en_male_neutral"
+  },
+  "Lord Henry Wotton": {
+    "openai": "echo",
+    "cartesia": "en_male_neutral"
+  },
+  "Basil Hallward": {
+    "openai": "fable",
+    "cartesia": "en_male_neutral"
+  },
+  "Dorian Gray": {
+    "openai": "echo",
+    "cartesia": "en_male_neutral"
+  },
+  "Lord Fermor (Uncle George)": {
+    "openai": "fable",
+    "cartesia": "en_male_neutral"
+  },
+  "Aunt Agatha": {
+    "openai": "echo",
+    "cartesia": "en_male_neutral"
+  },
+  "Duchess of Harley": {
+    "openai": "fable",
+    "cartesia": "en_male_neutral"
+  },
+  "Sir Thomas Burdon": {
+    "openai": "echo",
+    "cartesia": "en_male_neutral"
+  },
+  "Mr. Erskine of Treadley": {
+    "openai": "fable",
+    "cartesia": "en_male_neutral"
+  },
+  "Lord Henry": {
+    "openai": "echo",
+    "cartesia": "en_male_neutral"
+  },
+  "Sibyl Vane": {
+    "openai": "fable",
+    "cartesia": "en_male_neutral"
+  },
+  "Mrs. Vane": {
+    "openai": "echo",
+    "cartesia": "en_male_neutral"
+  },
+  "James (Jim) Vane": {
+    "openai": "fable",
+    "cartesia": "en_male_neutral"
+  },
+  "Prince Charming": {
+    "openai": "echo",
+    "cartesia": "en_male_neutral"
+  },
+  "Mrs. Leaf": {
+    "openai": "fable",
+    "cartesia": "en_male_neutral"
+  },
+  "Mr. Hubbard": {
+    "openai": "echo",
+    "cartesia": "en_male_neutral"
+  },
+  "Alan Campbell": {
+    "openai": "fable",
+    "cartesia": "en_male_neutral"
+  },
+  "Lady Narborough": {
+    "openai": "echo",
+    "cartesia": "en_male_neutral"
+  },
+  "Lord Henry (Wotton)": {
+    "openai": "fable",
+    "cartesia": "en_male_neutral"
+  },
+  "Adrian Singleton": {
+    "openai": "echo",
+    "cartesia": "en_male_neutral"
+  },
+  "James Vane": {
+    "openai": "fable",
+    "cartesia": "en_male_neutral"
+  },
+  "Duchess of Monmouth (Gladys)": {
+    "openai": "echo",
+    "cartesia": "en_male_neutral"
+  },
+  "Sir Geoffrey Clouston": {
+    "openai": "fable",
+    "cartesia": "en_male_neutral"
+  },
+  "The Duchess": {
+    "openai": "echo",
+    "cartesia": "en_male_neutral"
+  },
+  "Hetty Merton": {
+    "openai": "fable",
+    "cartesia": "en_male_neutral"
+  }
+}

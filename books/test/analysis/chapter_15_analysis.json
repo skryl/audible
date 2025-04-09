@@ -1,0 +1,68 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "characters": [
+        "Dorian Gray",
+        "Servant",
+        "Valet"
+      ],
+      "location": "Dorian\u2019s home \u2013 bedroom and breakfast room",
+      "summary": "At nine in the morning, Dorian wakes to a sunny, almost May-like November light. His servant brings him chocolate and opens the shutters as he sleeps peacefully. Slowly coming to consciousness, Dorian reflects with a mix of youthful innocence and a dawning horror on the events of the previous night\u2014specifically his murderous past and the grim memory of Basil Hallward. He then dresses with meticulous care, enjoys a leisurely breakfast while reading his correspondence (smiling at some letters and discarding others), and writes two brief letters before moving on with his day."
+    },
+    {
+      "scene_number": 2,
+      "characters": [
+        "Dorian Gray"
+      ],
+      "location": "Dorian\u2019s private sitting room/study",
+      "summary": "Alone with his thoughts, Dorian takes up sketching and soon finds himself lost in artistic distraction. He draws flowers, architectural elements, and human faces\u2014all of which, he notices with dismay, remind him disturbingly of Basil Hallward. Seeking further escape, he picks up a beautifully bound volume of Gautier\u2019s '\u00c9maux et Cam\u00e9es' and becomes absorbed in its evocative poetry about Venice, evoking cherished memories of romance and past passions. This meditative, bittersweet moment underscores Dorian\u2019s internal conflict as he tries to push away the darker remnants of the previous night\u2019s deeds."
+    },
+    {
+      "scene_number": 3,
+      "characters": [
+        "Dorian Gray",
+        "Alan Campbell",
+        "Servant (Francis)"
+      ],
+      "location": "A refined drawing room or library within Dorian\u2019s house",
+      "summary": "As time drags by, Dorian paces anxiously, burdened by the weight of his secret. His nervous agitation grows until his servant summons Alan Campbell. When Alan arrives, his stern and cold demeanor immediately sets the stage for a tense confrontation. Dorian reveals that there is a dead man upstairs\u2014a grim admission that indirectly hints at murder\u2014while Alan initially refuses any involvement. The exchange quickly escalates into an ultimatum as Dorian, desperate and fearful of ruin, hands Alan a written note insisting that he perform a scientific 'experiment' to eradicate the evidence of the crime."
+    },
+    {
+      "scene_number": 4,
+      "characters": [
+        "Dorian Gray",
+        "Alan Campbell"
+      ],
+      "location": "The upper landing and locked room at the top of Dorian\u2019s house",
+      "summary": "Following the heated discussion, Dorian and Alan move upstairs with the necessary equipment (a heavy mahogany chest of chemicals, wires, and clamps). On the top landing, Dorian hesitates before a locked room\u2014the room that holds the grim secret of the dead man and the ever-damning portrait of his soul. In a moment of terror and revulsion, Dorian almost recoils at the sight of his portrait (with its strange blood-like red dew) before reluctantly entering the room. Alan, under duress, prepares to carry out the gruesome task of reducing the body and its trace to ashes, the practical details of a scientific experiment cloaked in horror."
+    },
+    {
+      "scene_number": 5,
+      "characters": [
+        "Dorian Gray",
+        "Alan Campbell"
+      ],
+      "location": "Back in the lower part of Dorian\u2019s house \u2013 the library",
+      "summary": "After what seems like an unbearable stretch of time divided by the ticking clock, Alan returns\u2014pale, shaking, yet outwardly calm. He informs Dorian, in a tone mixed with resignation and finality, that he has completed the grim experiment. In a final exchange laden with recriminations and sorrow, Alan declares he will never again be involved with Dorian\u2019s life. Dorian expresses a sorrowful gratitude for being saved from imminent ruin, even as the consequences of his actions and the irreversible transformation of his soul linger in the haunted silence of the house."
+    }
+  ],
+  "characters": [
+    "Servant",
+    "Basil Hallward",
+    "Dorian Gray",
+    "Rubinstein",
+    "Francis",
+    "Lady Berkshire",
+    "Alan Campbell",
+    "Lord Henry Wotton",
+    "Valet",
+    "Adrian Singleton",
+    "Harden",
+    "Servant (Francis)"
+  ],
+  "major_characters": [
+    "Dorian Gray",
+    "Alan Campbell"
+  ]
+}

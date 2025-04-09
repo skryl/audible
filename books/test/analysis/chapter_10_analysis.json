@@ -1,0 +1,54 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "characters": [
+        "Dorian Gray",
+        "Basil Hallward"
+      ],
+      "location": "Dorian Gray's breakfast room",
+      "summary": "At breakfast the next morning, Basil arrives with evident distress over the recent tragedy \u2013 the suicide of Sibyl Vane \u2013 and his anxiety at not having been informed of Dorian's true whereabouts. Basil recounts his painful evening and the news he inadvertently received, while Dorian nonchalantly deflects his concerns by mentioning his attendance at the opera and a pleasant encounter with Lady Gwendolen."
+    },
+    {
+      "scene_number": 2,
+      "characters": [
+        "Dorian Gray",
+        "Basil Hallward"
+      ],
+      "location": "Dorian\u2019s sitting room (where the portrait is partially hidden behind a screen)",
+      "summary": "The tone shifts as Basil confronts Dorian about his apparent indifference to Sibyl\u2019s death and raises the subject of the portrait. As Basil reveals plans to exhibit his work in Paris, Dorian becomes agitated, insisting that Basil must never look at the portrait again. The tension escalates when Dorian, with palpable fear, warns that if Basil touches or sees the piece, their relationship will be forever severed."
+    },
+    {
+      "scene_number": 3,
+      "characters": [
+        "Dorian Gray",
+        "Basil Hallward"
+      ],
+      "location": "The same sitting room, settled into a more intimate setting",
+      "summary": "Seated and subdued, Basil confesses the profound and complex influence Dorian has had on his art and soul. He reveals that from their first encounter, a near-idolatrous passion took hold of him, which he struggled to contain and express only through his painting. Basil explains that this secret fervor was the reason behind his earlier refusal to exhibit Dorian\u2019s portrait, relating his inner torment, creative obsession, and the danger he felt in exposing his vulnerability."
+    },
+    {
+      "scene_number": 4,
+      "characters": [
+        "Dorian Gray",
+        "Basil Hallward"
+      ],
+      "location": "Dorian\u2019s sitting room, near the window",
+      "summary": "The discussion winds down as Basil, still pained by his own confession and the secret he has revealed, expresses regret over the circumstances. Dorian reaffirms his warning about the portrait and rejects any future sittings with the painter. As Basil departs\u2014with a lingering sadness about losing his intimate artistic connection\u2014Dorian is left alone, silently reflecting on Basil\u2019s revelations, the potential exposure of his darkest secret, and the tragic transformation of their once-ideal friendship."
+    }
+  ],
+  "characters": [
+    "Patti",
+    "Basil Hallward",
+    "Dorian Gray",
+    "Lord Henry",
+    "Lady Gwendolen",
+    "Harry",
+    "Sibyl Vane",
+    "Georges Petit"
+  ],
+  "major_characters": [
+    "Dorian Gray",
+    "Basil Hallward"
+  ]
+}

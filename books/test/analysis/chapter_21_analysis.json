@@ -1,0 +1,78 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "characters": [
+        "Dorian Gray",
+        "Two Young Men (in evening dress)"
+      ],
+      "location": "Village streets near Dorian's home",
+      "summary": "On a warm, inviting night, Dorian strolls along the village streets while smoking a cigarette. He overhears two young men remarking, 'That is Dorian Gray,' which sparks memories of earlier times when attention and notoriety thrilled him. These fleeting moments stir reflections about his lost innocence and the past deception of a young woman he had once led to love him."
+    },
+    {
+      "scene_number": 2,
+      "characters": [
+        "Dorian Gray",
+        "Servant"
+      ],
+      "location": "Dorian's home \u2013 the library",
+      "summary": "After returning home, Dorian finds his servant waiting; he sends the servant off and sinks into a reflective state in his library. Immersed in thought, he muses over Lord Henry\u2019s provocative ideas about the nature of sin, the corruption of soul, and the permanence of his own moral decline. His internal dialogue reveals a desperate longing for the untarnished purity of his youth and a realization of the damage his actions have wrought."
+    },
+    {
+      "scene_number": 3,
+      "characters": [
+        "Dorian Gray"
+      ],
+      "location": "Study area near a table holding a curiously carved mirror",
+      "summary": "Dorian\u2019s attention turns to a carved mirror, gifted by Lord Henry long ago, around which delicate Cupids seem to dance. The mirror prompts recollection of a maddened letter from someone who adored him, steeping him in an intense mix of self-admiration and loathing. Overwhelmed by the thought that his own stunning beauty has brought ruin, he dramatically flings the mirror to the floor, shattering it into silver splinters."
+    },
+    {
+      "scene_number": 4,
+      "characters": [
+        "Dorian Gray"
+      ],
+      "location": "Upstairs locked room containing the portrait",
+      "summary": "Haunted by his past and the symbolic portrait that has come to embody his corrupted soul, Dorian picks up a lamp and crept upstairs. In a moment of conflicted hope and despair, he resolves to examine the portrait\u2014hoping that, if his life turns pure, even the grotesque image might transform. Yet as he draws the purple drapery from the portrait, he is confronted with the unchanged, loathsome visage that reflects all his sins, leading him to question whether his motivations are rooted in genuine redemption or mere vanity."
+    },
+    {
+      "scene_number": 5,
+      "characters": [
+        "Dorian Gray",
+        "Servants",
+        "Coachman",
+        "Footman",
+        "Two Gentlemen (one being Sir Henry Ashton\u2019s uncle)",
+        "Policeman"
+      ],
+      "location": "Inside Dorian's house and its surroundings",
+      "summary": "Embracing a final, drastic decision, Dorian seizes the knife\u2014the same weapon that had taken Basil Hallward\u2019s life\u2014and stabs the portrait, symbolically attempting to obliterate the burden of his past sins. The violent act is accompanied by an agonized cry and a resounding crash that startles the servants from their quarters. Soon, curious passersby, a policeman, and members of the household converge on the scene. As the investigation unfolds, they discover a dead, disfigured man in evening dress lying on the floor, a grim revelation that his life and soul have been irrevocably destroyed."
+    }
+  ],
+  "characters": [
+    "Servant",
+    "Alan Campbell",
+    "Footmen",
+    "James Vane",
+    "Coachman",
+    "Sir Henry Ashton\u2019s uncle",
+    "Dorian Gray",
+    "Francis",
+    "Two Young Men (in evening dress)",
+    "Two young men in evening dress",
+    "Unnamed servant",
+    "Footman",
+    "Lord Henry",
+    "Policeman",
+    "Servants",
+    "Basil Hallward",
+    "Hetty Merton",
+    "Old Mrs. Leaf",
+    "Two Gentlemen (one being Sir Henry Ashton\u2019s uncle)"
+  ],
+  "major_characters": [
+    "Dorian Gray",
+    "Lord Henry",
+    "Basil Hallward",
+    "Hetty Merton"
+  ]
+}

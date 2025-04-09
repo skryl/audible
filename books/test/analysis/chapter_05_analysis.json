@@ -1,0 +1,70 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "characters": [
+        "Dorian Gray",
+        "Lady Henry"
+      ],
+      "location": "Lord Henry\u2019s Mayfair house \u2013 the little library",
+      "summary": "Dorian Gray is alone in the richly appointed library, idly reading while waiting for Lord Henry. His solitude is interrupted when a woman enters; through a case of mistaken identity she introduces herself as Lady Henry, commenting humorously on photographs and recalling an opera encounter, setting the tone for the day."
+    },
+    {
+      "scene_number": 2,
+      "characters": [
+        "Dorian Gray",
+        "Lord Henry"
+      ],
+      "location": "The library in Lord Henry\u2019s house",
+      "summary": "After Lady Henry departs abruptly for her social engagement, Lord Henry finally arrives with his characteristically late flair. The two engage in witty banter about punctuality, marriage, and art. Their dialogue reveals Lord Henry\u2019s provocative views as Dorian admits, with a blush, that he is in love with an actress."
+    },
+    {
+      "scene_number": 3,
+      "characters": [
+        "Dorian Gray",
+        "Lord Henry"
+      ],
+      "location": "Inside the library (with Dorian recounting past events)",
+      "summary": "Dorian launches into an animated narrative of his recent theatrical adventure. He recounts wandering the grimy streets of London, encountering an eccentric Jewish man at a shabby theater, and securing a stage box seat. Amid humorous and absurd details of the performance and its grotesque characters, he vividly describes his first, overwhelming impression of Sibyl Vane, the actress who has captured his heart."
+    },
+    {
+      "scene_number": 4,
+      "characters": [
+        "Dorian Gray",
+        "Lord Henry"
+      ],
+      "location": "The library in Lord Henry\u2019s home",
+      "summary": "The conversation shifts from reminiscence to planning the next step. Dorian, bursting with passion, explains his adoration for Sibyl Vane and his desire to rescue her from her current theatrical engagements. Together they arrange to attend her performance the following night, discussing timing details and even mentioning Basil Hallward\u2019s involvement in their social circle."
+    },
+    {
+      "scene_number": 5,
+      "characters": [
+        "Lord Henry",
+        "Valet",
+        "Dorian Gray (via telegram)"
+      ],
+      "location": "Lord Henry\u2019s home, transitioning from the library to later at his residence",
+      "summary": "After Dorian\u2019s departure, Lord Henry retires into a lengthy introspection on youth, art, passion, and the curious transformation he observes in Dorian. His reverie is interrupted by his valet\u2019s reminder to dress for dinner. Later that evening, upon returning home, he discovers a telegram from Dorian announcing his engagement to Sibyl Vane\u2014a final twist that underscores the chapter\u2019s themes of beauty, desire, and the unexpected turns of life."
+    }
+  ],
+  "characters": [
+    "Lady Henry (Victoria)",
+    "Basil Hallward",
+    "Dorian Gray",
+    "Lord Henry",
+    "Valet",
+    "Old Jew",
+    "Imogen",
+    "Sibyl Vane",
+    "Juliet",
+    "Lady Henry",
+    "The Duchess",
+    "Dorian Gray (via telegram)",
+    "Rosalind"
+  ],
+  "major_characters": [
+    "Dorian Gray",
+    "Lord Henry",
+    "Sibyl Vane"
+  ]
+}

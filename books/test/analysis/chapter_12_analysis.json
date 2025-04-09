@@ -1,0 +1,183 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "characters": [
+        "Dorian Gray"
+      ],
+      "location": "Dorian\u2019s private study",
+      "summary": "Dorian reflects on and becomes absorbed by a mysterious book whose influence he cannot escape. He collects nine color-bound copies to match his fluctuating moods, seeing the book\u2019s heroic character as an idealized mirror of his own future life."
+    },
+    {
+      "scene_number": 2,
+      "characters": [
+        "Dorian Gray"
+      ],
+      "location": "His personal chambers (including the locked room)",
+      "summary": "After returning from enigmatic absences, Dorian ascends to his locked room where he confronts his own dual images\u2014his youthful self in the mirror versus the corrupted, aging portrait\u2014and finds a perverse pleasure in the contrast between beauty and decay."
+    },
+    {
+      "scene_number": 3,
+      "characters": [
+        "Dorian Gray",
+        "Lord Henry (present as an influential companion)"
+      ],
+      "location": "Dorian\u2019s elegant London mansion",
+      "summary": "Dorian hosts lavish dinner parties frequented by celebrated musicians and influential guests. His timeless beauty and cultured manners mesmerize his peers, silencing critics and reinforcing his enigmatic and admired public persona."
+    },
+    {
+      "scene_number": 4,
+      "characters": [
+        "Dorian Gray",
+        "Lord Henry (evoked in memory)"
+      ],
+      "location": "Reflective interior settings (study/garden)",
+      "summary": "In a mood of introspection and philosophical curiosity, Dorian muses on the nature of the senses and advocates a new form of Hedonism that champions passionate, immediate experience over conventional ascetic restrictions."
+    },
+    {
+      "scene_number": 5,
+      "characters": [
+        "Dorian Gray"
+      ],
+      "location": "Religious settings (in his observations at churches)",
+      "summary": "Dorian becomes fascinated with the ritualistic grandeur of Roman Catholic ceremonies. He is drawn to the dramatic movements of the priest, the solemnity of the communion, and the eerie beauty that these sacred rites evoke in him."
+    },
+    {
+      "scene_number": 6,
+      "characters": [
+        "Dorian Gray"
+      ],
+      "location": "A private laboratory or study for scent experiments",
+      "summary": "Deepening his pursuit of sensual knowledge, Dorian embarks on the study of perfumes. He experiments with distilling exotic oils and burning odorous gums, seeking to decipher the mysterious relationship between scents, moods, and spiritual states."
+    },
+    {
+      "scene_number": 7,
+      "characters": [
+        "Dorian Gray",
+        "Exotic musicians (gipsies, Tunisians, Negroes, Indians)"
+      ],
+      "location": "A long, latticed music room adorned with vivid colors and luxurious d\u00e9cor",
+      "summary": "In an atmospheric concert, Dorian presents performances featuring a variety of rare and exotic musical instruments. The unconventional sounds and stirring performances captivate him, feeding his passion for art that celebrates visceral experience."
+    },
+    {
+      "scene_number": 8,
+      "characters": [
+        "Dorian Gray"
+      ],
+      "location": "His personal treasure room or study",
+      "summary": "Dorian turns his attention to the allure of precious gems. He meticulously examines and collects jewels\u2014each accompanied by historic and romantic legends\u2014embodying his obsessive quest for eternal beauty and an aesthetic ideal."
+    },
+    {
+      "scene_number": 9,
+      "characters": [
+        "Dorian Gray"
+      ],
+      "location": "A richly appointed gallery or collection room within his home",
+      "summary": "Indulging in his passion for fine textiles and ecclesiastical vestments, Dorian studies exquisite embroideries, tapestries, and liturgical garments. These objects of beauty, remnants of a glorious past, serve as temporary escapes from his inner torment."
+    },
+    {
+      "scene_number": 10,
+      "characters": [
+        "Dorian Gray"
+      ],
+      "location": "The locked room and various parts of his mansion (Nottinghamshire)",
+      "summary": "Haunted by the secret portrait that reveals his inner corruption, Dorian alternately loathes and cherishes it. His anxiety about the potential exposure of his hidden sin forces him to repeatedly check that no one has tampered with it, even during his public appearances."
+    },
+    {
+      "scene_number": 11,
+      "characters": [
+        "Dorian Gray",
+        "Society members (implied club-goers, acquaintances)"
+      ],
+      "location": "Various fashionable social settings and private clubs",
+      "summary": "Whispers and scandalous rumors swirl around Dorian\u2014ranging from brawls with sailors to associations with nefarious characters. Despite such gossip, his charm, wealth, and polished manners shield him from overt censure, while simultaneously deepening his enigmatic allure."
+    },
+    {
+      "scene_number": 12,
+      "characters": [
+        "Dorian Gray"
+      ],
+      "location": "The picture gallery of his country house in Nottinghamshire",
+      "summary": "As he strolls among ancestral portraits, Dorian reflects on his lineage and the decadent lives of his forebears. He ponders whether the sins and passions of the past have become an intrinsic part of his nature, contributing to his own moral decline."
+    },
+    {
+      "scene_number": 13,
+      "characters": [
+        "Dorian Gray"
+      ],
+      "location": "A private, contemplative space (likely his study)",
+      "summary": "In a culminating act of introspection, Dorian re-reads a fantastic and decadent chapter from the book that has poisoned his soul. Immersed in comparisons with legendary figures of luxury, sin, and artistic excess, he finally acknowledges that his life\u2014a blend of beauty and horror\u2014has been irreversibly tainted by that very book."
+    }
+  ],
+  "characters": [
+    "Simonetto",
+    "Alexander, the Conqueror of Emathia",
+    "Giambattista Cibo (who mockingly assumed the name Innocent)",
+    "Elagabalus",
+    "Alfonso de Ovalle",
+    "Second Lord Beckenham",
+    "Leonardus Camillus",
+    "Tiberius",
+    "Ezzelin",
+    "John the Priest",
+    "Henry VIII",
+    "Pietro Barbi (known as Paul the Second)",
+    "Catherine de Medicis",
+    "Exotic musicians (gipsies, Tunisians, Negroes, Indians)",
+    "Henry II",
+    "Sobieski, King of Poland",
+    "Domitian",
+    "Pietro Riario",
+    "King of Malabar",
+    "Louis XIV",
+    "Emperor Anastasius",
+    "Philip Herbert",
+    "Dorian Gray",
+    "Alexander VI",
+    "Richard II",
+    "Francis Osborne",
+    "Society members (implied club-goers, acquaintances)",
+    "Astorre",
+    "Piers Gaveston",
+    "Pierre de Boniface",
+    "Ginevra d\u2019Este",
+    "Charles of England",
+    "Anne de Joyeuse (Admiral of France, as portrayed at the costume ball)",
+    "Polyssena",
+    "Lady Elizabeth Devereux",
+    "Filippo, Duke of Milan",
+    "Charles VI",
+    "Atalanta",
+    "Edward II",
+    "Duke de Valentinois (son of Alexander VI)",
+    "Sir Anthony Sherard",
+    "Lord Ferrars",
+    "King Perozes",
+    "Mrs. Fitzherbert",
+    "Nero Caesar",
+    "George Willoughby",
+    "Lord Henry",
+    "Bernal Diaz",
+    "Caligula",
+    "Gian Maria Visconti",
+    "Sigismondo Malatesta",
+    "Basil Hallward",
+    "Charles the Rash (last Duke of Burgundy)",
+    "Grifonetto Baglioni",
+    "King of Ceilan",
+    "Louis XII of France",
+    "The Borgia",
+    "Lord Henry (present as an influential companion)",
+    "Marco Polo",
+    "Queen Joan of Burgundy",
+    "Procopius",
+    "Lord Henry (evoked in memory)",
+    "Lady Hamilton (Dorian Gray\u2019s mother, referred to by her features)",
+    "James I"
+  ],
+  "major_characters": [
+    "Dorian Gray",
+    "Basil Hallward",
+    "Lord Henry"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "characters": [
+        "Dorian Gray"
+      ],
+      "location": "Dorian\u2019s house \u2013 his private room",
+      "summary": "Dorian spends the early morning in seclusion, tormented by a wild terror of death and haunted by the memory of his crime. His imagination transforms trivial sounds into ominous threats and the image of a sailor appears through the mist on the window. When Lord Henry finally arrives at six o\u2019clock, he finds Dorian overcome with grief and inner turmoil."
+    },
+    {
+      "scene_number": 2,
+      "characters": [
+        "Dorian Gray",
+        "The Duchess",
+        "Sir Geoffrey Clouston",
+        "Other shooting party members (including beaters and the head-keeper)"
+      ],
+      "location": "Extensive grounds around Selby Royal \u2013 beginning in the garden and moving to the park and pine-wood shooting area",
+      "summary": "Renewed by the clear, pine-scented winter morning, Dorian departs the house with the Duchess and joins a shooting party. In the crisp outdoors, he marvels at the landscape, and engages casually with Sir Geoffrey Clouston. During the party, a hare darts from the undergrowth prompting Sir Geoffrey to shoot; however, when Dorian pleads for the creature\u2019s life, the gun is discharged mistakenly, and cries of pain herald a tragic accident: a man is inadvertently struck."
+    },
+    {
+      "scene_number": 3,
+      "characters": [
+        "Dorian Gray",
+        "Lord Henry",
+        "The Duchess",
+        "The Gardener (brief appearance)"
+      ],
+      "location": "Shooting grounds leading back to the house, including a wooded thicket and the terrace",
+      "summary": "Following the mishap on the shooting ground, a heated discussion ensues. Lord Henry, somewhat dismissively, suggests calling off the remainder of the shoot while philosophizing about omens and fate. Dorian, troubled by premonitions of disaster and the ominous accident, exchanges bitter and reflective comments with Lord Henry. A gardener then appears bearing a letter from the Duchess, leading to light banter on character and scandal as the group heads back."
+    },
+    {
+      "scene_number": 4,
+      "characters": [
+        "Dorian Gray"
+      ],
+      "location": "Inside Dorian\u2019s private quarters at Selby Royal",
+      "summary": "Back in the confines of his own room, Dorian is overwhelmed by the terror and the burden of death\u2019s proximity. Determining that life at Selby Royal is ill-omened, he orders his belongings to be packed for departure and writes a note to Lord Henry. Before leaving, he is visited by the head-keeper, who reports details of the morning\u2019s accident, including the identification of the victim as a sailor\u2014a revelation that unsettles Dorian deeply."
+    },
+    {
+      "scene_number": 5,
+      "characters": [
+        "Dorian Gray",
+        "Farm-servants (minor roles)",
+        "Head-keeper (briefly)"
+      ],
+      "location": "The long avenue and the Home Farm stables",
+      "summary": "Driven by a mix of anxious hope and dread, Dorian hastily rides his mare down the avenue towards the Home Farm to inspect the body of the accident victim. Amid spectral, rushing landscapes, he reaches the stables where, after a tense moment of hesitation and with the aid of a servant, he uncovers the corpse. To his astonishment and relief, the dead body is identified as James Vane\u2014the sailor whose threat once haunted him\u2014thus, in a peculiar twist, affirming his safety from retribution."
+    }
+  ],
+  "characters": [
+    "Dorian Gray",
+    "Head-keeper (briefly)",
+    "Sir Geoffrey Clouston",
+    "Thornton (Gamekeeper)",
+    "Harvey",
+    "Valet/Servant",
+    "Lord Henry",
+    "Other shooting party members (including beaters and the head-keeper)",
+    "Farm-servant",
+    "James Vane",
+    "The Gardener (brief appearance)",
+    "The Duchess",
+    "Gardener",
+    "Farm-servants (minor roles)"
+  ],
+  "major_characters": [
+    "Dorian Gray",
+    "Lord Henry",
+    "Sir Geoffrey Clouston",
+    "The Duchess",
+    "James Vane"
+  ]
+}

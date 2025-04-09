@@ -1,0 +1,892 @@
+{
+  "title": "Chapter 4",
+  "segments": [
+    {
+      "type": "narration",
+      "text": "At half-past twelve next day, Lord Henry Wotton strolled from Curzon Street over to the Albany to call on his uncle, Lord Fermor \u2013 a genial if somewhat rough-mannered old bachelor. The world called him selfish because he derived no particular benefit from his existence, yet Society considered him generous, as he fed the people who amused him. (His background, his father\u2019s capricious retirement from Madrid when not offered the Paris Embassy, and his own resignation from his father\u2019s service all contributed to the development of his artful pursuit of doing nothing at all.)",
+      "voice_traits": "Calm, measured narration with clear pronunciation and a neutral British accent; deliberate pacing with thoughtful pauses to allow the listener to absorb the background details.",
+      "voice_id": "fable",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Fermor (Uncle George)",
+      "text": "Well, Harry, what brings you out so early? I thought you dandies never got up till two, and were not visible till five.",
+      "emotion": "amused, teasing",
+      "voice_traits": "Gruff yet playful tone; a slight drawl with relaxed pacing and a twinkle of irony in his speech.",
+      "voice_id": "fable",
+      "character_voice_traits": "His voice is likely gruff and direct with the accents of an English gentleman of a bygone era. It is characterized by a hearty, blunt tone, frequently interspersed with sarcastic remarks and a wry sense of humor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "Pure family affection, I assure you, Uncle George. I want to get something out of you.",
+      "emotion": "confident, lighthearted",
+      "voice_traits": "Witty and urbane delivery with a crisp British accent, clear articulation, and a nonchalant, measured pace.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Fermor (Uncle George)",
+      "text": "Money, I suppose. Well, sit down and tell me all about it. Young people, nowadays, imagine that money is everything.",
+      "emotion": "wry, reflective",
+      "voice_traits": "Dry humor with a slightly gravelly tone; moderate pace with subtle inflection to stress his irony regarding modern values.",
+      "voice_id": "fable",
+      "character_voice_traits": "His voice is likely gruff and direct with the accents of an English gentleman of a bygone era. It is characterized by a hearty, blunt tone, frequently interspersed with sarcastic remarks and a wry sense of humor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "Yes, and when they grow older they know it. But I don\u2019t want money. It is only people who pay their bills who want that, Uncle George, and I never pay mine. Credit is the capital of a younger son, and one lives charmingly upon it. Besides, I always deal with Dartmoor\u2019s tradesmen, and consequently they never bother me. What I want is information: not useful information, of course; useless information.",
+      "emotion": "amused, ironic",
+      "voice_traits": "Smooth and self-assured delivery with a playful lilt; precise enunciation and measured cadence, conveying a sense of mischief and detached amusement.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Fermor (Uncle George)",
+      "text": "Well, I can tell you anything that is in an English Blue Book, Harry, although those fellows nowadays write a lot of nonsense. When I was in the Diplomatic, things were much better. But I hear they let them in now by examination. What can you expect? Examinations, sir, are pure humbug from beginning to end. If a man is a gentleman, he knows quite enough, and if he is not a gentleman, whatever he knows is bad for him.",
+      "emotion": "nostalgic, dismissive",
+      "voice_traits": "A reflective, somewhat grumbling tone with deliberate pauses; mild British inflection with a sense of exasperated reminiscence.",
+      "voice_id": "fable",
+      "character_voice_traits": "His voice is likely gruff and direct with the accents of an English gentleman of a bygone era. It is characterized by a hearty, blunt tone, frequently interspersed with sarcastic remarks and a wry sense of humor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "Mr. Dorian Gray does not belong to Blue Books, Uncle George.",
+      "emotion": "languid, intrigued",
+      "voice_traits": "Smooth, relaxed delivery with a slightly languid pace and a hint of irony, underlined by clear, reflective diction.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Fermor (Uncle George)",
+      "text": "Mr. Dorian Gray? Who is he?",
+      "emotion": "curious, slightly puzzled",
+      "voice_traits": "A brisk inquiry in a tone of mild surprise, with a warm British accent and a short, clipped pace.",
+      "voice_id": "fable",
+      "character_voice_traits": "His voice is likely gruff and direct with the accents of an English gentleman of a bygone era. It is characterized by a hearty, blunt tone, frequently interspersed with sarcastic remarks and a wry sense of humor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "That is what I have come to learn, Uncle George. Or rather, I know who he is. He is the last Lord Kelso\u2019s grandson. His mother was a Devereux, Lady Margaret Devereux. I want you to tell me about his mother. What was she like? Whom did she marry? You have known nearly everybody in your time, so you might have known her. I am very much interested in Mr. Gray at present. I have only just met him.",
+      "emotion": "inquisitive, measured",
+      "voice_traits": "Even and controlled tone with clear enunciation; a slight rising inflection on key details that underlines his curiosity, delivered at a moderate pace.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Fermor (Uncle George)",
+      "text": "Kelso\u2019s grandson! ... Of course... I knew his mother intimately. I believe I was at her christening. She was an extraordinarily beautiful girl, Margaret Devereux, and made all the men frantic by running away with a penniless young fellow \u2013 a mere nobody, sir, a subaltern in a foot regiment, or something of that kind. Certainly. I remember the whole thing as if it happened yesterday. The poor chap was killed in a duel at Spa a few months after the marriage. There was an ugly story about it. They said Kelso got some rascally adventurer, some Belgian brute, to insult his son-in-law in public \u2013 paid him, sir, to do it \u2013 and that the fellow spat on his man as if he had been a pigeon. The thing was hushed up, but, egad, Kelso ate his chop alone at the club for some time afterwards. He brought his daughter back with him, I was told, and she never spoke to him again. Oh, yes; it was a bad business. The girl died, too, within a year. So she left a son, did she? I had forgotten that. What sort of boy is he? If he is like his mother, he must be a good-looking chap.",
+      "emotion": "reminiscent, humorous",
+      "voice_traits": "Animated storytelling with theatrical pauses; a rich, resonant tone and clear British enunciation. The voice swells with both amusement and a trace of bitter nostalgia.",
+      "voice_id": "fable",
+      "character_voice_traits": "His voice is likely gruff and direct with the accents of an English gentleman of a bygone era. It is characterized by a hearty, blunt tone, frequently interspersed with sarcastic remarks and a wry sense of humor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "He is very good-looking.",
+      "emotion": "affirmative, lightly amused",
+      "voice_traits": "Brief, succinct statement delivered with a confident, playful tone and a gentle smile in his vocal cadence.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Fermor (Uncle George)",
+      "text": "I hope he will fall into proper hands. He should have a pot of money waiting for him if Kelso did the right thing by him. His mother had money, too \u2013 all the Selby property came to her through her grandfather. Her grandfather hated Kelso, thought him a mean dog. I recall he came to Madrid once when I was there. Egad, I was ashamed of him! The Queen used to ask me about the English noble who was always quarrelling with cabmen about their fares \u2013 they made quite a story of it. I didn\u2019t dare show my face at Court for a month. I hope he treated his grandson better than he did the jarvies.",
+      "emotion": "amused, rambling",
+      "voice_traits": "Passionate, with a lively tempo and an animated rhythm; his voice carries a mix of nostalgic irritation and wry humor, punctuated by sudden changes in pitch and pace.",
+      "voice_id": "fable",
+      "character_voice_traits": "His voice is likely gruff and direct with the accents of an English gentleman of a bygone era. It is characterized by a hearty, blunt tone, frequently interspersed with sarcastic remarks and a wry sense of humor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "I don\u2019t know. I fancy that the boy will be well off. He is not of age yet. He has Selby, I know \u2013 he told me so. And... his mother was very beautiful?",
+      "emotion": "curious, lightly skeptical",
+      "voice_traits": "Measured tone with a touch of inquisitiveness; smooth, clear enunciation and a subtle rising inflection on the concluding question.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Fermor (Uncle George)",
+      "text": "Margaret Devereux was one of the loveliest creatures I ever saw, Harry. What on earth induced her to behave as she did, I never could understand. She could have married anybody she chose. Carlington was mad after her \u2013 he went on his knees and told me so himself. She laughed at him, and there wasn\u2019t a girl in London at the time who wasn\u2019t after him. And speaking of silly marriages, what is this humbug your father tells me about Dartmoor wanting to marry an American? Ain\u2019t English girls good enough for him?",
+      "emotion": "amused, incredulous",
+      "voice_traits": "Delivered in a lively, storytelling manner with a playful scoff; his accent is distinctly British with varied pacing that lends dramatic emphasis to his anecdotes.",
+      "voice_id": "fable",
+      "character_voice_traits": "His voice is likely gruff and direct with the accents of an English gentleman of a bygone era. It is characterized by a hearty, blunt tone, frequently interspersed with sarcastic remarks and a wry sense of humor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "It is rather fashionable to marry Americans just now, Uncle George.",
+      "emotion": "playful, wry",
+      "voice_traits": "Light, conversational tone with a slight ironic lilt; his pace remains measured and the articulation crisp.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Fermor (Uncle George)",
+      "text": "I\u2019ll back English women against the world, Harry.",
+      "emotion": "determined, jocular",
+      "voice_traits": "A forceful, emphatic exclamation delivered with a warm British accent; punctuated by a sharp, rhythmic strike in his speech.",
+      "voice_id": "fable",
+      "character_voice_traits": "His voice is likely gruff and direct with the accents of an English gentleman of a bygone era. It is characterized by a hearty, blunt tone, frequently interspersed with sarcastic remarks and a wry sense of humor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "The betting is on the Americans.",
+      "emotion": "dryly humorous",
+      "voice_traits": "Smooth and lightly mocking tone, underlined by a brisk pace and clear, clipped pronunciation.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Fermor (Uncle George)",
+      "text": "They don\u2019t last, I am told.",
+      "emotion": "dismissive",
+      "voice_traits": "A short, curt remark with a low, rumbling voice and a hint of scorn in his tone.",
+      "voice_id": "fable",
+      "character_voice_traits": "His voice is likely gruff and direct with the accents of an English gentleman of a bygone era. It is characterized by a hearty, blunt tone, frequently interspersed with sarcastic remarks and a wry sense of humor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "A long engagement exhausts them, but they are capital at a steeplechase. They take things flying. I don\u2019t think Dartmoor has a chance.",
+      "emotion": "amused, dismissive",
+      "voice_traits": "Light, breezy delivery with a playful British accent; smooth enunciation and a nonchalant rhythm.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Fermor (Uncle George)",
+      "text": "Who are her people? Has she got any?",
+      "emotion": "inquisitive, slightly perplexed",
+      "voice_traits": "A probing tone with clear diction and a measured pace; accented with a hint of old-world politeness and curiosity.",
+      "voice_id": "fable",
+      "character_voice_traits": "His voice is likely gruff and direct with the accents of an English gentleman of a bygone era. It is characterized by a hearty, blunt tone, frequently interspersed with sarcastic remarks and a wry sense of humor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "American girls are as clever at concealing their parents as English women are at concealing their past.",
+      "emotion": "wry, witty",
+      "voice_traits": "Dry, sardonic tone with precisely measured pacing; a crisp British accent and a slight chuckle in his voice.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Fermor (Uncle George)",
+      "text": "They are pork-packers, I suppose?",
+      "emotion": "bemused, slightly irritable",
+      "voice_traits": "Gruff, with a blunt cadence and an exasperated timbre; delivers the line in a clipped, matter-of-fact manner.",
+      "voice_id": "fable",
+      "character_voice_traits": "His voice is likely gruff and direct with the accents of an English gentleman of a bygone era. It is characterized by a hearty, blunt tone, frequently interspersed with sarcastic remarks and a wry sense of humor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "I hope so, Uncle George, for Dartmoor\u2019s sake. I am told that pork-packing is the most lucrative profession in America, after politics.",
+      "emotion": "humorous, ironic",
+      "voice_traits": "Light-hearted and playful; clear, witty articulation with a brisk pace and a gently mocking tone.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Fermor (Uncle George)",
+      "text": "Is she pretty?",
+      "emotion": "matter-of-fact, inquisitive",
+      "voice_traits": "A direct, clipped query delivered with a firm, balanced tone and a slight arch in his voice.",
+      "voice_id": "fable",
+      "character_voice_traits": "His voice is likely gruff and direct with the accents of an English gentleman of a bygone era. It is characterized by a hearty, blunt tone, frequently interspersed with sarcastic remarks and a wry sense of humor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "She behaves as if she were beautiful. Most American women do. It is the secret of their charm.",
+      "emotion": "reflective, wry",
+      "voice_traits": "Smooth and measured, with a slight ironic cadence; clear pronunciation and a gentle, knowing smile apparent in his tone.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Fermor (Uncle George)",
+      "text": "Why can\u2019t these American women stay in their own country? They are always telling us that it is the paradise for women.",
+      "emotion": "exasperated, humorous",
+      "voice_traits": "A tone of incredulity with deliberate pacing; slightly theatrical with emphasis on key words and a crisp, British intonation.",
+      "voice_id": "fable",
+      "character_voice_traits": "His voice is likely gruff and direct with the accents of an English gentleman of a bygone era. It is characterized by a hearty, blunt tone, frequently interspersed with sarcastic remarks and a wry sense of humor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "It is. That is the reason why, like Eve, they are so excessively anxious to get out of it.",
+      "emotion": "ironic, reflective",
+      "voice_traits": "Calm and measured with an undercurrent of dry humor; precise articulation and a leisurely pace that accentuates his philosophical musing.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "Good-bye, Uncle George. I shall be late for lunch if I stop any longer. Thanks for giving me the information I wanted. I always like to know everything about my new friends, and nothing about my old ones.",
+      "emotion": "lighthearted, dismissive",
+      "voice_traits": "A charming farewell with a brisk, urbane tone and a subtle chuckle; clear and confident diction with a playful finality.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Fermor (Uncle George)",
+      "text": "Where are you lunching, Harry?",
+      "emotion": "teasing",
+      "voice_traits": "Concise, with a questioning lilt and a relaxed British accent; the pace is brisk yet friendly.",
+      "voice_id": "fable",
+      "character_voice_traits": "His voice is likely gruff and direct with the accents of an English gentleman of a bygone era. It is characterized by a hearty, blunt tone, frequently interspersed with sarcastic remarks and a wry sense of humor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "At Aunt Agatha\u2019s. I have asked myself and Mr. Gray. He is her latest prot\u00e9g\u00e9.",
+      "emotion": "wry, amused",
+      "voice_traits": "Smooth, urbane delivery with a slight playful sneer; judicious pauses emphasize his ironic detachment.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Fermor (Uncle George)",
+      "text": "Humph! Tell your Aunt Agatha, Harry, not to bother me any more with her charity appeals. I am sick of them. Why, the good woman thinks that I have nothing to do but to write cheques for her silly fads.",
+      "emotion": "irritable, grumbling",
+      "voice_traits": "Gruff and exasperated with a clipped cadence; his British accent comes through with a blunt, almost dismissive timbre.",
+      "voice_id": "fable",
+      "character_voice_traits": "His voice is likely gruff and direct with the accents of an English gentleman of a bygone era. It is characterized by a hearty, blunt tone, frequently interspersed with sarcastic remarks and a wry sense of humor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "All right, Uncle George, I\u2019ll tell her, but it won\u2019t have any effect. Philanthropic people lose all sense of humanity. It is their distinguishing characteristic.",
+      "emotion": "mocking, amused",
+      "voice_traits": "Dry, self-assured tone with a playful edge; clear diction and a relaxed pace that underscores his irreverent attitude.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "narration",
+      "text": "The old gentleman growled approvingly and rang the bell for his servant. Lord Henry passed up the low arcade into Burlington Street and turned his steps in the direction of Berkeley Square.",
+      "voice_traits": "Measured narration with a neutral British accent; a calm, descriptive tone with deliberate pauses.",
+      "voice_id": "fable",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "narration",
+      "text": "Thus was the crude tale of Dorian Gray\u2019s parentage told. Creatures of tragic beauty, wild passion, and doomed romance were invoked\u2014a beautiful woman risking everything for a mad passion, a few wild weeks of happiness cut short by treachery, and a child left to the cold tyranny of an old, loveless man. The tragic undertones added an almost modern romance to the lad. Behind every exquisite thing, there lurked a touch of sorrow\u2014a secret tribute to beauty born of travails.",
+      "voice_traits": "Reflective and lyrical narration delivered in a warm, thoughtful tone; measured pacing with gentle emphasis on the poetic contrasts of beauty and tragedy.",
+      "voice_id": "fable",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "narration",
+      "text": "Suddenly, Lord Henry stopped and glanced up at the houses. Realizing he had passed Aunt Agatha\u2019s, he smiled to himself and turned back. Entering the sombre hall, a butler informed him that lunch had begun. He handed a hat and stick to a footman before proceeding into the dining-room.",
+      "voice_traits": "Clear, descriptive narration with a subtle change in pace to indicate a scene transition; even, narrative tone with natural British inflection.",
+      "voice_id": "fable",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Aunt Agatha",
+      "text": "Late as usual, Harry!",
+      "emotion": "slightly chiding, affectionate",
+      "voice_traits": "Warm yet teasing tone with a brisk cadence; clear British accent and a light, humorous reprimand.",
+      "voice_id": "fable",
+      "character_voice_traits": "Her voice would be measured and proper, reflecting the refined manners and controlled emotion of a seasoned society lady. There is an element of gentle reproach and warmth in her speech, especially when addressing family matters or social obligations."
+    },
+    {
+      "type": "narration",
+      "text": "Lord Henry offered a facile excuse as he took the vacant seat beside his aunt. He surveyed the table: Dorian Gray bowed shyly from the end, a flush of pleasure lighting his cheeks; opposite sat the Duchess of Harley, a robust, kindly woman of ample presence; next to her, Sir Thomas Burdon, a Radical member of Parliament known for his droll culinary politics; seated to one side, Mr. Erskine of Treadley, a cultured old gentleman whose well-worn reserve was legendary; and nearby, Mrs. Vandeleur conversed earnestly with Lord Faudel, her counterpart in mediocrity.",
+      "voice_traits": "Neutral, descriptive narration with an observant and steady tone; clear articulation and measured pacing to set the scene and introduce characters.",
+      "voice_id": "fable",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Duchess of Harley",
+      "text": "We are talking about poor Dartmoor, Lord Henry. Do you think he will really marry this fascinating young person?",
+      "emotion": "concerned, gently reproachful",
+      "voice_traits": "A soft, melodious tone with careful enunciation and a measured pace; mildly inquisitive and warm in her delivery.",
+      "voice_id": "fable",
+      "character_voice_traits": "Her voice is refined and expressive, with a dignified yet lively tone. There may be a musical quality to her speech, reflecting both her status and her good-natured approach to conversation."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "I believe she has made up her mind to propose to him, Duchess.",
+      "emotion": "matter-of-fact, wry",
+      "voice_traits": "Even-toned, with a relaxed pace that carries an ironic twist; clear British diction and a light, conversational rhythm.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Aunt Agatha",
+      "text": "How dreadful! Really, someone should interfere.",
+      "emotion": "exasperated, concerned",
+      "voice_traits": "Slightly high-pitched yet warm, delivered with a brisk, matter-of-fact tone and a subtle sigh in the pacing.",
+      "voice_id": "fable",
+      "character_voice_traits": "Her voice would be measured and proper, reflecting the refined manners and controlled emotion of a seasoned society lady. There is an element of gentle reproach and warmth in her speech, especially when addressing family matters or social obligations."
+    },
+    {
+      "type": "dialogue",
+      "character": "Sir Thomas Burdon",
+      "text": "I am told, on excellent authority, that her father keeps an American dry\u2010goods store.",
+      "emotion": "authoritative, supercilious",
+      "voice_traits": "A crisp, precise delivery with a slightly pompous tone; carefully enunciated with a reserved, measured pace.",
+      "voice_id": "fable",
+      "character_voice_traits": "His tone is clear, authoritative, and well-modulated\u2014a reflection of his political training and public speaking experience. There is a crisp, perhaps slightly aristocratic edge to his accent, with a measured cadence that lends his arguments an air of seriousness even when discussing trivial matters."
+    },
+    {
+      "type": "dialogue",
+      "character": "Duchess of Harley",
+      "text": "My uncle has already suggested pork\u2010packing, Sir Thomas.",
+      "emotion": "wry, playful",
+      "voice_traits": "Lively and playful with a clear, warm British accent; a brisk yet melodious delivery underscored by gentle humor.",
+      "voice_id": "fable",
+      "character_voice_traits": "Her voice is refined and expressive, with a dignified yet lively tone. There may be a musical quality to her speech, reflecting both her status and her good-natured approach to conversation."
+    },
+    {
+      "type": "dialogue",
+      "character": "Duchess of Harley",
+      "text": "Dry\u2010goods! What are American dry\u2010goods?",
+      "emotion": "curious, slightly incredulous",
+      "voice_traits": "A mildly incredulous tone with rising inflection on \u2018dry\u2010goods\u2019; delivered with clear diction and a playful lilt.",
+      "voice_id": "fable",
+      "character_voice_traits": "Her voice is refined and expressive, with a dignified yet lively tone. There may be a musical quality to her speech, reflecting both her status and her good-natured approach to conversation."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "American novels.",
+      "emotion": "playful, ironic",
+      "voice_traits": "Short and punchy, with a wry smirk evident in his tone; crisp articulation and a slightly mocking cadence.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Duchess of Harley",
+      "text": "Don\u2019t mind him, my dear.",
+      "emotion": "dismissive, kind",
+      "voice_traits": "Gently soothing tone with a warm, reassuring smile in her voice; relaxed pace and clear enunciation.",
+      "voice_id": "fable",
+      "character_voice_traits": "Her voice is refined and expressive, with a dignified yet lively tone. There may be a musical quality to her speech, reflecting both her status and her good-natured approach to conversation."
+    },
+    {
+      "type": "dialogue",
+      "character": "Sir Thomas Burdon",
+      "text": "When America was discovered\u2014",
+      "emotion": "pedantic, somewhat weary",
+      "voice_traits": "A deliberate, scholarly tone with a measured pace; sounds as if he is reciting historical facts with a hint of exasperation.",
+      "voice_id": "fable",
+      "character_voice_traits": "His tone is clear, authoritative, and well-modulated\u2014a reflection of his political training and public speaking experience. There is a crisp, perhaps slightly aristocratic edge to his accent, with a measured cadence that lends his arguments an air of seriousness even when discussing trivial matters."
+    },
+    {
+      "type": "dialogue",
+      "character": "Duchess of Harley",
+      "text": "I wish to goodness it never had been discovered at all!",
+      "emotion": "exasperated, whimsical",
+      "voice_traits": "Expressive and emphatic with a raised pitch on key words; a rapid pace and a touch of melodrama.",
+      "voice_id": "fable",
+      "character_voice_traits": "Her voice is refined and expressive, with a dignified yet lively tone. There may be a musical quality to her speech, reflecting both her status and her good-natured approach to conversation."
+    },
+    {
+      "type": "dialogue",
+      "character": "Mr. Erskine of Treadley",
+      "text": "Perhaps, after all, America never has been discovered. I myself would say that it had merely been detected.",
+      "emotion": "philosophical, gentle",
+      "voice_traits": "Measured, reflective tone with soft, thoughtful articulation; his cadence is slow and deliberate, conveying a sense of introspection.",
+      "voice_id": "fable",
+      "character_voice_traits": "His speech is likely soft, cultured, and deliberate, with an accent that speaks of long-standing English refinement. There is an intellectual warmth in his tone, punctuated by occasional philosophic asides that hint at a past rich with literary ambition."
+    },
+    {
+      "type": "dialogue",
+      "character": "Duchess of Harley",
+      "text": "Oh! But I have seen specimens of the inhabitants. I must confess that most of them are extremely pretty. And they dress well, too. They get all their dresses in Paris. I wish I could afford to do the same.",
+      "emotion": "wistful, conversational",
+      "voice_traits": "Warm, slightly yearning tone with gentle, fluid phrasing; clear enunciation with subtle pauses for effect.",
+      "voice_id": "fable",
+      "character_voice_traits": "Her voice is refined and expressive, with a dignified yet lively tone. There may be a musical quality to her speech, reflecting both her status and her good-natured approach to conversation."
+    },
+    {
+      "type": "dialogue",
+      "character": "Sir Thomas Burdon",
+      "text": "They say that when good Americans die they go to Paris.",
+      "emotion": "amused, matter-of-fact",
+      "voice_traits": "Light-hearted, with a brisk, clipped cadence; pronounced British enunciation with a smirk in his tone.",
+      "voice_id": "fable",
+      "character_voice_traits": "His tone is clear, authoritative, and well-modulated\u2014a reflection of his political training and public speaking experience. There is a crisp, perhaps slightly aristocratic edge to his accent, with a measured cadence that lends his arguments an air of seriousness even when discussing trivial matters."
+    },
+    {
+      "type": "dialogue",
+      "character": "Duchess of Harley",
+      "text": "Really! And where do bad Americans go to when they die?",
+      "emotion": "inquiring, playful",
+      "voice_traits": "Curious tone with a rising, questioning inflection; clear and precise pronunciation amid playful banter.",
+      "voice_id": "fable",
+      "character_voice_traits": "Her voice is refined and expressive, with a dignified yet lively tone. There may be a musical quality to her speech, reflecting both her status and her good-natured approach to conversation."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "They go to America.",
+      "emotion": "wry, amused",
+      "voice_traits": "A dry, understated remark delivered with a light, mocking tone; crisp, measured cadence and clear diction.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Sir Thomas Burdon",
+      "text": "I am afraid that your nephew is prejudiced against that great country. I have travelled all over it in cars provided by the directors \u2013 and, in such matters, nothing beats a firsthand education.",
+      "emotion": "disapproving, matter-of-fact",
+      "voice_traits": "A firm, deliberative tone with measured phrasing; clear articulation and a slightly defensive inflection.",
+      "voice_id": "fable",
+      "character_voice_traits": "His tone is clear, authoritative, and well-modulated\u2014a reflection of his political training and public speaking experience. There is a crisp, perhaps slightly aristocratic edge to his accent, with a measured cadence that lends his arguments an air of seriousness even when discussing trivial matters."
+    },
+    {
+      "type": "dialogue",
+      "character": "Mr. Erskine of Treadley",
+      "text": "But must we really see Chicago in order to be educated? I don\u2019t feel up to the journey.",
+      "emotion": "plaintive, resigned",
+      "voice_traits": "Soft, slightly downtrodden tone with gentle diction; measured pace and a hint of melancholy in his delivery.",
+      "voice_id": "fable",
+      "character_voice_traits": "His speech is likely soft, cultured, and deliberate, with an accent that speaks of long-standing English refinement. There is an intellectual warmth in his tone, punctuated by occasional philosophic asides that hint at a past rich with literary ambition."
+    },
+    {
+      "type": "dialogue",
+      "character": "Sir Thomas Burdon",
+      "text": "Mr. Erskine of Treadley has the world on his shelves. We practical men like to see things, not read about them. The Americans are an extremely interesting people\u2014absolutely reasonable. I assure you there is no nonsense about the Americans.",
+      "emotion": "emphatic, assertive",
+      "voice_traits": "Confident, robust tone with clear articulation; a deliberate pace and measured emphasis on key adjectives that underscore his conviction.",
+      "voice_id": "fable",
+      "character_voice_traits": "His tone is clear, authoritative, and well-modulated\u2014a reflection of his political training and public speaking experience. There is a crisp, perhaps slightly aristocratic edge to his accent, with a measured cadence that lends his arguments an air of seriousness even when discussing trivial matters."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "How dreadful! I can stand brute force, but brute reason is quite unbearable. There is something unfair about its use\u2014it\u2019s hitting below the intellect.",
+      "emotion": "critical, disdainful",
+      "voice_traits": "A biting, incisive tone with precise diction; delivered in a controlled, measured pace with a hint of ironic contempt.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Sir Thomas Burdon",
+      "text": "I do not understand you.",
+      "emotion": "confused, slightly irritated",
+      "voice_traits": "Short, clipped statement delivered with a puzzled tone and a brisk, questioning intonation.",
+      "voice_id": "fable",
+      "character_voice_traits": "His tone is clear, authoritative, and well-modulated\u2014a reflection of his political training and public speaking experience. There is a crisp, perhaps slightly aristocratic edge to his accent, with a measured cadence that lends his arguments an air of seriousness even when discussing trivial matters."
+    },
+    {
+      "type": "dialogue",
+      "character": "Mr. Erskine of Treadley",
+      "text": "I do, Lord Henry.",
+      "emotion": "calm, knowing",
+      "voice_traits": "Smooth, almost understated tone with a gentle smile apparent in the relaxed cadence and measured pace.",
+      "voice_id": "fable",
+      "character_voice_traits": "His speech is likely soft, cultured, and deliberate, with an accent that speaks of long-standing English refinement. There is an intellectual warmth in his tone, punctuated by occasional philosophic asides that hint at a past rich with literary ambition."
+    },
+    {
+      "type": "dialogue",
+      "character": "Sir Thomas Burdon",
+      "text": "Paradoxes are all very well in their way\u2026",
+      "emotion": "resigned, reflective",
+      "voice_traits": "Measured and thoughtful tone with elongated pauses on key words; a subtle, weary inflection present in his speech.",
+      "voice_id": "fable",
+      "character_voice_traits": "His tone is clear, authoritative, and well-modulated\u2014a reflection of his political training and public speaking experience. There is a crisp, perhaps slightly aristocratic edge to his accent, with a measured cadence that lends his arguments an air of seriousness even when discussing trivial matters."
+    },
+    {
+      "type": "dialogue",
+      "character": "Mr. Erskine of Treadley",
+      "text": "Was that a paradox? I did not think so. Perhaps it was. Well, the way of paradoxes is the way of truth. To test reality, we must see it on the tight rope. When the verities become acrobats, we can judge them.",
+      "emotion": "philosophical, reflective",
+      "voice_traits": "Deep, thoughtful tone with deliberate pacing and clear articulation; the voice carries a quiet authority and a scholarly cadence.",
+      "voice_id": "fable",
+      "character_voice_traits": "His speech is likely soft, cultured, and deliberate, with an accent that speaks of long-standing English refinement. There is an intellectual warmth in his tone, punctuated by occasional philosophic asides that hint at a past rich with literary ambition."
+    },
+    {
+      "type": "dialogue",
+      "character": "Aunt Agatha",
+      "text": "Dear me! How you men argue! I am sure I never can make out what you are talking about. Oh, Harry, I am quite vexed with you. Why do you try to persuade our nice Mr. Dorian Gray to give up the East End? I assure you he would be quite invaluable \u2013 they would love his playing.",
+      "emotion": "exasperated, slightly reproachful",
+      "voice_traits": "A warm, yet flustered tone with slightly rapid delivery; clear British enunciation combined with a note of playful exasperation.",
+      "voice_id": "fable",
+      "character_voice_traits": "Her voice would be measured and proper, reflecting the refined manners and controlled emotion of a seasoned society lady. There is an element of gentle reproach and warmth in her speech, especially when addressing family matters or social obligations."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "I want him to play to me.",
+      "emotion": "playful, inviting",
+      "voice_traits": "Light, teasing tone with a gentle smile in his voice; relaxed pace and crisp diction.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Aunt Agatha",
+      "text": "But they are so unhappy in Whitechapel.",
+      "emotion": "concerned, soft",
+      "voice_traits": "Gentle, reflective tone with a slower pace and clear, empathetic delivery.",
+      "voice_id": "fable",
+      "character_voice_traits": "Her voice would be measured and proper, reflecting the refined manners and controlled emotion of a seasoned society lady. There is an element of gentle reproach and warmth in her speech, especially when addressing family matters or social obligations."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "I can sympathize with everything except suffering. I simply cannot sympathize with that\u2014it is too ugly, too horrible, too distressing. There is something terribly morbid in the modern sympathy with pain. One should sympathize with the colour, the beauty, the joy of life. The less said about life\u2019s sores, the better.",
+      "emotion": "philosophical, disdainful",
+      "voice_traits": "Rich, reflective tone with a measured, deliberate pace; clear and precise enunciation with thoughtful pauses underscoring his convictions.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Sir Thomas Burdon",
+      "text": "Still, the East End is a very important problem.",
+      "emotion": "serious, reflective",
+      "voice_traits": "Firm, measured tone with careful pauses; clear enunciation and a moderate pace that sustains the seriousness of the subject.",
+      "voice_id": "fable",
+      "character_voice_traits": "His tone is clear, authoritative, and well-modulated\u2014a reflection of his political training and public speaking experience. There is a crisp, perhaps slightly aristocratic edge to his accent, with a measured cadence that lends his arguments an air of seriousness even when discussing trivial matters."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "Quite so. It is the problem of slavery, and we try to solve it by amusing the slaves.",
+      "emotion": "ironic, detached",
+      "voice_traits": "Dry, witty tone with a subtle smirk in his cadence; clear articulation, moderate pace, and a hint of satire in his delivery.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Sir Thomas Burdon",
+      "text": "What change do you propose, then?",
+      "emotion": "inquiring, teasing",
+      "voice_traits": "A light, thoughtful inquiry delivered in a crisp, measured tone with clear articulation and a slight rising inflection on the key question.",
+      "voice_id": "fable",
+      "character_voice_traits": "His tone is clear, authoritative, and well-modulated\u2014a reflection of his political training and public speaking experience. There is a crisp, perhaps slightly aristocratic edge to his accent, with a measured cadence that lends his arguments an air of seriousness even when discussing trivial matters."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "I don\u2019t desire to change anything in England except the weather. I am quite content with philosophic contemplation. But, as the nineteenth century has gone bankrupt through an over-expenditure of sympathy, I would suggest that we appeal to science to put us straight. The advantage of the emotions is that they lead us astray, and the advantage of science is that it is not emotional.",
+      "emotion": "satirical, confident",
+      "voice_traits": "Even, self-assured tone with deliberate pacing and clear diction; a subtle ironic lilt infuses his measured speech, punctuated by thoughtful pauses.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Mrs. Vandeleur",
+      "text": "But we have such grave responsibilities...",
+      "emotion": "timid, uneasy",
+      "voice_traits": "Soft, hesitant tone with gentle pauses and understated British inflection; words delivered with a touch of apprehension.",
+      "voice_id": "fable",
+      "character_voice_traits": "Her voice carries a tired yet affected tone, suggestive of past theatrical grandeur now faded into routine. There is a certain affected dramatic quality to her speech\u2014marked by false gestures and carefully curated expressions\u2014that hints at her background in acting and a lingering desire to recapture lost applause."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lady Agatha",
+      "text": "Terribly grave.",
+      "emotion": "echoing, resigned",
+      "voice_traits": "Short, clipped response delivered in a low, matter-of-fact tone with clear enunciation and a subtle mirth beneath resignation.",
+      "voice_id": "fable",
+      "character_voice_traits": "Her voice would be measured and proper, reflecting the refined manners and controlled emotion of a seasoned society lady. There is an element of gentle reproach and warmth in her speech, especially when addressing family matters or social obligations."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "Humanity takes itself too seriously. It is the world\u2019s original sin. If the caveman had known how to laugh, history would have been different.",
+      "emotion": "philosophical, wry",
+      "voice_traits": "A rich, reflective tone with thoughtful pauses; clear British enunciation and a moderate pace that communicates both conviction and gentle irony.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Duchess of Harley",
+      "text": "You are really very comforting. I have always felt rather guilty when I came to see your dear aunt, for I take no interest at all in the East End. For the future I shall be able to look her in the face without a blush.",
+      "emotion": "sincere, slightly self-deprecating",
+      "voice_traits": "Warm, melodic tone with gentle cadence; clear articulation and a slight wistfulness in her delivery.",
+      "voice_id": "fable",
+      "character_voice_traits": "Her voice is refined and expressive, with a dignified yet lively tone. There may be a musical quality to her speech, reflecting both her status and her good-natured approach to conversation."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "A blush is very becoming, Duchess.",
+      "emotion": "teasing, light",
+      "voice_traits": "Playful and upbeat tone; crisp articulation, a brisk pace, and a subtle British wit that is both charming and ironic.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Duchess of Harley",
+      "text": "Only when one is young. When an old woman like myself blushes, it is a very bad sign. Ah! Lord Henry, I wish you would tell me how to become young again.",
+      "emotion": "wistful, humorous",
+      "voice_traits": "Light, slightly self-mocking tone with a gentle lilt; measured pacing punctuated by soft, reflective pauses and clear diction.",
+      "voice_id": "fable",
+      "character_voice_traits": "Her voice is refined and expressive, with a dignified yet lively tone. There may be a musical quality to her speech, reflecting both her status and her good-natured approach to conversation."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "Can you remember any great error that you committed in your early days, Duchess?",
+      "emotion": "challenging, thoughtful",
+      "voice_traits": "A measured, reflective tone with a subtle challenge; clear pronunciation, deliberate pacing, and a hint of dark humor in his inquiry.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Duchess of Harley",
+      "text": "A great many, I fear.",
+      "emotion": "resigned, humorous",
+      "voice_traits": "Soft, slightly rueful tone with gentle intonation; delivered at a moderate pace with a touch of self-mockery.",
+      "voice_id": "fable",
+      "character_voice_traits": "Her voice is refined and expressive, with a dignified yet lively tone. There may be a musical quality to her speech, reflecting both her status and her good-natured approach to conversation."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "Then commit them over again. To get back one\u2019s youth, one has merely to repeat one\u2019s follies.",
+      "emotion": "grave, wry",
+      "voice_traits": "A measured, impassioned tone; deliberate, clear enunciation with subtle ironic inflection and a slow, reflective pace.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Duchess of Harley",
+      "text": "A delightful theory! I must put it into practice.",
+      "emotion": "enthusiastic, playful",
+      "voice_traits": "Lively and animated tone with clear, joyful diction; rapid yet controlled pacing that conveys eagerness and delight.",
+      "voice_id": "fable",
+      "character_voice_traits": "Her voice is refined and expressive, with a dignified yet lively tone. There may be a musical quality to her speech, reflecting both her status and her good-natured approach to conversation."
+    },
+    {
+      "type": "dialogue",
+      "character": "Sir Thomas Burdon",
+      "text": "A dangerous theory!",
+      "emotion": "cautious, admonishing",
+      "voice_traits": "Short, firm statement with a clipped, matter-of-fact tone; clear British accent with a deliberate, weighty delivery.",
+      "voice_id": "fable",
+      "character_voice_traits": "His tone is clear, authoritative, and well-modulated\u2014a reflection of his political training and public speaking experience. There is a crisp, perhaps slightly aristocratic edge to his accent, with a measured cadence that lends his arguments an air of seriousness even when discussing trivial matters."
+    },
+    {
+      "type": "dialogue",
+      "character": "Mr. Erskine of Treadley",
+      "text": "Yes, that is one of the great secrets of life. Nowadays most people die of a sort of creeping common sense, and discover when it is too late that the only things one never regrets are one\u2019s mistakes.",
+      "emotion": "reflective, philosophical",
+      "voice_traits": "Measured, thoughtful tone with deliberate pacing; clear enunciation and a soft, introspective cadence that builds in warmth and slight ironic resignation.",
+      "voice_id": "fable",
+      "character_voice_traits": "His speech is likely soft, cultured, and deliberate, with an accent that speaks of long-standing English refinement. There is an intellectual warmth in his tone, punctuated by occasional philosophic asides that hint at a past rich with literary ambition."
+    },
+    {
+      "type": "narration",
+      "text": "A ripple of laughter spread around the table. Lord Henry, riding the crest of his own witty improvisation, played with ideas; tossing them into the air, transforming them, letting them escape and recapturing them. His talk of folly soared into philosophy, his paradoxes dancing like a Bacchante over the hills of life\u2014so enchanting that even Dorian Gray\u2019s eyes remained transfixed, his smile deepening in solemn wonder.",
+      "voice_traits": "Eloquent, lyrical narration delivered in a warm, almost musical tone; the pacing is rhythmic with subtle pauses, emphasizing the imaginative and enchanting quality of the scene.",
+      "voice_id": "fable",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "narration",
+      "text": "At last, reality entered in the form of a servant announcing that the Duchess\u2019s carriage was waiting. The Duchess wrung her hands in mock despair.",
+      "voice_traits": "Calm, descriptive tone with clear articulation and measured pacing to signify a scene change.",
+      "voice_id": "fable",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Duchess of Harley",
+      "text": "How annoying! I must go. I have to call for my husband at the club, take him to some absurd meeting at Willis\u2019s Rooms where he is going to be in the chair. If I am late, he is sure to be furious, and I couldn\u2019t have a scene in this bonnet\u2014it is far too fragile. A harsh word would ruin it. No, I must go, dear Agatha. Good-bye, Lord Henry, you are quite delightful and dreadfully demoralizing. I am sure I don\u2019t know what to say about your views. You must come and dine with us some night. Tuesday? Are you disengaged Tuesday?",
+      "emotion": "exasperated, whimsical",
+      "voice_traits": "Expressive, with playful exasperation; carefully accented British pronunciation, brisk pace, and a theatrical tone underscored by humorous urgency.",
+      "voice_id": "fable",
+      "character_voice_traits": "Her voice is refined and expressive, with a dignified yet lively tone. There may be a musical quality to her speech, reflecting both her status and her good-natured approach to conversation."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "For you I would throw over anybody, Duchess.",
+      "emotion": "jovial, gallant",
+      "voice_traits": "Light, cheerful tone with a warm, charming inflection; measured pacing and clear diction that convey playful admiration.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Duchess of Harley",
+      "text": "Ah! That is very nice, and very wrong of you\u2014so mind you come.",
+      "emotion": "teasing, playful",
+      "voice_traits": "Cheerful, slightly mocking tone with precise articulation; the pace is brisk and light, conveying a humorous contradiction.",
+      "voice_id": "fable",
+      "character_voice_traits": "Her voice is refined and expressive, with a dignified yet lively tone. There may be a musical quality to her speech, reflecting both her status and her good-natured approach to conversation."
+    },
+    {
+      "type": "narration",
+      "text": "After she swept out of the room, followed by Lady Agatha and the other ladies, Lord Henry sat back down. Mr. Erskine moved close, resting his hand on Lord Henry\u2019s arm.",
+      "voice_traits": "Neutral, reflective narration with a clear, steady tone; measured pace and soft pauses to set the intimate moment.",
+      "voice_id": "fable",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Mr. Erskine of Treadley",
+      "text": "You talk books away; why don\u2019t you write one?",
+      "emotion": "provoking, lightly challenging",
+      "voice_traits": "Slightly teasing tone with a relaxed pace; clear articulation and a warm British accent that suggests gentle provocation.",
+      "voice_id": "fable",
+      "character_voice_traits": "His speech is likely soft, cultured, and deliberate, with an accent that speaks of long-standing English refinement. There is an intellectual warmth in his tone, punctuated by occasional philosophic asides that hint at a past rich with literary ambition."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "I am too fond of reading books to care to write them, Mr. Erskine. I should like to write a novel, certainly\u2014a novel that would be as lovely as a Persian carpet and as unreal. But there is no literary public in England for anything except newspapers, primers, and encyclopaedias. Of all people in the world, the English have the least sense of the beauty of literature.",
+      "emotion": "dismissive, wry",
+      "voice_traits": "Well-modulated, reflective tone with deliberate pacing; articulate and slightly ironic with a polished British accent that underscores his refined cynicism.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Mr. Erskine of Treadley",
+      "text": "I fear you are right. I myself used to have literary ambitions, but I gave them up long ago. And now, my dear young friend\u2014if you will allow me to call you so\u2014may I ask if you really meant all that you said to us at lunch?",
+      "emotion": "inquiring, earnest",
+      "voice_traits": "Measured, reflective tone with gentle emphasis on sincerity; clear and deliberate articulation with soft, thoughtful pauses.",
+      "voice_id": "fable",
+      "character_voice_traits": "His speech is likely soft, cultured, and deliberate, with an accent that speaks of long-standing English refinement. There is an intellectual warmth in his tone, punctuated by occasional philosophic asides that hint at a past rich with literary ambition."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "I quite forget what I said. Was it all very bad?",
+      "emotion": "light-hearted, self-mocking",
+      "voice_traits": "Easy, conversational tone with a slight chuckle; clear diction and relaxed pacing that underscore his lack of concern.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Mr. Erskine of Treadley",
+      "text": "Very bad indeed. In fact, I consider you extremely dangerous, and if anything happens to our good Duchess, we shall all look on you as being primarily responsible. But I should like to talk to you about life. The generation into which I was born was tedious. Some day, when you are tired of London, come down to Treadley and expound to me your philosophy of pleasure over some admirable Burgundy I am fortunate enough to possess.",
+      "emotion": "earnest, reflective",
+      "voice_traits": "Measured, dignified tone with thoughtful pauses; clear British enunciation and a steady, reflective cadence.",
+      "voice_id": "fable",
+      "character_voice_traits": "His speech is likely soft, cultured, and deliberate, with an accent that speaks of long-standing English refinement. There is an intellectual warmth in his tone, punctuated by occasional philosophic asides that hint at a past rich with literary ambition."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "I shall be charmed. A visit to Treadley would be a great privilege. It has a perfect host and a perfect library.",
+      "emotion": "appreciative, sincere",
+      "voice_traits": "Warm, polite tone with refined, measured pacing; clear enunciation and subtle humor accompanying his genuine compliment.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Mr. Erskine of Treadley",
+      "text": "You will complete it. And now I must bid good-bye to your excellent aunt. I am due at the Athenaeum\u2014it is the hour when we sleep there.",
+      "emotion": "formal, slightly wry",
+      "voice_traits": "Clear, formal tone with measured pacing; articulate British accent with a hint of dry humor in the closing remark.",
+      "voice_id": "fable",
+      "character_voice_traits": "His speech is likely soft, cultured, and deliberate, with an accent that speaks of long-standing English refinement. There is an intellectual warmth in his tone, punctuated by occasional philosophic asides that hint at a past rich with literary ambition."
+    },
+    {
+      "type": "dialogue",
+      "character": "Aunt Agatha",
+      "text": "All of you, Mr. Erskine?",
+      "emotion": "amused, teasing",
+      "voice_traits": "Light, slightly amused tone with a rising inflection on \u2018all of you\u2019; clear and playful diction.",
+      "voice_id": "fable",
+      "character_voice_traits": "Her voice would be measured and proper, reflecting the refined manners and controlled emotion of a seasoned society lady. There is an element of gentle reproach and warmth in her speech, especially when addressing family matters or social obligations."
+    },
+    {
+      "type": "dialogue",
+      "character": "Mr. Erskine of Treadley",
+      "text": "Forty of us, in forty arm\u2010chairs. We are practising for an English Academy of Letters.",
+      "emotion": "dry-humored, self-deprecating",
+      "voice_traits": "Wry, understated tone with a deliberate, measured pace; crisp British enunciation that lends an air of gentle irony.",
+      "voice_id": "fable",
+      "character_voice_traits": "His speech is likely soft, cultured, and deliberate, with an accent that speaks of long-standing English refinement. There is an intellectual warmth in his tone, punctuated by occasional philosophic asides that hint at a past rich with literary ambition."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "I am going to the park.",
+      "emotion": "light, conversational",
+      "voice_traits": "Relaxed, breezy tone with a friendly cadence; clear diction and a pleasant, unhurried pace.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "Let me come with you.",
+      "emotion": "eager, shy",
+      "voice_traits": "Soft, tentative tone with gentle inflection; clear pronunciation and a slightly quivering pace that conveys earnest desire.",
+      "voice_id": "alloy",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "But I thought you had promised Basil Hallward to go and see him?",
+      "emotion": "teasing, lightly admonishing",
+      "voice_traits": "Playful, slightly amused tone; clear diction with a brisk pace that hints at gentle reproach.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "I would sooner come with you; yes, I feel I must come with you. Do let me. And you will promise to talk to me all the time? No one talks so wonderfully as you do.",
+      "emotion": "sincere, admiring",
+      "voice_traits": "Soft, grateful tone with a warm, inviting inflection; measured pace with clear, expressive diction that conveys genuine admiration.",
+      "voice_id": "alloy",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "Ah! I have talked quite enough for today. All I want now is to look at life. You may come and look at it with me, if you care to.",
+      "emotion": "relaxed, inviting",
+      "voice_traits": "Calm, reflective tone with a slow, deliberate cadence; clear British enunciation that exudes warmth, nonchalance, and invitation.",
+      "voice_id": "verse",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    }
+  ],
+  "chapter_number": 4,
+  "status": "pending",
+  "audio_file": "chapter_04.mp3"
+}

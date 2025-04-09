@@ -1,0 +1,2724 @@
+{
+  "chapter_number": 16,
+  "title": "Chapter 16",
+  "segments": [
+    {
+      "type": "dialogue",
+      "character": "\"title\"",
+      "text": "\"Chapter 16\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"segments\"",
+      "text": "[ {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"narration\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"That evening, at eight-thirty, exquisitely dressed and adorned with a large button\u2010hole of Parma violets, Dorian Gray was ushered into Lady Narborough\u2019s drawing\u2010room by bowing servants. Though his forehead throbbed with maddened nerves and wild excitement, his gesture as he bent over his hostess\u2019s hand was as easy and graceful as ever. No observer that night could have guessed he had survived a tragedy as horrible as any of our age \u2013 for his finely shaped fingers would never have clutched a knife for sin, nor his smiling lips cried out on God and goodness. For a moment, Dorian marvelled at the calm of his demeanor, and keenly felt the terrible pleasure of leading a double life.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Narrator: calm, measured tone with deliberate pacing. Slight dramatic pauses to evoke the contrast between the external grace and internal turmoil.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"narration\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"The party was small and hastily arranged by Lady Narborough \u2013 a clever woman described by Lord Henry as possessing the remnants of remarkable ugliness. Having successfully managed her tedious ambassador husband, designed his marble mausoleum, and married off her daughters to rich, elderly men, she now devoted herself to the pleasures of French fiction, cookery, and esprit.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Narrator: smooth and descriptive, with a subtle undercurrent of irony. Pacing is moderate with clear enunciation.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"narration\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Dorian, one of her especial favourites, often heard her remark with affectionate irony, 'I know, my dear, I should have fallen madly in love with you, and thrown my bonnet right over the mills for your sake. It is most fortunate that you were not thought of at the time.'\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Narrator: slightly whimsical tone with a hint of amusement. Clear and engaging delivery.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lady Narborough\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"amused, teasing\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"I know, my dear, I should have fallen madly in love with you, and thrown my bonnet right over the mills for your sake. It is most fortunate that you were not thought of at the time.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Slightly upper-crust British; Tone: Wry and teasing; Pacing: Leisurely and deliberate; Speech Pattern: Elegant with a playful lilt.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"narration\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Her guests that evening were rather tedious. Behind a shabby fan, one of her married daughters had suddenly arrived to stay with her \u2013 accompanied by her husband. With a conspiratorial whisper she confided to Dorian:\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Narrator: descriptive and understated, setting the stage for the intimate revelations with a knowing tone.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lady Narborough\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"whispering, mischievous\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"I think it is most unkind of her, my dear. Of course I go and stay with them every summer after I come from Homburg \u2013 but an old woman like me must have fresh air sometimes. And besides, I really wake them up. You have no idea what an existence they lead down there \u2013 pure, unadulterated country life. They get up early because they have so much to do, and go to bed early because they have so little to think about. There hasn\u2019t been a scandal in the neighbourhood since the time of Queen Elizabeth. You shan\u2019t sit next to either of them \u2013 you shall sit by me and amuse me.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Polished British with a dash of mischief; Tone: Spirited and colloquial; Pacing: Controlled with playful emphasis; Speech Pattern: Smooth with hints of irony.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"narration\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Dorian murmured a graceful compliment and glanced around the room. The party truly was tedious \u2013 a couple of unfamiliar faces mingled with the regulars: Ernest Harrowden, Lady Ruxton with her hooked nose and overdressed manner, Mrs. Erlynne with her delightful lisp and Venetian-red hair, the dull Lady Alice Chapman and her red-cheeked, white-whiskered husband, among others.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Narrator: matter-of-fact and observational; Calm, yet subtly critical. Pacing is even and descriptive.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"narration\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"For a moment, Dorian even felt sorry for having come \u2013 until Lady Narborough, glancing at the gaudy ormolu gilt clock on the mauve-draped mantelshelf, exclaimed:\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Narrator: transitional and anticipatory, with a soft rise in tone leading into dialogue.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lady Narborough\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"exasperated\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"How horrid of Henry Wotton to be so late! I sent round to him this morning and he promised faithfully not to disappoint me.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Crisp British; Tone: Exasperated yet refined; Pacing: Brisk, with clear emphasis on 'horrid' and 'faithfully'; Speech Pattern: Formal with a touch of imperiousness.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"narration\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Some consolation came with the promise of Harry\u2019s arrival \u2013 when the door opened, his slow, musical voice lent charm to his insincere apology. But at dinner, Dorian could not eat; plate after plate went away untasted as Lady Narborough scolded him for what she termed 'an insult to poor Adolphe, who invented the menu specially for you.' Occasionally, Lord Henry eyed him curiously at his silence, while the butler filled his glass with champagne, which Dorian drank eagerly as his thirst grew.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Narrator: reflective and detailed with an undercurrent of irony; pacing is measured, capturing the tension of the scene.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lord Henry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"inquisitive, slightly mocking\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Dorian, what is the matter with you to-night? You are quite out of sorts.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Smooth, urbane British; Tone: Playfully inquisitive with a hint of sarcasm; Pacing: Unhurried yet pointed; Speech Pattern: Elegant with a subtle mocking lilt.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lady Narborough\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"coy, self-assured\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"I believe he is in love \u2013 and that he is afraid to tell me for fear I should be jealous. And rightly so, for I certainly would be!\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Refined British; Tone: Light-hearted and teasing; Pacing: Smooth with rhythmic emphasis; Speech Pattern: Effortlessly witty.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Dorian Gray\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"smiling, reflective\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Dear Lady Narborough, I have not been in love for a whole week \u2013 not, in fact, since Madame de Ferrol left town.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Polished with a soft, contemplative British lilt; Tone: Wry and understated; Pacing: Measured, with a slightly wistful quality; Speech Pattern: Elegant and reserved.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lady Narborough\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"disdainful, bemused\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"How you men can fall in love with that woman! I really cannot understand it.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Crisp upper-crust British; Tone: Scornful yet amused; Pacing: Crisp and emphatic; Speech Pattern: Slightly theatrical with a touch of disbelief.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lord Henry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"coolly analytical\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"It is simply because she remembers you when you were a little girl, Lady Narborough.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Cultivated British; Tone: Calm, analytical, with an undercurrent of ironic detachment; Pacing: Even and deliberate; Speech Pattern: Articulate and incisive.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lady Narborough\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"reminiscent, slightly proud\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"She does not remember my short frocks at all, Lord Henry. But I remember her very well \u2013 at Vienna, thirty years ago, and how d\u00e9collet\u00e9e she was then!\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Elegant British; Tone: Nostalgic with a hint of playful self-importance; Pacing: Leisurely; Speech Pattern: Expressive with dramatic pauses.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lord Henry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"amused, affirming\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"She is still d\u00e9collet\u00e9e, and when she is in a very smart gown she looks like an \u00e9dition de luxe of a bad French novel. She is really wonderful and full of surprises. And her capacity for family affection is extraordinary \u2013 when her third husband died, her hair turned quite gold from grief.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Smooth and urbane British; Tone: Wry, with a tinge of irony; Pacing: Measured with deliberate enunciation of whimsical details; Speech Pattern: Elegant and conversational.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Dorian Gray\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"protesting, slightly amused\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"How can you, Harry!\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Refined British; Tone: Light-hearted exasperation; Pacing: Brief and clipped; Speech Pattern: Simple and direct.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lady Narborough\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"laughing, teasing\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"It is a most romantic explanation \u2013 but her third husband, Lord Henry! You don\u2019t mean to say Ferrol is the fourth?\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Deliberate and playful British; Tone: Light, mocking laughter intertwined with incredulity; Pacing: Upbeat with rhythmic inflection; Speech Pattern: Animated and witty.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lord Henry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"matter-of-fact\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Certainly, Lady Narborough.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Polished British; Tone: Dry and matter-of-fact; Pacing: Even and succinct; Speech Pattern: Crisp with a subtle undercurrent of irony.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lady Narborough\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"skeptical\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"I don\u2019t believe a word of it.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Refined British; Tone: Disbelieving and caustic; Pacing: Deliberate and clipped; Speech Pattern: Sharply enunciated with a dismissive inflection.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lord Henry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"suggestive, light-hearted\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Well, ask Mr. Gray. He is one of her most intimate friends.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Smooth and urbane; Tone: Playfully suggestive; Pacing: Even and conversational; Speech Pattern: Subtly teasing with measured pauses.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lady Narborough\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"inquiring, amused\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Is it true, Mr. Gray?\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Crisp British; Tone: Mildly inquisitive with a teasing lilt; Pacing: Brief and direct; Speech Pattern: Clear and engaging.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Dorian Gray\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"matter-of-fact, wry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"She assures me so, Lady Narborough. I asked her whether, like Marguerite de Navarre, she had their hearts embalmed and hung at her girdle \u2013 she told me she didn\u2019t, because none of them had had any hearts at all.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Refined British; Tone: Wry and slightly ironic; Pacing: Measured with deliberate pauses; Speech Pattern: Elegant, with a dry humor.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lady Narborough\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"agitated, incredulous\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Four husbands! Upon my word, that is trop de z\u00e8le.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Upper-crust British; Tone: Exclamatory and incredulous; Pacing: Quick with an emphasis on key words; Speech Pattern: Animated and expressive.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Dorian Gray\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"ironic, light\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Trop d\u2019audace, I tell her.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Polished; Tone: Sardonic and lightly amused; Pacing: Brisk yet measured; Speech Pattern: Articulate with a hint of continental flair.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lady Narborough\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"matter-of-fact, dismissive\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Oh! She is audacious enough for anything, my dear. And what is Ferrol like? I don\u2019t know him at all.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Crisp British; Tone: Casual and matter-of-fact with a touch of playful disdain; Pacing: Even and conversational; Speech Pattern: Smooth with clear enunciation.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lord Henry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"analytical, wry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"The husbands of very beautiful women belong to the criminal classes.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Cultivated British; Tone: Dry, analytical with a wry twist; Pacing: Even and measured; Speech Pattern: Elegant with a slight humorous edge.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lady Narborough\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"indignant\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Lord Henry, I am not at all surprised that the world says you are extremely wicked!\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Refined British; Tone: Indignant yet playful; Pacing: Brisk with an emphatic delivery; Speech Pattern: Crisp and theatrical.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lord Henry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"mock-offended\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"But what world says that?\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Polished British; Tone: Mock-offended with raised eyebrows in the tone; Pacing: Measured and deliberate; Speech Pattern: Crisp with a hint of playful defiance.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lady Narborough\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"exasperated\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Everybody I know says you are very wicked!\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Elegant British; Tone: Exasperated yet amused; Pacing: Brisk with clear articulation; Speech Pattern: Forceful and emphatic.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lord Henry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"serious, reflective\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"It is perfectly monstrous, the way people go about nowadays saying things behind one\u2019s back that are absolutely true.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Cultivated British; Tone: Somber with a reflective melancholy; Pacing: Deliberate and measured; Speech Pattern: Precise and thoughtful.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Dorian Gray\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"curious, slightly amused\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Isn\u2019t he incorrigible?\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Refined British; Tone: Lightly teasing; Pacing: Quick and clipped; Speech Pattern: Casual with a trace of irony.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lady Narborough\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"laughing, jovial\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"I hope so. But really, if you all worship Madame de Ferrol in this ridiculous way, I shall have to marry again in order to be in fashion.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Polished British; Tone: Light-hearted and jovial; Pacing: Smooth with a rhythmic lilt; Speech Pattern: Warm and slightly self-mocking.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lord Henry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"teasing, matter-of-fact\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"You will never marry again, Lady Narborough. When a woman marries again, it is because she detested her first husband \u2013 when a man marries again, it is because he adored his first wife. Women try their luck; men risk theirs.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Urbane British; Tone: Teasing with a dry sense of humor; Pacing: Even with deliberate pauses; Speech Pattern: Elegant and incisive.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lady Narborough\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"defensive\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Narborough wasn\u2019t perfect!\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Refined British; Tone: Defensive with a touch of exasperation; Pacing: Quick and clipped; Speech Pattern: Forceful and direct.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lord Henry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"reassuring, ironic\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"If he had been, you would not have loved him, my dear lady. Women love us for our defects \u2013 if we have enough of them, they will forgive us everything, even our intellects. I\u2019m afraid you\u2019ll never ask me to dinner again after saying this \u2013 but it is quite true.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Cultivated British; Tone: Ironic and reassuring; Pacing: Deliberate with articulate phrasing; Speech Pattern: Smooth and wry with gentle mockery.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lady Narborough\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"sarcastic, witty\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Of course it is true, Lord Henry. If we women did not love you for your defects, where would you all be? Not one of you would ever be married \u2013 you\u2019d be a set of unfortunate bachelors. Although, that wouldn\u2019t change you much. Nowadays all the married men live like bachelors, and all the bachelors like married men.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Upper-crust British; Tone: Sarcastic with wry amusement; Pacing: Measured with careful enunciation; Speech Pattern: Elegant and biting, with a hint of playful irony.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lord Henry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"musing\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Fin de si\u00eacle...\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Polished British; Tone: Reflective and languid; Pacing: Slow, contemplative; Speech Pattern: Softly enunciated with a wistful timbre.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lady Narborough\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"wry, playful\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Fin du globe.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Crisp British; Tone: Witty and playful; Pacing: Brief and incisive; Speech Pattern: Light with a theatrical pause.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Dorian Gray\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"sighing, resigned\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"I wish it were fin du globe. Life is a great disappointment.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Refined British; Tone: Melancholic and reflective; Pacing: Slow and sighing; Speech Pattern: Soft, with a touched undertone of resignation.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lady Narborough\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"solicitous, caring\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Ah, my dear \u2013 don\u2019t tell me that you have exhausted life! When a man says that, he only means he feels exhausted. Lord Henry may be wicked, and I sometimes wish I had been, but you are made to be good \u2013 you look so good. I must find you a nice wife. Lord Henry, don\u2019t you think that Mr. Gray should get married?\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Elegant British; Tone: Affectionate and slightly admonishing; Pacing: Measured with gentle emphasis; Speech Pattern: Warm, caring, with light inflections.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lord Henry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"bowing, deferential yet teasing\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"I am always telling him so, Lady Narborough.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Urbane British; Tone: Playful and teasing; Pacing: Even and courteous; Speech Pattern: Light, with a hint of ironic deference.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lady Narborough\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"decisive, upbeat\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Well, we must look out for a suitable match for him. I shall go through Debrett carefully to-night and draw up a list of all the eligible young ladies.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Crisp British; Tone: Determined and lively; Pacing: Brisk with clear articulation; Speech Pattern: Precise and methodical.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Dorian Gray\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"curious, light\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"With their ages, Lady Narborough?\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Refined British; Tone: Inquisitive; Pacing: Quick and direct; Speech Pattern: Clear and concise.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lady Narborough\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"matter-of-fact, cheerful\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Of course, with their ages \u2013 slightly edited. But nothing must be done in a hurry. I want it to be what The Morning Post calls a suitable alliance \u2013 and I want you both to be happy.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Polished British; Tone: Cheerful yet pragmatic; Pacing: Even and deliberate; Speech Pattern: Smooth, with an undercurrent of determination.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lord Henry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"exasperated, cynical\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"What nonsense people talk about happy marriages! A man can be happy with any woman \u2013 as long as he does not love her.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Cultivated British; Tone: Cynical and wry; Pacing: Steady with a biting undercurrent; Speech Pattern: Clear and incisive with a sardonic lilt.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lady Narborough\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"mock scolding, affectionate\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Ah! What a cynic you are! You must come and dine with me again soon, Lady Ruxton \u2013 you are a most admirable tonic, far better than what Sir Andrew prescribes. And do tell me which people you\u2019d like to meet next time; I want it to be a delightful gathering.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Refined British; Tone: Mock scolding yet warmly affectionate; Pacing: Lively with theatrical pauses; Speech Pattern: Animated and engaging.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lord Henry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"wry, playful\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"I like men who have a future and women who have a past. Or do you think that would make it a petticoat party?\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Urbane British; Tone: Wry, with a teasing lilt; Pacing: Even and unhurried; Speech Pattern: Playful, with a subtle hint of irony.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lady Ruxton\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"amused, thoughtful\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"I fear so. A thousand pardons, my dear Lady Ruxton \u2013 I didn\u2019t see you hadn\u2019t finished your cigarette.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent\": \"Refined British; Tone\": \"Light and amused; Pacing\": \"Measured and slightly lyrical; Speech Pattern\": \"Fluid with a gentle laugh.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lady Ruxton\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"self-conscious, regretful\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Never mind, Lady Narborough. I smoke far too much. I shall try to limit myself in the future.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent\": \"Crisp British; Tone\": \"Sincere and self-aware; Pacing\": \"Even and thoughtful; Speech Pattern\": \"Clear, with a hesitant lilt.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lord Henry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"philosophical, amused\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Pray don\u2019t, Lady Ruxton. Moderation is a fatal thing. Enough is as bad as a meal \u2013 more than enough is as good as a feast.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent\": \"Cultivated British; Tone\": \"Philosophical and wry; Pacing\": \"Measured with thoughtful pauses; Speech Pattern\": \"Elegant and slightly ironic.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lady Ruxton\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"curious, inviting\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"You must come and explain that to me some afternoon, Lord Henry. It sounds like a fascinating theory.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent\": \"Refined British; Tone\": \"Inquisitive and warmly inviting; Pacing\": \"Leisurely with clear enunciation; Speech Pattern\": \"Smooth and articulate.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lady Narborough\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"bubbly, commanding\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Now, mind you \u2013 don\u2019t linger too long on politics and scandal, or we\u2019ll be sure to squabble upstairs!\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent\": \"Crystal British; Tone\": \"Commanding yet playful; Pacing\": \"Brisk with a hint of humor; Speech Pattern\": \"Animated and emphatic.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"narration\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"The men laughed heartily as Mr. Chapman rose solemnly from the foot of the table and ascended to the dais. Dorian shifted his seat to sit beside Lord Henry. Mr. Chapman then launched into a loud diatribe about the House of Commons, guffawing at his adversaries and peppering his speech with the terror-stricken word 'doctrinaire'. He exalted the inherited stupidity of the race \u2013 a description he jovially termed the proper 'bulwark for society.'\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Narrator: Energetic yet observant; tone is descriptive with a slight satirical edge; pacing is deliberate to capture the irony of the scene.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lord Henry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"concerned, gentle\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Are you better, my dear fellow? You seemed rather out of sorts at dinner.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent\": \"Smooth British; Tone\": \"Warm, with genuine concern; Pacing\": \"Even, with gentle emphasis; Speech Pattern\": \"Clear and caring.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Dorian Gray\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"resigned, tired\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"I am quite well, Harry. I am tired. That is all.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent\": \"Refined British; Tone\": \"Calm, with a trace of resignation; Pacing\": \"Measured and unhurried; Speech Pattern\": \"Soft and reflective.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lord Henry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"reminiscent, teasing\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"You were charming last night. The little duchess is quite devoted to you \u2013 she tells me she is going down to Selby.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent\": \"Cultivated British; Tone\": \"Recollective and teasing; Pacing\": \"Even; Speech Pattern\": \"Smooth and conversational.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Dorian Gray\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"matter-of-fact\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"She has promised to come on the twentieth.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent\": \"Polished British; Tone\": \"Neutral with a note of resignation; Pacing\": \"Measured; Speech Pattern\": \"Clear and precise.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lord Henry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"inquiring\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Is Monmouth to be there, too?\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent\": \"Smooth British; Tone\": \"Curious; Pacing\": \"Quick and deliberate; Speech Pattern\": \"Concise and questioning.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Dorian Gray\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"affirmative, light\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Oh, yes, Harry.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent\": \"Refined British; Tone\": \"Affirmative with a slight smile; Pacing\": \"Even; Speech Pattern\": \"Clear and brief.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lord Henry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"analytical, wry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"He bores me dreadfully \u2013 almost as much as he bores her. She is very clever, too clever for a woman. She lacks the indefinable charm of weakness. It is the feet of clay that make the gold of the image precious. Her feet are very pretty, but they are not feet of clay. White porcelain feet, if you like \u2013 they have been through the fire and what fire does not destroy, it hardens. She has had experiences.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent\": \"Cultivated British; Tone\": \"Analytical, reflective with biting irony; Pacing\": \"Measured with dramatic pauses; Speech Pattern\": \"Eloquent with an underlying sly humor.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Dorian Gray\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"inquiring\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"How long has she been married?\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent\": \"Refined British; Tone\": \"Curious; Pacing\": \"Measured; Speech Pattern\": \"Simple and direct.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lord Henry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"explanatory, wry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"An eternity, she tells me. I believe, according to the peerage, it is ten years \u2013 but ten years with Monmouth must have felt like an eternity, with time thrown in. Who else is coming?\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent\": \"Smooth British; Tone\": \"Explanatory with wry humor; Pacing\": \"Even with thoughtful pauses; Speech Pattern\": \"Articulate and conversational.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Dorian Gray\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"listing, matter-of-fact\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Oh, the Willoughbys; Lord Rugby and his wife; our hostess; Geoffrey Clouston \u2013 the usual set. I have even asked Lord Grotrian.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent\": \"Polished British; Tone\": \"Matter-of-fact and slightly amused; Pacing\": \"Steady and clear; Speech Pattern\": \"Direct with an air of listing details.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lord Henry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"approving, wry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"I like him. Many don\u2019t, but I find him charming \u2013 he makes up for being occasionally overdressed by always being over-educated. A very modern type indeed.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent\": \"Cultivated British; Tone\": \"Approving with a wry edge; Pacing\": \"Measured with occasional clever pauses; Speech Pattern\": \"Elegant and conversational.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Dorian Gray\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"uncertain, reflective\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"I don\u2019t know if he will be able to come, Harry. He may have to go to Monte Carlo with his father.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent\": \"Refined British; Tone\": \"Uncertain yet reflective; Pacing\": \"Measured; Speech Pattern\": \"Clear with a trace of concern.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lord Henry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"teasing, curious\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Ah! What a nuisance people\u2019s people are! Try and make him come. By the way, Dorian, you ran off very early last night \u2013 you left before eleven. What did you do afterwards? Did you go straight home?\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent\": \"Cultivated British; Tone\": \"Teasing with genuine curiosity; Pacing\": \"Even and probing; Speech Pattern\": \"Clear and engaging with a playful edge.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Dorian Gray\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"defensive, slightly agitated\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"No, Harry, I did not get home till nearly three.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent\": \"Refined British; Tone\": \"Defensive with a tinge of irritation; Pacing\": \"Measured and slightly clipped; Speech Pattern\": \"Clear and direct.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lord Henry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"inquiring\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Did you go to the club?\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent\": \"Smooth British; Tone\": \"Brief and inquisitive; Pacing\": \"Direct; Speech Pattern\": \"Simple and clear.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Dorian Gray\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"vexed, rambling\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Yes \u2013 no, I don\u2019t mean that. I didn\u2019t go to the club. I walked about. I forget what I did... How inquisitive you are, Harry! You always want to know what one has been doing, while I always want to forget my actions. I came in at half-past two, if you must know. I had left my latch-key at home, and my servant had to let me in. If you need any corroborative evidence, you can ask him.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent\": \"Refined British; Tone\": \"Vexed and somewhat rambling; Pacing\": \"Uneven with hesitations; Speech Pattern\": \"Conversational with a slight stammer of impatience.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lord Henry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"dismissive, teasing\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"My dear fellow, as if I cared! Let us go up to the drawing-room. No sherry, thank you, Mr. Chapman. Something appears to have happened to you, Dorian. Tell me what it is \u2013 you are not yourself to-night.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent\": \"Cultivated British; Tone\": \"Mildly dismissive yet teasing; Pacing\": \"Measured and smooth; Speech Pattern\": \"Elegant with a playful chiding warmth.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Dorian Gray\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"irritable, withdrawing\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Don\u2019t mind me, Harry. I am irritable and out of temper. I shall come round and see you tomorrow, or the next day. Please excuse me, Lady Narborough \u2013 I shan\u2019t go upstairs. I must go home.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent\": \"Refined British; Tone\": \"Irritable and subdued; Pacing\": \"Measured, with brief pauses; Speech Pattern\": \"Clear and clipped, with a hint of finality.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Lord Henry\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"agreeable, lighthearted\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"All right, Dorian. I dare say I shall see you tomorrow at tea-time. The duchess is coming.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent\": \"Smooth British; Tone\": \"Lighthearted and agreeable; Pacing\": \"Even and relaxed; Speech Pattern\": \"Conversational and friendly.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Dorian Gray\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"resigned\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"I will try to be there, Harry.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent\": \"Refined British; Tone\": \"Resigned with a tinge of regret; Pacing\": \"Measured; Speech Pattern\": \"Simple and clear.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"narration\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Leaving the room, Dorian departed. As he drove back to his own house, he was haunted by the sudden return of that familiar terror \u2013 a terror that had seemed strangled away mere hours before. Lord Henry\u2019s casual questioning had unsettled him, making him yearn to reclaim his lost nerve. In his study, Dorian locked the door, opened a secret press in which he had stowed Basil Hallward\u2019s coat and bag, and built a blazing fire. He piled in another log while the singeing of clothes and burning leather filled the air with a horrible stench. After three-quarters of an hour, he had consumed everything. Faint and sickly, he lit Algerian pastilles in a pierced copper brazier and bathed his hands and forehead with cool, musk-scented vinegar.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Narrator: Dark, introspective, and ominous; Tone is reflective with a touch of horror; Pacing is measured with dramatic pauses at key moments.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"narration\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Suddenly, he started. His eyes gleamed unnaturally as he nervously gnawed his underlip. Before two of the windows stood a large Florentine cabinet of ebony, inlaid with ivory and blue lapis \u2013 an objet d\u2019art that both fascinated and frightened him. His breath quickened as a mad craving seized him. He lit a cigarette then discarded it in disgust. His eyelids drooped heavy, yet he could not take his eyes off the cabinet. Rising from his sofa, he approached, unlocked it, and with an almost instinctive motion, activated a hidden spring. A triangular drawer slid open slowly. His fingers reached inside, grasped an object \u2013 a small Chinese box of intricate black lacquer with gold dust decoration, its sides etched with curved waves, and silken cords adorned with round crystals and tasselled in plaited metal. Opening the box, he revealed a green, waxy paste, heavy in odor and lustrous in appearance. For a long moment, Dorian hesitated, a strangely immobile smile playing upon his face. Then, shivering despite the oppressive heat, he glanced at the clock \u2013 twenty minutes to midnight. Quietly, he replaced the box, locked the cabinet, and made his way into his bedroom.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Narrator: Tense, suspenseful, and atmospheric; Tone is dark and foreboding; Pacing is slow with deliberate, descriptive pauses to build suspense.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"narration\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"As midnight struck and bronze blows echoed in the dusky air, Dorian Gray, now dressed in common clothes with a muffler wrapped about his throat, crept quietly out of the house. On Bond Street he hailed a hansom cab. In a low voice he gave the driver an address.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Narrator: Soft, hushed, and secretive; tone is suspenseful and dramatic; pacing is slow with careful enunciation.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Hansom Cab Driver\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"muttering, reluctant\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"It is too far for me.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent: Working-class British; Tone: Low, gruff, and slightly reluctant; Pacing: Uneven and somewhat mumbled; Speech Pattern: Brief and matter-of-fact.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Dorian Gray\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"calm, persuasive\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"Here is a sovereign for you. You shall have another if you drive fast.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent\": \"Refined British; Tone: Calm, measured, with an undercurrent of persuasion; Pacing: Even and deliberate; Speech Pattern: Smooth with subtle authority.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"dialogue\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"character\"",
+      "text": "\"Hansom Cab Driver\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"emotion\"",
+      "text": "\"acquiescent\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"All right, sir \u2013 you will be there in an hour.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Accent\": \"Rough, working-class British; Tone: Accepting with a slight grumble; Pacing: Brief and matter-of-fact; Speech Pattern: Direct and unadorned.\" }, {",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"type\"",
+      "text": "\"narration\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"text\"",
+      "text": "\"With that, the driver set his horse into a rapid trot towards the river, and Dorian disappeared into the night.\",",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "\"voice_traits\"",
+      "text": "\"Narrator: Concluding, reflective; Tone is calm yet tinged with an air of foreboding mystery; Pacing is measured with a sense of finality.\" } ] }",
+      "emotion": "neutral",
+      "voice_id": "en_male_neutral"
+    }
+  ],
+  "status": "pending",
+  "audio_file": "chapter_16.mp3"
+}

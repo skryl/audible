@@ -1,0 +1,444 @@
+{
+  "title": "Chapter 9",
+  "segments": [
+    {
+      "type": "narration",
+      "text": "It was long past noon when Dorian Gray awoke, his mind still enshrouded in sleep. His valet, Victor, had crept into the room several times on tiptoe, wondering at his young master\u2019s unusually long slumber. Finally, as the bell sounded, Victor entered softly carrying a cup of tea and a pile of letters arranged on an old Sevres china tray. He drew aside the olive-satin curtains, revealing three tall windows with shimmering blue linings.",
+      "voice_traits": "Calm, measured tone; deliberate pacing to set the scene; slightly reflective with a hint of refined upper-class articulation.",
+      "voice_id": "22dff604-4a52-4f96-ba17-91c96c346c76",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Victor",
+      "text": "Monsieur has well slept this morning.",
+      "emotion": "Gentle, mildly amused",
+      "voice_traits": "Soft, polite British accent; deliberate pauses between phrases; warm and respectful tone.",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "What o\u2019clock is it, Victor?",
+      "emotion": "Sleepy, drowsy inquiry",
+      "voice_traits": "Languid, slightly slurred beginning to sound; subtle hints of aristocratic inflection.",
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "dialogue",
+      "character": "Victor",
+      "text": "One hour and a quarter, Monsieur.",
+      "emotion": "Matter-of-fact, calm",
+      "voice_traits": "Clear enunciation with crisp articulation; polite and formal tone.",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "narration",
+      "text": "Dorian sipped his tea, then turned over his letters. Among them, a handwritten letter from Lord Henry was set aside with hesitation, while the rest revealed the usual fashionable correspondence\u2014cards, dinner invitations, private view tickets, charity concert programmes, a heavy bill for a silver Louis-Quinze toilet-set, and even courteous offers from Jermyn Street money-lenders. After some minutes, he rose, donned an elaborate silk-embroidered cashmere dressing-gown, and moved to the onyx-paved bathroom. The cool water refreshed him, washing away the fog of sleep and the memories of strange, nearly dreamlike tragedies.",
+      "voice_traits": "Narrative tone remains composed yet introspective; measured pacing with clear descriptive language.",
+      "voice_id": "22dff604-4a52-4f96-ba17-91c96c346c76",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "narration",
+      "text": "Once dressed, Dorian entered the library for a light French breakfast laid out near an open window. The exquisite day, with warm, spice-laden air and a bee buzzing around a blue-dragon bowl of sulphur-yellow roses, filled him with a sense of perfect, untroubled happiness.",
+      "voice_traits": "Elegant and vivid in description; soft, almost lyrical pace that evokes a sense of calm and beauty.",
+      "voice_id": "22dff604-4a52-4f96-ba17-91c96c346c76",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Victor",
+      "text": "Too cold for Monsieur? Shall I shut the window?",
+      "emotion": "Considerate, slightly teasing",
+      "voice_traits": "Clear, courteous, with a hint of playful concern in his tone; precise diction.",
+      "voice_id": "en_male_neutral"
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "I am not cold.",
+      "emotion": "Murmured dismissal, subdued",
+      "voice_traits": "Low, quiet register with a touch of indifference; calm and slightly introspective.",
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "narration",
+      "text": "Yet, as Dorian\u2019s eyes fell on the screen set before his portrait, he startled. Had the painting\u2014the mirror of his soul\u2014truly changed? The visage that once radiated joy now bore a cruel, warped expression. He hesitated, feeling a dim yet persistent sense of having participated in some strange tragedy. Though part of it felt like a dream, the evidence of the portrait was undeniable. Afraid of facing this certainty, he almost wished his valet would remain, sparing him the solitude of his terror.",
+      "voice_traits": "Intricate and pensive cadence with pauses that build suspense; a reflective, almost scientific curiosity mixed with dread.",
+      "voice_id": "22dff604-4a52-4f96-ba17-91c96c346c76",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "narration",
+      "text": "Resolute yet trembling, he rose, lit a cigarette, and sank onto a luxuriously cushioned couch facing the gilt Spanish leather screen fashioned in a florid Louis-Quatorze pattern. Tugging the screen aside, he came face-to-face with himself\u2014the portrait had indeed altered. At first, he studied it with a detached, almost scientific curiosity, marveling at the impossible change. A deep horror mingled with guilt arose within him as he realized the portrait symbolized his moral corruption and the cruelty he had inflicted, particularly upon Sibyl Vane, whose memory now stirred a desperate longing for reparation.",
+      "voice_traits": "Measured, slow exposure of internal conflict; words chosen with care, punctuated by reflective pauses and a subdued, troubled tone.",
+      "voice_id": "22dff604-4a52-4f96-ba17-91c96c346c76",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "narration",
+      "text": "Time passed slowly amidst his reflections. Three o\u2019clock, then four, the half-hour chimed repeatedly, yet Dorian remained motionless\u2014gathering the scarlet threads of his life into a pattern. Eventually, he took up a pen and wrote a passionate letter to Sibyl Vane\u2014the first he had ever penned\u2014filled with wild, sorrowful words of remorse and ecstatic pain, finding a strange luxury in self-reproach that left him feeling absolved.",
+      "voice_traits": "Contemplative, with an even tempo, allowing for a deep, introspective rhythm that conveys inner turmoil and tentative hope.",
+      "voice_id": "22dff604-4a52-4f96-ba17-91c96c346c76",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "narration",
+      "text": "A sudden knock at the door broke his reverie, and Lord Henry\u2019s unmistakable voice echoed from outside.",
+      "voice_traits": "Abrupt, transitioning the pace; the tone becomes more urgent yet still refined.",
+      "voice_id": "22dff604-4a52-4f96-ba17-91c96c346c76",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "My dear boy, I must see you. Let me in at once. I can\u2019t bear your shutting yourself up like this.",
+      "emotion": "Urgent, yet casually commanding",
+      "voice_traits": "Smooth, urbane accent with a confident, measured pace; hints of amusement and impatience in his intonation.",
+      "voice_id": "70159582-7999-433b-9aa1-106d96a0f3fa",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "narration",
+      "text": "Dorian, after a moment of hesitation and inner turmoil, straightened up. With a sigh, he quickly drew the screen across the portrait and unlocked the door to receive his friend.",
+      "voice_traits": "Quietly resigned with a touch of apprehension; the narration flows with a deliberate, reflective cadence.",
+      "voice_id": "22dff604-4a52-4f96-ba17-91c96c346c76",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "I am so sorry for it all, Dorian, but you must not think too much about it.",
+      "emotion": "Sympathetic yet pragmatic",
+      "voice_traits": "Measured and soft-spoken, with an undercurrent of irony; clear articulation and controlled pacing.",
+      "voice_id": "70159582-7999-433b-9aa1-106d96a0f3fa",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "Do you mean about Sibyl Vane?",
+      "emotion": "Tentatively inquisitive",
+      "voice_traits": "Hesitant, with a gentle lilt; reflective tone suggesting internal conflict.",
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "Yes, of course. It is dreadful from one point of view, but it was not your fault. Tell me, did you go behind and see her after the play was over?",
+      "emotion": "Inquisitive and teasing",
+      "voice_traits": "Smooth, urbane, with a hint of playful chastisement; deliberate pauses emphasize his sardonic humor.",
+      "voice_id": "70159582-7999-433b-9aa1-106d96a0f3fa",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "Yes.",
+      "emotion": "Simple, resigned",
+      "voice_traits": "Minimalistic, almost a whisper; a tired acceptance in his tone.",
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "I felt sure you had. Did you make a scene with her?",
+      "emotion": "Lightly reproachful, amused",
+      "voice_traits": "Wry, slightly teasing with a refined British lilt; articulate with controlled mirth.",
+      "voice_id": "70159582-7999-433b-9aa1-106d96a0f3fa",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "I was brutal, Harry\u2014perfectly brutal. But it is all right now. I am not sorry for anything that has happened. It has taught me to know myself better.",
+      "emotion": "Confessional, reflective",
+      "voice_traits": "Low, resonant tone with underlying remorse; deliberate pacing that conveys inner transformation.",
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "Ah, Dorian, I am so glad you take it in that way! I was afraid I would find you plunged in remorse and tearing that nice curly hair of yours.",
+      "emotion": "Jovial, teasing",
+      "voice_traits": "Light-hearted and wry; smooth intonation with a playful emphasis on his choice of words.",
+      "voice_id": "70159582-7999-433b-9aa1-106d96a0f3fa",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "I have got through all that. I am perfectly happy now. I know what conscience is, to begin with. It is not what you told me it was. It is the divinest thing in us. Don\u2019t sneer at it, Harry, any more\u2014at least not before me. I want to be good. I can\u2019t bear the idea of my soul being hideous.",
+      "emotion": "Firm, yet introspective",
+      "voice_traits": "Measured, slightly tremulous with emotional resolve; careful enunciation and a quiet insistence in his tone.",
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "A very charming artistic basis for ethics, Dorian! I congratulate you on it. But how are you going to begin?",
+      "emotion": "Ironic, challenging",
+      "voice_traits": "Smooth, with a measured, mocking cadence; hints of amusement intertwined with genuine curiosity.",
+      "voice_id": "70159582-7999-433b-9aa1-106d96a0f3fa",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "By marrying Sibyl Vane.",
+      "emotion": "Determined, almost defiant",
+      "voice_traits": "Steady, clear, with an undercurrent of resolve and finality; precise diction.",
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "Marrying Sibyl Vane! Dorian! Didn\u2019t you get my letter? I wrote to you this morning, and sent the note down by my own man.",
+      "emotion": "Incredulous, slightly chiding",
+      "voice_traits": "A raised inflection conveying surprise and disapproval; articulate and brisk in cadence.",
+      "voice_id": "70159582-7999-433b-9aa1-106d96a0f3fa",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "Your letter? Oh, yes, I remember. I have not read it yet, Harry. I was afraid there might be something in it that I wouldn\u2019t like. You cut life to pieces with your epigrams.",
+      "emotion": "Wry, defensive",
+      "voice_traits": "Crisp, with a refined yet somewhat dismissive tone; pauses that underline his conflicted feelings.",
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "You know nothing then?",
+      "emotion": "Teasing, slightly provocative",
+      "voice_traits": "Dry, with a knowing smile in the voice; light irony and playful cadence.",
+      "voice_id": "70159582-7999-433b-9aa1-106d96a0f3fa",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "What do you mean?",
+      "emotion": "Perplexed, guarded",
+      "voice_traits": "Measured tone with soft uncertainty; clear enunciation of each word.",
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "Dorian, my letter\u2014don\u2019t be frightened\u2014was to tell you that Sibyl Vane is dead.",
+      "emotion": "Gravely somber",
+      "voice_traits": "Deep, slow, and resonant; each word carefully measured to convey inevitability and solemnity.",
+      "voice_id": "70159582-7999-433b-9aa1-106d96a0f3fa",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "Dead! Sibyl dead! It is not true! It is a horrible lie! How dare you say it?",
+      "emotion": "Horrified, distraught",
+      "voice_traits": "Choked with emotion, rapid pacing with stammered emphasis; a quavering, anguished delivery.",
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "It is quite true, Dorian. It is in all the morning papers. I wrote to you to ask you not to see anyone till I came. There will have to be an inquest, of course, and you must not be mixed up in it. Things like that make a man fashionable in Paris. But in London people are so prejudiced. One should never make one\u2019s d\u00e9but with a scandal. They say it\u2019s better to reserve such things to give some interest to one\u2019s old age. I suppose they don\u2019t know your name at the theatre? If they don\u2019t, it\u2019s all right. Did anyone see you going around to her room? That is an important point.",
+      "emotion": "Matter-of-fact, analytical",
+      "voice_traits": "Clear, even-paced, and methodical; a refined tone with hints of cynical amusement.",
+      "voice_id": "70159582-7999-433b-9aa1-106d96a0f3fa",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "Harry, did you say an inquest? What did you mean by that? Did Sibyl\u2014? Oh, Harry, I can\u2019t bear it! But be quick. Tell me everything at once.",
+      "emotion": "Panicked, stammering",
+      "voice_traits": "Rapid, disjointed phrasing with rising tremor in the voice; clear vulnerability and distress.",
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "I have no doubt it was not an accident, Dorian, though it must be presented as one to the public. It seems that as she was leaving the theatre with her mother, around half-past twelve, she mentioned having forgotten something upstairs. They waited, but she never returned. Eventually, they found her lying dead in her dressing-room\u2014she had swallowed something dreadful, perhaps prussic acid, which caused her instantaneous death.",
+      "emotion": "Explanatory, detached",
+      "voice_traits": "Calm, deliberate enunciation and a measured tone; even pacing that conveys clinical detail and somber resignation.",
+      "voice_id": "70159582-7999-433b-9aa1-106d96a0f3fa",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "Harry, Harry, it is terrible!",
+      "emotion": "Distraught, anguished",
+      "voice_traits": "Choked, with rapid cadence; a sudden burst of emotional distress that cuts through his earlier composure.",
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "Yes; it is very tragic, of course, but you must not let this get on your nerves. Come dine with me, and afterwards we will attend the opera\u2014it\u2019s a Patti night, and you may join my sister\u2019s box. There will be smart company.",
+      "emotion": "Pragmatic, gently persuasive",
+      "voice_traits": "Smooth, urbane cadence with a touch of levity; a rhetorical flourish in his delivery that balances sympathy with detached amusement.",
+      "voice_id": "70159582-7999-433b-9aa1-106d96a0f3fa",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "So I have murdered Sibyl Vane, murdered her as surely as if I had slashed her throat. And yet the roses remain lovely; the birds still sing in my garden. Tonight I am to dine with you, then attend the opera. How extraordinarily dramatic life is! If I had read these words in a book, I\u2019d have wept. But now that it has happened to me, it seems far too wondrous for tears. This is the first passionate love-letter I have ever written\u2014and it is addressed to a dead girl. Can the dead feel, I wonder? Oh, Harry, how I loved her once! It seems ages ago. Yet that dreadful night, when she performed so poorly that my heart nearly broke\u2026 I felt I had done wrong. And now she is dead. My God, Harry, what shall I do? You have no idea of the danger I am in.",
+      "emotion": "Tormented, anguished, and reflective",
+      "voice_traits": "Long, wavering delivery with breaks for emotion; a mix of sorrow, resignation, and inner torment; measured pauses underscore his despair.",
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "My dear Dorian, the only way a woman can ever reform a man is by boring him completely out of his interests. Had you married Sibyl, you would have been wretched, no matter how kindly you treated her. In time she would have discovered your indifference, and when that happens, a woman either becomes dreadfully dowdy or adorns herself in splendid bonnets paid for by another\u2019s husband. The whole affair would have been a failure.",
+      "emotion": "Ironic, philosophically detached",
+      "voice_traits": "Smooth, leisurely delivery with dry wit; deliberate enunciation and a wry, reflective tone.",
+      "voice_id": "70159582-7999-433b-9aa1-106d96a0f3fa",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "I suppose it would, but I thought it was my duty. It is not my fault this tragedy prevented me from doing what was right. I recall you saying that good resolutions are always made too late. Mine certainly were.",
+      "emotion": "Melancholic, reflective",
+      "voice_traits": "Soft, almost whispering with regret; slow pacing and clear enunciation conveying inner resignation.",
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "Good resolutions are futile attempts to defy the laws of nature. They stem from pure vanity and yield nothing. They offer us a fleeting, sterile emotion\u2014nothing more than a cheque drawn on a bank without an account.",
+      "emotion": "Cynical, philosophical",
+      "voice_traits": "Measured, deliberate intonation with a cool, detached delivery; precise diction and a slightly mocking lilt.",
+      "voice_id": "70159582-7999-433b-9aa1-106d96a0f3fa",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "Harry, why is it that I cannot feel this tragedy as deeply as I ought to? I do not believe I am heartless. Do you?",
+      "emotion": "Inquisitive, vulnerable",
+      "voice_traits": "Quavering, reflective tone with soft-spoken urgency; clear pauses that underscore his internal conflict.",
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "You have carried out too many foolish deeds recently to call yourself heartful, Dorian.",
+      "emotion": "Gentle reproach, with a hint of sad amusement",
+      "voice_traits": "Mellifluous and softly admonishing; measured British accent with a caressing yet ironic tone.",
+      "voice_id": "70159582-7999-433b-9aa1-106d96a0f3fa",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "I do not like that explanation, Harry, but I\u2019m relieved you do not think I am heartless. Still, this recent event does not move me as it should\u2014like the grand ending of a play, beautiful in tragedy yet leaving me untouched.",
+      "emotion": "Resigned, introspective",
+      "voice_traits": "Even, reflective cadence with subdued emotion; precise and thoughtful articulation.",
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "Isn\u2019t it curious? The true tragedies of life often occur so crudely that they wound us with violence and incoherence. But sometimes, a tragedy imbued with artistic beauty transforms us \u2013 we become both actors and spectators, marveling at the spectacle. In your case, someone has taken their own life for love of you. I confess, such an experience might have enchanted me, making me fall irrevocably in love with love itself.",
+      "emotion": "Contemplative, almost enamored with the idea",
+      "voice_traits": "Eloquent, sinuous phrasing with deliberate pauses; richly expressive with a slightly theatrical, mesmerizing quality.",
+      "voice_id": "70159582-7999-433b-9aa1-106d96a0f3fa",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "I must sow poppies in my garden.",
+      "emotion": "Resigned, wistful",
+      "voice_traits": "Gentle, soft-spoken with a slow, thoughtful delivery; a contemplative sigh in his tone.",
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "There is no need. Life always offers its own poppies. I once adorned myself in nothing but violets for a season in mourning\u2014only to find that the past, though cherished, is best left undisturbed. Women, with all their fascinating contradictions, never know when the curtain has fallen. They always demand a further act, a continuation. But you, Dorian, are fortunate.",
+      "emotion": "Wry, conversational",
+      "voice_traits": "Smooth and deliberately paced; warm inflections with an undercurrent of ironic amusement.",
+      "voice_id": "70159582-7999-433b-9aa1-106d96a0f3fa",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "I think I shall join you at the opera, Harry. I feel too tired to eat\u2014what is the number of your sister\u2019s box?",
+      "emotion": "Calm, resigned",
+      "voice_traits": "Measured, with a soft, fading energy; clear and deliberate with a subdued British inflection.",
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "Twenty-seven, I believe. It\u2019s on the grand tier\u2014you\u2019ll spot her name on the door. I\u2019m sorry you won\u2019t dine with me, though.",
+      "emotion": "Light, slightly regretful",
+      "voice_traits": "Clear enunciation, brisk and urbane tone; a gentle laugh underscoring his casual farewell.",
+      "voice_id": "70159582-7999-433b-9aa1-106d96a0f3fa",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "dialogue",
+      "character": "Dorian Gray",
+      "text": "I don\u2019t feel up to it. Still, I\u2019m most obliged to you for understanding me so completely, Harry; no one has ever known me like you do.",
+      "emotion": "Appreciative, subdued",
+      "voice_traits": "Soft, reflective tone with warm enunciation; slow, thoughtful pacing conveying deep gratitude.",
+      "voice_id": "4f7f1324-1853-48a6-b294-4e78e8036a83",
+      "character_voice_traits": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry",
+      "text": "We are only at the beginning of our friendship, Dorian. Good-bye \u2013 I shall see you before nine-thirty, I hope. Remember, Patti is singing.",
+      "emotion": "Warm, affectionate, and slightly mischievous",
+      "voice_traits": "Bright, urbane tone with measured inflection; confident, stylish, and full of subdued mirth.",
+      "voice_id": "70159582-7999-433b-9aa1-106d96a0f3fa",
+      "character_voice_traits": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms."
+    },
+    {
+      "type": "narration",
+      "text": "After closing the door behind Lord Henry, Dorian observed Victor as he re-appointed the lamps and drew the blinds. Once alone, he rushed back to the portrait. There was no further change\u2014the canvas had recorded Sibyl Vane\u2019s demise even before Dorian had consciously known of it. In its silent, almost sentient way, the portrait bore the burden of his sins and the hidden truths of his soul. Reflecting upon his fate\u2014eternal youth paired with infinite passion and wild sins\u2014he recognized that while his external beauty would remain untouched, the canvas would forever bear the mark of his corruption.",
+      "voice_traits": "Quiet, introspective narration with a sorrowful, reflective cadence; deliberately slow to let the weight of the revelations sink in.",
+      "voice_id": "22dff604-4a52-4f96-ba17-91c96c346c76",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "narration",
+      "text": "Resolute in his decision, Dorian left his study, his valet already waiting. An hour later, at the opera, Lord Henry could be seen leaning over his chair as their intertwined fates continued to unfold.",
+      "voice_traits": "Final, reflective tone; soft fading cadence that leaves a lingering sense of introspection and inevitable consequence.",
+      "voice_id": "22dff604-4a52-4f96-ba17-91c96c346c76",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    }
+  ],
+  "chapter_number": 9,
+  "status": "pending",
+  "audio_file": "chapter_09.mp3"
+}

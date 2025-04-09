@@ -1,0 +1,50 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "characters": [
+        "Lord Henry",
+        "Dorian Gray"
+      ],
+      "location": "Dining room at Lord Henry\u2019s residence",
+      "summary": "In the midst of a sumptuous dinner setting, Lord Henry teases Dorian about his declared intention to reform. Dorian recounts his recent good action\u2014sparing a village girl named Hetty\u2014and explains his experiences in the country. Their conversation delves into themes of civilization versus corruption, with Lord Henry cynically remarking on the simplicity of country life and Dorian earnestly insisting he is changing. The mood is both confessional and ironic as the two discuss matters of love, morality, and social class."
+    },
+    {
+      "scene_number": 2,
+      "characters": [
+        "Lord Henry",
+        "Dorian Gray"
+      ],
+      "location": "Music room of the residence",
+      "summary": "The scene shifts when Lord Henry suggests moving for coffee, drawing Dorian to the music room where he sits at the piano and plays Chopin. With the soft strains of music in the background, the conversation turns to darker topics: the disappearance of Basil, with discussions of murder, artistic decline, and the fading ideals behind Basil\u2019s work. Lord Henry offers a mix of humorous irreverence and philosophical commentary as he speculates on the nature of crime, art, and even the mysterious fate of the artist Basil, all while a curious Java parrot quietly adds to the room\u2019s ambiance."
+    },
+    {
+      "scene_number": 3,
+      "characters": [
+        "Lord Henry",
+        "Dorian Gray"
+      ],
+      "location": "Music room and adjoining entryway",
+      "summary": "As the evening deepens, the philosophical banter escalates. Lord Henry waxes lyrical about youth, the soul, and the inevitable passage of time while drawing parallels between music, art, and life itself. Though Dorian acknowledges the exquisite quality of his life so far, there is an underlying conflict about his future path. The conversation culminates in an invitation from Lord Henry to join him at the club the next day and for lunch with high-society acquaintances, but Dorian, feeling the weight of his choices, opts for an early retreat to bed. His farewell is tinged with both resolution and regret, setting the stage for further inner conflict."
+    }
+  ],
+  "characters": [
+    "Basil",
+    "Ophelia",
+    "Dorian Gray",
+    "Lord Poole",
+    "Perdita",
+    "Alan Campbell",
+    "Lord Henry",
+    "Lady Branksome",
+    "Hetty",
+    "Sibyl Vane",
+    "Gladys",
+    "Florizel",
+    "Victoria"
+  ],
+  "major_characters": [
+    "Dorian Gray",
+    "Lord Henry"
+  ]
+}

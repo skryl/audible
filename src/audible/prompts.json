@@ -1,0 +1,23 @@
+{
+  "chapter_scene_breakdown": {
+    "system_message": "You are a literary analyst breaking down a novel chapter into scenes for audiobook production.",
+    "prompt": "Analyze this chapter and break it down into scenes. For each scene, identify the characters present, location, and a brief summary of what happens.\n\nChapter {chapter_num}:\n\n{chapter_text}\n\nFormat your response as a JSON object with a 'scenes' array, where each scene has these properties:\n- scene_number: sequential number\n- characters: array of character names present in the scene\n- location: string describing where the scene takes place\n- summary: brief summary of what happens in the scene",
+    "variables": ["chapter_num", "chapter_text"]
+  },
+  "chapter_character_extraction": {
+    "system_message": "You are a literary analyst identifying characters in a novel chapter for audiobook production.",
+    "prompt": "Analyze the following chapter and identify both all characters and the major characters.\n\nChapter {chapter_num}:\n\n{chapter_text}\n\nReturn your response as a JSON object with two properties:\n- \"all_characters\": An array of all character names mentioned in the chapter, including minor ones\n- \"major_characters\": An array of only the significant characters with important roles or substantial presence in the chapter\n\nFor major characters, include only those who play an important role or have meaningful dialogue or actions. Exclude background characters or those who are merely mentioned.",
+    "variables": ["chapter_num", "chapter_text"]
+  },
+  "chapter_script_conversion": {
+    "system_message": "You are an expert scriptwriter adapting a novel into an audiobook script format. Your task is to convert narrative text into a clear script with character dialogue and narration cues.",
+    "prompt": "Convert the following chapter text into a script format for voice actors to perform.\n\nChapter {chapter_num}:\n\n{chapter_text}\n\nCharacters that appear in this chapter: {character_list}\n\nFormat your response as a JSON structure with these properties:\n- \"title\": The chapter title (e.g., \"Chapter {chapter_num}\")\n- \"segments\": An array of segments, where each segment has:\n  * \"type\": Either \"narration\" or \"dialogue\"\n  * \"text\": The text content\n  * \"character\": (For dialogue only) The character speaking\n  * \"emotion\": (For dialogue only) The emotional tone\n\nMake sure to preserve the narrative flow while clearly distinguishing between narration and character dialogue. * \"voice_traits\": Detailed voice characteristics including accent, voice affect, tone, pacing, emotion, pronunciation, pauses, and any distinctive speech patterns",
+    "variables": ["chapter_num", "chapter_text", "character_list"]
+  },
+
+  "character_traits_extraction": {
+    "system_message": "You are a character analyst creating detailed character profiles for an audiobook voice production.",
+    "prompt": "Extract detailed information about characters from this chapter. {character_focus}\n\nChapter {chapter_num}:\n\n{chapter_text}\n\nFormat your response as a JSON object where keys are character names and values are objects with the following properties:\n- \"gender\": Character's gender\n- \"age\": Character's age (if mentioned)\n- \"description\": A brief general description\n- \"personality\": Character's personality traits, temperament, and behavior patterns\n- \"voice\": Voice characteristics including accent, tone, pitch, and any distinctive speech patterns\n- \"appearance\": Physical appearance details including height, build, features, clothing style\n\nBe specific and detailed where possible, but infer reasonably from the text when details aren't explicitly stated.",
+    "variables": ["chapter_num", "chapter_text", "character_focus"]
+  }
+}

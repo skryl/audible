@@ -1,0 +1,68 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "characters": [
+        "Sibyl Vane",
+        "Mrs. Vane"
+      ],
+      "location": "Dingy sitting room",
+      "summary": "Sibyl bursts into a state of giddy delight as she clings to her mother, declaring her happiness and love for her mysterious \u2018Prince Charming.\u2019 Mrs. Vane, preoccupied with her acting career and the practicalities of debt\u2014reminding Sibyl of the fifty pounds advanced by Mr. Isaacs\u2014counters with pragmatic remarks about money and responsibility. Their exchange sets up the contrast between youthful passion and worldly practicality."
+    },
+    {
+      "scene_number": 2,
+      "characters": [
+        "Sibyl Vane",
+        "Mrs. Vane",
+        "Jim Vane"
+      ],
+      "location": "Sitting room in their shabby home",
+      "summary": "Jim Vane, the rougher and more pragmatic younger sibling, enters the room. Amid teasing banter about kisses and theatrical affectations, he discusses his imminent departure for Australia and dismisses the notion of high society. Sibyl and their mother indulge in a lighthearted repartee, although underlying tensions about future prospects and family finances begin to surface."
+    },
+    {
+      "scene_number": 3,
+      "characters": [
+        "Sibyl Vane",
+        "Jim Vane"
+      ],
+      "location": "Euston Road and a local park",
+      "summary": "Sibyl and Jim step out into the flickering, wind-blown sunlight as they stroll along Euston Road toward a park. Sibyl animatedly details her dreams of the theatre, passionately extolling her love for Prince Charming, while Jim grows increasingly skeptical and protective. The encounter reaches a climax when Sibyl excitedly identifies a passing carriage as bearing her idealized lover, only for the mysterious figure to disappear, sparking a heated debate about the nature and intentions of this unknown man."
+    },
+    {
+      "scene_number": 4,
+      "characters": [
+        "Sibyl Vane",
+        "Jim Vane"
+      ],
+      "location": "Sibyl's room and transitional space to home",
+      "summary": "After their walk in the park, Sibyl and Jim return near their home. In Sibyl\u2019s room they share a tender farewell full of mixed emotions\u2014Sibyl expresses her unbridled joy and affection, while Jim, troubled by jealousy and forebodings about the stranger in her life, reluctantly embraces her. Their parting is bittersweet, highlighting the siblings' deep bond amid conflicting sentiments about love and future separation."
+    },
+    {
+      "scene_number": 5,
+      "characters": [
+        "Jim Vane",
+        "Mrs. Vane"
+      ],
+      "location": "Home dining area",
+      "summary": "Back within the confines of their humble home, Jim sits down for a meagre meal with his mother. The atmosphere darkens as he confronts her with persistent questions about his father and the nature of her past marriage. Mrs. Vane, caught off guard and burdened by her history, provides curt answers that only intensify Jim's inner turmoil. Overwhelmed by filial anger and a fierce need to protect Sibyl, Jim vows, in dramatic and almost melodramatic fashion, to track down and \u2018kill\u2019 the man who might do his sister harm, leaving their troubled domestic life hanging in a state of resigned disillusionment."
+    }
+  ],
+  "characters": [
+    "Ned Langton",
+    "Dorian Gray",
+    "Mrs. Vane",
+    "Sibyl Vane",
+    "Prince Charming",
+    "Duke of Berwick",
+    "James (Jim) Vane",
+    "Jim Vane",
+    "Mr. Isaacs",
+    "Tom Hardy"
+  ],
+  "major_characters": [
+    "Sibyl Vane",
+    "Mrs. Vane",
+    "James (Jim) Vane",
+    "Prince Charming"
+  ]
+}

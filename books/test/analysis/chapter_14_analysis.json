@@ -1,0 +1,69 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "characters": [
+        "Dorian Gray",
+        "Basil Hallward"
+      ],
+      "location": "A dimly lit top landing and staircase",
+      "summary": "Dorian and Basil ascend silently in the night, with the lamp casting shifting shadows and a rising wind rattling windows. At the top landing, Dorian sets down the lamp, locks a door, and hints that he is about to reveal the secret of his life to Basil\u2014the one man entitled to know everything about him."
+    },
+    {
+      "scene_number": 2,
+      "characters": [
+        "Dorian Gray",
+        "Basil Hallward"
+      ],
+      "location": "A forsaken, dust-covered room filled with antiquated objects",
+      "summary": "Inside a long-neglected chamber, Dorian lights a half-burned candle to reveal a setting up for his disclosure. The room, furnished only with faded tapestries, a curtained picture, and sparse relics, immediately sets an eerie tone. Dorian\u2019s invitation for Basil to draw back the curtain preludes a deeper, disturbing revelation."
+    },
+    {
+      "scene_number": 3,
+      "characters": [
+        "Dorian Gray",
+        "Basil Hallward"
+      ],
+      "location": "The same secret room, centered around a canvas on the table",
+      "summary": "In a moment of dramatic unveiling, Basil is horrified to see on the canvas a ghastly, yet strangely beautiful, image of Dorian\u2019s face. As Basil struggles between shock and revulsion, a tense dialogue unfolds about vanity, youth, and the nature of the soul. Dorian explains the origins of the portrait\u2014one tied to his early days and a wish made in his youth\u2014while both men confront the implications of a life consumed by beauty and hidden sins."
+    },
+    {
+      "scene_number": 4,
+      "characters": [
+        "Dorian Gray",
+        "Basil Hallward"
+      ],
+      "location": "Within the secret room, near the table and chair",
+      "summary": "A sudden, violent shift occurs when Dorian is overcome by an uncontrollable surge of hatred for Basil, seemingly inspired by the reviled image on the canvas. Seizing a forgotten knife, Dorian brutally attacks Basil\u2014stabbing him repeatedly in a frenzy of murderous emotion\u2014until Basil is reduced to a motionless, grotesque figure on the table."
+    },
+    {
+      "scene_number": 5,
+      "characters": [
+        "Dorian Gray"
+      ],
+      "location": "Transitioning from the secret room to the balcony",
+      "summary": "After committing the murder, Dorian methodically leaves the crime scene. He inspects Basil\u2019s lifeless form\u2014disturbingly resembling a peaceful slumber despite the violence\u2014and then steps out onto the balcony. There, he surveys the eerie nocturnal urban scene: fog lifting, police on patrol, and strange passers-by, all contributing to the chilling mood as he internalizes his deed."
+    },
+    {
+      "scene_number": 6,
+      "characters": [
+        "Dorian Gray",
+        "Francis (the valet)"
+      ],
+      "location": "Throughout the mansion, including the library and hallways",
+      "summary": "In the aftermath of the murder, Dorian carefully covers his tracks. He retrieves a curious Moorish lamp and conceals personal disguises within a secret press in the library, all while calculating his next moves. A conversation with his drowsy valet confirms Basil\u2019s unexplained departure, and as Dorian reviews the time on his watch, he turns to the Blue Book\u2014a signal of his intent to contact a man named Alan Campbell to aid in further erasing evidence of his guilt."
+    }
+  ],
+  "characters": [
+    "Basil Hallward",
+    "Dorian Gray",
+    "Alan Campbell",
+    "Woman in a fluttering shawl",
+    "Policeman",
+    "Francis (the valet)"
+  ],
+  "major_characters": [
+    "Dorian Gray",
+    "Basil Hallward"
+  ]
+}

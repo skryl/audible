@@ -1,0 +1,69 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "characters": [
+        "Basil Hallward",
+        "Lord Henry"
+      ],
+      "location": "A private room at the Bristol restaurant",
+      "summary": "Lord Henry and Basil are alone in a secluded dining room where Lord Henry drops the news that Dorian Gray is engaged to marry a little actress, sparking a debate about the suitability of the match, the nature of marriage, and social status."
+    },
+    {
+      "scene_number": 2,
+      "characters": [
+        "Basil Hallward",
+        "Lord Henry",
+        "Dorian Gray"
+      ],
+      "location": "The same private dining room at the Bristol",
+      "summary": "Dorian Gray enters the room, exuberantly congratulating himself on his engagement. His arrival shifts the atmosphere as he expresses his joy and excitement, while both Basil and Lord Henry exchange light-hearted banter regarding his secret."
+    },
+    {
+      "scene_number": 3,
+      "characters": [
+        "Dorian Gray",
+        "Basil Hallward",
+        "Lord Henry"
+      ],
+      "location": "At the dinner table in the private room (with retrospective recount of other locations)",
+      "summary": "While seated at the table, Dorian recounts his previous evening\u2014detailing his meal at an Italian restaurant and his visit to the theatre where he was captivated by Sibyl Vane's performance. He vividly describes the encounter that led to a passionate kiss, and discreetly reveals the secret nature of his engagement."
+    },
+    {
+      "scene_number": 4,
+      "characters": [
+        "Dorian Gray",
+        "Basil Hallward",
+        "Lord Henry"
+      ],
+      "location": "The private dining room at the Bristol",
+      "summary": "A spirited philosophical discussion unfolds as the trio debates the nature of marriage, love, morality, and pleasure. Lord Henry offers his provocative theories, while Basil expresses concern over the potential degradation of Dorian\u2019s character, and Dorian himself passionately defends his love for Sibyl Vane as transformative."
+    },
+    {
+      "scene_number": 5,
+      "characters": [
+        "Dorian Gray",
+        "Basil Hallward",
+        "Lord Henry"
+      ],
+      "location": "Transitioning from the private room to the theatre exterior (London streets and brougham)",
+      "summary": "The conversation winds down as the group prepares to leave for the theatre. They gather their coats and coffee, and Lord Henry suggests they depart together by brougham. Basil, however, is visibly troubled by the changes in Dorian and feels a profound sense of loss as he watches his once-familiar friend drift away."
+    }
+  ],
+  "characters": [
+    "Basil Hallward",
+    "Dorian Gray",
+    "Lord Henry",
+    "Waiter",
+    "Sibyl Vane",
+    "Chef",
+    "Messalina",
+    "Lord Radley"
+  ],
+  "major_characters": [
+    "Dorian Gray",
+    "Lord Henry",
+    "Basil Hallward",
+    "Sibyl Vane"
+  ]
+}

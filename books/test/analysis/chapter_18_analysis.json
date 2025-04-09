@@ -1,0 +1,56 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "characters": [
+        "Dorian Gray",
+        "Duchess of Monmouth (Gladys)",
+        "Lord Henry",
+        "Lady Narborough",
+        "Duchess's Husband",
+        "Additional Guests (including young men in smoking-suits)"
+      ],
+      "location": "Conservatory at Selby Royal (tea-time)",
+      "summary": "At tea-time in the conservatory, Dorian Gray engages in witty repartee with the charming Duchess of Monmouth and the other guests. Amid the clink of delicate china and sparkling silver under the soft lamp-light, philosophical banter abounds. Lord Henry expounds on his ideas\u2014ranging from rebranding names to the merits of beauty, art, love, and morality\u2014while the Duchess, along with others like Lady Narborough, joins in the playful yet incisive conversation. The dialogue covers subjects from the symbolism of orchids to contrasting attitudes toward beauty and virtue."
+    },
+    {
+      "scene_number": 2,
+      "characters": [
+        "Dorian Gray",
+        "Lord Henry",
+        "Duchess of Monmouth"
+      ],
+      "location": "Conservatory at Selby Royal and transitional shift to the Blue Drawing-Room",
+      "summary": "In the midst of the lively conversation, a sudden disturbance occurs when a stifled groan and a heavy fall interrupt the gathering. The guests panic as the Duchess stands in horror while Lord Henry rushes among the palms to find Dorian lying face down, having fainted unexpectedly. Concern and confusion dominate the scene as Dorian is quickly carried out of the conservatory."
+    },
+    {
+      "scene_number": 3,
+      "characters": [
+        "Dorian Gray",
+        "Lord Henry"
+      ],
+      "location": "Blue Drawing-Room (and briefly, Dorian's room and dining area)",
+      "summary": "In the blue drawing-room, Dorian gradually recovers from his faint and regains consciousness amidst anxious murmurs. After regaining his composure, he dresses and insists on joining dinner despite his trembling apprehension. As he interacts with Lord Henry in a state of wild gaiety mixed with underlying terror, Dorian recalls having seen a mysterious face\u2014James Vane\u2019s\u2014pressed against the conservatory window, hinting at a lingering threat that troubles him."
+    }
+  ],
+  "characters": [
+    "Duchess of Monmouth (Gladys)",
+    "Lady Hilstone (mentioned)",
+    "Dorian Gray",
+    "The maid (unnamed)",
+    "Three young men in smoking-suits (unnamed)",
+    "Lord Henry",
+    "The gardener (unnamed)",
+    "Additional Guests (including young men in smoking-suits)",
+    "Duchess's husband (unnamed)",
+    "James Vane",
+    "Duchess's Husband",
+    "Duchess of Monmouth",
+    "Lady Narborough"
+  ],
+  "major_characters": [
+    "Dorian Gray",
+    "Lord Henry",
+    "Duchess of Monmouth (Gladys)"
+  ]
+}

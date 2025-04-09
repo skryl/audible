@@ -1,0 +1,103 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "characters": [
+        "Artist",
+        "Critic"
+      ],
+      "location": "Abstract realm of creation",
+      "summary": "The chapter opens by defining the roles of the artist and the critic. The artist is portrayed as the creator of beauty, whose role is to reveal art while concealing personal identity, whereas the critic is seen as one who transforms personal impressions of beauty."
+    },
+    {
+      "scene_number": 2,
+      "characters": [
+        "Critic (as a reflective persona)"
+      ],
+      "location": "Intellectual space of critique",
+      "summary": "The narrative examines criticism as a form of self-revelation, suggesting that both high and low forms of critique are autobiographical. It warns that those who discover ugly meanings in art are inherently flawed."
+    },
+    {
+      "scene_number": 3,
+      "characters": [
+        "Cultivated individuals (the elect)"
+      ],
+      "location": "Exclusive circle of aesthetic sensibility",
+      "summary": "The text contrasts the corrupt critic with the refined. It explains that individuals who can perceive only beauty in art are the truly cultivated, offering a sense of hope for a pure appreciation of art."
+    },
+    {
+      "scene_number": 4,
+      "characters": [],
+      "location": "Literary realm",
+      "summary": "A brief reflection on literature states that books cannot be moral or immoral; they are simply judged as well or badly written. This scene sets aside moral considerations in favor of aesthetic quality."
+    },
+    {
+      "scene_number": 5,
+      "characters": [
+        "Caliban (as a symbolic figure)"
+      ],
+      "location": "Symbolic 19th-century setting",
+      "summary": "Using the figure of Caliban as a metaphor, the chapter critiques the 19th-century attitudes toward realism and romanticism, highlighting the contradictory responses\u2014seeing oneself in a mirror or missing one\u2019s reflection."
+    },
+    {
+      "scene_number": 6,
+      "characters": [
+        "Artist"
+      ],
+      "location": "Creative workshop of ideas",
+      "summary": "This scene explores the relationship between art and morality. The narrative posits that while art may include moral subject matter, its true morality lies in mastering an imperfect medium rather than in serving ethical sympathies."
+    },
+    {
+      "scene_number": 7,
+      "characters": [
+        "Artist",
+        "Musician",
+        "Actor"
+      ],
+      "location": "Artistic arena",
+      "summary": "Focusing on artistic expression, this portion outlines that artists use thought, language, music, and performance as tools. It argues that the essence of art is its form and the emotions it stirs, with musicians and actors serving as primary examples."
+    },
+    {
+      "scene_number": 8,
+      "characters": [
+        "Spectator"
+      ],
+      "location": "Gallery of perception",
+      "summary": "Here, the author emphasizes that art is simultaneously surface and symbol. It warns that attempting to peel back these layers\u2014whether by delving too deeply into literal symbolism or surface appearances\u2014is perilous, ultimately asserting that art mirrors the viewer rather than life itself."
+    },
+    {
+      "scene_number": 9,
+      "characters": [
+        "Artist",
+        "Critic"
+      ],
+      "location": "Debate forum of art interpretation",
+      "summary": "The discussion shifts to the nature of critical diversity. The text argues that differing opinions signify a work\u2019s complexity and vitality, and that disagreement among critics is evidence of the artist\u2019s internal consistency."
+    },
+    {
+      "scene_number": 10,
+      "characters": [
+        "Artist",
+        "Admiring Onlookers (implied)"
+      ],
+      "location": "Introspective conclusion space",
+      "summary": "Concluding the chapter, the narrative presents a paradox: while a man may be forgiven for creating something useful without admiration, the only justification for making something useless is to admire it intensely. This famous summation cements the idea that art, in its purest form, is inherently useless."
+    }
+  ],
+  "characters": [
+    "Caliban (as a symbolic figure)",
+    "Musician",
+    "Cultivated individuals (the elect)",
+    "Caliban",
+    "Artist",
+    "Critic",
+    "Spectator",
+    "Actor",
+    "Critic (as a reflective persona)",
+    "Admiring Onlookers (implied)"
+  ],
+  "major_characters": [
+    "Artist",
+    "Critic"
+  ]
+}

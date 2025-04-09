@@ -1,0 +1,642 @@
+{
+  "title": "Chapter 2",
+  "segments": [
+    {
+      "type": "narration",
+      "text": "The studio was filled with the rich odour of roses. A light summer wind stirred through the garden trees, carrying with it through the open door the heavy scent of lilac and the delicate perfume of the pink-flowering thorn.",
+      "voice_traits": {
+        "accent": "Neutral British",
+        "tone": "Lyrical and descriptive",
+        "pacing": "Measured and flowing",
+        "emotion": "Calm, evocative",
+        "pronunciation": "Clear",
+        "pauses": "Well-timed to emphasize imagery",
+        "distinctive": "Use of vivid, sensory details"
+      },
+      "voice_id": "onyx",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "narration",
+      "text": "From his perch on a divan made of Persian saddle-bags, smoking innumerable cigarettes as was his habit, Lord Henry Wotton observed the studio. He caught sight of the honey-sweet laburnum blossoms trembling against the heavy silk curtains, which danced with the shadows of birds in flight\u2014a fleeting, Japanese-inspired effect. Outside, the sullen murmur of bees in the long, unmown grass underscored the stillness, even as the distant roar of London echoed like a forgotten organ tone.",
+      "voice_traits": {
+        "accent": "Neutral British",
+        "tone": "Evocative and poetic",
+        "pacing": "Leisurely and reflective",
+        "emotion": "Melancholic wonder",
+        "pronunciation": "Meticulous",
+        "pauses": "Generous to let imagery resonate",
+        "distinctive": "Rich descriptive language with subtle contrasts"
+      },
+      "voice_id": "onyx",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "narration",
+      "text": "At the centre of the room, clamped to an upright easel, stood a full-length portrait of a remarkably beautiful young man. Near it sat the artist, Basil Hallward\u2014the man whose mysterious disappearance had once stirred public excitement and endless conjecture. As Basil gazed at the graceful form he had captured, a smile of pleasure played upon his face, only to vanish as he closed his eyes in a silent bid to hold on to a curious, elusive dream.",
+      "voice_traits": {
+        "accent": "Neutral British",
+        "tone": "Intimate and reflective",
+        "pacing": "Measured",
+        "emotion": "Quiet introspection",
+        "pronunciation": "Precisely enunciated",
+        "pauses": "Intentional for dramatic effect",
+        "distinctive": "A blend of artistic sensitivity and secret sorrow"
+      },
+      "voice_id": "onyx",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry Wotton",
+      "text": "It is your best work, Basil, the best thing you have ever done. You must certainly send it next year to the Grosvenor. The Academy is too large and too vulgar. Whenever I have gone there, there are either too many people to see the pictures... or too many pictures to see the people. The Grosvenor is really the only place.",
+      "emotion": "Languid, amused",
+      "voice_traits": {
+        "accent": "Refined British",
+        "tone": "Playfully ironic",
+        "pacing": "Deliberate",
+        "emotion": "Amused confidence",
+        "pronunciation": "Crisp",
+        "pauses": "Occasional, highlighting ironic contrasts",
+        "distinctive": "A measured drawl with hints of decadence"
+      },
+      "voice_id": "echo",
+      "character_voice_traits": "His voice is likely cultured with an upper-class British accent, delivered in a relaxed yet measured tone. He speaks with a hint of sarcasm and self-assurance, punctuating his speech with witty asides that reveal both charm and a subtle opium-tinted languor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Basil Hallward",
+      "text": "I don\u2019t think I shall send it anywhere. No, I won\u2019t send it anywhere.",
+      "emotion": "Reserved, slightly defiant",
+      "voice_traits": {
+        "accent": "Measured British",
+        "tone": "Soft but firm",
+        "pacing": "Even and deliberate",
+        "emotion": "Understated vulnerability",
+        "pronunciation": "Clear",
+        "pauses": "Brief, underlining his determination",
+        "distinctive": "A hint of introspection combined with resolve"
+      },
+      "voice_id": "fable",
+      "character_voice_traits": "Basil's speech would be measured, thoughtful, and imbued with a quiet intensity that reflects his inner emotional landscape. His tone likely carries a gentle earnestness with hints of introspection, especially when discussing matters close to his artistic spirit."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry Wotton",
+      "text": "Not send it anywhere? My dear fellow, why? Have you any reason? What odd chaps you painters are! As soon as you have a reputation, you seem to want to throw it away. A portrait like this would set you far above all the young men in England, and make the old men quite jealous, if old men are ever capable of any emotion.",
+      "emotion": "Teasing, incredulous",
+      "voice_traits": {
+        "accent": "Refined British",
+        "tone": "Mock-amused",
+        "pacing": "Smooth, with playful emphasis",
+        "emotion": "Amused curiosity",
+        "pronunciation": "Deliberately precise",
+        "pauses": "Well-placed to allow sarcastic remarks room to breathe",
+        "distinctive": "A light irony underpinning his words"
+      },
+      "voice_id": "echo",
+      "character_voice_traits": "His voice is likely cultured with an upper-class British accent, delivered in a relaxed yet measured tone. He speaks with a hint of sarcasm and self-assurance, punctuating his speech with witty asides that reveal both charm and a subtle opium-tinted languor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Basil Hallward",
+      "text": "I know you will laugh at me, but I really can\u2019t exhibit it. I have put too much of myself into it.",
+      "emotion": "Sincere, vulnerable",
+      "voice_traits": {
+        "accent": "Measured British",
+        "tone": "Earnest and reflective",
+        "pacing": "Slow, deliberate",
+        "emotion": "Quiet sorrow mixed with resolve",
+        "pronunciation": "Clearly articulated",
+        "pauses": "Thoughtful, allowing the weight of his confession to be felt",
+        "distinctive": "A subdued yet profound emotional undertone"
+      },
+      "voice_id": "fable",
+      "character_voice_traits": "Basil's speech would be measured, thoughtful, and imbued with a quiet intensity that reflects his inner emotional landscape. His tone likely carries a gentle earnestness with hints of introspection, especially when discussing matters close to his artistic spirit."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry Wotton",
+      "text": "Yes, I knew you would; but it is quite true, all the same.",
+      "emotion": "Light-hearted amusement",
+      "voice_traits": {
+        "accent": "Polished British",
+        "tone": "Playfully affirming",
+        "pacing": "Casual and unhurried",
+        "emotion": "Cheeky satisfaction",
+        "pronunciation": "Effortless",
+        "pauses": "Brief for effect",
+        "distinctive": "A mischievous chuckle implied in his delivery"
+      },
+      "voice_id": "echo",
+      "character_voice_traits": "His voice is likely cultured with an upper-class British accent, delivered in a relaxed yet measured tone. He speaks with a hint of sarcasm and self-assurance, punctuating his speech with witty asides that reveal both charm and a subtle opium-tinted languor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry Wotton",
+      "text": "Too much of yourself in it! Upon my word, Basil, I didn\u2019t know you were so vain; and I really can\u2019t see any resemblance between you, with your rugged strong face and coal-black hair, and this young Adonis who looks as if he were made out of ivory and rose-leaves. He is a Narcissus\u2014with all his perfection\u2014while you, well, you have that intellectual expression. But beauty, real beauty, ends where intellectual expression begins. Intellect is a mode of exaggeration that destroys all harmony.",
+      "emotion": "Incisively playful, slightly mocking",
+      "voice_traits": {
+        "accent": "Elegant British",
+        "tone": "Ironically dismissive",
+        "pacing": "Measured with a teasing lilt",
+        "emotion": "Amused superiority",
+        "pronunciation": "Exquisitely clear",
+        "pauses": "Calculated between barbed observations",
+        "distinctive": "A refined wit with a touch of condescension"
+      },
+      "voice_id": "echo",
+      "character_voice_traits": "His voice is likely cultured with an upper-class British accent, delivered in a relaxed yet measured tone. He speaks with a hint of sarcasm and self-assurance, punctuating his speech with witty asides that reveal both charm and a subtle opium-tinted languor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Basil Hallward",
+      "text": "You don\u2019t understand me, Harry. Of course I am not like him\u2014I know that perfectly well. Indeed, I should be sorry to look like him. There\u2019s a fatality about all physical and intellectual distinction; it is as though all our differences are doomed by history. The ugly and the stupid enjoy a quiet ease. My art, such as it is, and even Dorian Gray\u2019s good looks\u2014we all suffer for what the gods have given us, suffer terribly.",
+      "emotion": "Contemplative, pensive",
+      "voice_traits": {
+        "accent": "Thoughtful British",
+        "tone": "Introspective and a little somber",
+        "pacing": "Measured, with reflective pauses",
+        "emotion": "Melancholic resignation",
+        "pronunciation": "Deliberate and clear",
+        "pauses": "Used to underline the weight of his words",
+        "distinctive": "A voice that carries both artistry and quiet despair"
+      },
+      "voice_id": "fable",
+      "character_voice_traits": "Basil's speech would be measured, thoughtful, and imbued with a quiet intensity that reflects his inner emotional landscape. His tone likely carries a gentle earnestness with hints of introspection, especially when discussing matters close to his artistic spirit."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry Wotton",
+      "text": "Dorian Gray? Is that his name?",
+      "emotion": "Curious, intrigued",
+      "voice_traits": {
+        "accent": "Smooth British",
+        "tone": "Slightly probing with a hint of mischief",
+        "pacing": "Unhurried yet inquisitive",
+        "emotion": "Intrigued and playful",
+        "pronunciation": "Clear",
+        "pauses": "A brief pause to register the novelty of the name",
+        "distinctive": "A crisp questioning lilt"
+      },
+      "voice_id": "echo",
+      "character_voice_traits": "His voice is likely cultured with an upper-class British accent, delivered in a relaxed yet measured tone. He speaks with a hint of sarcasm and self-assurance, punctuating his speech with witty asides that reveal both charm and a subtle opium-tinted languor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Basil Hallward",
+      "text": "Yes, that is his name. I didn\u2019t intend to tell it to you. (After a brief pause) Oh, but why, you ask? I like people immensely, so much so that to name them is like surrendering a part of their mystery\u2014a secrecy that makes modern life marvelous.",
+      "emotion": "Mysterious, slightly apologetic",
+      "voice_traits": {
+        "accent": "Measured British",
+        "tone": "Quietly secretive and reflective",
+        "pacing": "Deliberate with thoughtful pauses",
+        "emotion": "Gentle wistfulness",
+        "pronunciation": "Clearly enunciated",
+        "pauses": "Used to enhance the aura of secrecy",
+        "distinctive": "A softness that conceals a turbulent inner life"
+      },
+      "voice_id": "fable",
+      "character_voice_traits": "Basil's speech would be measured, thoughtful, and imbued with a quiet intensity that reflects his inner emotional landscape. His tone likely carries a gentle earnestness with hints of introspection, especially when discussing matters close to his artistic spirit."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry Wotton",
+      "text": "Not at all, my dear Basil. You seem to forget that I am married, and the one charm of marriage is that it makes a life of deception absolutely necessary. I never know where my wife is, and she never knows what I\u2019m doing. When we meet, we exchange the most absurd stories with the most serious faces.",
+      "emotion": "Wry, mischievous",
+      "voice_traits": {
+        "accent": "Refined British",
+        "tone": "Ironic and teasing",
+        "pacing": "Smooth with rhythmic emphasis",
+        "emotion": "Cheekily self-assured",
+        "pronunciation": "Impeccable",
+        "pauses": "Well-timed for ironic impact",
+        "distinctive": "A charming, wry cadence underlying his wit"
+      },
+      "voice_id": "echo",
+      "character_voice_traits": "His voice is likely cultured with an upper-class British accent, delivered in a relaxed yet measured tone. He speaks with a hint of sarcasm and self-assurance, punctuating his speech with witty asides that reveal both charm and a subtle opium-tinted languor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Basil Hallward",
+      "text": "I hate the way you talk about your married life, Harry. I believe you are a very good husband, yet you seem thoroughly ashamed of your own virtues. You never say a moral thing, yet you never do a wrong thing. Your cynicism is simply a pose.",
+      "emotion": "Exasperated yet fond",
+      "voice_traits": {
+        "accent": "Measured British",
+        "tone": "Mildly reproachful",
+        "pacing": "Even and deliberate",
+        "emotion": "Sincere and a touch indignant",
+        "pronunciation": "Crisp",
+        "pauses": "Gentle pauses emphasize his disapproval",
+        "distinctive": "A reflective cadence mixing admiration with critique"
+      },
+      "voice_id": "fable",
+      "character_voice_traits": "Basil's speech would be measured, thoughtful, and imbued with a quiet intensity that reflects his inner emotional landscape. His tone likely carries a gentle earnestness with hints of introspection, especially when discussing matters close to his artistic spirit."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry Wotton",
+      "text": "Being natural is simply a pose\u2014and the most irritating pose I know.",
+      "emotion": "Mocking, playful",
+      "voice_traits": {
+        "accent": "Elegant British",
+        "tone": "Lightly scornful",
+        "pacing": "Brisk and clipped",
+        "emotion": "Wry amusement",
+        "pronunciation": "Distinct",
+        "pauses": "Sharp for comic effect",
+        "distinctive": "A playful sneer underlying his words"
+      },
+      "voice_id": "echo",
+      "character_voice_traits": "His voice is likely cultured with an upper-class British accent, delivered in a relaxed yet measured tone. He speaks with a hint of sarcasm and self-assurance, punctuating his speech with witty asides that reveal both charm and a subtle opium-tinted languor."
+    },
+    {
+      "type": "narration",
+      "text": "The two men left the studio and strolled into the garden, settling on a long bamboo seat beneath the shade of a tall laurel bush. Sunlight slipped over the polished leaves, while white daisies in the grass trembled in the gentle warmth.",
+      "voice_traits": {
+        "accent": "Neutral British",
+        "tone": "Serene and picturesque",
+        "pacing": "Deliberate and gentle",
+        "emotion": "Calm and reflective",
+        "pronunciation": "Smooth",
+        "pauses": "Natural, mirroring the tranquility of the setting",
+        "distinctive": "A soft, pastoral narration that transitions the scene"
+      },
+      "voice_id": "onyx",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry Wotton",
+      "text": "I am afraid I must be going, Basil, and before I do, I insist on your answering a question I put to you some time ago.",
+      "emotion": "Inquisitive with a note of urgency",
+      "voice_traits": {
+        "accent": "Refined British",
+        "tone": "Slightly abrupt yet playful",
+        "pacing": "Measured with a purposeful urgency",
+        "emotion": "Curiosity mixed with teasing insistence",
+        "pronunciation": "Clear and deliberate",
+        "pauses": "A well-placed pause before the question underscores its importance",
+        "distinctive": "A hint of dramatic irony in his cadence"
+      },
+      "voice_id": "echo",
+      "character_voice_traits": "His voice is likely cultured with an upper-class British accent, delivered in a relaxed yet measured tone. He speaks with a hint of sarcasm and self-assurance, punctuating his speech with witty asides that reveal both charm and a subtle opium-tinted languor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Basil Hallward",
+      "text": "What is that?",
+      "emotion": "Curious, reserved",
+      "voice_traits": {
+        "accent": "Soft British",
+        "tone": "Low and slightly questioning",
+        "pacing": "Measured",
+        "emotion": "Mild apprehension",
+        "pronunciation": "Clear",
+        "pauses": "Brief, reflecting his guarded openness",
+        "distinctive": "A quiet tone that hints at inner complexity"
+      },
+      "voice_id": "fable",
+      "character_voice_traits": "Basil's speech would be measured, thoughtful, and imbued with a quiet intensity that reflects his inner emotional landscape. His tone likely carries a gentle earnestness with hints of introspection, especially when discussing matters close to his artistic spirit."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry Wotton",
+      "text": "You know quite well\u2014I want you to explain why you won\u2019t exhibit Dorian Gray\u2019s picture. I want the real reason.",
+      "emotion": "Pressing, teasing",
+      "voice_traits": {
+        "accent": "Elegant British",
+        "tone": "Slightly provocative",
+        "pacing": "Deliberate yet brisk",
+        "emotion": "Mischievous insistence",
+        "pronunciation": "Sharp and clear",
+        "pauses": "Used to heighten the tension in his inquiry",
+        "distinctive": "A playful challenge wrapped in intellectual curiosity"
+      },
+      "voice_id": "echo",
+      "character_voice_traits": "His voice is likely cultured with an upper-class British accent, delivered in a relaxed yet measured tone. He speaks with a hint of sarcasm and self-assurance, punctuating his speech with witty asides that reveal both charm and a subtle opium-tinted languor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Basil Hallward",
+      "text": "I told you the real reason. Every portrait painted with feeling is, in truth, a portrait of the artist rather than of the sitter. In this work, I fear I have exposed the secret of my own soul.",
+      "emotion": "Earnest, introspective",
+      "voice_traits": {
+        "accent": "Reflective British",
+        "tone": "Quietly confessional",
+        "pacing": "Measured with thoughtful pauses",
+        "emotion": "Somber introspection",
+        "pronunciation": "Deliberate and clear",
+        "pauses": "Extended to let the weight of his confession settle",
+        "distinctive": "A vulnerability that betrays his inner turmoil"
+      },
+      "voice_id": "fable",
+      "character_voice_traits": "Basil's speech would be measured, thoughtful, and imbued with a quiet intensity that reflects his inner emotional landscape. His tone likely carries a gentle earnestness with hints of introspection, especially when discussing matters close to his artistic spirit."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry Wotton",
+      "text": "And what is that?",
+      "emotion": "Intrigued, mischievous",
+      "voice_traits": {
+        "accent": "Refined British",
+        "tone": "Lightly mocking",
+        "pacing": "Crisp",
+        "emotion": "Amused curiosity",
+        "pronunciation": "Articulate",
+        "pauses": "A brief pause to savor the mystery",
+        "distinctive": "A playful lilt that belies his deep interest"
+      },
+      "voice_id": "echo",
+      "character_voice_traits": "His voice is likely cultured with an upper-class British accent, delivered in a relaxed yet measured tone. He speaks with a hint of sarcasm and self-assurance, punctuating his speech with witty asides that reveal both charm and a subtle opium-tinted languor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Basil Hallward",
+      "text": "The story is simply this: Two months ago at Lady Brandon\u2019s\u2014a little soiree for us poor artists to remind society we\u2019re not savages\u2014I found myself surrounded by overdressed dowagers and tedious academicians. Then, suddenly, I sensed someone watching me. I turned and, for the first time, met Dorian Gray. In that moment, our eyes met and I grew pale, as if I were confronting a force powerful enough to absorb my very soul. I was seized by a terror I cannot fully explain, and in my cowardice I rushed out of the room.",
+      "emotion": "Haunted, reflective",
+      "voice_traits": {
+        "accent": "Measured British",
+        "tone": "Narrative and confessional",
+        "pacing": "Steady with heavy pauses",
+        "emotion": "Uneasy recollection",
+        "pronunciation": "Precisely enunciated",
+        "pauses": "Lengthy where the memory stings",
+        "distinctive": "A storyteller\u2019s cadence that conveys both wonder and dread"
+      },
+      "voice_id": "fable",
+      "character_voice_traits": "Basil's speech would be measured, thoughtful, and imbued with a quiet intensity that reflects his inner emotional landscape. His tone likely carries a gentle earnestness with hints of introspection, especially when discussing matters close to his artistic spirit."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry Wotton",
+      "text": "And how did Lady Brandon describe this wonderful young man?",
+      "emotion": "Amused curiosity",
+      "voice_traits": {
+        "accent": "Elegant British",
+        "tone": "Light, teasing inquisitiveness",
+        "pacing": "Smooth and unhurried",
+        "emotion": "Playful interest",
+        "pronunciation": "Clear",
+        "pauses": "Measured to let his amusement show",
+        "distinctive": "A slightly mocking lilt that underscores his fascination"
+      },
+      "voice_id": "echo",
+      "character_voice_traits": "His voice is likely cultured with an upper-class British accent, delivered in a relaxed yet measured tone. He speaks with a hint of sarcasm and self-assurance, punctuating his speech with witty asides that reveal both charm and a subtle opium-tinted languor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Basil Hallward",
+      "text": "Oh, something like, 'Charming boy\u2014poor, dear mother\u2014and absolutely inseparable. Forget what he does; whether he plays the piano or the violin is beside the point.' We laughed, and that laughter, I believe, was the beginning of a destined friendship.",
+      "emotion": "Wistful, light-hearted",
+      "voice_traits": {
+        "accent": "Gentle British",
+        "tone": "Reflective and slightly amused",
+        "pacing": "Moderate, with a lyrical quality",
+        "emotion": "Nostalgic fondness",
+        "pronunciation": "Smooth and clear",
+        "pauses": "Occasional to underscore the irony of social introductions",
+        "distinctive": "A warm timbre that mixes humor with gentle regret"
+      },
+      "voice_id": "fable",
+      "character_voice_traits": "Basil's speech would be measured, thoughtful, and imbued with a quiet intensity that reflects his inner emotional landscape. His tone likely carries a gentle earnestness with hints of introspection, especially when discussing matters close to his artistic spirit."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry Wotton",
+      "text": "Laughter is not at all a bad beginning for a friendship, and it is far the best ending, too.",
+      "emotion": "Witty, philosophical",
+      "voice_traits": {
+        "accent": "Refined British",
+        "tone": "Crisp and reflective",
+        "pacing": "Deliberate with a hint of mock gravitas",
+        "emotion": "Playfully philosophical",
+        "pronunciation": "Exquisitely precise",
+        "pauses": "Timed to emphasize his aphorism",
+        "distinctive": "A signature blend of irony and charm"
+      },
+      "voice_id": "echo",
+      "character_voice_traits": "His voice is likely cultured with an upper-class British accent, delivered in a relaxed yet measured tone. He speaks with a hint of sarcasm and self-assurance, punctuating his speech with witty asides that reveal both charm and a subtle opium-tinted languor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Basil Hallward",
+      "text": "You don\u2019t understand what friendship is, Harry, or what enmity truly means. While you seem indifferent to everyone, I find that sometimes I almost give away my entire soul to someone who treats it as if it were merely a trinket to adorn his vanity.",
+      "emotion": "Melancholic and introspective",
+      "voice_traits": {
+        "accent": "Thoughtful British",
+        "tone": "Softly lamenting",
+        "pacing": "Even, with lingering pauses",
+        "emotion": "Bittersweet regret",
+        "pronunciation": "Clearly articulated",
+        "pauses": "Used to allow the emotional weight to resonate",
+        "distinctive": "A voice imbued with both sorrow and a resigned wisdom"
+      },
+      "voice_id": "fable",
+      "character_voice_traits": "Basil's speech would be measured, thoughtful, and imbued with a quiet intensity that reflects his inner emotional landscape. His tone likely carries a gentle earnestness with hints of introspection, especially when discussing matters close to his artistic spirit."
+    },
+    {
+      "type": "narration",
+      "text": "As their conversation wandered, the garden around them maintained its quiet symphony\u2014a gentle rustle of leaves, the distant chirrup of sparrows, and the languid movement of lilac blooms in the summer air. Lord Henry\u2019s thoughts drifted momentarily to the luncheon he\u2019d missed, though the vibrant scene before him stirred a different kind of pleasure.",
+      "voice_traits": {
+        "accent": "Neutral British",
+        "tone": "Observant and reflective",
+        "pacing": "Calming and unhurried",
+        "emotion": "Serene introspection",
+        "pronunciation": "Smooth",
+        "pauses": "Natural, as if savoring each detail",
+        "distinctive": "A vivid, sensory-rich narrative tone"
+      },
+      "voice_id": "onyx",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry Wotton",
+      "text": "My dear fellow, I have just remembered where I first heard the name of Dorian Gray.",
+      "emotion": "Playful, intrigued",
+      "voice_traits": {
+        "accent": "Polished British",
+        "tone": "Light-hearted and teasing",
+        "pacing": "Brisk yet playful",
+        "emotion": "Cheeky amusement",
+        "pronunciation": "Crisp",
+        "pauses": "A short, reflective pause before his recollection",
+        "distinctive": "A buoyant lilt that invites curiosity"
+      },
+      "voice_id": "echo",
+      "character_voice_traits": "His voice is likely cultured with an upper-class British accent, delivered in a relaxed yet measured tone. He speaks with a hint of sarcasm and self-assurance, punctuating his speech with witty asides that reveal both charm and a subtle opium-tinted languor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Basil Hallward",
+      "text": "I am very glad you didn\u2019t, Harry.",
+      "emotion": "Concerned, reserved",
+      "voice_traits": {
+        "accent": "Gentle British",
+        "tone": "Quietly admonishing",
+        "pacing": "Measured",
+        "emotion": "Subtle apprehension",
+        "pronunciation": "Clearly enunciated",
+        "pauses": "Brief for a personal remark",
+        "distinctive": "A hint of protective warmth in his voice"
+      },
+      "voice_id": "fable",
+      "character_voice_traits": "Basil's speech would be measured, thoughtful, and imbued with a quiet intensity that reflects his inner emotional landscape. His tone likely carries a gentle earnestness with hints of introspection, especially when discussing matters close to his artistic spirit."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry Wotton",
+      "text": "Where was it? Don\u2019t look so angry, Basil. It was at my aunt, Lady Agatha\u2019s. She told me of a wonderful young man destined to help her in the East End\u2014and his name was Dorian Gray. I only wish I had known then that he was your friend.",
+      "emotion": "Bemused, teasing",
+      "voice_traits": {
+        "accent": "Refined British",
+        "tone": "Casually mischievous",
+        "pacing": "Even with playful rapidity",
+        "emotion": "Mildly impish",
+        "pronunciation": "Articulate",
+        "pauses": "Occasional to stress ironic details",
+        "distinctive": "A humorous yet pointed delivery that mixes revelation with jest"
+      },
+      "voice_id": "echo",
+      "character_voice_traits": "His voice is likely cultured with an upper-class British accent, delivered in a relaxed yet measured tone. He speaks with a hint of sarcasm and self-assurance, punctuating his speech with witty asides that reveal both charm and a subtle opium-tinted languor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Basil Hallward",
+      "text": "I don\u2019t want you to meet him.",
+      "emotion": "Firm, protective",
+      "voice_traits": {
+        "accent": "Soft British",
+        "tone": "Resolved and cautionary",
+        "pacing": "Measured and deliberate",
+        "emotion": "Sincere concern",
+        "pronunciation": "Clearly stated",
+        "pauses": "Deliberate to underscore his sentiment",
+        "distinctive": "A quiet insistence that carries personal weight"
+      },
+      "voice_id": "fable",
+      "character_voice_traits": "Basil's speech would be measured, thoughtful, and imbued with a quiet intensity that reflects his inner emotional landscape. His tone likely carries a gentle earnestness with hints of introspection, especially when discussing matters close to his artistic spirit."
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry Wotton",
+      "text": "You don\u2019t want me to meet him?",
+      "emotion": "Puzzled yet amused",
+      "voice_traits": {
+        "accent": "Polished British",
+        "tone": "Lightly incredulous",
+        "pacing": "Breezy, with a hint of teasing",
+        "emotion": "Playful curiosity",
+        "pronunciation": "Crisp",
+        "pauses": "A brief pause for effect",
+        "distinctive": "A teasing lilt that mixes bemusement and challenge"
+      },
+      "voice_id": "echo",
+      "character_voice_traits": "His voice is likely cultured with an upper-class British accent, delivered in a relaxed yet measured tone. He speaks with a hint of sarcasm and self-assurance, punctuating his speech with witty asides that reveal both charm and a subtle opium-tinted languor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Basil Hallward",
+      "text": "No.",
+      "emotion": "Curt, matter-of-fact",
+      "voice_traits": {
+        "accent": "Calm British",
+        "tone": "Flat and resolute",
+        "pacing": "Brief",
+        "emotion": "Unyielding",
+        "pronunciation": "Clear and direct",
+        "pauses": "Minimal",
+        "distinctive": "A clipped response that leaves no room for debate"
+      },
+      "voice_id": "fable",
+      "character_voice_traits": "Basil's speech would be measured, thoughtful, and imbued with a quiet intensity that reflects his inner emotional landscape. His tone likely carries a gentle earnestness with hints of introspection, especially when discussing matters close to his artistic spirit."
+    },
+    {
+      "type": "dialogue",
+      "character": "Parker (Butler)",
+      "text": "Mr. Dorian Gray is in the studio, sir.",
+      "emotion": "Formal, neutral",
+      "voice_traits": {
+        "accent": "Standard British",
+        "tone": "Proper and measured",
+        "pacing": "Even and deliberate",
+        "emotion": "Detached formality",
+        "pronunciation": "Precise",
+        "pauses": "None, straight to the point",
+        "distinctive": "A crisp, no-nonsense delivery typical of a butler"
+      },
+      "voice_id": "onyx"
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry Wotton",
+      "text": "You must introduce me now.",
+      "emotion": "Commanding, playful",
+      "voice_traits": {
+        "accent": "Refined British",
+        "tone": "Brisk and assertive",
+        "pacing": "Decisive",
+        "emotion": "Cheekily insistent",
+        "pronunciation": "Clear",
+        "pauses": "None; the command is immediate",
+        "distinctive": "A blend of imperious charm and light-hearted demand"
+      },
+      "voice_id": "echo",
+      "character_voice_traits": "His voice is likely cultured with an upper-class British accent, delivered in a relaxed yet measured tone. He speaks with a hint of sarcasm and self-assurance, punctuating his speech with witty asides that reveal both charm and a subtle opium-tinted languor."
+    },
+    {
+      "type": "dialogue",
+      "character": "Basil Hallward",
+      "text": "Ask Mr. Gray to wait, Parker: I shall be in in a few moments.",
+      "emotion": "Calm, instructive",
+      "voice_traits": {
+        "accent": "Measured British",
+        "tone": "Authoritative yet gentle",
+        "pacing": "Even and deliberate",
+        "emotion": "Sincere with a touch of reluctance",
+        "pronunciation": "Clear",
+        "pauses": "Slight pauses between commands",
+        "distinctive": "A blend of an artist\u2019s subdued command and personal care"
+      },
+      "voice_id": "fable",
+      "character_voice_traits": "Basil's speech would be measured, thoughtful, and imbued with a quiet intensity that reflects his inner emotional landscape. His tone likely carries a gentle earnestness with hints of introspection, especially when discussing matters close to his artistic spirit."
+    },
+    {
+      "type": "dialogue",
+      "character": "Parker (Butler)",
+      "text": "Dorian Gray is my dearest friend. He has a simple and beautiful nature. Your aunt was quite right. Do not spoil him or try to influence him. My art, my very life as an artist, depends upon him. Mind, Harry, I trust you.",
+      "emotion": "Earnest, measured",
+      "voice_traits": {
+        "accent": "Standard British",
+        "tone": "Solemn and deliberate",
+        "pacing": "Slow enough for gravity but steady",
+        "emotion": "Earnest concern",
+        "pronunciation": "Clear, with articulate emphasis on key phrases",
+        "pauses": "Methodical to underline the importance of his words",
+        "distinctive": "A formal, almost ritualistic quality in his delivery"
+      },
+      "voice_id": "onyx"
+    },
+    {
+      "type": "dialogue",
+      "character": "Lord Henry Wotton",
+      "text": "What nonsense you talk!",
+      "emotion": "Playfully dismissive",
+      "voice_traits": {
+        "accent": "Refined British",
+        "tone": "Light-hearted, teasing",
+        "pacing": "Brisk with a jovial lilt",
+        "emotion": "Mirthful jest",
+        "pronunciation": "Clear",
+        "pauses": "A brief, dismissive pause follows",
+        "distinctive": "A playful final note that rounds off the exchange"
+      },
+      "voice_id": "echo",
+      "character_voice_traits": "His voice is likely cultured with an upper-class British accent, delivered in a relaxed yet measured tone. He speaks with a hint of sarcasm and self-assurance, punctuating his speech with witty asides that reveal both charm and a subtle opium-tinted languor."
+    }
+  ],
+  "chapter_number": 2,
+  "status": "processed",
+  "audio_file": "chapter_02.mp3"
+}

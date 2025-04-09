@@ -1,0 +1,95 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "characters": [
+        "Dorian Gray",
+        "Hansom cab driver (briefly)"
+      ],
+      "location": "Rain-soaked, foggy city streets; inside a hansom cab",
+      "summary": "Dorian rides in a hansom cab through a gloomy, rain-drenched city at night. He observes the sordid life outside\u2014drunken brawls, public-houses closing, and ghostly street-lamps\u2014and internally repeats Lord Henry\u2019s dictum about curing the soul with the senses. His inner turmoil, guilt over past sins, and hunger for oblivion (opium) are all vividly evoked."
+    },
+    {
+      "scene_number": 2,
+      "characters": [
+        "Dorian Gray"
+      ],
+      "location": "Narrow, misty streets and along the quay; approaching dockside",
+      "summary": "The cab meanders through increasingly narrow, foggy lanes until Dorian exits near the quay. He surveys the eerie port area with its merchant ships and coaling steamers, feeling pursued by both his own restless thoughts and the physical threat of the dark urban night."
+    },
+    {
+      "scene_number": 3,
+      "characters": [
+        "Dorian Gray",
+        "Unspecified squat, misshapen figure"
+      ],
+      "location": "A small shabby house wedged between gaunt factories that serves as an entrance to a den",
+      "summary": "Dorian quickly makes his way to a dilapidated building and gives a peculiar knock. He enters a narrow hall and pulls aside a tattered green curtain, leading him into what seems to be a third-rate dancing saloon converted into an opium den, where dim light and a motley array of patrons hint at pervasive debauchery."
+    },
+    {
+      "scene_number": 4,
+      "characters": [
+        "Dorian Gray",
+        "Adrian Singleton"
+      ],
+      "location": "A darkened chamber off a staircase in the shabby den",
+      "summary": "Ascending a rickety staircase into a shadowy chamber redolent of opium, Dorian meets Adrian Singleton, a young man with smooth yellow hair. Their brief conversation reveals Adrian\u2019s desolation and disconnection from friends, while Dorian contemplates the grotesque, tormented creatures around him and hints at his desire to escape his own guilt."
+    },
+    {
+      "scene_number": 5,
+      "characters": [
+        "Dorian Gray",
+        "Adrian Singleton",
+        "Half-caste vendor",
+        "Bar patrons (including haggard women and a sailor)"
+      ],
+      "location": "The bar area within the den",
+      "summary": "Dorian and Adrian proceed to the bar where a ragged vendor serves them brandy. Amid the low chatter, a sneering woman addresses Dorian with mocking familiarity, provoking his irate dismissal. Although Adrian remains detached, the encounter underscores the debased atmosphere of the den as well as Dorian\u2019s conflicted disdain and inner irritation."
+    },
+    {
+      "scene_number": 6,
+      "characters": [
+        "Dorian Gray"
+      ],
+      "location": "The quay along a drizzling, rain-washed street",
+      "summary": "After the uncomfortable bar encounter, Dorian exits and walks along the quay. Reflecting on his own recent meetings and the ruin of a young life hinted at by Basil\u2019s previous reproach, he ruminates morosely on fate, guilt, and the relentless burden of one\u2019s actions as he moves deeper into the nocturnal urban landscape."
+    },
+    {
+      "scene_number": 7,
+      "characters": [
+        "Dorian Gray",
+        "James Vane"
+      ],
+      "location": "A dim, familiar archway off the main street",
+      "summary": "While darting through a narrow, shadowed alleyway\u2014a shortcut he has often used\u2014Dorian is suddenly ambushed by James Vane. Vane, armed with a revolver, accuses Dorian of having ruined the life of his sister, Sibyl Vane, and threatens him with death. In a panic mixed with a fleeting, desperate hope, Dorian tries to buy time by drawing attention to the time elapsed since Sibyl\u2019s death, only to realize that the man before him appears far too young to be the monster he imagined."
+    },
+    {
+      "scene_number": 8,
+      "characters": [
+        "James Vane",
+        "A haggard barwoman"
+      ],
+      "location": "On the street near the quay",
+      "summary": "After the tense confrontation, James Vane's confusion and remorse set in as he stands trembling on the pavement. Almost immediately, a bitter, haggard barwoman accosts him, berating his failure to exact vengeance on the supposed culprit. Their exchange reveals her personal vendetta and bitterness. Amidst the accusatory banter and chilling recollections of past transgressions, Vane is left in turmoil, while Dorian has already vanished into the night."
+    }
+  ],
+  "characters": [
+    "Basil Hallward",
+    "Dorian Gray",
+    "Half-caste vendor",
+    "Hansom cab driver (briefly)",
+    "Lord Henry",
+    "George",
+    "Adrian Singleton",
+    "Bar patrons (including haggard women and a sailor)",
+    "A haggard barwoman",
+    "James Vane",
+    "Sibyl Vane",
+    "Unspecified squat, misshapen figure"
+  ],
+  "major_characters": [
+    "Dorian Gray",
+    "Adrian Singleton",
+    "James Vane"
+  ]
+}

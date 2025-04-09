@@ -1,0 +1,88 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "characters": [
+        "Dorian Gray",
+        "Lady Narborough",
+        "Various Party Guests (Ernest Harrowden, Lady Ruxton, Mrs. Erlynne, Lady Alice Chapman and her husband)"
+      ],
+      "location": "Lady Narborough\u2019s drawing-room",
+      "summary": "Dorian Gray arrives at eight-thirty at Lady Narborough\u2019s drawing-room. Although his nerves are throbbing, he displays calm grace as he greets his hostess. Lady Narborough, a shrewd and eccentric host, immediately favors Dorian, setting the stage for an evening filled with witty conversation and high-society charade. During the introductions, several tedious yet colorful guests make their presence known."
+    },
+    {
+      "scene_number": 2,
+      "characters": [
+        "Lady Narborough",
+        "Dorian Gray",
+        "Lord Henry",
+        "Lady Ruxton",
+        "Mrs. Erlynne",
+        "Lady Alice Chapman",
+        "Chapman (the husband of Lady Alice)",
+        "Other minor guests"
+      ],
+      "location": "Dining area within Lady Narborough\u2019s residence",
+      "summary": "The party gathers for dinner, and the conversation turns lively. Lady Narborough and Lord Henry exchange humorous and provocative remarks on love, marriage, and society, while the conversation wanders to gossip about Madame de Ferrol and the vicissitudes of beautiful women. Dorian listens mostly in silence, his uncharacteristic abstention from food drawing comment as his internal tension mounts amid the sparkling repartee."
+    },
+    {
+      "scene_number": 3,
+      "characters": [
+        "Dorian Gray",
+        "Lord Henry",
+        "Mr. Chapman",
+        "Lady Narborough (briefly mentioned)"
+      ],
+      "location": "Drawing-room after dinner",
+      "summary": "After dinner, the conversation shifts from witty banter to political diatribes as Mr. Chapman launches into a loud, patriotic tirade about the state of the House of Commons and English common sense. Lord Henry casually checks on Dorian\u2019s apparent disquiet and probes about his earlier departure from the party. Feeling increasingly out of place and troubled by the evening\u2019s events, Dorian eventually excuses himself, leaving the gathering behind."
+    },
+    {
+      "scene_number": 4,
+      "characters": [
+        "Dorian Gray"
+      ],
+      "location": "Dorian Gray\u2019s house \u2013 his library and adjoining secret chamber",
+      "summary": "Alone at home, Dorian\u2019s internal torment resurfaces. In his library, he methodically locks the door and turns to a secret press where he had hidden Basil Hallward\u2019s coat and bag. Consumed by a need to destroy dangerous reminders of his past, he sets the items aflame. His actions are intercut with a moment of strange fascination as he studies a majestic, mysterious cabinet. Unlocking it reveals an elaborately crafted Chinese box containing a green, waxy paste that evokes both longing and dread."
+    },
+    {
+      "scene_number": 5,
+      "characters": [
+        "Dorian Gray",
+        "Hansom cab driver (minor role)"
+      ],
+      "location": "Bond Street and the streets of London",
+      "summary": "Later, as midnight\u2019s bronze chimes resonate through the dusky air, Dorian, now dressed plainly with a muffler, slips quietly from his house. In Bond Street he hails a hansom cab, bargaining with the driver to speed him toward an undisclosed destination. This brief journey further underscores his restless internal state and the dark, secretive life he leads."
+    }
+  ],
+  "characters": [
+    "Lady Narborough (briefly mentioned)",
+    "Chapman (the husband of Lady Alice)",
+    "Lord Henry (Wotton)",
+    "Mrs. Erlynne",
+    "Dorian Gray",
+    "Monmouth",
+    "Lady Ruxton",
+    "the little duchess",
+    "Various Party Guests (Ernest Harrowden, Lady Ruxton, Mrs. Erlynne, Lady Alice Chapman and her husband)",
+    "Lord Rugby",
+    "Ernest Harrowden",
+    "Lady Alice Chapman",
+    "Lord Henry",
+    "Mr. Chapman",
+    "Other minor guests",
+    "Geoffrey Clouston",
+    "Hansom cab driver (minor role)",
+    "Basil Hallward",
+    "Madame de Ferrol",
+    "the Willoughbys",
+    "Lord Grotrian",
+    "Sir Andrew",
+    "Lady Narborough",
+    "Lord Rugby's wife"
+  ],
+  "major_characters": [
+    "Dorian Gray",
+    "Lady Narborough",
+    "Lord Henry (Wotton)"
+  ]
+}

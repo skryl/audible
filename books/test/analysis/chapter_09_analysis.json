@@ -1,0 +1,77 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "characters": [
+        "Dorian Gray",
+        "Victor"
+      ],
+      "location": "Dorian\u2019s Bedroom",
+      "summary": "Late in the morning, Dorian wakes from a long sleep. His valet, Victor, enters silently with tea and a pile of letters\u2014including one from Lord Henry\u2014that suggest the routine of a fashionable young man\u2019s life."
+    },
+    {
+      "scene_number": 2,
+      "characters": [
+        "Dorian Gray",
+        "Victor"
+      ],
+      "location": "The Library (Breakfast Room) of Dorian\u2019s Apartment",
+      "summary": "Fresh from his bath and dressed in an elaborate dressing-gown, Dorian sits to enjoy a light French breakfast. As he observes his surroundings, his eye falls on the screen covering his portrait and he begins to wonder if something in the painting has changed, sparking an inner unease."
+    },
+    {
+      "scene_number": 3,
+      "characters": [
+        "Dorian Gray"
+      ],
+      "location": "Private Sitting Area/Front of the Screen",
+      "summary": "Troubled by the suggestion that his portrait may have altered, Dorian locks the doors to ensure his solitude. Gathering his courage, he pulls aside the screen and confirms that the painting now displays a sinister, altered expression, forcing him to confront his hidden guilt over past cruelties\u2014especially towards Sibyl Vane."
+    },
+    {
+      "scene_number": 4,
+      "characters": [
+        "Dorian Gray"
+      ],
+      "location": "Same Interior Room (at the table)",
+      "summary": "In solitude and emotional turmoil, Dorian composes a passionate letter addressed to Sibyl Vane. His frantic self-reproach and the wild flow of his words convey both a desperate search for atonement and an awareness of his own moral degradation."
+    },
+    {
+      "scene_number": 5,
+      "characters": [
+        "Dorian Gray",
+        "Lord Henry"
+      ],
+      "location": "Dorian\u2019s Room (immediately after the letter is written)",
+      "summary": "A persistent knock leads to the entrance of Lord Henry. Once inside, Lord Henry\u2019s conversation with Dorian takes a dramatic turn as he reveals the tragic news of Sibyl Vane\u2019s death. The dialogue juxtaposes Dorian\u2019s shock, despair, and conflicted feelings about his past actions with Lord Henry\u2019s cool philosophical musings on love, cruelty, and the nature of art and life."
+    },
+    {
+      "scene_number": 6,
+      "characters": [
+        "Dorian Gray"
+      ],
+      "location": "Dorian\u2019s Private Quarters",
+      "summary": "After Lord Henry departs, Dorian, alone with his thoughts, reopens the dialogue with his portrait. He fixes his gaze on the unchanged yet ominously altered painting, reflecting deeply on the symbolism of eternal youth, the burden of his sins, and the irreversible course his life has taken."
+    },
+    {
+      "scene_number": 7,
+      "characters": [
+        "Dorian Gray",
+        "Lord Henry"
+      ],
+      "location": "The Opera House",
+      "summary": "Concluding the chapter, Dorian transitions from his private introspection to the public stage. A short time later, he is seen at the opera where Lord Henry awaits him. This final scene marks the move from inner torment to the outward performance of life, as Dorian confronts his fate amidst society\u2019s dazzling distractions."
+    }
+  ],
+  "characters": [
+    "Patti",
+    "Basil Hallward",
+    "Dorian Gray",
+    "Victor",
+    "Lord Henry",
+    "Sibyl Vane"
+  ],
+  "major_characters": [
+    "Dorian Gray",
+    "Lord Henry",
+    "Sibyl Vane"
+  ]
+}

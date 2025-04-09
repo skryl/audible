@@ -1,0 +1,356 @@
+{
+  "Artist": {
+    "name": "Artist",
+    "chapters": [
+      1
+    ],
+    "gender": "Ambiguous (not explicitly defined)",
+    "age": "Timeless/Unknown",
+    "description": "The Artist is conceived as the creative force behind beautiful things. They are a visionary whose purpose is not to self-reveal but to allow art to speak for itself. Their work is driven by an intense dedication to aesthetics, creating beauty for beauty\u2019s sake.",
+    "personality": "Creative, individualistic, and nonconformist, the Artist shuns ethical sympathy and the need to prove truths. They favor subtle yet profound expression, embracing an aloof detachment from moralistic agendas. Their focus is entirely on the art itself, indicating a temperament that is both enigmatic and passionately devoted to form and symbolism.",
+    "voice": "The Artist\u2019s voice would be refined and expressive, with a graceful tone that carries hints of passion and mystery. It might possess a measured cadence and clear enunciation, possibly with a cultured accent that reflects timeless elegance. There is an undertone of gentle conviction, as if every word is carefully chosen to evoke emotion through art.",
+    "appearance": "While no explicit physical details are provided, one can imagine the Artist as having an unconventional, bohemian style. They might be of a lean build with expressive features that hint at inner creativity\u2014a glance that is both introspective and distant. Their attire could be artistic and somewhat fluid: garments that are both practical and emblematic of their nonconformist spirit, with subtle nods to traditional refinement."
+  },
+  "Critic": {
+    "name": "Critic",
+    "chapters": [
+      1
+    ],
+    "gender": "Male",
+    "age": "Unknown, likely mature or experienced",
+    "description": "The Critic is portrayed as the interpreter of beauty\u2014a translator who transforms their impressions of art into new forms or mediums. Functioning as a reflective and analytical counterpart to the Artist, the Critic\u2019s engagement with art is deeply personal, functioning partly as a mode of autobiography.",
+    "personality": "Analytical, perceptive, and introspective, the Critic displays a tendency to project personal narratives onto art. They have a well-cultivated sensibility, seeking beauty and meaning where others might see the opposite. This trait, however, is balanced by a critical eye that remains vigilant against corruption or excessive sentimentality, making them thoughtful, sometimes even self-critical, in their evaluations.",
+    "voice": "The Critic\u2019s voice would be articulate and measured, embodying an academic clarity combined with subtle passion for aesthetic ideals. It may feature a refined tone with crisp enunciation, suggesting depth of learning and experience. There could be a slight critical edge in their intonations, reflective of their habit of dissecting artistic nuances while maintaining a cultured air.",
+    "appearance": "Although not detailed in the text, the Critic might be envisioned as well-groomed and dignified, favoring a traditional, perhaps even scholarly style of dress. They could have a poised, attentive expression that communicates both their reflective nature and their firm opinions. Their overall demeanor is likely one of reserved elegance, exuding an air of refined sophistication."
+  },
+  "Lord Henry Wotton": {
+    "name": "Lord Henry Wotton",
+    "chapters": [
+      2,
+      3,
+      4
+    ],
+    "gender": "Male",
+    "age": "Not explicitly stated (likely in his 30s or 40s given his worldly experience)",
+    "description": "A charming and aristocratic conversationalist with a taste for wit and indulgence. He is well-educated, sophisticated, and enjoys provoking thought through ironic and hedonistic remarks.",
+    "personality": "Cynical, ironic, and intellectually playful, Lord Henry delights in aphorisms and paradoxes. He exhibits a nonchalant attitude toward social conventions, is fond of debates on art, morality, and society, and often masks serious reflections with humor. His conversational style is provocative, and he values beauty and intellect in others, though he does so in a detached and teasing manner.",
+    "voice": "His voice is likely cultured with an upper-class British accent, delivered in a relaxed yet measured tone. He speaks with a hint of sarcasm and self-assurance, punctuating his speech with witty asides that reveal both charm and a subtle opium-tinted languor.",
+    "appearance": "While not described in minute physical detail, he is portrayed as a refined gentleman often seen in well-tailored, fashionable clothing (such as an evening coat and white tie for public outings). He has a pointed brown beard and carries himself with an aristocratic air, his demeanor enhanced by the lingering trails of cigarette smoke and an overall impression of cultivated elegance."
+  },
+  "Basil Hallward": {
+    "name": "Basil Hallward",
+    "chapters": [
+      2,
+      3,
+      7,
+      8,
+      10,
+      12,
+      13,
+      14,
+      21
+    ],
+    "gender": "Male",
+    "age": "Not explicitly stated (likely a young to middle-aged artist)",
+    "description": "A dedicated and sensitive artist whose life and work are deeply intertwined. He is known for his striking portraits and the profound connection he feels with his subject, especially with Dorian Gray, who inspires a new phase in his art.",
+    "personality": "Introspective, sincere, and self-critical, Basil is both thoughtful and passionate about his art. He exhibits a mix of pride and vulnerability, evident in the way he imbues his work with pieces of his soul while simultaneously worrying about exposing too much of himself. Despite occasional moments of hesitation and self-doubt, his genuine commitment to beauty and truth in his creative expression shines through.",
+    "voice": "Basil's speech would be measured, thoughtful, and imbued with a quiet intensity that reflects his inner emotional landscape. His tone likely carries a gentle earnestness with hints of introspection, especially when discussing matters close to his artistic spirit.",
+    "appearance": "Physically, Basil is described indirectly through contrasts in his art. Phrases like 'rugged strong face' and 'coal-black hair' suggest a distinctive, somewhat intense and timeless look. His style of dress is that of a serious artist, perhaps a bit unconventional or idiosyncratic, reflecting both his intellectual nature and his occasional bouts of self-conscious eccentricity reminiscent of his Oxford days."
+  },
+  "Dorian Gray": {
+    "name": "Dorian Gray",
+    "chapters": [
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "gender": "Male",
+    "age": "Over twenty, though he is frequently described in terms that emphasize his youthful, almost timeless beauty",
+    "description": "An extraordinarily beautiful and mysterious young man who captivates those around him. His striking looks and graceful features seem almost otherworldly, inspiring both admiration and deep artistic fascination.",
+    "personality": "Much of Dorian\u2019s character is conveyed through the effect he has on others rather than through overtly expressed traits. He appears to be naturally charming and somewhat enigmatic, possessing an effortless magnetism. Although hinted at as being occasionally thoughtless, his presence exudes a kind of sublimity that prompts intense feelings and artistic reverence in Basil\u2014he is the silent catalyst of a creative revolution in the painter\u2019s work.",
+    "voice": "While his voice is not directly described, one can infer that it would be as refined and aesthetically pleasing as his appearance\u2014a soft, melodious, and gentle tone that complements his youthful look and the hypnotic quality of his personality.",
+    "appearance": "Dorian is depicted as a paragon of physical beauty, evoking comparisons to classical sculptures; his features are described in airy, luminous terms (ivory, rose-leaves, Adonis-like). His presence is delicate yet arresting, and even when not in the studio, he leaves a lasting impression with his flawless complexion, elegant bearing, and an overall aura of aesthetic perfection that transforms the environment around him."
+  },
+  "Lord Fermor (Uncle George)": {
+    "name": "Lord Fermor (Uncle George)",
+    "chapters": [
+      4
+    ],
+    "gender": "Male",
+    "age": "Elderly (an older gentleman with a long history in society)",
+    "description": "A genial yet blunt old bachelor of the aristocracy who has seen much of life. Known for his rough manners and candid outlook, he embodies a certain old-world charm mixed with a readiness to indulge in scandalous gossip.",
+    "personality": "Straightforward, curmudgeonly, and humorously opinionated, he is both a raconteur and a keeper of family lore. Though his manners may be rough, he is generous in spirit and enjoys reliving the past, even if his recollections are delivered with a dose of caustic wit.",
+    "voice": "His voice is likely gruff and direct with the accents of an English gentleman of a bygone era. It is characterized by a hearty, blunt tone, frequently interspersed with sarcastic remarks and a wry sense of humor.",
+    "appearance": "Lord Fermor is depicted in a rough shooting-coat, suggesting a man comfortable in informal, even rustic attire. With bushy white eyebrows and a weathered face that hints at decades of experience, he presents an unpretentious and straightforward aristocratic look."
+  },
+  "Aunt Agatha": {
+    "name": "Aunt Agatha",
+    "chapters": [
+      4
+    ],
+    "gender": "Female",
+    "age": "Middle-aged to elderly",
+    "description": "A dignified and well-established matron within the upper echelons of society, Aunt Agatha is a respectable hostess whose life incorporates both duty and the weight of familial tradition.",
+    "personality": "Practical, caring, and a touch exasperated by the incessant charity appeals that constantly vie for her attention. She balances sincere concern for others with a traditional, somewhat conservative outlook on the responsibilities and expectations of her social class.",
+    "voice": "Her voice would be measured and proper, reflecting the refined manners and controlled emotion of a seasoned society lady. There is an element of gentle reproach and warmth in her speech, especially when addressing family matters or social obligations.",
+    "appearance": "Typically attired in well-tailored, genteel clothing befitting her station, Aunt Agatha carries an air of dignified modesty. Her appearance is neat and conservative, emphasizing tradition and an adherence to the expected decorum of high society."
+  },
+  "Duchess of Harley": {
+    "name": "Duchess of Harley",
+    "chapters": [
+      4
+    ],
+    "gender": "Female",
+    "age": "Likely middle-aged",
+    "description": "A kind-hearted and popular noblewoman known for both her good temper and her striking physical presence. The Duchess is admired throughout society for her amiable disposition and her generous spirit.",
+    "personality": "Effusive, warm, and often self-deprecating, she navigates social situations with gentle humor and a keen interest in the cultural trends of her time. She is candid about her views on modernity versus tradition, especially when it comes to matters like fashion and society's changing mores.",
+    "voice": "Her voice is refined and expressive, with a dignified yet lively tone. There may be a musical quality to her speech, reflecting both her status and her good-natured approach to conversation.",
+    "appearance": "The Duchess is described as having ample, 'architectural' proportions\u2014a stately and robust figure that commands attention. She dresses elegantly in the refined style expected of her station, with well-chosen attire that accentuates her presence in any social setting."
+  },
+  "Sir Thomas Burdon": {
+    "name": "Sir Thomas Burdon",
+    "chapters": [
+      4
+    ],
+    "gender": "Male",
+    "age": "Likely middle-aged (mature and experienced in public life)",
+    "description": "A radical-minded member of Parliament who moves comfortably between the worlds of politics and refined social life. Sir Thomas is well-known for his clever remarks and for mixing with both the Tories and Liberals, according to his own pragmatic rules.",
+    "personality": "Assertive, opinionated, and occasionally supercilious, he possesses a keen intellect combined with a robust sense of civic duty. Though firmly rooted in his political beliefs, he also exhibits a lighthearted capacity for humor, especially in his debate about cultural differences.",
+    "voice": "His tone is clear, authoritative, and well-modulated\u2014a reflection of his political training and public speaking experience. There is a crisp, perhaps slightly aristocratic edge to his accent, with a measured cadence that lends his arguments an air of seriousness even when discussing trivial matters.",
+    "appearance": "Sir Thomas likely presents himself in formal, conservative attire fitting for a parliamentarian. He would be well-groomed, with an appearance that projects both confidence and the meticulousness of a public figure accustomed to scrutiny in both personal and professional arenas."
+  },
+  "Mr. Erskine of Treadley": {
+    "name": "Mr. Erskine of Treadley",
+    "chapters": [
+      4
+    ],
+    "gender": "Male",
+    "age": "Older gentleman (possibly in his sixties)",
+    "description": "A man of considerable charm and culture whose early life brimmed with literary and intellectual ambition. Now somewhat reticent since having 'said everything' in his youth, he exudes a refined yet understated presence.",
+    "personality": "Cultured, thoughtful, and quietly reflective, Mr. Erskine carries an air of gentle melancholy tempered by a wry sense of humor. He is comfortable with silence after a youthful outpouring of brilliance, preferring a subtle, measured interaction over flamboyant rhetoric. His remarks reveal a preference for reflection, a love for art and literature, and a hint of resigned wisdom.",
+    "voice": "His speech is likely soft, cultured, and deliberate, with an accent that speaks of long-standing English refinement. There is an intellectual warmth in his tone, punctuated by occasional philosophic asides that hint at a past rich with literary ambition.",
+    "appearance": "Mr. Erskine is imagined as a dignified and well-preserved gentleman, favoring classic, conservative clothing. His manner of dress and bearing suggest a man who has lived through\u2014and appreciated\u2014the intricacies of cultural life, with an air that is simultaneously relaxed and scholarly."
+  },
+  "Lord Henry": {
+    "name": "Lord Henry",
+    "chapters": [
+      5,
+      7,
+      8,
+      9,
+      11,
+      12,
+      18,
+      19,
+      20,
+      21
+    ],
+    "gender": "Male",
+    "age": "Mature adult (exact age not specified but implied to be older than Dorian)",
+    "description": "An aristocratic, urbane, and highly influential figure known for his witty repartee and iconoclastic views on life, art, and society. He exudes a confident, sometimes sardonic charm that captivates those around him.",
+    "personality": "Lord Henry is provocative, witty, and intellectually stimulating. He delights in espousing aphorisms and challenging conventional morals. His analytical and somewhat cynical view of life, love, and human behavior is paired with a penchant for irony and a love for aesthetic indulgence. He is both a mentor and a disarming conversationalist, and his observations reveal a complex mix of cynicism and artistry.",
+    "voice": "Lord Henry's voice is likely deep, measured, and laced with a refined British accent, reflective of his upper-class background. He speaks with deliberate phrasing, often employing irony and delicate humor in his tone. His voice carries an air of relaxed authority and subtle seduction, perfectly complementing his habit of punctuating his speech with striking, memorable aphorisms.",
+    "appearance": "He is depicted as a man with a refined style, evidenced by details such as his dark, crescent-shaped eyebrows and an overall sophisticated manner of dress. Always well-presented, his clothing and accessories\u2014such as his rings\u2014add to his image as a man of taste and subtle extravagance. His physical mannerisms, like his languid gestures and the way he is described as having heavy, thoughtful eyelids at times, contribute to a look of relaxed, aristocratic charm."
+  },
+  "Sibyl Vane": {
+    "name": "Sibyl Vane",
+    "chapters": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "gender": "Female",
+    "age": "Approximately 17 years old",
+    "description": "A young and exceptionally talented actress whose beauty and artistry captivate Dorian completely. Sibyl represents an almost otherworldly purity and delicate charm in the theatrical world.",
+    "personality": "Sibyl is shy, gentle, and imbued with a childlike innocence that contrasts with the often cynical world around her. Her demeanor is soft and unassuming; she appears almost oblivious to her own powerful effect on others. Though she is sensitive and profoundly connected to her art, she remains modest and unworldly, perceiving life more as a stage where her performances transform her into timeless heroines.",
+    "voice": "Her voice is one of her most captivating qualities, described as starting very low with deep, mellow notes that gradually swell to a sound reminiscent of a flute or a distant hautboy. It possesses a musical quality that stirs the emotions, shifting seamlessly to express both tender passion and rapturous ecstasy on stage.",
+    "appearance": "Sibyl is characterized by her delicate, flowerlike features\u2014a small, graceful face with plaited dark-brown hair and eyes described as 'violet wells of passion.' Her appearance is both ethereal and modest, enhancing her on-stage allure. In her theatrical roles, she transforms effortlessly, embodying an idealized beauty that makes her seem more like an icon of art than a conventional individual."
+  },
+  "Mrs. Vane": {
+    "name": "Mrs. Vane",
+    "chapters": [
+      6
+    ],
+    "gender": "Female",
+    "age": "Middle-aged",
+    "description": "Mrs. Vane is a weary, faded stage-player whose life has been marked by hardship and the relentless demands of money and appearances. As a mother to both Sibyl and James, she is practical and deeply involved in the financial and social aspects of their theatrical lives.",
+    "personality": "She exhibits a pragmatic, somewhat self-absorbed nature, focused heavily on the monetary realities of their existence. Despite occasional tenderness, she can be cynical, overly theatrical, and even querulous. Her approach to life is colored by her long experience in a world where art and commerce are in constant tension.",
+    "voice": "Her voice carries a tired yet affected tone, suggestive of past theatrical grandeur now faded into routine. There is a certain affected dramatic quality to her speech\u2014marked by false gestures and carefully curated expressions\u2014that hints at her background in acting and a lingering desire to recapture lost applause.",
+    "appearance": "Mrs. Vane is characterized by a worn, tired look. She has thin, bismuth-whitened hands and a pallid complexion that speaks to a life of hardship. Her clothing is described as tawdry and theatrical\u2014attempts to remain presentable on a meager income\u2014while her features show the effects of age and the burdens of a difficult life on the stage."
+  },
+  "James (Jim) Vane": {
+    "name": "James (Jim) Vane",
+    "chapters": [
+      6
+    ],
+    "gender": "Male",
+    "age": "16 years old",
+    "description": "Jim is a robust young man with a rough-hewn demeanor and a cautious, protective nature. He is noticeably less refined than his sister, both in his appearance and in his outlook on life, which is shaped by simplicity and a touch of defiant resilience.",
+    "personality": "Practical, direct, and sometimes sulky, Jim displays a mix of youthful stubbornness and deep caring\u2014especially when it comes to the well-being of his sister. His protective instincts border on possessiveness, and he is quick to express anger and jealousy, particularly regarding the idealized Prince Charming who has captured Sibyl's heart.",
+    "voice": "Jim\u2019s voice is characterized by a coarse, somewhat low tone that reflects his straightforward nature. It is less affected than his sister\u2019s, carrying the gruffness of someone accustomed to the hard edges of life. His speech tends to be plain and unpretentious, though it can crack with youthful passion when provoked.",
+    "appearance": "Described as thick-set with large hands and feet, Jim has a sturdier, more unpolished look compared to his sister\u2019s refined appearance. His clothes are ill-fitting and rough, underscoring his working-class background and his discomfort with the more delicate trappings of theatrical life. His physical presence is that of a practical, no-nonsense youth rather than a dandy."
+  },
+  "Prince Charming": {
+    "name": "Prince Charming",
+    "chapters": [
+      6
+    ],
+    "gender": "Male",
+    "age": "Not explicitly stated (presumed young adult)",
+    "description": "Prince Charming is more an ideal than a fully defined individual in this chapter\u2014a mysterious gentleman who represents Sibyl\u2019s dreams of passionate, transcendent love. His persona is built up by her fervent admiration and serves as the embodiment of romantic perfection.",
+    "personality": "While his true character remains somewhat elusive, the way he is portrayed indicates that he is charming, dignified, and the epitome of a romantic hero. Sibyl\u2019s adoration elevates him to an almost mythic status, though Jim\u2019s skepticism suggests that his gentlemanly qualities may be more superficial or even dangerously misleading.",
+    "voice": "Although his actual speaking voice isn\u2019t directly portrayed, one can infer that if he were to speak, it would be with refined, genteel inflections\u2014polite, measured, and carrying the soothing cadence of an idealized aristocrat. His voice might be soft yet persuasive, blending courtesy with an undercurrent of mystery.",
+    "appearance": "Prince Charming is envisioned as possessing strikingly handsome, idealized features\u2014a man with golden hair, captivating eyes, and an overall aristocratic bearing. His attire and presence are suggestive of the upper echelons of society: well-dressed with a natural elegance that makes him seem both accessible and exalted in Sibyl\u2019s eyes."
+  },
+  "Mrs. Leaf": {
+    "name": "Mrs. Leaf",
+    "chapters": [
+      11
+    ],
+    "gender": "Female",
+    "age": "Elderly (as indicated by her wrinkled hands and old-fashioned attire)",
+    "description": "Mrs. Leaf is the dedicated house-keeper, a long-time servant who manages the household with a blend of dutiful care and talkative nature. She is intimately familiar with the history and idiosyncrasies of the family estate.",
+    "personality": "She comes across as somewhat anxious and overly meticulous about the state of the house, but also warm and garrulous. Her cautious and respectful manner when interacting with her employer indicates a lifetime of service and loyalty, even as her uncertainty shows in her tremulous hands and hesitant speech.",
+    "voice": "Her voice might be characterized by an old-fashioned British quality\u2014soft, slightly tremulous, and careful. There is a touch of formality in her tone, reflective of her long-standing role in a traditional household.",
+    "appearance": "Mrs. Leaf is described in a black silk dress that projects both dignity and practicality, complemented by old-fashioned thread mittens. Her wrinkled hands and overall appearance mark her as an elderly woman who has served the family for many years, exuding a timeworn charm mixed with a hint of vulnerability."
+  },
+  "Mr. Hubbard": {
+    "name": "Mr. Hubbard",
+    "chapters": [
+      11
+    ],
+    "gender": "Male",
+    "age": "Not explicitly stated (appears middle-aged given his established career)",
+    "description": "Mr. Hubbard is the celebrated frame-maker known for his craftsmanship and dedication to art. He is a small, robust man whose expertise in his trade commands respect despite his modest background.",
+    "personality": "Cheerful, obliging, and good-natured, Mr. Hubbard is both affable and practical. He easily bends to the needs of his distinguished client, displaying an innate willingness to help and a certain pride in his work even as he comments wryly on the financial shortcomings of many artists.",
+    "voice": "His voice is likely robust and enthusiastic, with a slightly rough, working-man\u2019s timbre softened by a pleasant and genial tone. One might imagine a mild, somewhat jovial British accent reflecting his tradesman background, with an undercurrent of refined appreciation for art.",
+    "appearance": "Mr. Hubbard is depicted as a short, red-whiskered man with a florid complexion and freckled hands. His attire is that of a dedicated craftsman\u2014practical and perhaps a bit rumpled\u2014yet he carries himself with a sense of pride and friendliness. The physical reminders of his trade, such as his stout build and red facial hair, make him a memorable, slightly eccentric figure."
+  },
+  "Alan Campbell": {
+    "name": "Alan Campbell",
+    "chapters": [
+      15
+    ],
+    "gender": "Male",
+    "age": "Young man, possibly in his twenties (as inferred from his Cambridge days and intellectual pursuits)",
+    "description": "Alan Campbell is an exceptionally intelligent and scientifically minded individual who once shared a close friendship with Dorian Gray. A man of precision and discipline, he is more comfortable in a laboratory than in high society.",
+    "personality": "Alan is characterized by a cool, pragmatic, and deliberate disposition. He is analytical and somewhat detached when it comes to the gruesome realities of his scientific work, yet his inner sensitivity surfaces when forced to confront moral dilemmas. While his earlier friendship with Dorian suggests warmth once existed between them, his current interactions are marked by a stern, uncompromising attitude and a palpable sense of moral revulsion at Dorian\u2019s actions.",
+    "voice": "Alan\u2019s speech is described as hard, cold, and measured. His tone reflects his scientific background and a deliberate, thoughtful manner of speaking. There is an underlying formality and clarity, accented perhaps by an academic or upper-class English accent, which adds to the impression of a man who values logic and reason above all else.",
+    "appearance": "Alan is noted for his pallor and dark features, with coal-black hair and dark eyebrows that emphasize his severe expression. His choice of clothing, including his Astrakhan coat, underlines both his practical nature and refined taste. His overall appearance is that of a serious, somewhat ascetic young man, whose physical demeanor\u2014marked by nervous shivering when under stress\u2014mirrors the internal tension between his scientific detachment and personal integrity."
+  },
+  "Lady Narborough": {
+    "name": "Lady Narborough",
+    "chapters": [
+      16
+    ],
+    "gender": "Female",
+    "age": "Mature (exact age unspecified, but clearly a woman of advanced years)",
+    "description": "Lady Narborough is a sophisticated, witty, and somewhat eccentric hostess. A widow who has reinvented herself after her husband\u2019s death, she is known for her love of French fiction, cookery, and a joie de vivre that brings a playful energy to her gatherings.",
+    "personality": "She is both shrewd and humorous, with a penchant for lively banter and social commentary. Her wit is sharp, and she is unafraid to express her opinions on societal norms, marriages, and even the eccentricities of her guests. Despite her outward forcefulness, she shows a side of genuine affection, especially when considering the future happiness of those she cares about.",
+    "voice": "Her voice likely carries a confident, slightly sing-song quality with a refined British tone. It is animated and expressive, often punctuated by playful exclamations and a warm, inviting timbre that commands attention in a social setting.",
+    "appearance": "Lady Narborough\u2019s physical appearance has been remarked on as bearing 'the remains of really remarkable ugliness,' suggesting that while she may not be classically beautiful, she possesses a distinctive character. Her style is elegant yet unconventional, combining the flamboyance and sophistication of an upper-class lady with a personal quirkiness that sets her apart."
+  },
+  "Lord Henry (Wotton)": {
+    "name": "Lord Henry (Wotton)",
+    "chapters": [
+      16
+    ],
+    "gender": "Male",
+    "age": "Likely in his mature adulthood (exact age unspecified)",
+    "description": "Lord Henry is a charismatic and intellectually provocative aristocrat, known for his witty repartee and unorthodox opinions on society and love. As a central figure in high society, he exudes confidence and charm that both captivates and challenges those around him.",
+    "personality": "He is a consummate dandy\u2014a cynic with a playful spark. His behavior is marked by a blend of amusement and incisive commentary on life\u2019s hypocrisies. Ever the provocateur, he delights in stirring conversation with paradoxical statements on love, marriage, and social ambition. His remarks are laced with irony and a deliberate disregard for conventional morality, reflecting his belief in the value of wickedness and aesthetic excess.",
+    "voice": "Lord Henry\u2019s voice is described as slow and musical, projecting refined authority and casual charm. It likely carries a polished British accent and is both captivating and slightly sardonic. His tone is animated whenever he engages in debate or witty banter, marked by a measured, elegant delivery that underscores his intellectual flair.",
+    "appearance": "He presents himself with impeccable style and a relaxed elegance. His long, expressive fingers and graceful gestures, such as when he delicately handles an olive, reinforce his refined persona. While details on his build and facial features are sparse, his overall appearance suggests a man who is meticulously groomed and dressed with a flair for the dramatic, embodying the quintessential image of a charming aristocrat."
+  },
+  "Adrian Singleton": {
+    "name": "Adrian Singleton",
+    "chapters": [
+      17
+    ],
+    "gender": "Male",
+    "age": "Young adult (likely in his 20s)",
+    "description": "A fragile, disillusioned youth deeply entangled in a life of opium escapism. His smooth yellow hair and hesitant manner mark him as someone whose beauty belies his troubled state of mind.",
+    "personality": "Listless, melancholic, and resigned, Adrian exudes a sense of detachment and lethargy. He expresses a weariness about his social isolation and the fallout from failed relationships, showing little enthusiasm for forming new connections. His manner is one of careful withdrawal from a painful world.",
+    "voice": "Soft, hesitant, and subdued. Adrian\u2019s speech is marked by a fragile, almost indifferent quality, as if every utterance carries the burden of his inner desolation.",
+    "appearance": "Youthful and delicate, with smooth yellow hair and subtle, refined features. His overall look is unassuming, perhaps dressed in simple, slightly worn attire that reflects his inner disarray and disconnection from a more ordered life."
+  },
+  "James Vane": {
+    "name": "James Vane",
+    "chapters": [
+      17,
+      19
+    ],
+    "gender": "Male",
+    "age": "Likely nearing forty (as he remarks about the age his target should be)",
+    "description": "A rough-edged, vengeful man driven by an obsessive need for retribution over the tragic death of his sister, Sibyl Vane. His life has been marked by loss and a burning desire to exact what he sees as justice.",
+    "personality": "Obsessive, impulsive, and emotionally volatile. James is consumed by revenge, which overwhelms his reason and renders him unpredictable. His grief and fury create a temperament that is both dangerous and erratic, often leading him to act without papering over the details.",
+    "voice": "Harsh, gruff, and forceful. His speech carries the weight of anger and desperation, possibly tinged with a working-class accent that underscores his rough background. There is a raw, unpolished quality to his tone, reflecting both his physicality and his inner turmoil.",
+    "appearance": "Short and thick-set with a stout, imposing presence despite his relatively moderate height. His features are weathered and hardened, suggesting a life of struggle and hardship. His clothing is utilitarian and worn, indicative of a man more at home in the rougher parts of the city than in genteel society."
+  },
+  "Duchess of Monmouth (Gladys)": {
+    "name": "Duchess of Monmouth (Gladys)",
+    "chapters": [
+      18
+    ],
+    "gender": "Female",
+    "age": "Not explicitly stated (likely in her mature, aristocratic prime)",
+    "description": "A charming and elegant duchess known for her natural beauty and engaging presence. Gladys is confident in her identity, taking pride in her own name and style, and is a captivating conversationalist at high-society gatherings.",
+    "personality": "Witty, bold, and playfully flirtatious, she balances aristocratic poise with a lively and teasing spirit. Her dialogue suggests a keen intellect and a deep engagement with the philosophical and social currents of her time, while also reflecting a penchant for playful repartee that both challenges and complements Lord Henry\u2019s views.",
+    "voice": "Melodious and poised, with a refined and likely posh accent that reinforces her noble status. Her tone exudes warmth and mischief, with inflections that enhance her playful yet sincere conversation\u2014an auditory mirror to her sophisticated charm.",
+    "appearance": "Graceful and striking, she is depicted with delicate features such as full red lips, white, elegantly moving hands, and expressive, wonderful eyes. Her manner of dress is impeccable and fashionable\u2014for instance, her choice of a carefully coordinated frock that hints at both refinement and her attention to detail\u2014cementing her image as a refined and commanding presence in any room."
+  },
+  "Sir Geoffrey Clouston": {
+    "name": "Sir Geoffrey Clouston",
+    "chapters": [
+      19
+    ],
+    "gender": "Male",
+    "age": "Likely middle-aged (probably in his 40s or early 50s)",
+    "description": "Sir Geoffrey Clouston is the Duchess\u2019s brother and a competent, pragmatic outdoorsman. In the shooting party, his actions and dialogue reveal a man who values skill, precision, and proper decorum, particularly in a sporting context.",
+    "personality": "Practical, blunt, and possessing a dry sense of humor, Sir Geoffrey shows both competitiveness and good-natured jest. Though he is a man of action and decisive in his approach to shooting, he is also capable of friendly banter, making him both approachable and somewhat exacting in his expectations.",
+    "voice": "His voice is likely to be firm and authoritative with a clear, crisp accent befitting a gentleman of his standing. It carries an undercurrent of dry wit, and his speech is measured and direct, reflecting a no-nonsense attitude.",
+    "appearance": "Clouston would be elegantly attired in appropriate outdoor and sporting clothes, combining a refined style with practicality. He appears as a well-built, dignified man who carries the bearing of nobility, with polished features and a posture that underscores his gentlemanly heritage."
+  },
+  "The Duchess": {
+    "name": "The Duchess",
+    "chapters": [
+      19
+    ],
+    "gender": "Female",
+    "age": "Unspecified (but implied to be mature and well-established in high society)",
+    "description": "The Duchess is an elegant and enchanting aristocrat whose very presence is both commanding and graceful. In the chapter, she appears in a striking manner\u2014likened to Artemis in a tailor-made gown\u2014which enhances her aura of mystery and allure.",
+    "personality": "She is poised, articulate, and wryly observant. Her remarks suggest a deep understanding of society\u2019s subtleties and a certain flirtatiousness that is balanced by intellectual reserve. Though she engages in playful banter, she reveals hints of melancholy and guarded sentiment about love and identity.",
+    "voice": "Her voice would be melodious, refined, and imbued with a gentle, aristocratic lilt. There is a softness and measured elegance to her intonation\u2014a voice that charms and captivates while hinting at an inner depth and perhaps even sadness.",
+    "appearance": "The Duchess is portrayed as strikingly beautiful and impeccably dressed, with a modern yet timeless elegance. Her gown, compared to the attire of a goddess, emphasizes her graceful features, bright eyes, and charismatic smile. Her overall look is sophisticated, with a blend of formality and sensual allure intended to captivate those around her."
+  },
+  "Hetty Merton": {
+    "name": "Hetty Merton",
+    "chapters": [
+      21
+    ],
+    "gender": "Female",
+    "age": "Not explicitly mentioned (implied to be a young woman)",
+    "description": "A symbol of innocent charm and simplicity, Hetty embodies the purity and unspoiled nature that Dorian longs for but fears to tarnish. She represents a stark contrast to the decadent and corrupt lifestyle that Dorian has led.",
+    "personality": "Gentle, unassuming, and naturally warm, Hetty comes off as kind-hearted and naive. Her lack of worldly sophistication is counterbalanced by a genuine, infectious charm that recalls simpler, purer values.",
+    "voice": "Likely soft, melodious, and sincere with a light, unpretentious quality. Her speech would reflect her simplicity and rural grace, free of artifice and imbued with a natural warmth.",
+    "appearance": "Described through memories of her attire\u2014cotton dresses and large hats\u2014that evoke a quaint, country charm. Her look is modest yet endearing, with a timeless quality of natural beauty that stands in stark contrast to the cultivated sophistication of high society."
+  }
+}

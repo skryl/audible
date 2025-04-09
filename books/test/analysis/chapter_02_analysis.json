@@ -1,0 +1,49 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "characters": [
+        "Basil Hallward",
+        "Lord Henry Wotton"
+      ],
+      "location": "Basil\u2019s art studio",
+      "summary": "In the richly described studio\u2014redolent with the scents of roses and lilac\u2014Basil Hallward is seen before his full-length portrait of a young, exquisitely beautiful man. Lord Henry reclines on a divan, smoking and observing the surroundings. The two engage in a dialogue about the portrait, its artistic significance, and why Basil refuses to exhibit the work despite its brilliance. Their conversation delves into the notion that every painting reveals a part of the artist\u2019s soul, as well as the interplay of beauty and intellectual expression."
+    },
+    {
+      "scene_number": 2,
+      "characters": [
+        "Basil Hallward",
+        "Lord Henry Wotton"
+      ],
+      "location": "The garden adjoining the studio",
+      "summary": "Leaving the confines of the studio, the two men move into the garden where the conversation continues amidst natural beauty\u2014bamboo seats, blooming daisies, and gentle breezes. Here, Basil recounts the night at Lady Brandon\u2019s, where he first encountered the enigmatic Dorian Gray, whose presence profoundly affected him. Their dialogue expands into a discussion of artistic inspiration, the passion that fuels creativity, and the delicate balance between personal vanity and true art. Lord Henry\u2019s witty, cynical observations about friendship, marriage, and societal expectations further color their exchange."
+    },
+    {
+      "scene_number": 3,
+      "characters": [
+        "Basil Hallward",
+        "Lord Henry Wotton",
+        "Dorian Gray (implied through his imminent arrival)",
+        "Parker (the butler)"
+      ],
+      "location": "Near the entrance of the studio from the garden",
+      "summary": "As the garden conversation reaches its intellectual and emotional peak, a turning point occurs when Parker, the butler, enters and informs them that Dorian Gray is present in the studio. This announcement heightens the tension: Lord Henry expresses a keen desire to meet him immediately, while Basil shows reluctance and concern about exposing his soul through the portrait. The scene closes as Basil implores that Dorian\u2019s mysterious influence on his art be safeguarded from the world\u2019s prying eyes, underscoring the deep personal connection he feels to the young man."
+    }
+  ],
+  "characters": [
+    "Basil Hallward",
+    "Dorian Gray",
+    "Dorian Gray (implied through his imminent arrival)",
+    "Lord Henry Wotton",
+    "Parker (the butler)",
+    "Parker",
+    "Lord Goodbody",
+    "Lady Agatha",
+    "Lady Brandon"
+  ],
+  "major_characters": [
+    "Lord Henry Wotton",
+    "Basil Hallward",
+    "Dorian Gray"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "characters": [
+        "Dorian Gray",
+        "Basil Hallward",
+        "Lord Henry Wotton"
+      ],
+      "location": "Basil\u2019s studio (interior), near the piano",
+      "summary": "Upon entering the studio, the company finds Dorian seated at the piano reading Schumann\u2019s work. Basil introduces Lord Henry to Dorian, and the three exchange light, witty banter about music, portrait sitting, and social obligations, setting the stage for the interplay of art, beauty, and personality."
+    },
+    {
+      "scene_number": 2,
+      "characters": [
+        "Dorian Gray",
+        "Basil Hallward",
+        "Lord Henry Wotton"
+      ],
+      "location": "Basil\u2019s studio (interior, around the painting area)",
+      "summary": "As Basil prepares his paints and brushes to work on Dorian\u2019s portrait, a lively conversation ensues. Dorian climbs onto the platform to pose while Lord Henry launches into a provocative lecture on influence, self-development, and the corruptibility of the soul. Dorian is visibly affected; his expression hints at newly awakened inner conflicts."
+    },
+    {
+      "scene_number": 3,
+      "characters": [
+        "Dorian Gray",
+        "Lord Henry Wotton",
+        "(Parker, the servant, appears briefly)"
+      ],
+      "location": "The garden adjoining the studio",
+      "summary": "Feeling stifled in the studio, Dorian insists on escaping to the garden for fresh air. Lord Henry accompanies him, and amid the lilac blossoms and natural scents, the conversation turns to the virtues of youth and the inevitability of aging. The sensory beauty of the garden intensifies Dorian\u2019s inner turmoil as he contemplates the fleeting nature of beauty."
+    },
+    {
+      "scene_number": 4,
+      "characters": [
+        "Dorian Gray",
+        "Basil Hallward",
+        "Lord Henry Wotton"
+      ],
+      "location": "Back inside the studio",
+      "summary": "Responding to Basil\u2019s gesture as he summons them back, the group returns to the studio where Basil reveals the nearly finished portrait. The atmosphere is charged as the portrait\u2019s lifelike beauty forces Dorian to confront a dawning realization of his own aging and the transient nature of beauty. Both Basil and Lord Henry comment on the work, setting off a series of emotionally charged reflections."
+    },
+    {
+      "scene_number": 5,
+      "characters": [
+        "Dorian Gray",
+        "Basil Hallward",
+        "Lord Henry Wotton"
+      ],
+      "location": "The studio, transitioning later to a tea setting and eventual departures",
+      "summary": "In a powerful emotional climax, Dorian reacts with intense jealousy and despair upon realizing that while his portrait ages, he will remain forever youthful in appearance. This leads to a heated exchange between Dorian and Basil\u2014with Lord Henry\u2019s sardonic contributions adding to the tension. As tea is served and light banter resumes with plans to attend the theatre, the unresolved conflict lingers. Dorian\u2019s anguished vow to preserve his unchanging beauty and Basil\u2019s sorrowful resignation underscore the chapter\u2019s themes of art, beauty, and the inevitability of change."
+    }
+  ],
+  "characters": [
+    "Basil Hallward",
+    "Dorian Gray",
+    "(Parker, the servant, appears briefly)",
+    "Lord Henry Wotton",
+    "Parker",
+    "Lady Agatha"
+  ],
+  "major_characters": [
+    "Dorian Gray",
+    "Basil Hallward",
+    "Lord Henry Wotton"
+  ]
+}

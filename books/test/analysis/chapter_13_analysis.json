@@ -1,0 +1,60 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "characters": [
+        "Dorian Gray",
+        "Basil Hallward"
+      ],
+      "location": "Foggy London street at the corner of Grosvenor Square and South Audley Street",
+      "summary": "On a cold, foggy November night, Dorian Gray is returning home from dinner when he unexpectedly encounters Basil Hallward on the street. Dorian, wrapped in his heavy furs and disoriented by the mist, fails to recognize Basil at first, but Basil quickly catches up and greets him, setting the stage for their ensuing conversation."
+    },
+    {
+      "scene_number": 2,
+      "characters": [
+        "Dorian Gray",
+        "Basil Hallward"
+      ],
+      "location": "Dorian Gray's house \u2013 specifically in the well-lit library",
+      "summary": "Dorian invites Basil into his home after the brief street encounter. In the warmth of the library, complete with a blazing fire and comfortable furnishings, Basil explains his travel plans to Paris and makes light, humorous observations (including quips about his fashionable travel gear and the servant). Their conversation begins on a casual, almost genial note as they exchange pleasantries and reminiscences."
+    },
+    {
+      "scene_number": 3,
+      "characters": [
+        "Dorian Gray",
+        "Basil Hallward"
+      ],
+      "location": "Dorian Gray's library",
+      "summary": "The tone deepens as Basil shifts the conversation to more serious matters. He expresses concern over the vicious rumours and scandals circulating about Dorian\u2019s reputation in London, citing incidents involving various acquaintances. Basil\u2019s earnest and troubled tone contrasts with Dorian\u2019s petulant and indifferent responses, as Dorian defends himself against the allegations and dismisses the seriousness of the gossip."
+    },
+    {
+      "scene_number": 4,
+      "characters": [
+        "Dorian Gray",
+        "Basil Hallward"
+      ],
+      "location": "Still in Dorian Gray's library, before transitioning upstairs",
+      "summary": "The confrontation reaches its climax when Basil warns Dorian of the dire consequences of his reputed lifestyle and the moral corruption his associations seem to bring. In response, Dorian boldly declares that Basil will be allowed to \u2018see his soul\u2019\u2014a provocative challenge that shocks Basil. The heated exchange culminates in Dorian inviting Basil upstairs to review his diary, where Dorian implies that the truth about his life (and soul) is recorded, leaving an atmosphere of tension and defiance."
+    }
+  ],
+  "characters": [
+    "Basil Hallward",
+    "Dorian Gray",
+    "Duke of Perth",
+    "Lord Gloucester",
+    "The Frenchman",
+    "Lady Radley\u2019s maid",
+    "Lord Henry",
+    "Lady Gwendolen",
+    "Adrian Singleton",
+    "Harry",
+    "Sir Henry Ashton",
+    "Duke of Berwick",
+    "Lord Staveley",
+    "Lord Kent\u2019s only son"
+  ],
+  "major_characters": [
+    "Dorian Gray",
+    "Basil Hallward"
+  ]
+}

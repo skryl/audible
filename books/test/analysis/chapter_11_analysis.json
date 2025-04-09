@@ -1,0 +1,97 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "characters": [
+        "Dorian Gray",
+        "Servant"
+      ],
+      "location": "Dorian\u2019s private room (near a glass screen)",
+      "summary": "Dorian, while smoking a cigarette and studying his reflection, issues secret orders to his impassive servant\u2014first to summon the house-keeper and then to contact the frame-maker to send two men\u2014while he remains guarded and suspicious."
+    },
+    {
+      "scene_number": 2,
+      "characters": [
+        "Dorian Gray",
+        "Mrs. Leaf"
+      ],
+      "location": "Library",
+      "summary": "Mrs. Leaf enters in her black silk dress and, after some chattering about the dusty, long-sealed old schoolroom and memories of Dorian\u2019s grandfather, reluctantly hands over the key to the neglected schoolroom at Dorian's request."
+    },
+    {
+      "scene_number": 3,
+      "characters": [
+        "Dorian Gray"
+      ],
+      "location": "Private room within the house, behind a screen",
+      "summary": "Alone, Dorian admires a vivid purple satin coverlet and reflects on the cursed portrait lurking behind it. He ruminates on his inner corruption and laments that he once might have had help from Basil, downplaying past reproaches and acknowledging the inevitable decay haunting his soul."
+    },
+    {
+      "scene_number": 4,
+      "characters": [
+        "Dorian Gray",
+        "Servant"
+      ],
+      "location": "Dorian\u2019s room",
+      "summary": "A knock at the door interrupts his brooding. Dorian quickly scribbles a note to Lord Henry and instructs his servant to admit the men waiting outside, all while harboring a deep mistrust of the servant\u2019s observant eyes."
+    },
+    {
+      "scene_number": 5,
+      "characters": [
+        "Dorian Gray",
+        "Mr. Hubbard",
+        "Hubbard\u2019s Assistant"
+      ],
+      "location": "Hallway and along the staircase leading to a secluded room",
+      "summary": "Mr. Hubbard, the frame-maker, and his young assistant arrive to help move the covered portrait. As they carefully unhook and transport the picture up the wide front staircase, Dorian assists them intermittently while maintaining strict secrecy over its true nature and destination."
+    },
+    {
+      "scene_number": 6,
+      "characters": [
+        "Dorian Gray"
+      ],
+      "location": "Old schoolroom (a secluded, long-unused study)",
+      "summary": "Upon reaching the secret room\u2014filled with childhood relics such as an Italian cassone and a familiar book-case\u2014Dorian reflects bitterly on his past and his isolation. He deliberately conceals the portrait beneath the cover, believing that his secret must remain hidden from prying eyes."
+    },
+    {
+      "scene_number": 7,
+      "characters": [
+        "Dorian Gray"
+      ],
+      "location": "Library",
+      "summary": "Returning to the library after securing the portrait, Dorian finds tea set out on a decorated table with a note from Lord Henry, a newspaper, and a mysterious yellow book. Disturbed by a red-pencil-marked article about Sibyl Vane\u2019s inquest, he grows uneasy about potential prying by Victor, and becomes absorbed as he begins to read the poisonous, enigmatic book."
+    },
+    {
+      "scene_number": 8,
+      "characters": [
+        "Dorian Gray",
+        "Lord Henry"
+      ],
+      "location": "Club (morning-room and dining-room)",
+      "summary": "After hours lost in reverie over the strange book, Dorian finally dresses for dinner and arrives at the club nearly nine o\u2019clock. There, he meets Lord Henry\u2014who had anticipated his visit\u2014and apologizes for his delay, attributing it to his engrossing reading, as they transition into the dining-room together."
+    }
+  ],
+  "characters": [
+    "Servant",
+    "Basil Hallward",
+    "Dorian Gray",
+    "Mrs. Leaf",
+    "Hubbard\u2019s Assistant",
+    "Victor",
+    "Lord Henry",
+    "Lady Radley",
+    "Dorian\u2019s grandfather (unnamed)",
+    "Sibyl Vane",
+    "Mr. Danby",
+    "Mr. Hubbard",
+    "Dorian\u2019s unnamed servant",
+    "Dr. Birrell",
+    "Mr. Hubbard\u2019s assistant"
+  ],
+  "major_characters": [
+    "Dorian Gray",
+    "Lord Henry",
+    "Mrs. Leaf",
+    "Mr. Hubbard"
+  ]
+}

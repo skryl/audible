@@ -1,0 +1,73 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "characters": [
+        "Dorian Gray",
+        "Lord Henry",
+        "Basil Hallward",
+        "The Manager (fat Jew)"
+      ],
+      "location": "Inside the crowded theatre box/entrance of the theatre",
+      "summary": "Dorian, Lord Henry, and Basil arrive at a packed theatre. They are greeted enthusiastically by the ostentatious manager. The three men settle into their box while discussing the theatre\u2019s spiritual effect on the audience and anticipating Sibyl Vane\u2019s performance. Their contrasting views on art and divinity are revealed in animated conversation."
+    },
+    {
+      "scene_number": 2,
+      "characters": [
+        "Dorian Gray",
+        "Lord Henry",
+        "Basil Hallward",
+        "Sibyl Vane",
+        "Theatre Audience",
+        "The Manager"
+      ],
+      "location": "Onstage and within the theatre during the performance",
+      "summary": "Sibyl Vane steps onto the stage and attempts to embody the characters of a Shakespearean heroine. Dorian is entranced by her beauty and grace while Lord Henry and Basil comment on her performance. However, as her delivery grows increasingly artificial and overly gestured, even the audience becomes restless and disappointed. The act ends in a fiasco, with hissing and a widespread sense of discontent."
+    },
+    {
+      "scene_number": 3,
+      "characters": [
+        "Dorian Gray",
+        "Sibyl Vane"
+      ],
+      "location": "The greenroom (backstage area) of the theatre",
+      "summary": "Immediately after the disastrous performance, Dorian rushes backstage into the greenroom where Sibyl awaits alone with a look of triumphant, yet conflicted joy. In a charged exchange, Sibyl rambles about her artistic awakening and disillusionment with the stage, while Dorian, filled with bitter disappointment, berates her for failing him. Their dialogue culminates in Dorian\u2019s cold rejection as he abruptly leaves, declaring that she has 'killed his love.'"
+    },
+    {
+      "scene_number": 4,
+      "characters": [
+        "Dorian Gray"
+      ],
+      "location": "The dark, disorienting streets of the city leading to Covent Garden at dawn",
+      "summary": "Alone and distraught, Dorian wanders through dimly lit, gloom-ridden streets filled with unsettling urban scenes and disjointed encounters with miscellaneous passers\u2010by. The nocturnal journey is portrayed in vivid, melancholic detail as he drifts towards Covent Garden, the atmosphere shifting as dawn breaks and hints of fresh beauty attempt to soothe his inner turmoil."
+    },
+    {
+      "scene_number": 5,
+      "characters": [
+        "Dorian Gray"
+      ],
+      "location": "Dorian\u2019s home, including the entrance hall, library, and his lavishly decorated bedroom",
+      "summary": "Returning home, Dorian undergoes a period of introspection. In his stately apartment, he observes his meticulously maintained surroundings and, most disturbingly, his portrait. Noticing subtle yet unnerving changes in the image\u2014a touch of cruelty now etched on his painted face\u2014he is forced to confront the burden of his past actions and inner corruption. This introspection stirs conflicting feelings: a mix of regret over his harsh treatment of Sibyl and a resolve to reclaim his capacity for love by trying to make amends, even as the portrait stands as a silent emblem of his conscience."
+    }
+  ],
+  "characters": [
+    "Miranda",
+    "Basil Hallward",
+    "Romeo",
+    "Dorian Gray",
+    "Caliban",
+    "The Manager (fat Jew)",
+    "Fat Jew Manager",
+    "Lord Henry",
+    "The Manager",
+    "Theatre Audience",
+    "Sibyl Vane",
+    "Mercutio"
+  ],
+  "major_characters": [
+    "Dorian Gray",
+    "Lord Henry",
+    "Basil Hallward",
+    "Sibyl Vane"
+  ]
+}
