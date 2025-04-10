@@ -27,7 +27,7 @@ def prepare_tts(book_dir, force=False, provider=None):
     # Get provider from environment variable if not specified
     if provider is None:
         provider = os.getenv("AUDIBLE_TTS_PROVIDER", "openai").lower()
-        
+
     log(f"Preparing TTS requests for book in {book_dir} using {provider} provider")
 
     # Create tts directory if it doesn't exist
@@ -95,7 +95,7 @@ def prepare_tts(book_dir, force=False, provider=None):
 
         # Get the TTS filename using the utility function
         tts_file = get_chapter_filename(
-            book_dir, chapter_num, 'tts', num_chapters=num_chapters, 
+            book_dir, chapter_num, 'tts', num_chapters=num_chapters,
         )
 
         # Skip if TTS file exists and we're not forcing regeneration
@@ -325,90 +325,98 @@ def prepare_voice_mappings(book_dir, force=False):
     """
     Create voice_mappings.json for all characters found in characters.json
     with default voices for OpenAI and Cartesia providers.
-    
+
     Args:
         book_dir (str): Directory containing the book data
         force (bool): Force regeneration of voice mappings even if they exist
     """
     log(f"Preparing voice mappings for book in {book_dir}")
-    
+
     # Ensure voices directory exists
     voices_dir = os.path.join(book_dir, "voices")
     if not os.path.exists(voices_dir):
         os.makedirs(voices_dir)
         log(f"Created voices directory at {voices_dir}")
-        
+
     # Characters directory path
     characters_dir = os.path.join(book_dir, "characters")
-    
+
     # Check for character information in characters directory
     characters_file = os.path.join(characters_dir, "characters.json")
     if not os.path.exists(characters_file):
         log(f"Characters file not found at {characters_file}. Run extract_characters first.", level="ERROR")
         return False
-    
+
     # Voice mappings file path
     voice_mappings_file = os.path.join(voices_dir, "voice_mappings.json")
-    
+
     # Check if voice mappings already exist and we're not forcing regeneration
     if os.path.exists(voice_mappings_file) and not force:
         log(f"Voice mappings file already exists at {voice_mappings_file}. Use --force to regenerate.")
         return True
-        
+
     # Load characters
     with open(characters_file, "r", encoding="utf-8") as f:
         characters = json.load(f)
-    
+
     # OpenAI voice options
     openai_voices = ["alloy", "echo", "fable", "onyx", "nova", "shimmer"]
-    
+
+    # CSM voice options (speaker IDs 0-5)
+    csm_voices = ["0", "1", "2", "3", "4", "5"]
+
     # Create default voice mappings
     voice_mappings = {}
-    
+
     # Add narrator first
     voice_mappings["Narrator"] = {
         "openai": "onyx",  # Deeper voice for narrator
-        "cartesia": "en_male_neutral"  # Default Cartesia male voice
+        "cartesia": "en_male_neutral",  # Default Cartesia male voice
+        "csm": "0"  # Default CSM speaker
     }
-    
+
     # Simple voice assignment - cycle through available voices for variety
     voice_index = 0
-    
+
     # Create mapping for each character
     for char_name, char_data in characters.items():
         # Skip if already processed (e.g., narrator)
         if char_name in voice_mappings:
             continue
-            
+
         # Get gender from character data if available
         gender = char_data.get("gender", "").lower()
         is_male = "male" in gender
         is_female = "female" in gender
-        
+
         # Determine OpenAI voice based on gender and available voices
         if is_male:
             openai_voice = "echo" if voice_index % 2 == 0 else "fable"
             cartesia_voice = "en_male_neutral"
+            csm_voice = csm_voices[voice_index % 3 + 1]  # Use speakers 1, 2, 3 for male voices
         elif is_female:
             openai_voice = "nova" if voice_index % 2 == 0 else "shimmer"
             cartesia_voice = "en_female_neutral"
+            csm_voice = csm_voices[voice_index % 2 + 4]  # Use speakers 4, 5 for female voices
         else:
             # Use a rotating voice if gender not specified
             openai_voice = openai_voices[voice_index % len(openai_voices)]
             cartesia_voice = "en_male_neutral" if voice_index % 2 == 0 else "en_female_neutral"
-        
+            csm_voice = csm_voices[voice_index % len(csm_voices)]
+
         # Add to voice mappings
         voice_mappings[char_name] = {
             "openai": openai_voice,
-            "cartesia": cartesia_voice
+            "cartesia": cartesia_voice,
+            "csm": csm_voice
         }
-        
+
         voice_index += 1
-    
+
     # Save voice mappings
     with open(voice_mappings_file, "w", encoding="utf-8") as f:
         json.dump(voice_mappings, f, indent=2)
-    
+
     log(f"Created voice mappings for {len(voice_mappings)} characters at {voice_mappings_file}")
     return True
 

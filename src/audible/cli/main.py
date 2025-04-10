@@ -69,7 +69,7 @@ def main():
 
     # Main command arguments
     parser.add_argument("--book-dir", help="Directory containing the book data")
-    parser.add_argument("--tts-provider", help="TTS provider to use (openai, cartesia)", default="openai")
+    parser.add_argument("--tts-provider", help="TTS provider to use (openai, cartesia, google, csm)", default="openai")
     parser.add_argument("--tts-model", help="TTS model to use (provider-specific)", default=None)
     parser.add_argument("--use-cloned-voices", help="Use cloned voices if available", action="store_true")
     parser.add_argument("--no-emotions", help="Disable emotion-based voice modulation", action="store_true")

@@ -7,6 +7,7 @@ from audible.utils.common import log
 from audible.tts.openai_tts import OpenAITTS
 from audible.tts.cartesia_tts import CartesiaTTS
 from audible.tts.google_tts import GoogleTTS
+from audible.tts.csm_tts import CSMTTS
 
 class TTSFactory:
     """Factory class for creating TTS provider instances."""
@@ -17,7 +18,7 @@ class TTSFactory:
         Create an instance of the appropriate TTS provider.
 
         Args:
-            provider: String specifying the TTS provider ('openai', 'cartesia', or 'google')
+            provider: String specifying the TTS provider ('openai', 'cartesia', 'google', or 'csm')
             model: Model name to use (provider-specific)
             use_cloned_voices: Whether to use cloned voices when available (Cartesia only)
 
@@ -34,6 +35,8 @@ class TTSFactory:
                 model = "sonic-2"  # Default Cartesia TTS model
             elif provider == "google":
                 model = "en-US-Neural2-D"  # Default Google TTS model
+            elif provider == "csm":
+                model = "csm-1b"  # Default CSM TTS model
 
         # Validate that we have the appropriate API key
         if provider == "openai" and not os.getenv("OPENAI_API_KEY"):
@@ -62,6 +65,9 @@ class TTSFactory:
         elif provider == "google":
             log(f"Creating Google TTS with model {model}")
             return GoogleTTS(model=model)
+        elif provider == "csm":
+            log(f"Creating CSM TTS with model {model}")
+            return CSMTTS(model=model)
         else:
             log(f"Unknown TTS provider: {provider}", level="ERROR")
-            raise ValueError(f"Unknown TTS provider: {provider}. Supported providers: openai, cartesia, google")
+            raise ValueError(f"Unknown TTS provider: {provider}. Supported providers: openai, cartesia, google, csm")

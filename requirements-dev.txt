@@ -1,4 +1,0 @@
-pytest
-pytest-mock
-pytest-asyncio
-# Add other development dependencies here

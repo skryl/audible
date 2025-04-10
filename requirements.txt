@@ -1,6 +1,0 @@
-openai>=1.0.0
-tiktoken
-python-dotenv
-anthropic>=0.10.0
-google-cloud-aiplatform>=1.25.0
-google-cloud-texttospeech>=2.11.0

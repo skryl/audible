@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 """
 Python script to run the audible CLI main function directly.
 """
@@ -26,6 +26,9 @@ sys.path.insert(0, src_dir)
 # Import CLI main function
 from audible.cli.main import main as cli_main
 
+def main():
+    cli_main()
+
 if __name__ == "__main__":
     # Call the CLI main function directly
-    cli_main()
+    main()
