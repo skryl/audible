@@ -32,6 +32,7 @@ credentials.json
 # Editor directories and files
 .idea/
 .vscode/
+.specstory/
 *.swp
 *.swo
 .DS_Store

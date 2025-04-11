@@ -11,15 +11,9 @@ dependencies = [
     "cartesia>=2.0.0",
     "google-cloud-aiplatform>=1.25.0",
     "google-cloud-texttospeech>=2.11.0",
+    "csm-mlx @ git+https://github.com/senstella/csm-mlx",
 ]
 [project.optional-dependencies]
-csm= [
-    "csm-mlx @ git+https://github.com/senstella/csm-mlx",
-    "mlx>=0.4.0",
-    "huggingface_hub>=0.20.0",
-    "numpy>=1.24.0",
-    "soundfile>=0.12.0",
-]
 dev= [
     "python-dotenv",
     "pytest",

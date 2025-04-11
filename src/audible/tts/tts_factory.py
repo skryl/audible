@@ -4,10 +4,6 @@ Factory module for creating TTS provider instances.
 
 import os
 from audible.utils.common import log
-from audible.tts.openai_tts import OpenAITTS
-from audible.tts.cartesia_tts import CartesiaTTS
-from audible.tts.google_tts import GoogleTTS
-from audible.tts.csm_tts import CSMTTS
 
 class TTSFactory:
     """Factory class for creating TTS provider instances."""
@@ -30,12 +26,16 @@ class TTSFactory:
         # Set default models based on provider
         if model is None:
             if provider == "openai":
+                from audible.tts.openai_tts import OpenAITTS
                 model = "gpt-4o-mini-tts"  # Default OpenAI TTS model
             elif provider == "cartesia":
+                from audible.tts.cartesia_tts import CartesiaTTS
                 model = "sonic-2"  # Default Cartesia TTS model
             elif provider == "google":
+                from audible.tts.google_tts import GoogleTTS
                 model = "en-US-Neural2-D"  # Default Google TTS model
             elif provider == "csm":
+                from audible.tts.csm_tts import CSMTTS
                 model = "csm-1b"  # Default CSM TTS model
 
         # Validate that we have the appropriate API key

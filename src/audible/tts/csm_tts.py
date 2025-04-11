@@ -4,18 +4,13 @@ CSM TTS module for generating speech using local CSM ML models.
 
 import os
 import time
-import asyncio
 from audible.utils.common import log, prepare_chapter_directory
 from huggingface_hub import hf_hub_download
 import numpy as np
 import soundfile as sf
 
-# Import CSM model components
-try:
-    from csm_mlx import CSM, csm_1b, generate, Segment
-    import mlx.core as mx
-except ImportError:
-    log("CSM MLX not installed. Install with: pip install csm-mlx", level="ERROR")
+from csm_mlx import CSM, csm_1b, generate, Segment
+import mlx.core as mx
 
 
 class CSMTTS:
@@ -74,7 +69,7 @@ class CSMTTS:
         # Ensure the output directory exists
         os.makedirs(os.path.dirname(output_file), exist_ok=True)
 
-        # Prepare context instructions based on emotion and other traits
+        # Prepare context instructions for metadata only
         context_instructions = []
 
         # Add emotion if provided
@@ -97,7 +92,7 @@ class CSMTTS:
             "context_prompt": context_prompt
         }
 
-    def generate_speech(self, request):
+    def generate_speech(self, request, context_segments=None):
         """
         Generate speech using the local CSM model.
 
@@ -108,6 +103,7 @@ class CSMTTS:
                 - output_file: Path to save the audio file
                 - emotion: Optional emotion to apply
                 - voice_traits: Optional voice characteristics to apply
+            context_segments: List of previously generated Segment objects for context
 
         Returns:
             Path to the generated audio file or None if failed
@@ -128,17 +124,8 @@ class CSMTTS:
             # We'll use a simple hash function to map voice_id strings to integers
             speaker_id = hash(voice_id) % 6  # Use 6 different possible speakers
 
-            # Create context segments if we have a context prompt
-            context = []
-            if context_prompt:
-                # Create a simple context segment with no audio
-                context = [
-                    Segment(
-                        speaker=speaker_id,
-                        text=context_prompt,
-                        audio=mx.array(np.zeros(1000), dtype=mx.float32)  # Empty audio placeholder
-                    )
-                ]
+            # Use provided context segments if available
+            context = context_segments or []
 
             # Generate audio using CSM
             audio = generate(
@@ -146,34 +133,25 @@ class CSMTTS:
                 text=text,
                 speaker=speaker_id,
                 context=context,
-                max_audio_length_ms=10_000  # 10 seconds max
+                max_audio_length_ms=100_000  # 100 seconds max
             )
 
             # Save the audio file (CSM generates float32 arrays at 24kHz)
             sf.write(output_file, audio, 24000, format='WAV')
             log(f"Saved audio to {output_file}")
-            return output_file
+
+            # Create and return a new segment with this generated audio
+            new_segment = Segment(
+                speaker=speaker_id,
+                text=text,
+                audio=mx.array(audio, dtype=mx.float32)
+            )
+
+            return output_file, new_segment
 
         except Exception as e:
             log(f"Error generating speech with CSM: {e}", level="ERROR")
-            return None
-
-    async def generate_speech_async(self, request):
-        """
-        Generate speech using the CSM model asynchronously.
-
-        Note: This is a wrapper around the synchronous method since
-        the CSM model doesn't have native async support yet.
-
-        Args:
-            request: Dictionary containing the TTS request details
-
-        Returns:
-            Path to the generated audio file or None if failed
-        """
-        # We'll run the synchronous method in a thread pool
-        loop = asyncio.get_event_loop()
-        return await loop.run_in_executor(None, self.generate_speech, request)
+            return None, None
 
     def _prepare_chapter_directory(self, output_path):
         """
@@ -301,16 +279,22 @@ class CSMTTS:
             # Create directory structure
             chapter_dir, new_output_path, chapter_name = self._prepare_chapter_directory(output_path)
 
-            # Process each segment sequentially
+            # Process each segment sequentially, building context as we go
             temp_files = []
+            context_segments = []  # Keep track of all previously generated segments
+
             for i, segment in enumerate(segments):
                 request, temp_output = self._prepare_segment_request(segment, i, chapter_dir)
                 if not request:
                     continue
 
-                result = self.generate_speech(request)
+                # Generate speech with context from previous segments
+                result, new_segment = self.generate_speech(request, context_segments)
                 if result:
                     temp_files.append(temp_output)
+                    if new_segment:
+                        # Add this segment to the context for future generations
+                        context_segments.append(new_segment)
 
             # If no segments were processed successfully, fail
             if not temp_files:
@@ -329,79 +313,6 @@ class CSMTTS:
             log(f"Error generating audio from request: {e}", level="ERROR")
             return False
 
-    async def generate_audio_from_request_async(self, tts_request, output_path):
-        """
-        Generate audio from a TTS request and save to file using async processing.
-        Creates a chapter-specific directory and preserves all segment audio files within it.
-
-        Args:
-            tts_request: Dictionary with TTS request information
-            output_path: Path to save the audio file
-
-        Returns:
-            bool: True if successful, False otherwise
-        """
-        try:
-            # Process segments in the TTS request
-            segments = tts_request.get("segments", [])
-
-            if not segments:
-                log("No segments found in TTS request", level="ERROR")
-                return False
-
-            # Create directory structure
-            chapter_dir, new_output_path, chapter_name = self._prepare_chapter_directory(output_path)
-
-            # Prepare requests for all segments
-            temp_files = []
-            requests = []
-
-            for i, segment in enumerate(segments):
-                request, temp_output = self._prepare_segment_request(segment, i, chapter_dir)
-                if not request:
-                    continue
-
-                requests.append(request)
-                temp_files.append(temp_output)
-
-            # Process requests in parallel (with concurrency limit)
-            MAX_CONCURRENT = 3  # Reduce concurrency for local processing to avoid overwhelming CPU
-            semaphore = asyncio.Semaphore(MAX_CONCURRENT)
-
-            async def process_with_semaphore(request):
-                async with semaphore:
-                    return await self.generate_speech_async(request)
-
-            # Create tasks for all requests
-            tasks = [process_with_semaphore(request) for request in requests]
-
-            # Wait for all tasks to complete
-            results = await asyncio.gather(*tasks, return_exceptions=True)
-
-            # Filter out failed requests
-            successful_files = []
-            for i, result in enumerate(results):
-                if isinstance(result, str) and os.path.exists(temp_files[i]):
-                    successful_files.append(temp_files[i])
-                elif isinstance(result, Exception):
-                    log(f"Error processing segment {i}: {result}", level="ERROR")
-
-            # If no segments were processed successfully, fail
-            if not successful_files:
-                log("No segments were processed successfully", level="ERROR")
-                return False
-
-            # Combine audio files
-            if not self._combine_audio_files(successful_files, new_output_path, chapter_dir, chapter_name):
-                return False
-
-            log(f"Generated audio files stored in {chapter_dir}")
-            log(f"All {len(successful_files)} segment files are preserved in this directory")
-            return True
-
-        except Exception as e:
-            log(f"Error generating audio from request (async): {e}", level="ERROR")
-            return False
 
     def list_voices(self):
         """

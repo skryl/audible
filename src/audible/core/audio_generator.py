@@ -37,16 +37,16 @@ def process_tts_files(book_dir, provider=None, model=None, use_cloned_voices=Fal
         os.makedirs(audio_dir)
         log(f"Created audio directory at {audio_dir}")
 
-    # Check for TTS directory
-    tts_dir = os.path.join(book_dir, "tts")
-    if not os.path.exists(tts_dir):
-        log(f"TTS directory not found at {tts_dir}. Run prepare_tts first.", level="ERROR")
-        return False
-
     # Get TTS provider from environment or function parameter
     tts_provider = provider or os.getenv("AUDIBLE_TTS_PROVIDER", "openai").lower()
     tts_model = model or os.getenv("AUDIBLE_TTS_MODEL", None)
     use_cloned = use_cloned_voices or os.getenv("AUDIBLE_USE_CLONED_VOICES", "false").lower() == "true"
+
+    # Check for TTS directory
+    tts_dir = os.path.join(book_dir, "tts", tts_provider)
+    if not os.path.exists(tts_dir):
+        log(f"TTS directory not found at {tts_dir}. Run prepare_tts first.", level="ERROR")
+        return False
 
     log(f"Using TTS provider: {tts_provider}")
     if tts_model:
@@ -140,7 +140,7 @@ def run_sync_processing(tts_engine, tts_dir, tts_files, book_dir, num_chapters, 
 
         # Get output audio file path using the utility function
         audio_path = get_chapter_filename(
-            book_dir, chapter_num, 'audio', num_chapters=num_chapters, 
+            book_dir, chapter_num, 'audio', num_chapters=num_chapters,
         )
 
         # Skip if audio file exists and we're not forcing regeneration
