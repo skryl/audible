@@ -73,7 +73,7 @@ def main():
     parser.add_argument("--tts-model", help="TTS model to use (provider-specific)", default=None)
     parser.add_argument("--use-cloned-voices", help="Use cloned voices if available", action="store_true")
     parser.add_argument("--no-emotions", help="Disable emotion-based voice modulation", action="store_true")
-    parser.add_argument("--llm-provider", help="LLM provider to use (openai, anthropic)", default="openai")
+    parser.add_argument("--llm-provider", help="LLM provider to use (openai, anthropic, google)", default="openai")
     parser.add_argument("--llm-model", help="LLM model to use (provider-specific)")
     parser.add_argument("--prepare-book", help="Split book.txt into chapters", action="store_true")
     parser.add_argument("--extract-characters", help="Only extract character information", action="store_true")
