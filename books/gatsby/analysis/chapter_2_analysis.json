@@ -1,0 +1,119 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "characters": [
+        "Narrator (Nick Carraway)",
+        "Generic ash-grey men"
+      ],
+      "location": "Valley of Ashes along the motor road between West Egg and New York",
+      "summary": "The chapter opens with a vivid, bleak description of the Valley of Ashes\u2014a desolate, industrial wasteland where ashes accumulate in grotesque formations. Overlooking this setting are the enormous, staring eyes of Doctor T. J. Eckleburg on a dilapidated billboard, silently witnessing the decay below."
+    },
+    {
+      "scene_number": 2,
+      "characters": [
+        "Tom Buchanan",
+        "Narrator (Nick Carraway)"
+      ],
+      "location": "Near the ash-heaps beside the railroad at the Valley of Ashes",
+      "summary": "While riding the train, Tom Buchanan abruptly forces the narrator to leave the car at a stop among the ash heaps. The walk along a low, whitewashed fence under the unblinking gaze of Doctor Eckleburg sets a foreboding, tense tone and introduces the reason for this unscheduled stop."
+    },
+    {
+      "scene_number": 3,
+      "characters": [
+        "Tom Buchanan",
+        "Narrator (Nick Carraway)",
+        "George Wilson",
+        "Myrtle Wilson (Tom\u2019s mistress)"
+      ],
+      "location": "Inside and immediately outside George Wilson\u2019s shabby garage on the edge of the wasteland",
+      "summary": "Tom leads the narrator to a rundown garage owned by George Wilson. Inside, amidst a bare, dust-covered setting and a lone wrecked Ford, they encounter George Wilson and his wife. Shortly afterward, the imposing figure of Myrtle (Tom\u2019s mistress) appears. A terse exchange unfolds as Tom commands her to catch the next train, highlighting both her assertiveness and the underlying tensions."
+    },
+    {
+      "scene_number": 4,
+      "characters": [
+        "Tom Buchanan",
+        "Myrtle Wilson",
+        "Narrator (Nick Carraway)",
+        "Taxi driver",
+        "Dog vendor"
+      ],
+      "location": "On board the train and in New York City streets",
+      "summary": "Tom, Myrtle, and the narrator travel toward New York. Once there, Myrtle reinvents herself by changing her dress and indulging in several purchases \u2013 magazines, cosmetic items, and even a whimsical foray into buying a puppy from a hapless dog vendor who mistakes her request for a \u2018police dog.\u2019"
+    },
+    {
+      "scene_number": 5,
+      "characters": [
+        "Tom Buchanan",
+        "Myrtle Wilson",
+        "Narrator (Nick Carraway)"
+      ],
+      "location": "A modest, top-floor apartment in a long row of New York apartment-houses (158th Street)",
+      "summary": "Arriving at the cramped and over-decorated apartment, the scene shifts to a setting filled with extravagant yet incongruous furnishings. Myrtle\u2019s personality transforms as she energetically manages her surroundings \u2013 from fussing over her pet\u2019s needs to making social plans \u2013 foreshadowing an impending gathering."
+    },
+    {
+      "scene_number": 6,
+      "characters": [
+        "Tom Buchanan",
+        "Myrtle Wilson",
+        "Narrator (Nick Carraway)",
+        "Catherine (Myrtle's sister)",
+        "Mr. McKee",
+        "Mrs. McKee",
+        "Elevator boy"
+      ],
+      "location": "Inside the apartment during a lively, intimate party",
+      "summary": "A boisterous social gathering unfolds inside the cramped apartment. As guests including Catherine and the McKees arrive, the conversation shifts from idle gossip and personal ambitions to pointed discussions about infidelity, money, and the institution of marriage. The spark of tension is evident in the smartly barbed remarks and steadily mounting discord."
+    },
+    {
+      "scene_number": 7,
+      "characters": [
+        "Tom Buchanan",
+        "Myrtle Wilson",
+        "Narrator (Nick Carraway)",
+        "Mr. McKee",
+        "Mrs. McKee",
+        "Catherine"
+      ],
+      "location": "Inside the apartment, amid the crowded living areas and corridors",
+      "summary": "Amid the party\u2019s simmering tensions, an argument erupts when Myrtle repeatedly shouts 'Daisy!' in a burst of emotion. Tom reacts with sudden, brutal violence\u2014striking Myrtle and breaking her nose\u2014which sends the gathering spiraling into chaos as guests shout, comfort one another, and struggle to regain control amid the disorder."
+    },
+    {
+      "scene_number": 8,
+      "characters": [
+        "Narrator (Nick Carraway)",
+        "Mr. McKee",
+        "Elevator boy"
+      ],
+      "location": "Transitioning from the chaotic apartment to the dawn atmosphere of Pennsylvania Station",
+      "summary": "In the aftermath of the violent outburst, disorder reigns: blood-stained towels, scattered conversations, and disorganized departures. The narrator follows a drowsy Mr. McKee as he departs, exchanging awkward farewells with the elevator boy, and ultimately finds himself at the cold, early-morning Pennsylvania Station, waiting for the four o\u2019clock train as the chapter draws to a close."
+    }
+  ],
+  "characters": [
+    "Unnamed taxi/puppy seller",
+    "Mrs. McKee",
+    "Generic ash-grey men",
+    "Myrtle Wilson (Tom\u2019s mistress)",
+    "Taxi driver",
+    "Elevator Boy (minor)",
+    "Myrtle Wilson",
+    "Catherine (Myrtle\u2019s sister)",
+    "Mr. McKee",
+    "The Narrator (implicitly Nick Carraway)",
+    "Catherine (Myrtle's sister)",
+    "Gatsby (mentioned)",
+    "Narrator (Nick Carraway)",
+    "Catherine",
+    "George B. Wilson",
+    "Elevator boy",
+    "Tom Buchanan",
+    "Dr. T. J. Eckleburg",
+    "Dog vendor",
+    "George Wilson"
+  ],
+  "major_characters": [
+    "Tom Buchanan",
+    "Myrtle Wilson",
+    "The Narrator (implicitly Nick Carraway)"
+  ]
+}

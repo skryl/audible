@@ -1,0 +1,197 @@
+{
+  "Nick Carraway": {
+    "name": "Nick Carraway",
+    "chapters": [
+      1,
+      9,
+      6,
+      7
+    ],
+    "gender": "Male",
+    "age": "Late 20s to early 30s (inferred from his college graduation in 1915 and post-war arrival in the East in 1922)",
+    "description": "Nick is the reflective, observant narrator from the Midwest who has come East to learn the bond business. He is thoughtful and self-aware, serving as a confidant to others while keeping his own judgments in reserve.",
+    "personality": "Nick is tolerant, reserved, and introspective. He is open to others\u2019 confessions yet remains somewhat detached, often judging situations with an inner morality shaped by his upbringing. His subtle wit and mild self-deprecation underscore a natural skepticism about the ostentatious lifestyles around him.",
+    "voice": "His narrative voice is measured, reflective, and gentle with hints of a Midwestern accent. There is a calm, understated quality in his speech that comes off as both polite and insightful.",
+    "appearance": "While not described in minute physical detail, Nick\u2019s background implies a respectable, modest appearance. His demeanor is unassuming and he dresses in a way that reflects both his Midwestern roots and his gradual adaptation to the sophisticated East Coast environment."
+  },
+  "Jay Gatsby": {
+    "name": "Jay Gatsby",
+    "chapters": [
+      1,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9
+    ],
+    "gender": "Male",
+    "age": "Approximately early 30s (exact age not specified)",
+    "description": "Jay Gatsby is a mysterious and wealthy figure whose lavish mansion in West Egg commands attention. Though he is the subject of much rumor and fascination, details about his true past and inner life remain enigmatic.",
+    "personality": "Gatsby is defined by an extraordinary gift for hope and a romantic readiness for life\u2019s possibilities. His sensitivity and capacity for dreaming set him apart, even as he is burdened by the 'foul dust' that trails his ambitions. Despite an outside appearance of success and glamour, there is an undercurrent of vulnerability in his character.",
+    "voice": "Gatsby\u2019s voice likely exudes a refined, controlled quality\u2014a quiet intensity that hints at both warmth and melancholy. Though not described in detail here, his indirect presence conveys a voice that blends charm with an air of mystery.",
+    "appearance": "Gatsby is associated with a striking physical presence, marked by a 'gorgeous' quality and an intensely observant gaze. His mansion and carefully curated image suggest he dresses impeccably in the latest fashions, symbolizing wealth and a larger-than-life charm, even if his physical details are left largely to the reader's imagination."
+  },
+  "Tom Buchanan": {
+    "name": "Tom Buchanan",
+    "chapters": [
+      1,
+      2,
+      4,
+      6,
+      7,
+      9
+    ],
+    "gender": "Male",
+    "age": "Thirty",
+    "description": "Tom is a physically imposing member of the old, wealthy class. His background in college sports and his ostentatious imitation of aristocratic noblesse indicate a man used to dominance and privilege.",
+    "personality": "Tom is aggressive, arrogant, and full of self-assured physical and intellectual superiority. His demeanor is often crude and domineering, and he exudes a sense of entitlement. He masks his insecurities behind a show of brute strength and dismissive contempt for those he deems inferior.",
+    "voice": "He speaks in a gruff, husky tenor that reinforces his brutish character. There is a hint of paternal or even condescending contempt in his tone, suggesting that his voice serves as an extension of his forceful, domineering nature.",
+    "appearance": "Tom is described as a sturdy, straw-haired man with a muscular build and an imposing presence. His physicality\u2014the broad shoulders, glistening boots, and the powerful look of his eyes\u2014emphasizes his strength. His clothing, such as the riding clothes he wears at the Buchanan estate, further underscores his athletic build and pride in displaying his wealth."
+  },
+  "Daisy Buchanan": {
+    "name": "Daisy Buchanan",
+    "chapters": [
+      1,
+      5,
+      6,
+      7,
+      8
+    ],
+    "gender": "Female",
+    "age": "In her 20s (exact age not specified, but implied youthful)",
+    "description": "Daisy is charming and alluring, with an aura of wistful beauty and a complex inner life. As Nick\u2019s cousin and Tom\u2019s wife, she embodies both the ease of aristocratic privilege and a deep, often contradictory emotional vulnerability.",
+    "personality": "Daisy is playful, capricious, and at times cynical about the world around her. Her voice and manner suggest that she carries an underlying sadness beneath her charming facade. She is prone to sudden bursts of emotion and sentimental self-disclosure, yet she remains evasive when it comes to revealing her true feelings. Her remark about hoping her daughter 'will be a beautiful little fool' hints at her jaded outlook on society.",
+    "voice": "Her voice is described as low, thrilling, and melodious\u2014a series of musical notes that captivate and invite others. The sound of her speech carries both sweetness and an undercurrent of irony, making it as enchanting as it is elusive.",
+    "appearance": "Daisy is noted for her lovely, radiant face with bright, expressive eyes and a passionate mouth. Often seen in elegant clothing\u2014typically in light or white dresses\u2014she exudes an effortless grace and charm. Her appearance is that of a classic beauty, refined by her privileged lifestyle and hinting at both fragility and strength."
+  },
+  "Jordan Baker": {
+    "name": "Jordan Baker",
+    "chapters": [
+      1,
+      3,
+      4,
+      7,
+      8,
+      9
+    ],
+    "gender": "Female",
+    "age": "Likely in her 20s (exact age not specified)",
+    "description": "Jordan is a slender, athletic woman known for her cool, independent demeanor. As a professional in the sporting world, her background places her squarely among the modern, contemporary women of the Jazz Age.",
+    "personality": "Jordan is self-confident, somewhat aloof, and exhibits a streak of cynicism that borders on world-weariness. Her behavior is marked by a polite detachment and an air of subtle defiance. She appears to be both calculated and nonchalant, often conveying contempt for pretension or clinging to outdated social conventions without being overtly affected by them.",
+    "voice": "While specific vocal descriptions are limited, her speech is hinted to be cool and composed. There is a sense of polite curiosity and understated assurance in her manner of speaking, in keeping with her overall detached persona.",
+    "appearance": "Jordan is described as slender and small-breasted, with an erect carriage that underscores her athletic nature. Her grey, sun-strained eyes and the overall impression of a graceful yet discontented beauty evoke the image of a modern flapper\u2014elegant, poised, and dressed in a style that reinforces both sophistication and a hint of rebellion."
+  },
+  "Myrtle Wilson": {
+    "name": "Myrtle Wilson",
+    "chapters": [
+      2,
+      7
+    ],
+    "gender": "Female",
+    "age": "Mid-30s",
+    "description": "Myrtle is Tom\u2019s mistress, marked by a vivid sensuality and a desperate desire to escape her lower-class life. While not traditionally beautiful, she exudes a palpable vitality and flamboyance that makes her the center of attention in any room.",
+    "personality": "Myrtle is impulsive, materialistic, and craving for a life of luxury. She is both vibrant and coarse, often displaying an affected manner in speech and behavior. Her outward vivacity disguises deep-seated vulnerabilities and a willingness to embrace any opportunity that might elevate her social status.",
+    "voice": "Her voice is energetic and emphatic, with a slightly rough quality that marks her as distinctly from a lower-class background. It carries an earnest, sometimes overly animated tone when she speaks, reflecting her passionate and at times desperate character.",
+    "appearance": "Described as faintly stout with a sensuous way of carrying her flesh, Myrtle dresses in attention-grabbing outfits\u2014from a spotted dark blue dress to a tight-fitting brown muslin dress\u2014that accentuate her wide hips and physical presence. She takes pride in her appearance, often changing her attire to keep up with her aspirations and the attention she craves."
+  },
+  "The Narrator (implicitly Nick Carraway)": {
+    "name": "The Narrator (implicitly Nick Carraway)",
+    "chapters": [
+      2
+    ]
+  },
+  "Nick Carraway (narrator)": {
+    "name": "Nick Carraway (narrator)",
+    "chapters": [
+      3
+    ]
+  },
+  "The Narrator (Nick Carraway)": {
+    "name": "The Narrator (Nick Carraway)",
+    "chapters": [
+      4
+    ]
+  },
+  "Meyer Wolfshiem": {
+    "name": "Meyer Wolfshiem",
+    "chapters": [
+      9,
+      4
+    ],
+    "gender": "Male",
+    "age": "Approximately 50 years old",
+    "description": "Meyer Wolfshiem is a shrewd, diminutive figure with a background in gambling and questionable business dealings. Known for his involvement in fixing major sporting events, he exudes an aura of old-world cunning.",
+    "personality": "Pragmatic, resourceful, and tinged with a restless sentimentality, Wolfshiem is both pragmatic and reflective about a past marked by criminal enterprise. His dialogue reveals a blend of humor, nostalgia, and a brusque efficiency. He can be both affable and curt, depending on the conversation, and his occasional emotional outbursts hint at an inner life that recalls long-gone days.",
+    "voice": "His voice likely carries a distinct, somewhat world-weary quality with an undercurrent of shrewdness. There is an accented, brisk way of speaking peppered with colloquialisms (as evidenced by his frank manner and offhand remarks) and a tone that can shift from playful to gravely sentimental in recounting past events.",
+    "appearance": "Wolfshiem is described as having a small, flat nose and tiny, keen eyes that observe his surroundings. His physical presence is compact and sharply dressed in a manner that underlines his connections to the seedy underbelly of high society. Notably, his cuff buttons \u2013 fashioned from human molars \u2013 contribute to an overall quirky, almost macabre detail in his appearance."
+  },
+  "Daisy Fay": {
+    "name": "Daisy Fay",
+    "chapters": [
+      4
+    ],
+    "gender": "Female",
+    "age": "Eighteen at her first appearance in this chapter; later a young adult",
+    "description": "Daisy is introduced as the epitome of youthful charm and popularity. Coming from Louisville, she is both enchanting and tragic\u2014a girl who effortlessly captivates those around her while also harboring a complex inner life marked by emotional upheaval.",
+    "personality": "Daisy\u2019s persona blends a light, flirtatious exterior with bouts of profound vulnerability and capricious mood swings. At times, she displays an almost ethereal charm, while in other moments she reveals a raw, impulsive sensitivity (as seen in her breakdown before her wedding). Despite her apparent gaiety in social settings, there is an underlying melancholy and tendency toward escapism.",
+    "voice": "Her voice is noted for possessing a distinctive, alluring quality\u2014musical and irresistible, hinting at both her beauty and her inner sadness. It carries the cadence of refined social grace, with an emotional lilt that has the power to enthrall and unsettle those who listen.",
+    "appearance": "Daisy is symbolically associated with light and delicacy. She is often seen dressed in white, driving a little white roadster that underscores her pristine, almost ethereal beauty. Her features are described in a way that emphasizes her youth and elegance, making her the idealized figure of gentility and desire in her social milieu."
+  },
+  "Nick Carraway (the narrator)": {
+    "name": "Nick Carraway (the narrator)",
+    "chapters": [
+      5,
+      8
+    ]
+  },
+  "Jay Gatsby (James Gatz)": {
+    "name": "Jay Gatsby (James Gatz)",
+    "chapters": [
+      6
+    ],
+    "gender": "Male",
+    "age": "Mid-30s (implied by his history and the time elapsed since his humble beginnings)",
+    "description": "A self-made and enigmatic figure whose reinvention of himself is both a work of art and a personal obsession. Gatsby is a dreamer, defined as much by his extravagant parties and polished exterior as by the turbulent inner life driven by his love for Daisy.",
+    "personality": "Extravagantly ambitious and imaginative, yet emotionally complex and restless. He possesses a fierce determination and a relentless optimism about reclaiming the past. Beneath the veneer of charm and sophistication lies vulnerability\u2014a man whose heart is in a constant, turbulent riot, caught between idealism and the harsh reality of his world.",
+    "voice": "Polished and refined with a hint of old-world charm that belies his humble origins. When he speaks, there is a controlled yet wistful quality to his tone\u2014a mix of confidence and tender longing. His voice can be graceful and measured, especially apparent when he dances or recounts personal anecdotes.",
+    "appearance": "Impeccably dressed in a style that mixes new money flamboyance with a tailored sophistication. His demeanor suggests physical fitness and vigor, with details like a hat, light overcoat, and careful grooming hinting at a man who is conscious of his transformation from James Gatz to Jay Gatsby. His eyes and overall expressions often mirror both his inner determination and the exhaustion brought about by his relentless pursuit of an unattainable dream."
+  },
+  "George Wilson": {
+    "name": "George Wilson",
+    "chapters": [
+      8,
+      7
+    ],
+    "gender": "Male",
+    "age": "Not explicitly mentioned, appears to be middle-aged",
+    "description": "George is a downtrodden, exhausted man whose life of hard labor and quiet misery is sharply contrasted with the opulence of those around him. He is marked by a deep-seated vulnerability and a sense of hopeless resignation.",
+    "personality": "Timid, worn out, and painfully sincere, George comes off as the epitome of a man beaten down by circumstance. His mannerisms reveal a deep sense of defeat and an acute distress over his failing situation, yet there is an honest, unpretentious quality about him that contrasts with the extravagant behaviors of others.",
+    "voice": "George\u2019s voice is likely soft, trembling, and tentative. It carries the weary cadence of someone burdened by life\u2019s hardships, marked by a lack of assertiveness and a habit of speaking in a measured, almost subdued tone.",
+    "appearance": "Described as pale, sick, and physically frail, George\u2019s appearance is that of a man whose vitality has long been sapped by a life of constant labor and disappointment. His eyes and overall demeanor reflect a tired spirit, and his dress and grooming suggest a man who is far removed from the polished appearance of the affluent characters around him."
+  },
+  "Michaelis": {
+    "name": "Michaelis",
+    "chapters": [
+      8
+    ],
+    "gender": "Male",
+    "age": "Not explicitly mentioned (likely middle-aged or in his 30s, typical for a working man in his role)",
+    "description": "Michaelis is a secondary yet steady presence in the narrative, primarily seen in his role at the garage. As a pragmatic and observant bystander, he becomes a reluctant confidant to George Wilson during trying moments.",
+    "personality": "Michaelis is practical and courteous, displaying a subdued empathy toward Wilson\u2019s distress. Although not given to overt emotional expression, he shows a gentle concern and a desire to provide comfort, even as he struggles to make sense of the unfolding tragedy. His demeanor is composed, methodical, and laced with a hint of anxious responsibility.",
+    "voice": "His voice is clear and matter-of-fact, with a slight tremor that betrays his concern for Wilson. There\u2019s an unassuming, down-to-earth quality in his speech, without the flourish of the more affluent characters. He speaks in a measured tone that reflects both his practical mindset and his underlying sympathy.",
+    "appearance": "Michaelis is described in broad strokes as an unremarkable, average-looking working man. His appearance is more functional than fashionable\u2014a plain, practical look suited to his work at the garage. While specific physical details are sparse, his overall impression is one of someone accustomed to labor, with a reserved, unpretentious demeanor that fits his role as a supportive but background character."
+  },
+  "Henry C. Gatz (Mr. Gatz)": {
+    "name": "Henry C. Gatz (Mr. Gatz)",
+    "chapters": [
+      9
+    ],
+    "gender": "Male",
+    "age": "Elderly",
+    "description": "Henry Gatz is Gatsby\u2019s father\u2014a solemn, humble, and overwhelmed old man who arrives from Minnesota. His presence at Gatsby\u2019s final moments reflects both deep paternal pride and regret, as he clings to mementos of the son he once knew.",
+    "personality": "He is timid, emotionally raw, and nostalgic. Despite his frailty and bewilderment at the sudden tragic circumstances, there is an enduring pride in his son\u2019s achievements. His actions show a blend of vulnerability and simple, sincere devotion.",
+    "voice": "Mr. Gatz\u2019s voice is likely tremulous and soft, marked by an emotional quaver that betrays his inner turmoil. His speech might be halting and laden with the weight of loss, reflecting a man who is unaccustomed to the harsh realities of a rapidly changing world.",
+    "appearance": "Physically, he is depicted as a frail, old man with a sparse grey beard and trembling hands. Bundled in a long, cheap ulster against the September warmth, his appearance is humble and unassuming, evoking a timeless, weathered dignity mixed with fragile grief."
+  }
+}

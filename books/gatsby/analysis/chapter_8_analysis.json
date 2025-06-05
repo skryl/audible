@@ -1,0 +1,115 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "characters": [
+        "Narrator",
+        "Gatsby"
+      ],
+      "location": "Gatsby\u2019s Drive and Entrance Hall at Gatsby\u2019s Mansion",
+      "summary": "The chapter opens in the early hours on Long Island. The narrator, unable to sleep while a foghorn moans in the distance, hears a taxi arriving at Gatsby\u2019s drive. Rushing over, he finds Gatsby in the entry hall\u2014looking dejected yet waiting\u2014and the two engage in a subdued conversation about Daisy\u2019s brief, mysterious appearance at the window and the danger of being traced."
+    },
+    {
+      "scene_number": 2,
+      "characters": [
+        "Gatsby",
+        "Narrator"
+      ],
+      "location": "Inside Gatsby\u2019s Mansion, Including the Drawing Room",
+      "summary": "Inside the vast, dust-laden mansion, the pair wander through shadowy, almost haunted rooms in a futile search for cigarettes. As they sit smoking in the drawing room with its French windows thrown open to the dark, the narrator advises Gatsby to leave town. However, Gatsby remains fixated on Daisy and clutches onto a final hope about her intentions."
+    },
+    {
+      "scene_number": 3,
+      "characters": [
+        "Gatsby",
+        "Narrator",
+        "Daisy (recalled)"
+      ],
+      "location": "Narrative Recollection of Past Encounters (primarily at Daisy\u2019s House and Gatsby\u2019s memory)",
+      "summary": "Gatsby confides his inner history to the narrator, recounting his youthful ambition and the transformative impact of meeting Daisy\u2014the first \u201cnice\u201d girl who ignited an irresistible passion in him. He reveals how, even as he wrestled with his lack of wealth and uncertain future, Daisy\u2019s enchanting presence spurred him into a relentless pursuit of a dream that ultimately made him feel forever bound to her."
+    },
+    {
+      "scene_number": 4,
+      "characters": [
+        "Gatsby",
+        "Daisy",
+        "Narrator (observer)"
+      ],
+      "location": "Daisy\u2019s House and its Luminous Porch",
+      "summary": "Revisiting the reunion two days later, Gatsby\u2019s narrative paints a vivid picture of meeting Daisy again. On a brilliantly lit porch, he is overwhelmed by his emotions\u2014the softness of Daisy\u2019s altered voice due to a cold, the charm of her presence, and the tantalizing allure of youth preserved by wealth. This tender encounter deepens his infatuation and cements his belief in the singular importance of their connection."
+    },
+    {
+      "scene_number": 5,
+      "characters": [
+        "Gatsby",
+        "Narrator"
+      ],
+      "location": "Gatsby\u2019s Mansion Grounds, Including the Breakfast Porch",
+      "summary": "As dawn breaks, a new day is ushered in with shifting light that transforms the ambiance of Gatsby\u2019s property. Over breakfast and quiet reflections on Daisy\u2019s unpredictable affections, Gatsby argues that her feelings\u2014however fleeting\u2014are deeply personal. In an emotional farewell on the porch, the narrator departs with a bittersweet compliment, underscoring his simultaneous admiration for and disapproval of Gatsby\u2019s relentless dream."
+    },
+    {
+      "scene_number": 6,
+      "characters": [
+        "Narrator",
+        "Jordan Baker"
+      ],
+      "location": "The City (Narrator\u2019s Workplace/Office Setting)",
+      "summary": "Now in an urban setting, the narrator struggles with his work listing stock quotations when he is jolted awake by a phone call from Jordan Baker. Their terse conversation reveals that Daisy has left her house, and although both express a desire to see each other, plans for an immediate meeting fall through. The narrator\u2019s frustrated attempts to reach Gatsby by phone further amplify the sense of disconnection and impending change."
+    },
+    {
+      "scene_number": 7,
+      "characters": [
+        "George Wilson",
+        "Michaelis",
+        "Catherine (mentioned)"
+      ],
+      "location": "A Local Garage and Its Surroundings",
+      "summary": "Shifting the focus to the grim aftermath of the previous night\u2019s events, the narrative returns to the garage near the ash-heaps. Catherine arrives in a drunken state, and a restless, grief-stricken George Wilson, accompanied by Michaelis and a growing, shifting crowd, recounts his suspicions about the yellow car and hints at a terrible family tragedy. In a haunting exchange\u2014underscored by Wilson\u2019s recitation of an almost Biblical warning as he peers at the looming eyes on an advertisement\u2014the seeds of a tragedy fully take root."
+    },
+    {
+      "scene_number": 8,
+      "characters": [
+        "Gatsby",
+        "Chauffeur",
+        "Butler",
+        "Gardener",
+        "Narrator",
+        "Wilson (posthumously referenced)"
+      ],
+      "location": "Gatsby\u2019s Pool Area on the Mansion Grounds",
+      "summary": "In the final phase of the chapter, Gatsby, donning a bathing suit, quietly makes his way to the pool with a pneumatic mattress\u2014a relic of lighter, summer days. The atmosphere is eerie as a dismal, unsent telephone message and an almost unnoticed shift in the water\u2019s ripple hint at irrevocable loss. With a sudden revelation when the gardener notices Wilson\u2019s body nearby, the tragic culmination is set in motion, symbolizing the collapse of Gatsby\u2019s dream and the ultimate cost of prolonged yearning."
+    }
+  ],
+  "characters": [
+    "Daisy",
+    "Wolfshiem",
+    "Jay Gatsby",
+    "Michaelis",
+    "Wilson (posthumously referenced)",
+    "Doctor T. J. Eckleburg",
+    "Narrator",
+    "Myrtle Wilson",
+    "Jordan Baker",
+    "George Wilson",
+    "Catherine (mentioned)",
+    "Daisy (recalled)",
+    "Gardener",
+    "Nick Carraway (the narrator)",
+    "Butler",
+    "Catherine",
+    "Gatsby",
+    "Daisy Buchanan",
+    "Chauffeur",
+    "Tom Buchanan",
+    "Narrator (observer)",
+    "Dan Cody"
+  ],
+  "major_characters": [
+    "Jay Gatsby",
+    "Nick Carraway (the narrator)",
+    "Daisy Buchanan",
+    "George Wilson",
+    "Michaelis",
+    "Jordan Baker"
+  ]
+}

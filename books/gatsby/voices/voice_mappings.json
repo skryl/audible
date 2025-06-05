@@ -1,0 +1,104 @@
+{
+  "Narrator": {
+    "openai": "onyx",
+    "cartesia": "en_male_neutral",
+    "google": "Charon",
+    "csm": "0"
+  },
+  "Nick Carraway": {
+    "openai": "echo",
+    "cartesia": "en_male_neutral",
+    "google": "Kore",
+    "csm": "1"
+  },
+  "Jay Gatsby": {
+    "openai": "fable",
+    "cartesia": "en_male_neutral",
+    "google": "Orus",
+    "csm": "2"
+  },
+  "Tom Buchanan": {
+    "openai": "echo",
+    "cartesia": "en_male_neutral",
+    "google": "Fenrir",
+    "csm": "3"
+  },
+  "Daisy Buchanan": {
+    "openai": "nova",
+    "cartesia": "en_female_neutral",
+    "google": "Zephyr",
+    "csm": "4"
+  },
+  "Jordan Baker": {
+    "openai": "shimmer",
+    "cartesia": "en_female_neutral",
+    "google": "Puck",
+    "csm": "5"
+  },
+  "Myrtle Wilson": {
+    "openai": "nova",
+    "cartesia": "en_female_neutral",
+    "google": "Leda",
+    "csm": "4"
+  },
+  "The Narrator (implicitly Nick Carraway)": {
+    "openai": "alloy",
+    "cartesia": "en_male_neutral",
+    "google": "Zubenelgenubi",
+    "csm": "0"
+  },
+  "Nick Carraway (narrator)": {
+    "openai": "echo",
+    "cartesia": "en_female_neutral",
+    "google": "Sadachbia",
+    "csm": "1"
+  },
+  "The Narrator (Nick Carraway)": {
+    "openai": "fable",
+    "cartesia": "en_male_neutral",
+    "google": "Sulafat",
+    "csm": "2"
+  },
+  "Meyer Wolfshiem": {
+    "openai": "fable",
+    "cartesia": "en_male_neutral",
+    "google": "Gacrux",
+    "csm": "1"
+  },
+  "Daisy Fay": {
+    "openai": "nova",
+    "cartesia": "en_female_neutral",
+    "google": "Aoede",
+    "csm": "4"
+  },
+  "Nick Carraway (the narrator)": {
+    "openai": "shimmer",
+    "cartesia": "en_female_neutral",
+    "google": "Rasalgethi",
+    "csm": "5"
+  },
+  "Jay Gatsby (James Gatz)": {
+    "openai": "echo",
+    "cartesia": "en_male_neutral",
+    "google": "Kore",
+    "csm": "1"
+  },
+  "George Wilson": {
+    "openai": "fable",
+    "cartesia": "en_male_neutral",
+    "google": "Orus",
+    "csm": "2"
+  },
+  "Michaelis": {
+    "openai": "echo",
+    "cartesia": "en_male_neutral",
+    "google": "Fenrir",
+    "csm": "3"
+  },
+  "Henry C. Gatz (Mr. Gatz)": {
+    "openai": "fable",
+    "cartesia": "en_male_neutral",
+    "google": "Enceladus",
+    "csm": "1"
+  }
+}

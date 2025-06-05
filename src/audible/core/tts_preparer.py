@@ -324,7 +324,7 @@ def get_voice_id(character_name, voice_mappings):
 def prepare_voice_mappings(book_dir, force=False):
     """
     Create voice_mappings.json for all characters found in characters.json
-    with default voices for OpenAI and Cartesia providers.
+    with default voices for OpenAI, Cartesia, Google, and CSM providers.
 
     Args:
         book_dir (str): Directory containing the book data
@@ -365,6 +365,48 @@ def prepare_voice_mappings(book_dir, force=False):
     # CSM voice options (speaker IDs 0-5)
     csm_voices = ["0", "1", "2", "3", "4", "5"]
 
+        # Google Gemini TTS voice options
+    # Based on the 30 voice options in gemini-2.5-pro-preview-tts
+    google_male_voices = [
+        "Kore",         # Firm
+        "Orus",         # Firm
+        "Fenrir",       # Excitable
+        "Enceladus",    # Breathy
+        "Algenib",      # Gravelly
+        "Alnilam",      # Firm
+        "Gacrux",       # Mature
+        "Sadaltager",   # Knowledgeable
+    ]
+
+    google_female_voices = [
+        "Zephyr",       # Bright
+        "Puck",         # Upbeat
+        "Charon",       # Informative
+        "Leda",         # Youthful
+        "Aoede",        # Breezy
+        "Callirrhoe",   # Easy-going
+        "Autonoe",      # Bright
+        "Iapetus",      # Clear
+        "Despina",      # Smooth
+        "Erinome",      # Clear
+        "Laomedeia",    # Upbeat
+        "Pulcherrima",  # Forward
+        "Vindemiatrix", # Gentle
+    ]
+
+    # Gender-neutral/mixed voices
+    google_neutral_voices = [
+        "Umbriel",      # Easy-going
+        "Algieba",      # Smooth
+        "Rasalgethi",   # Informative
+        "Schedar",      # Even
+        "Achernar",     # Soft
+        "Achird",       # Friendly
+        "Zubenelgenubi",# Casual
+        "Sadachbia",    # Lively
+        "Sulafat",      # Warm
+    ]
+
     # Create default voice mappings
     voice_mappings = {}
 
@@ -372,11 +414,14 @@ def prepare_voice_mappings(book_dir, force=False):
     voice_mappings["Narrator"] = {
         "openai": "onyx",  # Deeper voice for narrator
         "cartesia": "en_male_neutral",  # Default Cartesia male voice
+        "google": "Charon",  # Informative voice for narrator
         "csm": "0"  # Default CSM speaker
     }
 
     # Simple voice assignment - cycle through available voices for variety
     voice_index = 0
+    male_voice_index = 0
+    female_voice_index = 0
 
     # Create mapping for each character
     for char_name, char_data in characters.items():
@@ -389,25 +434,32 @@ def prepare_voice_mappings(book_dir, force=False):
         is_male = "male" in gender
         is_female = "female" in gender
 
-        # Determine OpenAI voice based on gender and available voices
+        # Determine voices based on gender
         if is_male:
             openai_voice = "echo" if voice_index % 2 == 0 else "fable"
             cartesia_voice = "en_male_neutral"
+            google_voice = google_male_voices[male_voice_index % len(google_male_voices)]
             csm_voice = csm_voices[voice_index % 3 + 1]  # Use speakers 1, 2, 3 for male voices
+            male_voice_index += 1
         elif is_female:
             openai_voice = "nova" if voice_index % 2 == 0 else "shimmer"
             cartesia_voice = "en_female_neutral"
+            google_voice = google_female_voices[female_voice_index % len(google_female_voices)]
             csm_voice = csm_voices[voice_index % 2 + 4]  # Use speakers 4, 5 for female voices
+            female_voice_index += 1
         else:
             # Use a rotating voice if gender not specified
             openai_voice = openai_voices[voice_index % len(openai_voices)]
             cartesia_voice = "en_male_neutral" if voice_index % 2 == 0 else "en_female_neutral"
+            # Use neutral Google voices for unknown gender
+            google_voice = google_neutral_voices[voice_index % len(google_neutral_voices)]
             csm_voice = csm_voices[voice_index % len(csm_voices)]
 
         # Add to voice mappings
         voice_mappings[char_name] = {
             "openai": openai_voice,
             "cartesia": cartesia_voice,
+            "google": google_voice,
             "csm": csm_voice
         }
 

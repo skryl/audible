@@ -1,0 +1,90 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "characters": [
+        "Jay Gatsby",
+        "Ambitious New York reporter"
+      ],
+      "location": "Gatsby\u2019s mansion (front door, West Egg)",
+      "summary": "On a morning off, a determined New York reporter visits Gatsby\u2019s door asking if he has any statement to give, sparking mention of the swirling rumors and legends about Gatsby. This brief exchange introduces his notoriety and hints at his mysterious past."
+    },
+    {
+      "scene_number": 2,
+      "characters": [
+        "Jay Gatsby (formerly James Gatz)",
+        "Dan Cody",
+        "Ella Kaye (mentioned)"
+      ],
+      "location": "Various flashback settings \u2013 from a Lake Superior beach and the surrounding areas to locations like the St. Olaf\u2019s college in Minnesota and Little Girl Bay",
+      "summary": "In an extended flashback, the narrative recounts Gatsby\u2019s transformation from James Gatz. It details his early life as a clam-digger and salmon-fisher, his brief stint at a Lutheran college, and his fateful encounter with the wealthy Dan Cody on Lake Superior. Gatsby\u2019s reinvention, his adoption of a new identity, and his rise in ambition are highlighted, along with the brief glimpse of the legacy he inherits from Cody."
+    },
+    {
+      "scene_number": 3,
+      "characters": [
+        "Jay Gatsby",
+        "Tom Buchanan",
+        "Nick Carraway",
+        "Mr. Sloane",
+        "A pretty woman in a brown riding habit"
+      ],
+      "location": "Gatsby\u2019s house and porch (a quiet Sunday afternoon)",
+      "summary": "After a period of relative quiet in his social affairs, Nick visits Gatsby\u2019s home on a Sunday afternoon. Shortly after his arrival, Tom Buchanan, accompanied by Mr. Sloane and an attractive woman riding on horseback, shows up unexpectedly. Gatsby greets his guests in his customary hospitable style, leading to awkward small talk and an invitation to join for supper, setting the stage for deeper interpersonal dynamics."
+    },
+    {
+      "scene_number": 4,
+      "characters": [
+        "Jay Gatsby",
+        "Tom Buchanan",
+        "Daisy Buchanan",
+        "Nick Carraway",
+        "Various party guests including Mr. Sloane and the riding lady",
+        "Miss Baedeker, Doc Civet (secondary guests)"
+      ],
+      "location": "Gatsby\u2019s party at his mansion \u2013 dining areas, the garden, and the immediate surroundings during an evening gathering",
+      "summary": "The party unfolds with a lively but tension-filled mix of conversations and social encounters. Intricate introductions, humorous exchanges, and subtle jabs (such as Tom\u2019s lingering references and Daisy\u2019s flirtatious remarks) occur throughout supper and dancing. Guests comment on celebrated personalities, and the atmosphere oscillates between gaiety and an undercurrent of discontent, ultimately highlighting contrasting attitudes toward Gatsby\u2019s persona and the modern world of excess."
+    },
+    {
+      "scene_number": 5,
+      "characters": [
+        "Jay Gatsby",
+        "Nick Carraway",
+        "Daisy Buchanan",
+        "Tom Buchanan (in brief dialogue)"
+      ],
+      "location": "The garden and front steps of Gatsby\u2019s mansion at night, transitioning to reflective moments in quiet, moonlit surroundings",
+      "summary": "Later that night, after the party winds down, Gatsby\u2019s inner turmoil comes to the forefront. While Nick lingers in the garden awaiting Gatsby, they discuss Gatsby\u2019s profound disappointment with Daisy\u2019s behavior at the party and his desperate longing to recreate the past. Gatsby\u2019s wistful reminiscences\u2014flashing back to an autumn night from five years before\u2014lay bare his determination to 'fix' everything, his internal struggle between dream and reality, and a premonition of the inevitable consequences of his idealism."
+    }
+  ],
+  "characters": [
+    "Nick Carraway",
+    "Jay Gatsby (formerly James Gatz)",
+    "Jay Gatsby",
+    "Miss Baedeker",
+    "Ella Kaye",
+    "Pretty woman in brown riding-habit",
+    "Moving-picture director",
+    "Director\u2019s star",
+    "Jordan Baker",
+    "Various party guests including Mr. Sloane and the riding lady",
+    "Jordan\u2019s senile aunt",
+    "Mr. Sloane",
+    "Ella Kaye (mentioned)",
+    "A pretty woman in a brown riding habit",
+    "Jay Gatsby (James Gatz)",
+    "New York reporter",
+    "Daisy Buchanan",
+    "Ambitious New York reporter",
+    "Doc Civet",
+    "Miss Baedeker, Doc Civet (secondary guests)",
+    "Tom Buchanan",
+    "Tom Buchanan (in brief dialogue)",
+    "Dan Cody"
+  ],
+  "major_characters": [
+    "Jay Gatsby (James Gatz)",
+    "Nick Carraway",
+    "Tom Buchanan",
+    "Daisy Buchanan"
+  ]
+}

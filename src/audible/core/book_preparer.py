@@ -94,9 +94,61 @@ def prepare_book(book_dir, force=False):
     log("Book preparation complete")
     return True
 
+def extract_table_of_contents(text):
+    """
+    Extract table of contents from the book text.
+
+    Args:
+        text (str): The full book text
+
+    Returns:
+        list: List of chapter names from the TOC, or empty list if not found
+    """
+    # Look for table of contents patterns
+    toc_patterns = [
+        r'Table of Contents\s*\n+(.*?)(?=\n\n\n)',
+        r'CONTENTS\s*\n+(.*?)(?=\n\n\n)',
+        r'Contents\s*\n+(.*?)(?=\n\n\n)'
+    ]
+
+    for pattern in toc_patterns:
+        match = re.search(pattern, text, re.DOTALL | re.IGNORECASE)
+        if match:
+            toc_text = match.group(1)
+            log("Found table of contents")
+
+            # Extract chapter names from the TOC
+            # Look for Roman numerals or numbers that typically mark chapters
+            chapters = []
+
+            for line in toc_text.split('\n'):
+                line = line.strip()
+                if not line:
+                    continue
+
+                # Check if this line is just a Roman numeral or number
+                if re.match(r'^[IVXLCDM]+$', line):
+                    chapters.append((line, line))
+                elif re.match(r'^[0-9]+$', line) and int(line) < 50:
+                    chapters.append((line, line))
+                elif re.match(r'^([IVXLCDM]+|[0-9]+)\.?\s+(.*)$', line):
+                    match = re.match(r'^([IVXLCDM]+|[0-9]+)\.?\s+(.*)$', line)
+                    chapter_num = match.group(1)
+                    # Skip if it's likely a page number
+                    if chapter_num.isdigit() and int(chapter_num) > 50:
+                        continue
+                    chapters.append((chapter_num, line))
+
+            if chapters:
+                log(f"Found {len(chapters)} chapter entries in table of contents: {[ch[0] for ch in chapters]}")
+                return chapters
+
+    return []
+
 def split_into_chapters(text):
     """
     Split book text into chapters based on common chapter patterns.
+    First tries to use the table of contents if available.
 
     Args:
         text (str): The full book text
@@ -104,6 +156,92 @@ def split_into_chapters(text):
     Returns:
         list: List of (chapter_title, chapter_content) tuples
     """
+    # First, try to extract and use table of contents
+    toc_chapters = extract_table_of_contents(text)
+
+    if toc_chapters:
+        log("Attempting to split chapters using table of contents")
+        chapters = []
+
+        # Find the end of the table of contents section
+        toc_end_pos = 0
+        toc_match = re.search(r'Table of Contents.*?\n\n\n', text, re.DOTALL | re.IGNORECASE)
+        if toc_match:
+            toc_end_pos = toc_match.end()
+
+        # Create regex patterns for each chapter from TOC
+        for i, (chapter_num, toc_line) in enumerate(toc_chapters):
+            # Create a pattern to find this chapter in the text
+            # Be flexible with spacing and formatting
+            escaped_num = re.escape(chapter_num)
+
+            # Try to find chapter marker in the text
+            # For Roman numerals, look for them centered on a line with lots of whitespace
+            chapter_patterns = [
+                rf'(?m)^\s*{escaped_num}\s*$',  # Just the number with optional whitespace
+                rf'(?m)^\s+{escaped_num}\s+$',  # Number centered with whitespace
+                rf'(?m)^\s*{escaped_num}\.\s*$',  # Number with period
+                rf'(?m)^\s*CHAPTER\s+{escaped_num}\s*$',  # CHAPTER + number
+                rf'(?m)^\s*Chapter\s+{escaped_num}\s*$',  # Chapter + number
+            ]
+
+            start_pos = None
+            for pattern in chapter_patterns:
+                matches = list(re.finditer(pattern, text))
+                # Filter out matches that are too early (likely from TOC itself)
+                for match in matches:
+                    # For the first chapter, be more lenient about position
+                    if i == 0:
+                        # Skip if this is within the TOC section
+                        if match.start() < toc_end_pos:
+                            continue
+                    else:
+                        # Skip if this is likely from the TOC (too early in the text)
+                        if match.start() < 1000:  # Skip first 1000 chars to avoid TOC
+                            continue
+                    start_pos = match.end()
+                    break
+                if start_pos:
+                    break
+
+            if start_pos is not None:
+                # Find the end position (start of next chapter or end of text)
+                end_pos = len(text)
+
+                if i < len(toc_chapters) - 1:
+                    # Look for the next chapter
+                    next_chapter_num = toc_chapters[i + 1][0]
+                    escaped_next_num = re.escape(next_chapter_num)
+
+                    next_patterns = [
+                        rf'(?m)^\s*{escaped_next_num}\s*$',
+                        rf'(?m)^\s+{escaped_next_num}\s+$',
+                        rf'(?m)^\s*{escaped_next_num}\.\s*$',
+                        rf'(?m)^\s*CHAPTER\s+{escaped_next_num}\s*$',
+                        rf'(?m)^\s*Chapter\s+{escaped_next_num}\s*$',
+                    ]
+
+                    for pattern in next_patterns:
+                        matches = list(re.finditer(pattern, text[start_pos:]))
+                        if matches:
+                            end_pos = start_pos + matches[0].start()
+                            break
+
+                # Extract chapter content
+                chapter_content = text[start_pos:end_pos].strip()
+
+                # Only include if it has substantial content
+                if len(chapter_content) > 500:
+                    chapters.append((f"Chapter {chapter_num}", chapter_content))
+                    log(f"Found Chapter {chapter_num} using TOC")
+
+        # If we found most chapters from TOC, use them
+        if len(chapters) >= len(toc_chapters) * 0.7:  # At least 70% success rate
+            log(f"Successfully split {len(chapters)} chapters using table of contents")
+            return chapters
+        else:
+            log(f"Only found {len(chapters)} out of {len(toc_chapters)} chapters from TOC, falling back to pattern matching")
+
     # Try various common chapter heading patterns
     patterns = [
         # CHAPTER I, CHAPTER 1, Chapter I, Chapter 1

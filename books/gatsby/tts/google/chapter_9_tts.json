@@ -1,0 +1,137 @@
+{
+  "title": "Chapter 9",
+  "segments": [
+    {
+      "type": "narration",
+      "text": "After two years I remember the rest of that day, the night, and the next day only as an endless drill of police, photographers, and newspaper men streaming in and out of Gatsby\u2019s front door. A rope had been stretched across the main gate with a lone policeman guarding it, while curious children discovered a secret path through my yard, gawking open-mouthed around the pool. In the midst of it all, a detective \u2013 or perhaps someone with a positive manner \u2013 had muttered the word \u201cmadman\u201d while bending over Wilson\u2019s body, his authoritative tone setting the stage for the newspaper reports the following morning.",
+      "voice_traits": "calm, reflective, moderate pace, clear and contemplative tone",
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "narration",
+      "text": "Most of the reports were grotesque mixtures of nightmare, circumstantial evidence, eagerness, and falsehoods. When Michaelis testified about Wilson\u2019s suspicions regarding his wife, I expected the tale to burst into scandal. Instead, Catherine \u2013 with a steely look and determined eyes beneath her carefully raised brow \u2013 simply denied that her sister had ever seen Gatsby. She declared that her sister was content with her husband and had committed no mischief whatsoever. Her quiet strength and silent tears as she cradled her handkerchief transformed Wilson into a man \u2018deranged by grief\u2019 \u2013 a convenient simplification to keep the case uncomplicated.",
+      "voice_traits": "measured, somber tone with a hint of irony; deliberate pacing",
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "narration",
+      "text": "In that moment, I found myself on Gatsby\u2019s side, feeling alone in a sea of curiosity and detachment. Every question and surmise that followed the catastrophe was directed towards me, and as Gatsby lay unmoving in his mansion \u2013 silent and still \u2013 I internalized a responsibility that no one else would claim.",
+      "voice_traits": "introspective, quiet, reflective with a slow cadence",
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Nick Carraway",
+      "emotion": "anxious, determined",
+      "text": "(On the telephone, urgently) I called up Daisy half an hour after we found him. 'Left no address?' I asked. 'No,' the reply came curtly. I pressed, 'Say when they\u2019d be back?' Again, 'No.' 'Any idea where they are? How I could reach them?' The response was flat: 'I don\u2019t know. Can\u2019t say.'",
+      "voice_traits": "voice is crisp, slightly trembling with urgency, clear enunciation with quick, clipped pauses between questions",
+      "voice_id": "Kore",
+      "character_voice_traits": "His narrative voice is measured, reflective, and gentle with hints of a Midwestern accent. There is a calm, understated quality in his speech that comes off as both polite and insightful."
+    },
+    {
+      "type": "narration",
+      "text": "I longed to reassure Gatsby personally \u2013 to step into the room where he lay and whisper, 'I\u2019ll get somebody for you, Gatsby. Don\u2019t worry. Just trust me \u2013 I\u2019ll get somebody for you.' But attempts to reach Meyer Wolfsheim were thwarted: his name wasn\u2019t even in the phone book. Following the butler\u2019s directions to his Broadway office, I eventually reached an unanswered number, even after multiple rings.",
+      "voice_traits": "reflective, quiet, with an undercurrent of mounting frustration",
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Unnamed Phone Caller (Slagle from Chicago)",
+      "emotion": "impatient, brusque",
+      "text": "(Telephone connection crackles to life) 'This is Slagle speaking...' he said in a thin, faraway tone. I replied, 'Yes?' After a brief pause he continued, 'Hell of a note, isn\u2019t it? Get my wire? Young Parke\u2019s in trouble \u2013 they picked him up when he handed the bonds over the counter\u2026 They got a circular from New York just five minutes before.'",
+      "voice_traits": "nasal tone, clipped speech, quick delivery with a sense of urgency and a hint of sarcasm",
+      "voice_id": "Charon"
+    },
+    {
+      "type": "dialogue",
+      "character": "Nick Carraway",
+      "emotion": "breathless, incredulous",
+      "text": "(Interrupting sharply) 'Hello! Look here \u2013 this isn\u2019t Mr. Gatsby. Mr. Gatsby\u2019s dead.'",
+      "voice_traits": "suddenly halting, forceful inflection with rising intensity and a pause to let the words sink in",
+      "voice_id": "Kore",
+      "character_voice_traits": "His narrative voice is measured, reflective, and gentle with hints of a Midwestern accent. There is a calm, understated quality in his speech that comes off as both polite and insightful."
+    },
+    {
+      "type": "narration",
+      "text": "A long silence followed on the line \u2013 an exclamation, then a quick squawk as the connection abruptly broke off. In the midst of this, on the third day, a telegram arrived from a distant Minnesota town. It was signed by Henry C. Gatz, Gatsby\u2019s father, stating he was leaving immediately and to postpone the funeral until his arrival.",
+      "voice_traits": "steady, narrative tone that conveys the passage of time and unexpected sorrow",
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "narration",
+      "text": "Shortly after, the solemn figure of Mr. Gatz arrived at the mansion. An old man in a long, cheap ulster, his eyes overflowed with excitement and everlasting grief. When I retrieved his bag and umbrella, he fumbled with his sparse grey beard \u2013 almost on the verge of collapse. I guided him into the music room, where he sat uncomfortably as I arranged for something to eat. He insisted, 'I saw it in the Chicago newspaper. It was all in the Chicago newspaper,' and his disjointed reference to a \u2018madman\u2019 echoed his fragile grasp on reality.",
+      "voice_traits": "gentle, shaky tones; each word laden with grief and reminiscence, moderate pace with soft pauses between phrases",
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Klipspringer (via telephone)",
+      "emotion": "tentative, evasive",
+      "text": "(On the phone) 'This is Mr. Carraway,' I introduced. 'Oh!' came a relieved, though vague, response: 'This is Klipspringer.' I mentioned, 'The funeral\u2019s tomorrow at three o\u2019clock, here at the house. I wish you\u2019d tell anybody who\u2019d be interested.' He hesitated, 'Oh, I will. Of course I\u2019m not likely to see anybody, but if I do\u2026' I pressed, 'Of course you\u2019ll be there yourself.' After a pause, he added nervously, 'I\u2019m staying with some people in Greenwich \u2013 there\u2019s a picnic or something. I\u2019ll do my best to get away\u2026' Then, almost as an afterthought, 'What I called up about was a pair of tennis shoes I left there. Could the butler send them on? My address is...'",
+      "voice_traits": "nervous stutter in parts, hesitant intonation, fast but uncertain pacing with defensive undertones",
+      "voice_id": "Charon"
+    },
+    {
+      "type": "narration",
+      "text": "Later that morning I ventured into New York in search of Meyer Wolfsheim. The meeting took place in an unassuming office behind a door labeled 'The Swastika Holding Company.' At first, silence reigned until a sharply observant, hostile-voiced Jewess stepped forward, insisting that Wolfsheim was in Chicago and that no one could force their way in. Moments later, Wolfshiem himself emerged \u2013 holding out his hands, his tone steeped in reverence and sorrow as he recalled the early days with Gatsby: 'I met him as a young major, barely out of the war. He was so hard up he wore his uniform because he couldn\u2019t afford proper clothes.'",
+      "voice_traits": "steady, reflective, with measured reverence and a nostalgic lilt, punctuated by soft sighs of regret",
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Meyer Wolfsheim",
+      "emotion": "wistful, melancholic",
+      "text": "'I raised him from nothing \u2013 right out of the gutter. When he told me he was at Oxford, I knew I could use him. We were thick as thieves from the start. But now, he\u2019s dead,' he said quietly, his voice trembling as tears welled in his eyes.",
+      "voice_traits": "low, rumbling, deliberate with pauses for emphasis; a reflective cadence that betrays a deep personal loss",
+      "voice_id": "Gacrux",
+      "character_voice_traits": "His voice likely carries a distinct, somewhat world-weary quality with an undercurrent of shrewdness. There is an accented, brisk way of speaking peppered with colloquialisms (as evidenced by his frank manner and offhand remarks) and a tone that can shift from playful to gravely sentimental in recounting past events."
+    },
+    {
+      "type": "narration",
+      "text": "After Wolfsheim\u2019s account, I encountered another figure from the periphery \u2013 Tom Buchanan. On a brisk afternoon along Fifth Avenue, he walked in his alert, aggressive manner until our eyes met through a shop window. With an outstretched hand he greeted me, 'What\u2019s the matter, Nick? Do you object to shaking hands with me?' His tone was patronizing, even as our conversation spiraled into accusations about the events that unfolded that fateful afternoon with Wilson and the cover-up that followed.",
+      "voice_traits": "assertive, clipped, with a sneer evident in his tone; brisk delivery and slightly mocking inflection",
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Tom Buchanan",
+      "emotion": "defensive, bitter",
+      "text": "'I told him the truth,' he declared, gripping my arm. 'He came to the door as we were leaving, and when I sent word we weren\u2019t in, he tried to force his way upstairs! The man was crazy \u2013 his hand never left his revolver. And what if I had told him? That fellow got what was coming. He threw dust in your eyes just like in Daisy\u2019s, but he was a tough one \u2013 he ran over Myrtle as if she were a dog, and he never stopped!'",
+      "voice_traits": "harsh, forceful, with a rising anger; rapid intonation and a rough, dismissive edge",
+      "voice_id": "Fenrir",
+      "character_voice_traits": "He speaks in a gruff, husky tenor that reinforces his brutish character. There is a hint of paternal or even condescending contempt in his tone, suggesting that his voice serves as an extension of his forceful, domineering nature."
+    },
+    {
+      "type": "narration",
+      "text": "I could only offer the one silent counterpoint \u2013 the undeniable truth that his twisted rendition was not what truly happened. As the day wore on, I reflected on the carelessness of Tom and Daisy \u2013 how they had smashed apart lives and retreated back into their money and indifference, leaving others to clean up the resulting mess.",
+      "voice_traits": "quiet, resigned, with a slow cadence and a tone of bitter introspection",
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "narration",
+      "text": "Gatsby\u2019s house remained empty after his death, the long grass on the lawn mirroring the neglect and finality of his absence. The memory of his dazzling parties\u2014its music, laughter, and the ceaseless rumble of cars\u2014lingered like ghostly echoes. One last time, before leaving, I walked up the white steps and erased an obscene word scrawled on the stone, and then I strolled down to the beach to brood on the inescapable transience of dreams.",
+      "voice_traits": "reflective, somber, with a slow, mournful pace and gentle pauses that evoke a fading dream",
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "narration",
+      "text": "In my final reflections, as I sat quietly on that darkening beach, the image of Gatsby\u2019s green light flashed in my mind \u2013 a beacon of hope, a dream receding into the vast obscurity of the past. Gatsby believed in that green light and a future always just a little too far away. And as I contemplated how we all drift on like boats against the current, I realized that, despite everything, we are all inevitably borne back into our own pasts.",
+      "voice_traits": "calm, elegiac tone with measured pacing, reflective inflections and a lingering melancholy",
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    }
+  ],
+  "chapter_number": 9,
+  "status": "pending",
+  "audio_file": "chapter_09.mp3"
+}

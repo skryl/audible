@@ -1,0 +1,96 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "characters": [
+        "Nick Carraway (narrator)",
+        "Nick\u2019s father (mentioned)",
+        "Gatsby (mentioned)"
+      ],
+      "location": "Narrative reflection (unspecified internal space)",
+      "summary": "Nick opens with a reflective monologue about his youth and his father\u2019s advice on withholding judgment. He explains his natural tolerance that has led him to encounter many peculiar people and, notably, introduces Gatsby\u2014portrayed as a unique figure whose hope and sensitivity set him apart from the rest."
+    },
+    {
+      "scene_number": 2,
+      "characters": [
+        "Nick Carraway"
+      ],
+      "location": "Nick\u2019s narration of his personal history and the West Egg area",
+      "summary": "Nick provides his family background, details about his education, service in the war, and his decision to move East to join the bond business. He recounts the practical matters of renting a modest house in West Egg, contrasts the geography of West Egg with East Egg, and gives his first glimpse of the ostentatious mansion next door\u2014belonging to a mysterious man named Gatsby."
+    },
+    {
+      "scene_number": 3,
+      "characters": [
+        "Nick Carraway",
+        "Tom Buchanan"
+      ],
+      "location": "The exterior of an elaborate East Egg mansion (Tom Buchanan\u2019s property)",
+      "summary": "On a warm windy evening, Nick drives over to East Egg to dine with old friends. As he approaches the mansion\u2014a stately Georgian Colonial home\u2014he is greeted on the porch by Tom Buchanan, whose imposing physical presence and confident manner immediately sets the tone for the evening."
+    },
+    {
+      "scene_number": 4,
+      "characters": [
+        "Nick Carraway",
+        "Tom Buchanan",
+        "Daisy Buchanan (cousin)",
+        "Miss Baker"
+      ],
+      "location": "Inside Tom Buchanan\u2019s mansion \u2013 a bright, spacious living room with French windows",
+      "summary": "Nick is led into the lavish interior where he is introduced (or reintroduced) to Daisy and meets the other young woman, Miss Baker. The room is filled with light and elegant d\u00e9cor, and the guests exchange warm greetings. The scene establishes the refined yet subtly charged atmosphere of this East Egg social setting."
+    },
+    {
+      "scene_number": 5,
+      "characters": [
+        "Nick Carraway",
+        "Tom Buchanan",
+        "Daisy Buchanan",
+        "Miss Baker"
+      ],
+      "location": "Around the dinner table in the richly appointed dining/sitting area of the mansion",
+      "summary": "The conversation at dinner turns lively and multifaceted. Tom displays his physical dominance and utters grand, sometimes unsettling ideas about social and racial dynamics, while Daisy and Miss Baker offer wry, whimsical interjections. Anecdotes like the butler\u2019s nose and teasing remarks about gossip and engagements further reveal the characters\u2019 complex, sometimes contradictory personalities."
+    },
+    {
+      "scene_number": 6,
+      "characters": [
+        "Nick Carraway",
+        "Tom Buchanan",
+        "Daisy Buchanan",
+        "Miss Baker"
+      ],
+      "location": "A rosy-colored porch and connecting verandas of the Buchanan estate",
+      "summary": "As dinner winds down, the group moves to a softly lit veranda where casual, personal conversations continue. Discussions range from remarks about the longest day of the year and plans for outings to subtle jabs about marital rumors and engagement gossip. The mood is both playful and tinged with tension, leaving Nick somewhat unsettled while the others banter effortlessly."
+    },
+    {
+      "scene_number": 7,
+      "characters": [
+        "Nick Carraway",
+        "Jay Gatsby"
+      ],
+      "location": "Nick\u2019s West Egg estate and its surroundings at night",
+      "summary": "After saying farewell to his dinner companions, Nick returns to his modest home. In the quiet darkness of his property, he notices a solitary figure emerging from the shadow of Gatsby\u2019s colossal mansion\u2014a man who appears to be surveying the starlit landscape with outstretched arms. Nick\u2019s attention is drawn to a distant, mysterious green light, leaving him with an enduring sense of curiosity about Gatsby and what he represents."
+    }
+  ],
+  "characters": [
+    "Daisy Buchanan (cousin)",
+    "Nick Carraway",
+    "Finnish Woman (the maid/cook)",
+    "Miss Baker",
+    "Jay Gatsby",
+    "Tom Buchanan",
+    "Demaine (the oil man)",
+    "Jordan Baker",
+    "The Butler",
+    "Goddard (author of the book mentioned)",
+    "Nick\u2019s father (mentioned)",
+    "Nick Carraway (narrator)",
+    "Gatsby (mentioned)",
+    "Daisy Buchanan"
+  ],
+  "major_characters": [
+    "Nick Carraway",
+    "Jay Gatsby",
+    "Tom Buchanan",
+    "Daisy Buchanan",
+    "Jordan Baker"
+  ]
+}

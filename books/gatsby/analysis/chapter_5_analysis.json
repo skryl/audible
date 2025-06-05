@@ -1,0 +1,105 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "characters": [
+        "Nick Carraway",
+        "Jay Gatsby"
+      ],
+      "location": "West Egg, outside Gatsby\u2019s mansion",
+      "summary": "Nick returns home one evening and is startled to find Gatsby\u2019s house ablaze with light. He initially suspects a party but soon sees Gatsby walking across the lawn, setting the stage for an unexpected encounter."
+    },
+    {
+      "scene_number": 2,
+      "characters": [
+        "Nick Carraway",
+        "Jay Gatsby"
+      ],
+      "location": "On the lawn outside Gatsby\u2019s house",
+      "summary": "Gatsby casually invites Nick to go to Coney Island and suggests a swim in his unused pool, while the conversation quickly shifts to planning a tea date with Daisy. Gatsby even broaches a confidential business opportunity, hinting at an undercurrent of financial dealings between them."
+    },
+    {
+      "scene_number": 3,
+      "characters": [
+        "Nick Carraway",
+        "Jay Gatsby",
+        "Unnamed Messenger",
+        "Finn (servant) \u2013 indirectly mentioned"
+      ],
+      "location": "Nick\u2019s property and its vicinity in West Egg (rainy morning)",
+      "summary": "The next morning finds the agreed-upon day drenched in rain. A messenger in a raincoat shows up to cut Nick\u2019s grass on Gatsby\u2019s orders, prompting Nick to dash into West Egg Village for supplies. Soon after, a greenhouse full of flowers delivered from Gatsby\u2019s signals that plans for the tea gathering are in motion."
+    },
+    {
+      "scene_number": 4,
+      "characters": [
+        "Nick Carraway",
+        "Jay Gatsby",
+        "Daisy Buchanan"
+      ],
+      "location": "Gatsby\u2019s house \u2013 entryway and hallway",
+      "summary": "Daisy arrives in a large car on a rainy afternoon, greeting Nick with her bright, ecstatic smile. An awkward first meeting unfolds when Gatsby, looking pale and tense, appears at the door. The initial moments are marked by nervous introductions and a hint of underlying tension as the three convene."
+    },
+    {
+      "scene_number": 5,
+      "characters": [
+        "Nick Carraway",
+        "Jay Gatsby"
+      ],
+      "location": "Inside Gatsby\u2019s house \u2013 transitioning from hall to kitchen",
+      "summary": "As tea is being served amid a flurry of cups and cakes, Gatsby\u2019s unease becomes palpable. After some awkward exchanges in the living room\u2014including a near mishap with a mantel clock\u2014Gatsby pulls Nick aside into the kitchen. In a hushed, anxious conversation, Gatsby confesses that something feels like a 'terrible mistake,' highlighting the strain beneath the surface."
+    },
+    {
+      "scene_number": 6,
+      "characters": [
+        "Nick Carraway",
+        "Jay Gatsby",
+        "Daisy Buchanan"
+      ],
+      "location": "Within Gatsby\u2019s house and its immediate grounds",
+      "summary": "Disturbed by the tense exchange, Nick steps out into the rain for a moment of solitary reflection under a large tree, musing on the mansion and its faded grandeur. Upon reentering, he finds that the earlier awkwardness has shifted: Daisy is tending her tears and Gatsby appears to glow with a renewed, if fragile, well-being as the conversation tentatively resumes."
+    },
+    {
+      "scene_number": 7,
+      "characters": [
+        "Nick Carraway",
+        "Jay Gatsby",
+        "Daisy Buchanan"
+      ],
+      "location": "Throughout Gatsby\u2019s mansion \u2013 from lavish parlours to intimate private rooms",
+      "summary": "Gatsby\u2019s mood shifts as he eagerly invites Daisy (with Nick along) on an impromptu tour of his home. They wander through grand music rooms, period bedrooms, and elegant salons filled with storied artifacts. The tour reaches an emotional peak when Gatsby theatrically displays his collection of shirts, prompting Daisy to break down in tears over their beauty\u2014a moment that encapsulates the collision of material excess with deep, unspoken emotion."
+    },
+    {
+      "scene_number": 8,
+      "characters": [
+        "Nick Carraway",
+        "Jay Gatsby",
+        "Daisy Buchanan",
+        "Mr. Klipspringer"
+      ],
+      "location": "Gatsby\u2019s grounds and music-room, with views toward the Sound",
+      "summary": "After the interior tour, the group steps outside briefly to admire the grounds and discuss the iconic green light at the end of Daisy\u2019s dock\u2014a symbol of Gatsby\u2019s unattainable dreams. Returning indoors, a telephone call and the arrival of Mr. Klipspringer (the boarder) set the stage for a solitary piano performance in the music-room. As the soft strains of 'The Love Nest' fill the space, an ephemeral, charged atmosphere envelops the trio. Ultimately, Nick watches, with a mix of wonder and melancholy, as Gatsby and Daisy share a moment of intense connection and intimacy, then departs, leaving them together in a world of blurred hopes and rekindled emotions."
+    }
+  ],
+  "characters": [
+    "Mr. Klipspringer (also referred to as Ewing)",
+    "Finn (servant) \u2013 indirectly mentioned",
+    "Ferdie (chauffeur)",
+    "The owl-eyed man",
+    "Nick Carraway",
+    "Wolfshiem",
+    "Finn",
+    "Miss Baker",
+    "Mr. Klipspringer",
+    "Jay Gatsby",
+    "Tom Buchanan",
+    "Unnamed Messenger",
+    "Mr. Dan Cody",
+    "Nick Carraway (the narrator)",
+    "Daisy Buchanan"
+  ],
+  "major_characters": [
+    "Nick Carraway (the narrator)",
+    "Jay Gatsby",
+    "Daisy Buchanan"
+  ]
+}

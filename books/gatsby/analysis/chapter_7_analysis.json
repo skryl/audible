@@ -1,0 +1,133 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "characters": [
+        "Nick Carraway",
+        "Gatsby (via phone)",
+        "Butler",
+        "Finn (mentioned)",
+        "Grocery boy (mentioned)"
+      ],
+      "location": "Gatsby\u2019s mansion, West Egg (exterior and entrance)",
+      "summary": "Nick discovers that Gatsby\u2019s house is dark and silent on a Saturday night. An unfriendly butler tells him that Gatsby isn\u2019t ill and hints at recent changes\u2014Gatsby has dismissed his old servants in favor of new ones reputed not to gossip. Later, Gatsby calls Nick, explaining that he wants a discreet crew because Daisy now visits regularly, and he invites Nick to join him for lunch at Daisy\u2019s."
+    },
+    {
+      "scene_number": 2,
+      "characters": [
+        "Nick Carraway",
+        "Unnamed female passenger",
+        "Conductor"
+      ],
+      "location": "A sweltering train carriage on a hot summer day",
+      "summary": "Nick endures an oppressive, scorching train ride where the heat tangible affects everyone around him\u2014from a perspiring nearby passenger to the overzealous remarks of the conductor. This scene sets the stage and tone of the blazing, lethargic summer day."
+    },
+    {
+      "scene_number": 3,
+      "characters": [
+        "Nick Carraway",
+        "Daisy Buchanan",
+        "Jordan Baker",
+        "Tom Buchanan",
+        "Gatsby",
+        "Butler (in passing)"
+      ],
+      "location": "The cool, shadowed interior of the Buchanans\u2019 house",
+      "summary": "Inside the Buchanans\u2019 house, a refreshing but tense atmosphere contrasts with the heat outside. As subtle conversations drift along the hall\u2014accented by the sound of a telephone bell and murmurs about car deals\u2014the stage is set for a gathering that involves both old friends and new tensions among Daisy, Tom, Jordan, Gatsby, and Nick."
+    },
+    {
+      "scene_number": 4,
+      "characters": [
+        "Daisy Buchanan",
+        "Jordan Baker",
+        "Tom Buchanan",
+        "Gatsby",
+        "Nick Carraway"
+      ],
+      "location": "Inside the Buchanans\u2019 house (salon and dining room) and on the veranda",
+      "summary": "During a luncheon served in a darkened dining room to escape the heat, conversations reveal a cocktail of flirtation and conflict. Daisy playfully kisses Gatsby while Jordan and Nick observe the unfolding tension. After lunch, the group moves to the veranda, where remarks about personal histories (such as Gatsby\u2019s Oxford claims) and teasing banter only heighten the undercurrents of rivalry and unspoken resentments."
+    },
+    {
+      "scene_number": 5,
+      "characters": [
+        "Tom Buchanan",
+        "Nick Carraway",
+        "Jordan Baker",
+        "Gatsby",
+        "George Wilson",
+        "Myrtle Wilson (observed indirectly)"
+      ],
+      "location": "Aboard Gatsby\u2019s car and along a roadside near Wilson\u2019s garage",
+      "summary": "The assembled group sets off in Gatsby\u2019s car under the heavy, oppressive heat. Stopping by Wilson\u2019s garage for gas, they encounter George Wilson\u2014exhausted and desperate\u2014and notice Myrtle Wilson watching from a window with a look of jealous terror. In this brief interlude, tensions multiply as discussions about old cars and money hint at underlying personal and moral conflicts."
+    },
+    {
+      "scene_number": 6,
+      "characters": [
+        "Tom Buchanan",
+        "Nick Carraway",
+        "Michaelis (the coffee joint attendant)",
+        "George Wilson",
+        "Myrtle Wilson (deceased)",
+        "Policeman(s)",
+        "Other bystanders"
+      ],
+      "location": "At and around Wilson\u2019s garage (the accident scene)",
+      "summary": "A tragic accident shatters the day when Myrtle Wilson is fatally struck by a speeding car. Amid chaotic shouts, a growing crowd, and the somber presence of Michaelis as the primary witness, George Wilson is visibly distraught. Tom tries to assert control of the situation and deflect suspicion, while police and onlookers scramble to piece together what happened in the wake of the \u2018death car\u2019 incident."
+    },
+    {
+      "scene_number": 7,
+      "characters": [
+        "Tom Buchanan",
+        "Nick Carraway",
+        "Jordan Baker"
+      ],
+      "location": "Approaching and at the Buchanans\u2019 house",
+      "summary": "After the fatal accident, Tom drives the group back toward the Buchanans\u2019 residence. The mood is heavy and tense as the characters process the unsettling events. Tom\u2019s conflicting emotions emerge as he navigates both physical and emotional distances, while Nick grows increasingly isolated and reflective amid the unfolding tragedy."
+    },
+    {
+      "scene_number": 8,
+      "characters": [
+        "Jay Gatsby",
+        "Nick Carraway"
+      ],
+      "location": "Outside the Buchanans\u2019 house, by the gate in the moonlight",
+      "summary": "In a quiet, lingering moment after the tumult, Nick encounters Gatsby waiting alone by the gate. Their brief conversation centers on the sobering implications of the day\u2014especially the revelation that Daisy was behind the wheel during the fatal incident. Gatsby\u2019s anxious, pensive questions and understated concern underscore the chapter\u2019s lingering atmosphere of dread and unresolved conflict."
+    }
+  ],
+  "characters": [
+    "Nick Carraway",
+    "Jay Gatsby",
+    "Michaelis",
+    "Unnamed female passenger",
+    "Finn (mentioned)",
+    "Myrtle Wilson",
+    "Gatsby (via phone)",
+    "Jordan Baker",
+    "Butler (in passing)",
+    "Conductor",
+    "Butler",
+    "Myrtle Wilson (deceased)",
+    "Gatsby",
+    "Daisy Buchanan",
+    "Michaelis (the coffee joint attendant)",
+    "Meyer Wolfshiem",
+    "Walter Chase",
+    "Other bystanders",
+    "Finn",
+    "Myrtle Wilson (observed indirectly)",
+    "Grocery boy (mentioned)",
+    "Tom Buchanan",
+    "Dr. T. J. Eckleburg",
+    "Policeman(s)",
+    "George Wilson"
+  ],
+  "major_characters": [
+    "Nick Carraway",
+    "Jay Gatsby",
+    "Tom Buchanan",
+    "Daisy Buchanan",
+    "Jordan Baker",
+    "George Wilson",
+    "Myrtle Wilson"
+  ]
+}

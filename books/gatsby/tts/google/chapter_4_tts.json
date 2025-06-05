@@ -1,0 +1,379 @@
+{
+  "title": "Chapter 4",
+  "segments": [
+    {
+      "type": "narration",
+      "text": "On a bright Sunday morning, as church bells rang out in the coastal villages, the world and its mistress returned to Gatsby\u2019s house. The scene was whimsical and surreal \u2013 lights twinkling on his lawn as if they too were in on a grand, mischievous secret.",
+      "voice_traits": {
+        "accent": "Neutral American",
+        "tone": "lively, descriptive",
+        "pacing": "measured, with gentle pauses at commas",
+        "emotion": "amused wonder",
+        "pronunciation": "clear, enunciated",
+        "pauses": "slight pause after phrases like 'on his lawn'"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Young Ladies (in unison, playful and conspiratorial)",
+      "text": "He\u2019s a bootlegger. One time he killed a man who had found out that he was nephew to Von Hindenburg and second cousin to the devil. Reach me a rose, honey, and pour me a last drop into that there crystal glass.",
+      "emotion": "mischievous, exaggerated sophistication",
+      "voice_traits": {
+        "accent": "Slightly upper-class American",
+        "tone": "bright, teasing",
+        "pacing": "breezy and rhythmic",
+        "pronunciation": "articulated with a playful lilt",
+        "pauses": "natural pauses after humorous or ironic clauses"
+      },
+      "voice_id": "Charon"
+    },
+    {
+      "type": "narration",
+      "text": "I had once scrawled a timetable, with names fading into grey on its disintegrating folds, detailing all those who had graced Gatsby\u2019s house that summer \u2013 a veritable gallery of the East Egg, West Egg, island visitors, theatrical types, gamblers, and even a few odd characters whose reputations preceded them.",
+      "voice_traits": {
+        "accent": "Neutral American",
+        "tone": "reflective, slightly wistful",
+        "pacing": "steady, with brief pauses for emphasis on names and details",
+        "emotion": "nostalgic mixed with detached curiosity",
+        "pronunciation": "clear with a gentle emphasis on descriptive adjectives"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "narration",
+      "text": "At nine o\u2019clock one late July morning, Gatsby\u2019s gorgeous car \u2013 a rich cream color adorned with hatboxes and a labyrinth of windshields \u2013 lurched up the rocky drive to my door. Its three-note horn burst out a joyful melody as I prepared for a day of unexpected encounters.",
+      "voice_traits": {
+        "accent": "Neutral American",
+        "tone": "vivid and cinematic",
+        "pacing": "smooth and unfolding gradually",
+        "emotion": "excited anticipation",
+        "pronunciation": "with colorful detail and clarity",
+        "pauses": "a brief pause before describing the car\u2019s lavish features"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Gatsby",
+      "text": "Good morning, old sport. You\u2019re having lunch with me today and I thought we\u2019d ride up together.",
+      "emotion": "cheerful, confident",
+      "voice_traits": {
+        "accent": "refined American with a hint of self-assurance",
+        "tone": "light, yet persuasive",
+        "pacing": "smooth, with a relaxed rhythm",
+        "pronunciation": "crisp, with each word distinctly enunciated",
+        "pauses": "subtle pause after the greeting"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Gatsby\u2019s voice likely exudes a refined, controlled quality\u2014a quiet intensity that hints at both warmth and melancholy. Though not described in detail here, his indirect presence conveys a voice that blends charm with an air of mystery."
+    },
+    {
+      "type": "narration",
+      "text": "Balancing himself confident on the dashboard with that lively, restless American energy, Gatsby made his way as if performing a mechanical dance. I admired his resourcefulness, so characteristic of our sporadic, indefinable games of youth.",
+      "voice_traits": {
+        "accent": "Neutral American",
+        "tone": "observant, descriptive",
+        "pacing": "even and deliberate",
+        "emotion": "awe mixed with measured observation",
+        "pronunciation": "crisp and articulate"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Gatsby",
+      "text": "Look here, old sport, what\u2019s your opinion of me, anyhow?",
+      "emotion": "inquisitive yet self-conscious",
+      "voice_traits": {
+        "accent": "refined yet colloquial American",
+        "tone": "curious with a dash of vulnerability",
+        "pacing": "steady, with a slight hesitation suggesting deeper intent",
+        "pronunciation": "clear, with a touch of theatricality",
+        "pauses": "a measured pause after 'look here'"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Gatsby\u2019s voice likely exudes a refined, controlled quality\u2014a quiet intensity that hints at both warmth and melancholy. Though not described in detail here, his indirect presence conveys a voice that blends charm with an air of mystery."
+    },
+    {
+      "type": "dialogue",
+      "character": "Narrator (Nick Carraway)",
+      "text": "Well, I\u2019m going to tell you something about my life...",
+      "emotion": "reserved, a bit evasive",
+      "voice_traits": {
+        "accent": "Midwestern American",
+        "tone": "matter-of-fact and introspective",
+        "pacing": "calm and measured",
+        "pronunciation": "clear and deliberate",
+        "pauses": "slight pause before transitioning to Gatsby\u2019s revelations"
+      },
+      "voice_id": "Sulafat"
+    },
+    {
+      "type": "dialogue",
+      "character": "Gatsby",
+      "text": "I\u2019ll tell you God\u2019s truth. I am the son of some wealthy people in the Middle West \u2013 all dead now. I was brought up in America but educated at Oxford, because all my ancestors have been educated there for many years. It is a family tradition.",
+      "emotion": "earnest yet tinged with uncertainty",
+      "voice_traits": {
+        "accent": "refined, with a hint of affected British inflection on 'Oxford'",
+        "tone": "declarative but faltering slightly at the crucial point",
+        "pacing": "steady, with minor hesitations at the phrase 'educated at Oxford'",
+        "pronunciation": "clear but with a noticeable quickening when names are mentioned",
+        "pauses": "a brief pause after 'dead now' and a hesitancy when reciting the Oxford detail"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Gatsby\u2019s voice likely exudes a refined, controlled quality\u2014a quiet intensity that hints at both warmth and melancholy. Though not described in detail here, his indirect presence conveys a voice that blends charm with an air of mystery."
+    },
+    {
+      "type": "dialogue",
+      "character": "Narrator (Nick Carraway)",
+      "text": "What part of the Middle West?",
+      "emotion": "curious and slightly amused",
+      "voice_traits": {
+        "accent": "Midwestern American",
+        "tone": "inquisitive yet light-hearted",
+        "pacing": "balanced with a subtle lilt",
+        "pronunciation": "clear and conversational",
+        "pauses": "short pause before the question for emphasis"
+      },
+      "voice_id": "Sulafat"
+    },
+    {
+      "type": "dialogue",
+      "character": "Gatsby",
+      "text": "San Francisco.",
+      "emotion": "matter-of-fact, with a note of irony",
+      "voice_traits": {
+        "accent": "Neutral American with a slight West Coast inflection",
+        "tone": "brief and wry",
+        "pacing": "rapid and clipped",
+        "pronunciation": "precise and understated",
+        "pauses": "a very short pause afterward to let the information sink in"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Gatsby\u2019s voice likely exudes a refined, controlled quality\u2014a quiet intensity that hints at both warmth and melancholy. Though not described in detail here, his indirect presence conveys a voice that blends charm with an air of mystery."
+    },
+    {
+      "type": "dialogue",
+      "character": "Gatsby",
+      "text": "My family all died and I came into a good deal of money. After that I lived like a young rajah in all the capitals of Europe \u2013 Paris, Venice, Rome \u2013 collecting jewels, chiefly rubies, hunting big game, painting a little for myself, and trying to forget something very sad that happened to me long ago.",
+      "emotion": "somber with an undercurrent of fantastical recall",
+      "voice_traits": {
+        "accent": "refined American with traces of romantic affectation",
+        "tone": "narrative and wistful",
+        "pacing": "fluent yet with drawn-out emphasis on the capitals and activities",
+        "pronunciation": "deliberate, with clear annunciation of place names",
+        "pauses": "longer pauses after listing extravagant details, inviting reflection"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Gatsby\u2019s voice likely exudes a refined, controlled quality\u2014a quiet intensity that hints at both warmth and melancholy. Though not described in detail here, his indirect presence conveys a voice that blends charm with an air of mystery."
+    },
+    {
+      "type": "dialogue",
+      "character": "Gatsby",
+      "text": "Then came the war, old sport. It was a great relief, and I tried very hard to die, but I seemed to bear an enchanted life. I accepted a commission as first lieutenant. In the Argonne Forest, with a machine-gun battalion and a host of Lewis guns, I\u2026 I was promoted to major. Every Allied government decorated me \u2013 even little Montenegro down on the Adriatic Sea! Here, take a look.",
+      "emotion": "half-boastful, half-bitter",
+      "voice_traits": {
+        "accent": "confident American with hints of dramatic inflection",
+        "tone": "narrative, with a rise and fall of triumphant recollection",
+        "pacing": "deliberate when recounting war details, then quickening at the climax",
+        "pronunciation": "clear with special emphasis on key terms like 'Argonne Forest' and 'Montenegro'",
+        "pauses": "carefully placed pauses after dramatic claims and before presenting the souvenir"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Gatsby\u2019s voice likely exudes a refined, controlled quality\u2014a quiet intensity that hints at both warmth and melancholy. Though not described in detail here, his indirect presence conveys a voice that blends charm with an air of mystery."
+    },
+    {
+      "type": "dialogue",
+      "character": "Gatsby",
+      "text": "I'm going to make a big request of you today, old sport \u2013 and I thought you ought to know something about me. I didn\u2019t want you to think I was just some nobody. You see, I usually find myself among strangers, always drifting, trying to forget the sad things that happened long ago. You\u2019ll hear about it this afternoon.",
+      "emotion": "hopeful yet nervous",
+      "voice_traits": {
+        "accent": "refined American",
+        "tone": "confiding but with a trace of apprehension",
+        "pacing": "measured, with gentle upward inflection towards the end",
+        "pronunciation": "clear and personal",
+        "pauses": "a pause after 'nobody' to emphasize his vulnerability"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Gatsby\u2019s voice likely exudes a refined, controlled quality\u2014a quiet intensity that hints at both warmth and melancholy. Though not described in detail here, his indirect presence conveys a voice that blends charm with an air of mystery."
+    },
+    {
+      "type": "narration",
+      "text": "As we drove towards town, the countryside gave way to fragments of West Egg \u2013 Port Roosevelt with its red-belted ships, a cobbled slum lined with faded saloons, and eventually, the open valley of ashes. Scenes flashed by as we passed bridges, a policeman riding frantically alongside us, and even a humorous encounter with a limousine carrying modish negroes whose looks challenged our own.",
+      "voice_traits": {
+        "accent": "Neutral American",
+        "tone": "vivid, cinematic, with observational detail",
+        "pacing": "fluid, matching the swift pace of the drive",
+        "emotion": "amused and reflective",
+        "pronunciation": "crisp and articulate",
+        "pauses": "brief pauses at transitions between scenes"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "narration",
+      "text": "By noon, I found myself in a well-fanned Forty-second Street cellar. Inside, dim light and soft clinking of glass set the stage. There, Gatsby introduced me to a small, flat-nosed man with expressive eyes \u2013 Mr. Wolfshiem.",
+      "voice_traits": {
+        "accent": "Neutral American",
+        "tone": "atmospheric and deliberate",
+        "pacing": "leisurely, almost contemplative",
+        "emotion": "curious and reflective",
+        "pronunciation": "clear with subtle emphasis on descriptive details",
+        "pauses": "gentle pauses to draw out the mood"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Mr. Wolfshiem",
+      "text": "Mr. Carraway, this is my friend, Mr. Wolfshiem.",
+      "emotion": "earnest, with a hint of self-importance",
+      "voice_traits": {
+        "accent": "Eastern European inflection mixed with American tones",
+        "tone": "matter-of-fact and brisk",
+        "pacing": "short and clipped",
+        "pronunciation": "precise with a slight rasp on key consonants",
+        "pauses": "minimal, to convey efficiency in speech"
+      },
+      "voice_id": "Gacrux",
+      "character_voice_traits": "His voice likely carries a distinct, somewhat world-weary quality with an undercurrent of shrewdness. There is an accented, brisk way of speaking peppered with colloquialisms (as evidenced by his frank manner and offhand remarks) and a tone that can shift from playful to gravely sentimental in recounting past events."
+    },
+    {
+      "type": "dialogue",
+      "character": "Mr. Wolfshiem",
+      "text": "(After shaking hands) So, I took one look at him and said, \u2018All right, Katspaugh, don\u2019t pay him a penny till he shuts his mouth.\u2019 And he did \u2013 right then.",
+      "emotion": "wry, with a touch of cynicism",
+      "voice_traits": {
+        "accent": "Eastern European accent heavy on consonants",
+        "tone": "wry and anecdotal",
+        "pacing": "quick in delivery with emphatic pauses at punchlines",
+        "pronunciation": "crisp and deliberate",
+        "pauses": "a short pause after the humorous command for effect"
+      },
+      "voice_id": "Gacrux",
+      "character_voice_traits": "His voice likely carries a distinct, somewhat world-weary quality with an undercurrent of shrewdness. There is an accented, brisk way of speaking peppered with colloquialisms (as evidenced by his frank manner and offhand remarks) and a tone that can shift from playful to gravely sentimental in recounting past events."
+    },
+    {
+      "type": "dialogue",
+      "character": "Gatsby (addressing Nick)",
+      "text": "Look here, old sport, I\u2019m afraid I made you a little angry this morning in the car. I don\u2019t like mysteries, and I don\u2019t understand why you won\u2019t come out frankly and tell me what you want. Why has it all got to come through Miss Baker?",
+      "emotion": "mildly exasperated yet pleading",
+      "voice_traits": {
+        "accent": "refined American",
+        "tone": "direct and a bit hurt",
+        "pacing": "steady with a slight upward lilt at the end",
+        "pronunciation": "crisp with an edge of urgency",
+        "pauses": "a pause before the question for emphasis"
+      },
+      "voice_id": "Charon"
+    },
+    {
+      "type": "dialogue",
+      "character": "Gatsby",
+      "text": "Oh, it\u2019s nothing underhand. Miss Baker\u2019s a great sportswoman, you know, and she\u2019d never do anything that wasn\u2019t all right.",
+      "emotion": "reassuring yet evasive",
+      "voice_traits": {
+        "accent": "refined, confident American",
+        "tone": "smooth and conciliatory",
+        "pacing": "measured, with soft inflections",
+        "pronunciation": "clear and relaxed",
+        "pauses": "brief pause between clauses for clarity"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Gatsby\u2019s voice likely exudes a refined, controlled quality\u2014a quiet intensity that hints at both warmth and melancholy. Though not described in detail here, his indirect presence conveys a voice that blends charm with an air of mystery."
+    },
+    {
+      "type": "dialogue",
+      "character": "Mr. Wolfshiem",
+      "text": "I\u2019ve enjoyed my lunch, but I\u2019m going to run off before I outstay my welcome. You young men have your sports and your young ladies \u2013 I belong to another generation.",
+      "emotion": "sentimental and slightly indignant",
+      "voice_traits": {
+        "accent": "Eastern European/American hybrid",
+        "tone": "wistful with a tinge of reproach",
+        "pacing": "deliberate with measured cadences",
+        "pronunciation": "clear, with a noticeable edge in his phrases",
+        "pauses": "a pause after 'another generation' to let the sentiment sink in"
+      },
+      "voice_id": "Gacrux",
+      "character_voice_traits": "His voice likely carries a distinct, somewhat world-weary quality with an undercurrent of shrewdness. There is an accented, brisk way of speaking peppered with colloquialisms (as evidenced by his frank manner and offhand remarks) and a tone that can shift from playful to gravely sentimental in recounting past events."
+    },
+    {
+      "type": "narration",
+      "text": "After paying the check and noticing Tom Buchanan across the crowded room, I excused myself to greet him. An awkward, strained handshake followed, and briefly, his presence reminded me of things past \u2013 as if the echoes of old money and lost dreams mingled in the same space.",
+      "voice_traits": {
+        "accent": "Neutral American",
+        "tone": "observant and reflective",
+        "pacing": "steady with natural conversational pauses",
+        "emotion": "slightly embarrassed and pensive",
+        "pronunciation": "clear without exaggeration"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "narration",
+      "text": "The chapter then drifts into memory. One October day in 1917, as recounted by Jordan Baker seated straight in the tea-garden of the Plaza Hotel, the scene shifts to a youthful Louisville afternoon. The lawns, the fashionable roadster of Daisy Fay, and the hushed urgency of young romance were all set against a backdrop of red, white, and blue banners that seemed to admonish from above.",
+      "voice_traits": {
+        "accent": "Neutral American with a nostalgic lilt",
+        "tone": "reminiscent and gently wistful",
+        "pacing": "unhurried to evoke a dreamy flashback",
+        "emotion": "bittersweet, with an undercurrent of youthful longing",
+        "pronunciation": "soft, as if the memories are being recounted tenderly"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Daisy (in flashback, warmly nostalgic)",
+      "text": "Hello, Jordan. Please come here.",
+      "emotion": "inviting, delicate",
+      "voice_traits": {
+        "accent": "Southern gentle lilt",
+        "tone": "soft, with a touch of coquettish charm",
+        "pacing": "measured and graceful",
+        "pronunciation": "smooth, with a warm, welcoming quality",
+        "pauses": "a gentle pause after her greeting to create intimacy"
+      },
+      "voice_id": "Charon"
+    },
+    {
+      "type": "narration",
+      "text": "Jordan recounted how, in that moment, surrounded by the bustle of young officers and disapproving banners, a mysterious stranger \u2013 a man who would later be known as Jay Gatsby \u2013 entered her life. Through whispered rumors and fleeting encounters, Daisy\u2019s eventual whirlwind romance, marriage to Tom Buchanan, and the strange, persistent presence of Gatsby interwove with the fabric of her existence.",
+      "voice_traits": {
+        "accent": "Neutral American",
+        "tone": "reflective and narrative",
+        "pacing": "slow and measured to evoke emotion and reminiscence",
+        "emotion": "nostalgic with subtle regret",
+        "pronunciation": "clear and methodical",
+        "pauses": "occasional pausing on key turning points in the story"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "narration",
+      "text": "Later that evening, as Jordan and I drove through Central Park under a twilight sky humming with the voices of children and the distant notes of a song \u2013 'I\u2019m the Sheik of Araby, your love belongs to me...' \u2013 she confided a delicately modulated truth. Gatsby had bought a house across the bay, and now, with all his mysterious grandeur and hesitant longing, he hoped to ask me a modest favor: to invite Daisy to tea.",
+      "voice_traits": {
+        "accent": "Neutral American",
+        "tone": "intimate and confessional",
+        "pacing": "gentle and flowing, matching the calm dusk",
+        "emotion": "wistful and slightly tremulous",
+        "pronunciation": "clear with a soft, reflective quality",
+        "pauses": "pauses to emphasize phrases like 'across the bay' and 'a modest favor'"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    }
+  ],
+  "chapter_number": 4,
+  "status": "pending",
+  "audio_file": "chapter_04.mp3"
+}

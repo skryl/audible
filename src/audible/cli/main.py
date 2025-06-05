@@ -84,6 +84,7 @@ def main():
     parser.add_argument("--generate-audio", help="Only generate audio from TTS files", action="store_true")
     parser.add_argument("--tts-file", help="Process a single TTS file")
     parser.add_argument("--force", help="Force regeneration of files", action="store_true")
+    parser.add_argument("--multi-speaker", help="Enable multi-speaker audio generation for Google TTS", action="store_true")
     parser.add_argument("--no-async", dest="no_async", help="Disable asynchronous processing", action="store_true")
     parser.add_argument("--log-level", choices=["DEBUG", "INFO", "WARNING", "ERROR"],
                        default="INFO", help="Set the logging level")
@@ -207,7 +208,8 @@ def main():
             use_cloned_voices=args.use_cloned_voices,
             force=args.force,
             single_file=args.tts_file,
-            use_async=not args.no_async
+            use_async=not args.no_async,
+            multi_speaker=args.multi_speaker
         )
         return
 

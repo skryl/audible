@@ -1,0 +1,564 @@
+{
+  "title": "Chapter 7",
+  "segments": [
+    {
+      "type": "narration",
+      "text": "It was when curiosity about Gatsby was at its highest that the lights in his house failed to go on one Saturday night\u2014and, as obscurely as it had begun, his career as Trimalchio was over. Slowly, Nick notices that the automobiles turning into Gatsby\u2019s drive only stop briefly before sulking off. Wonder and concern fill the air as he ventures over to investigate.",
+      "voice_traits": {
+        "accent": "neutral",
+        "tone": "observant, reflective",
+        "pacing": "moderate, measured",
+        "emotion": "curious, slightly somber",
+        "pronunciation": "clear",
+        "pauses": "strategic, emphasizing mystery",
+        "distinctive": "narrative storytelling style"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Unknown Butler",
+      "text": "Is Mr. Gatsby sick?",
+      "emotion": "suspicious, curt",
+      "voice_traits": {
+        "accent": "refined but slightly brusque",
+        "tone": "gruff, dismissive",
+        "pacing": "abrupt",
+        "emotion": "indifferent",
+        "pronunciation": "clipped",
+        "pauses": "short, none",
+        "distinctive": "suspicious attitude"
+      },
+      "voice_id": "Charon"
+    },
+    {
+      "type": "dialogue",
+      "character": "Unknown Butler",
+      "text": "Nope. (After a pause) Sir.",
+      "emotion": "grudging, curt",
+      "voice_traits": {
+        "accent": "refined with hints of formality",
+        "tone": "flattened, resigned",
+        "pacing": "deliberate with a pause",
+        "emotion": "reluctant",
+        "pronunciation": "precise",
+        "pauses": "after the brief negation",
+        "distinctive": "polite but terse"
+      },
+      "voice_id": "Charon"
+    },
+    {
+      "type": "dialogue",
+      "character": "Nick Carraway",
+      "text": "I hadn\u2019t seen him around, and I was rather worried. Tell him Nick Carraway came over.",
+      "emotion": "concerned, polite",
+      "voice_traits": {
+        "accent": "mid-Atlantic",
+        "tone": "measured, gentle",
+        "pacing": "steady",
+        "emotion": "caring, inquisitive",
+        "pronunciation": "clear",
+        "pauses": "slight pauses to underline worry",
+        "distinctive": "narrative, observant"
+      },
+      "voice_id": "Kore",
+      "character_voice_traits": "His narrative voice is measured, reflective, and gentle with hints of a Midwestern accent. There is a calm, understated quality in his speech that comes off as both polite and insightful."
+    },
+    {
+      "type": "dialogue",
+      "character": "Unknown Butler",
+      "text": "Who?",
+      "emotion": "curt, questioning",
+      "voice_traits": {
+        "accent": "refined",
+        "tone": "abrupt",
+        "pacing": "rapid",
+        "emotion": "irritated",
+        "pronunciation": "sharp",
+        "pauses": "none",
+        "distinctive": "demanding clarity"
+      },
+      "voice_id": "Charon"
+    },
+    {
+      "type": "dialogue",
+      "character": "Nick Carraway",
+      "text": "Carraway.",
+      "emotion": "calm, insistent",
+      "voice_traits": {
+        "accent": "neutral",
+        "tone": "steady",
+        "pacing": "deliberate",
+        "emotion": "mildly challenging",
+        "pronunciation": "precise",
+        "pauses": "brief for emphasis",
+        "distinctive": "simple and clear"
+      },
+      "voice_id": "Kore",
+      "character_voice_traits": "His narrative voice is measured, reflective, and gentle with hints of a Midwestern accent. There is a calm, understated quality in his speech that comes off as both polite and insightful."
+    },
+    {
+      "type": "dialogue",
+      "character": "Unknown Butler",
+      "text": "Carraway. All right, I\u2019ll tell him.",
+      "emotion": "dismissive",
+      "voice_traits": {
+        "accent": "refined",
+        "tone": "unenthusiastic",
+        "pacing": "short, clipped",
+        "emotion": "irritated",
+        "pronunciation": "clear",
+        "pauses": "brief before finality",
+        "distinctive": "curt, final"
+      },
+      "voice_id": "Charon"
+    },
+    {
+      "type": "narration",
+      "text": "Abruptly the butler slams the door. Meanwhile, Nick learns that Gatsby dismissed all his servants a week ago and replaced them with a new group more discreet and less susceptible to gossip. Rumors abound among the village about the nature of these new 'servants' who seem more like hired hands ordering supplies over the phone.",
+      "voice_traits": {
+        "accent": "neutral",
+        "tone": "informative, slightly ironic",
+        "pacing": "medium, fluid",
+        "emotion": "observant, matter-of-fact",
+        "pronunciation": "clear",
+        "pauses": "well placed to signal ironic commentary",
+        "distinctive": "narrative with subtle sarcasm"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Gatsby (on phone)",
+      "text": "No, old sport.",
+      "emotion": "casual, reassuring",
+      "voice_traits": {
+        "accent": "refined, slightly theatrical",
+        "tone": "smooth, confident",
+        "pacing": "even, unhurried",
+        "emotion": "light-hearted, self-assured",
+        "pronunciation": "crisp",
+        "pauses": "minimal, flowing",
+        "distinctive": "signature phrase \u2018old sport\u2019 with elegance"
+      },
+      "voice_id": "Charon"
+    },
+    {
+      "type": "dialogue",
+      "character": "Nick Carraway",
+      "text": "Going away?",
+      "emotion": "inquiring, slightly puzzled",
+      "voice_traits": {
+        "accent": "neutral",
+        "tone": "curious",
+        "pacing": "measured",
+        "emotion": "mild concern",
+        "pronunciation": "clear",
+        "pauses": "a brief pause to indicate thoughtfulness",
+        "distinctive": "reflective questioning"
+      },
+      "voice_id": "Kore",
+      "character_voice_traits": "His narrative voice is measured, reflective, and gentle with hints of a Midwestern accent. There is a calm, understated quality in his speech that comes off as both polite and insightful."
+    },
+    {
+      "type": "dialogue",
+      "character": "Gatsby (on phone)",
+      "text": "I hear you fired all your servants. I wanted somebody who wouldn\u2019t gossip. Daisy comes over quite often\u2014in the afternoons.",
+      "emotion": "matter-of-fact, slightly defensive",
+      "voice_traits": {
+        "accent": "refined, deliberate",
+        "tone": "cool, understated",
+        "pacing": "even and rhythmic",
+        "emotion": "calm yet guarded",
+        "pronunciation": "articulate",
+        "pauses": "carefully placed between thoughts",
+        "distinctive": "slight theatricality in addressing 'old sport'"
+      },
+      "voice_id": "Charon"
+    },
+    {
+      "type": "narration",
+      "text": "Later, on a broiling summer day, Nick catches a glimpse of the city\u2019s simmering atmosphere as he rides a train. The heat is palpable; the conductor\u2019s enthusiastic remarks about the weather mingle with the droning heat and the rustling town sounds.",
+      "voice_traits": {
+        "accent": "neutral",
+        "tone": "evocative, descriptive",
+        "pacing": "slow and immersive",
+        "emotion": "reflective, slightly discomforted by the heat",
+        "pronunciation": "clear",
+        "pauses": "strategically placed for imagery",
+        "distinctive": "vivid sensory details"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "narration",
+      "text": "As Nick and Gatsby wait at the Buchanans\u2019 door, the butler announces, 'Madame expects you in the salon!' The environment inside offers brief relief from the oppressive heat, with Daisy and Jordan lounging gracefully on a vast couch, like silver idols amid the whispering fans.",
+      "voice_traits": {
+        "accent": "neutral",
+        "tone": "visual, atmospheric",
+        "pacing": "measured",
+        "emotion": "observant, slightly poetic",
+        "pronunciation": "clear",
+        "pauses": "to allow the imagery to settle",
+        "distinctive": "cinematic description"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Jordan Baker (whispering)",
+      "text": "The rumor is that that\u2019s Tom\u2019s girl on the telephone.",
+      "emotion": "whispered, conspiratorial",
+      "voice_traits": {
+        "accent": "smooth, with a slight hint of intrigue",
+        "tone": "quiet, teasing",
+        "pacing": "slow, deliberate",
+        "emotion": "mischievous",
+        "pronunciation": "soft yet clear",
+        "pauses": "well-timed to invite secrecy",
+        "distinctive": "hint of irony in delivery"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "While specific vocal descriptions are limited, her speech is hinted to be cool and composed. There is a sense of polite curiosity and understated assurance in her manner of speaking, in keeping with her overall detached persona."
+    },
+    {
+      "type": "narration",
+      "text": "Silence falls briefly as everyone processes the gossip. A telephone in the hall blares with an annoyed voice from Tom, who is discussing a shady car deal on the line. As tensions simmer, Tom flings open the door, his displeasure barely concealed when he greets Gatsby with a forced cordiality.",
+      "voice_traits": {
+        "accent": "neutral",
+        "tone": "tense, vivid",
+        "pacing": "quick, staccato as tension mounts",
+        "emotion": "agitated, irate",
+        "pronunciation": "sharp",
+        "pauses": "abrupt to mirror sudden actions",
+        "distinctive": "cinematic, dramatic transitions"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Tom Buchanan",
+      "text": "Mr. Gatsby! I\u2019m glad to see you, sir... Nick...",
+      "emotion": "strained politeness mixed with concealed disdain",
+      "voice_traits": {
+        "accent": "Southern-influenced, authoritative",
+        "tone": "formal yet clipped",
+        "pacing": "brief and forceful",
+        "emotion": "irritation under a veneer of courtesy",
+        "pronunciation": "deliberate",
+        "pauses": "short between phrases",
+        "distinctive": "a booming voice with underlying hostility"
+      },
+      "voice_id": "Fenrir",
+      "character_voice_traits": "He speaks in a gruff, husky tenor that reinforces his brutish character. There is a hint of paternal or even condescending contempt in his tone, suggesting that his voice serves as an extension of his forceful, domineering nature."
+    },
+    {
+      "type": "dialogue",
+      "character": "Daisy Buchanan",
+      "text": "Make us a cold drink.",
+      "emotion": "demanding, playful yet pointed",
+      "voice_traits": {
+        "accent": "elegant with a hint of Southern charm",
+        "tone": "commanding with a soft lilt",
+        "pacing": "rapid, as if impatient",
+        "emotion": "assertive, with an edge of whimsy",
+        "pronunciation": "crisp",
+        "pauses": "minimal",
+        "distinctive": "light, flirtatious undercurrent"
+      },
+      "voice_id": "Zephyr",
+      "character_voice_traits": "Her voice is described as low, thrilling, and melodious\u2014a series of musical notes that captivate and invite others. The sound of her speech carries both sweetness and an undercurrent of irony, making it as enchanting as it is elusive."
+    },
+    {
+      "type": "narration",
+      "text": "Daisy moves impulsively\u2014she kisses Gatsby passionately in the garden, declaring her love amid a chaotic, sweltering day. Their exchange is brief, charged, and witnessed by both allies and adversaries. Even as the conversation turns to car deals and business rumors about bootlegging, every word seems loaded with tension and unspoken history.",
+      "voice_traits": {
+        "accent": "neutral",
+        "tone": "dramatic, layered with conflicting emotions",
+        "pacing": "fluid with rhythmic shifts",
+        "emotion": "intense, bittersweet",
+        "pronunciation": "clear",
+        "pauses": "deliberate, marking emotional beats",
+        "distinctive": "interweaves whispers of scandal with high drama"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Tom Buchanan",
+      "text": "Come on\u2014we\u2019re going to town. I\u2019m perfectly willing to go. Let\u2019s start now.",
+      "emotion": "impatient, slightly menacing",
+      "voice_traits": {
+        "accent": "Southern, with a robust drawl",
+        "tone": "commanding, brusque",
+        "pacing": "fast, as if to assert control",
+        "emotion": "impatient, a touch abrasive",
+        "pronunciation": "firm",
+        "pauses": "short, urgent",
+        "distinctive": "blunt, with an undercurrent of threat"
+      },
+      "voice_id": "Fenrir",
+      "character_voice_traits": "He speaks in a gruff, husky tenor that reinforces his brutish character. There is a hint of paternal or even condescending contempt in his tone, suggesting that his voice serves as an extension of his forceful, domineering nature."
+    },
+    {
+      "type": "narration",
+      "text": "Under the relentless heat, the party transitions abruptly. The group piles into Gatsby\u2019s car. On the drive toward town, tired bodies shuffle over hot pebbles, and the tension escalates. Amid heated exchanges about reputation and deep-seated fears, Tom reveals hints of investigating Gatsby\u2019s murky past, all while the oppressive summer day seems to boil over every long-held secret.",
+      "voice_traits": {
+        "accent": "neutral",
+        "tone": "reflective, laden with tension",
+        "pacing": "steady, with moments of rapid shifts",
+        "emotion": "anxious, foreboding",
+        "pronunciation": "clear",
+        "pauses": "carefully inserted to heighten suspense",
+        "distinctive": "narrative with palpable disquiet"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "George Wilson",
+      "text": "I\u2019m sick. Been sick all day.",
+      "emotion": "weary, resigned",
+      "voice_traits": {
+        "accent": "rustic, with a hint of despair",
+        "tone": "flat, burdened",
+        "pacing": "slow, labored",
+        "emotion": "fatigued",
+        "pronunciation": "lagging",
+        "pauses": "long pauses between words",
+        "distinctive": "downbeat, reflective of physical and emotional exhaustion"
+      },
+      "voice_id": "Orus",
+      "character_voice_traits": "George\u2019s voice is likely soft, trembling, and tentative. It carries the weary cadence of someone burdened by life\u2019s hardships, marked by a lack of assertiveness and a habit of speaking in a measured, almost subdued tone."
+    },
+    {
+      "type": "dialogue",
+      "character": "Tom Buchanan",
+      "text": "Let\u2019s have some gas! What do you think we stopped for\u2014to admire the view?",
+      "emotion": "forceful, mocking",
+      "voice_traits": {
+        "accent": "Southern, with a rough edge",
+        "tone": "sarcastic, impatient",
+        "pacing": "quick",
+        "emotion": "disdainful",
+        "pronunciation": "brusque",
+        "pauses": "minimal, thrusting statements",
+        "distinctive": "a blend of authority and cynicism"
+      },
+      "voice_id": "Fenrir",
+      "character_voice_traits": "He speaks in a gruff, husky tenor that reinforces his brutish character. There is a hint of paternal or even condescending contempt in his tone, suggesting that his voice serves as an extension of his forceful, domineering nature."
+    },
+    {
+      "type": "narration",
+      "text": "At the gas station, a terse discussion unfolds between Tom and Wilson about an old yellow car. Wilson, desperate and broken, mutters his need for money and a way to escape to the West. Tom\u2019s reply is brusque, sealing a transaction with an undercurrent of cruelty as the heat and the day\u2019s events merge into a chaotic, disjointed tableau.",
+      "voice_traits": {
+        "accent": "neutral",
+        "tone": "grim, observational",
+        "pacing": "measured with abrupt interruptions",
+        "emotion": "somber, disturbed",
+        "pronunciation": "clear",
+        "pauses": "reflective",
+        "distinctive": "narrative style that paints a vivid picture of decay and desperation"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "narration",
+      "text": "Night descends and the emergent chaos of a fatal accident on the roadside unfolds\u2014a shattered body, the aftermath of a speeding yellow car, and a mournful crowd assembling around the tragic scene. The landscape is painted with confusion, horror, and the slow, relentless despair of lives in disarray.",
+      "voice_traits": {
+        "accent": "neutral",
+        "tone": "somber, elegiac",
+        "pacing": "slow, heavy with emotion",
+        "emotion": "grim, reflective",
+        "pronunciation": "measured and clear",
+        "pauses": "long to emphasize the gravity",
+        "distinctive": "haunting, with a cinematic quality of tragedy"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Tom Buchanan (to Wilson, assertively)",
+      "text": "You\u2019ve got to pull yourself together.",
+      "emotion": "domineering, condescending",
+      "voice_traits": {
+        "accent": "Southern, authoritative",
+        "tone": "forceful and patronizing",
+        "pacing": "abrupt",
+        "emotion": "harsh, unsympathetic",
+        "pronunciation": "crisp",
+        "pauses": "none",
+        "distinctive": "sharp, akin to a military order"
+      },
+      "voice_id": "Charon"
+    },
+    {
+      "type": "narration",
+      "text": "In the wake of the accident, feelings intermingle with dread and resignation. Tom, though visibly disturbed, hides his panic behind forced efficiency. Nick, detached yet increasingly disillusioned, narrates the disintegration of illusions as characters scatter into the night, each burdened by the consequences of their actions and the endless summer heat.",
+      "voice_traits": {
+        "accent": "neutral",
+        "tone": "melancholic, reflective",
+        "pacing": "slow and deliberate",
+        "emotion": "somber, introspective",
+        "pronunciation": "clear",
+        "pauses": "often, to let the weight of loss settle",
+        "distinctive": "a quiet tone that hints at deep disillusionment"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Gatsby (to Nick on the drive)",
+      "text": "I can\u2019t say anything in his house, old sport.",
+      "emotion": "restrained, reflective",
+      "voice_traits": {
+        "accent": "refined with an old-world charm",
+        "tone": "soft, introspective",
+        "pacing": "deliberate",
+        "emotion": "melancholic, cautious",
+        "pronunciation": "measured",
+        "pauses": "after key phrases",
+        "distinctive": "gentle yet laden with regret"
+      },
+      "voice_id": "Charon"
+    },
+    {
+      "type": "dialogue",
+      "character": "Nick Carraway (observing)",
+      "text": "She\u2019s got an indiscreet voice. It\u2019s full of\u2014",
+      "emotion": "thoughtful, then interrupted",
+      "voice_traits": {
+        "accent": "neutral",
+        "tone": "analytical",
+        "pacing": "steady",
+        "emotion": "perplexed",
+        "pronunciation": "clear",
+        "pauses": "brief, as if choosing his words",
+        "distinctive": "a reflective narrative quality"
+      },
+      "voice_id": "Charon"
+    },
+    {
+      "type": "dialogue",
+      "character": "Gatsby (abruptly)",
+      "text": "Her voice is full of money.",
+      "emotion": "sudden revelation, intense",
+      "voice_traits": {
+        "accent": "refined, crisp",
+        "tone": "sincere, almost awestruck",
+        "pacing": "measured with an emphatic drop",
+        "emotion": "intense, revelatory",
+        "pronunciation": "sharp",
+        "pauses": "a brief moment before and after the statement",
+        "distinctive": "a signature, transformational utterance"
+      },
+      "voice_id": "Charon"
+    },
+    {
+      "type": "narration",
+      "text": "The night wears on. As Tom, Gatsby, Daisy, and Jordan embroil themselves in heated exchanges over past loves and present deceptions, the tension reaches a climax. Accusations fly, confessions are half-spoken, and the fragile veneer of genteel society crumbles before the relentless force of passion, regret, and stubborn denial.",
+      "voice_traits": {
+        "accent": "neutral",
+        "tone": "dramatic, pained",
+        "pacing": "variable\u2014quick in anger, slow in resignation",
+        "emotion": "charged, bittersweet",
+        "pronunciation": "clear",
+        "pauses": "strategic to underscore emotional beats",
+        "distinctive": "a dramatic narrative cadence"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "dialogue",
+      "character": "Gatsby (voice trembling with excitement)",
+      "text": "Your wife doesn\u2019t love you. She\u2019s never loved you. She loves me.",
+      "emotion": "passionate, desperate",
+      "voice_traits": {
+        "accent": "refined, almost lyrical",
+        "tone": "impassioned, trembling",
+        "pacing": "slightly hurried with breaks",
+        "emotion": "emotional intensity, vulnerability",
+        "pronunciation": "clear but quavering",
+        "pauses": "brief, heavy with meaning",
+        "distinctive": "a dramatic confession that shifts the scene"
+      },
+      "voice_id": "Charon"
+    },
+    {
+      "type": "dialogue",
+      "character": "Tom Buchanan (exploding in anger)",
+      "text": "You\u2019re crazy! I can\u2019t speak about what happened five years ago because I didn\u2019t know Daisy then\u2014and I\u2019ll be damned if I see how you got within a mile of her unless you brought the groceries to the back door.",
+      "emotion": "enraged, defensive",
+      "voice_traits": {
+        "accent": "Southern, forceful",
+        "tone": "livid, booming",
+        "pacing": "rapid, punctuated by anger",
+        "emotion": "furious, incredulous",
+        "pronunciation": "sharp and clipped",
+        "pauses": "abrupt between phrases",
+        "distinctive": "exaggerated formality masking deep rage"
+      },
+      "voice_id": "Charon"
+    },
+    {
+      "type": "dialogue",
+      "character": "Daisy Buchanan (pleading, then tearful)",
+      "text": "Oh, please let\u2019s get out. I did love him once\u2014but I loved you too.",
+      "emotion": "torn, anguished, pleading",
+      "voice_traits": {
+        "accent": "South, soft yet trembling",
+        "tone": "imploring, sorrowful",
+        "pacing": "slow, laden with heartbreak",
+        "emotion": "conflicted, regretful",
+        "pronunciation": "gentle",
+        "pauses": "long to let the emotion sink in",
+        "distinctive": "a fragile, emotive expression of inner pain"
+      },
+      "voice_id": "Charon"
+    },
+    {
+      "type": "narration",
+      "text": "In the aftermath, as the group parts ways and Tom\u2019s fury dissipates into a brooding silence during the drive back to the Buchanans\u2019 house, the intimate secrets and raw emotions of the day settle into a heavy, inevitable night. Nick, now thirty, contemplates the bitter cost of dreams and the endless desert of loneliness ahead.",
+      "voice_traits": {
+        "accent": "neutral",
+        "tone": "melancholic, reflective",
+        "pacing": "slow, measured",
+        "emotion": "wistful, somber",
+        "pronunciation": "clear and deliberate",
+        "pauses": "extended to emphasize finality",
+        "distinctive": "a reflective, elegiac closing"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    },
+    {
+      "type": "narration",
+      "text": "Later that night, on the quiet porch, Gatsby stands alone under the moon. Nick, yearning for solitude from the haunting events of the day, prepares to depart. Gatsby waits vigilantly, his eyes fixed on the silent house\u2014a lonely guardian of lost dreams as the cooling twilight ushers them all toward uncertain oblivion.",
+      "voice_traits": {
+        "accent": "neutral",
+        "tone": "quiet, introspective",
+        "pacing": "soft, almost whisper-like",
+        "emotion": "melancholy, reflective",
+        "pronunciation": "gentle, with care",
+        "pauses": "long, allowing the silence to speak",
+        "distinctive": "a final reflective cadence that leaves a lingering sense of sorrow"
+      },
+      "voice_id": "Charon",
+      "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+    }
+  ],
+  "chapter_number": 7,
+  "status": "pending",
+  "audio_file": "chapter_07.mp3"
+}

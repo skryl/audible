@@ -1,0 +1,159 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "characters": [
+        "Gatsby",
+        "Unnamed young ladies",
+        "Various party guests (e.g., the Beckers, the Leeches, Bunsen, Doctor Civet, etc.)"
+      ],
+      "location": "Gatsby\u2019s mansion and its lawn",
+      "summary": "The chapter opens with a lyrical description of Gatsby\u2019s lavish summer parties. Through a detailed list on an old timetable, the narrator names the diverse guests\u2014from East Egg and West Egg socialites to New York figures\u2014illustrating the mysterious, glittering world that surrounds Gatsby and hinting at the scandalous rumors about his past."
+    },
+    {
+      "scene_number": 2,
+      "characters": [
+        "Gatsby",
+        "Nick Carraway"
+      ],
+      "location": "Outside Nick\u2019s house on a Sunday morning",
+      "summary": "Late one July morning, Gatsby\u2019s elegant, cream-colored car arrives at Nick\u2019s door. Gatsby greets Nick warmly and invites him to join for lunch while they embark together on a drive. This arrival immediately establishes Gatsby\u2019s flamboyant presence and sets the stage for deeper, personal revelations."
+    },
+    {
+      "scene_number": 3,
+      "characters": [
+        "Gatsby",
+        "Nick Carraway",
+        "A passing policeman (brief cameo)"
+      ],
+      "location": "On the road from West Egg toward town (passing landmarks such as Port Roosevelt, a cobbled slum, the valley of ashes, and a Queensboro Bridge)",
+      "summary": "During the car ride, Gatsby attempts to dispel the wild rumors about him by offering snippets of his fabricated biography. He describes his supposedly aristocratic origins, his Oxford education, and his war experiences\u2014including anecdotes about foreign medals and souvenirs\u2014while also hinting at a mysterious request regarding Miss Baker. The journey, punctuated by brief encounters (including a roadside stop with a policeman), deepens the enigma surrounding him."
+    },
+    {
+      "scene_number": 4,
+      "characters": [
+        "Gatsby",
+        "Nick Carraway",
+        "Mr. Wolfshiem",
+        "Tom Buchanan (briefly)"
+      ],
+      "location": "A Forty-second Street restaurant with a cellar setting",
+      "summary": "At midday, Nick meets Gatsby for lunch in a cool restaurant. There, Gatsby introduces Nick to his friend Mr. Wolfshiem, a small, sharp-tongued man with a notorious past (including fixing the World Series). Their conversation\u2014filled with offhand revelations and cryptic references\u2014offers further insights into Gatsby\u2019s inner circle. The atmosphere shifts when Tom Buchanan suddenly appears, creating an awkward tension. Gatsby\u2019s abrupt departure, citing a telephone call, leaves Nick pondering the layers of mystery surrounding him."
+    },
+    {
+      "scene_number": 5,
+      "characters": [
+        "Jordan Baker",
+        "Daisy Fay (in flashback)",
+        "Young Jay Gatsby (in flashback)"
+      ],
+      "location": "A tea garden at the Plaza Hotel (present framing) and flashbacks to Louisville and Santa Barbara",
+      "summary": "The narrative shifts as Jordan Baker recounts a long-ago memory. While seated formally at the Plaza Hotel, she recalls a youthful encounter with Daisy Fay in Louisville and the early days of Gatsby\u2019s infatuation with her. Through her reflective flashback, we learn about Daisy\u2019s vivacious yet troubled life\u2014from her flirtations and social debut through the scandalous pre-wedding episode and ultimately her marriage to Tom Buchanan, marked by opulence and rapid transitions. This personal history hints at the emotional stakes behind Gatsby\u2019s ongoing fixation."
+    },
+    {
+      "scene_number": 6,
+      "characters": [
+        "Jordan Baker",
+        "Nick Carraway"
+      ],
+      "location": "Inside a victoria as they drive through Central Park at dusk",
+      "summary": "Concluding the chapter, Nick and Jordan share a quiet, introspective ride through Central Park. Amid the dimming light and evocative urban scenery, Jordan reveals Gatsby\u2019s subtle request: he hopes that Nick will arrange a private tea meeting with Daisy. She explains that Gatsby bought his mansion so that Daisy\u2019s home would be just across the bay\u2014a testament to his enduring, if tentative, pursuit. The conversation blends nostalgia with understated longing, encapsulating the deeper themes of desire and the intersection of past dreams with present realities."
+    }
+  ],
+  "characters": [
+    "Lester Myer",
+    "The Bembergs",
+    "Newton Orchid",
+    "Edgar Beaver",
+    "The four girls (possibly Jacqueline, Consuela, Gloria, Judy, or June)",
+    "Russel Betty",
+    "Horace O\u2019Donavan",
+    "Mr. P. Jewett (ex\u2013American Legion head)",
+    "Young Brewer",
+    "Eckhaust",
+    "Jordan Baker",
+    "Young Jay Gatsby (in flashback)",
+    "Da Fontano (the promoter)",
+    "Bunsen",
+    "The Leeches",
+    "The Willie Voltaires",
+    "The Corrigans",
+    "Various party guests (e.g., the Beckers, the Leeches, Bunsen, Doctor Civet, etc.)",
+    "Gus Waize",
+    "The De Jongs",
+    "The Blackbuck clan",
+    "Arthur McCarty",
+    "The Fishguards",
+    "The young Quinns",
+    "Tom Buchanan",
+    "Beluga (the tobacco importer) and his girls",
+    "Benny McClenahan",
+    "S. W. Belcher",
+    "Cecil Schoen",
+    "The Scullys",
+    "Katspaugh",
+    "Ardita Fitz-Peters",
+    "The Poles",
+    "The Mulreadys",
+    "Mr. Chrystie\u2019s wife",
+    "Miss Haag (his fianc\u00e9e)",
+    "Ernest Lilly",
+    "Duke (the prince of something)",
+    "The Backhyssons",
+    "Klipspringer (the boarder)",
+    "The Cheadles",
+    "Don S. Schwartz (the son)",
+    "Nick Carraway",
+    "Ed Legros",
+    "A passing policeman (brief cameo)",
+    "Cecil Roebuck",
+    "The Hornbeams",
+    "S. B. Whitebait",
+    "Clarence Endive",
+    "The Hammerheads",
+    "Mrs. Ulysses Swett",
+    "The Catlips",
+    "Gatsby",
+    "Mr. Wolfshiem",
+    "Gulick (the State senator)",
+    "Unnamed young ladies",
+    "Miss Claudia Hip (with her chauffeur)",
+    "Faustina O\u2019Brien",
+    "James B. (\u201cRot-Gut\u201d) Ferret",
+    "Doctor Webster Civet",
+    "Jay Gatsby",
+    "Tom Buchanan (briefly)",
+    "The Dennickers",
+    "The Baedeker girls",
+    "The Dancies",
+    "G. Earl Muldoon (and his brother, the strangler)",
+    "O. R. P. Schraeders",
+    "The Smirkes",
+    "Francis Bull",
+    "Rosy Rosenthal",
+    "George Duckweed",
+    "The Ripley Snells",
+    "The Dewars",
+    "The Kellehers",
+    "Henry L. Palmetto",
+    "The Chromes",
+    "Stonewall Jackson Abrams",
+    "Daisy Fay (in flashback)",
+    "Hubert Auerbach",
+    "Chester Beckers",
+    "Meyer Wolfshiem",
+    "Mr. Albrucksburger",
+    "The Narrator (Nick Carraway)",
+    "Maurice A. Flink",
+    "Clyde Cohen",
+    "Daisy Fay"
+  ],
+  "major_characters": [
+    "Jay Gatsby",
+    "The Narrator (Nick Carraway)",
+    "Jordan Baker",
+    "Meyer Wolfshiem",
+    "Tom Buchanan",
+    "Daisy Fay"
+  ]
+}

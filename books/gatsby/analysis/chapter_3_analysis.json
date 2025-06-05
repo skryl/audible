@@ -1,0 +1,105 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "characters": [
+        "Unnamed guests",
+        "Narrator (Nick Carraway, implied)"
+      ],
+      "location": "Gatsby\u2019s mansion grounds \u2013 expansive gardens, beach, and poolside settings",
+      "summary": "The chapter opens with a lavish portrait of Gatsby\u2019s festivities. The atmosphere is described in rich detail with music, abundant food and drink, brilliantly lit gardens, boats and beaches, and guests arriving in glamorous automobiles. A striking moment occurs when a lone, opulently dressed guest seizes a cocktail and dances on the platform, setting the tone for the surreal party that attracts an ever-shifting cavalcade of people."
+    },
+    {
+      "scene_number": 2,
+      "characters": [
+        "Nick Carraway",
+        "Chauffeur",
+        "Jordan Baker",
+        "Two girls in yellow (one later identified as Lucille)",
+        "Several men (referred to as Mr. Mumble)"
+      ],
+      "location": "Gatsby\u2019s lawn and garden at twilight",
+      "summary": "Nick, who has actually received a formal invitation from Gatsby via a robin\u2019s-egg\u2013blue uniformed chauffeur, arrives at the party feeling both out of place and curious. Almost immediately he encounters a mix of genteel strangers\u2014including Jordan Baker and a pair of girls in yellow\u2014whose playful banter and exchange of juicy gossip (including wild rumors about Gatsby\u2019s mysterious past) hint at the extraordinary nature of Gatsby\u2019s world."
+    },
+    {
+      "scene_number": 3,
+      "characters": [
+        "Nick Carraway",
+        "Jordan Baker",
+        "A stout, middle-aged man with owl\u2010eyed spectacles (later identified with Owl Eyes)"
+      ],
+      "location": "Inside a high, Gothic-style library in Gatsby\u2019s mansion",
+      "summary": "Feeling an increasing need for guidance, Nick follows Jordan as she leads him away to locate their elusive host. Their search brings them into an unusual, nearly otherworldly library where a slightly intoxicated, excited man inspects the authenticity of the books with a childlike marvel. His enthusiastic demonstration underscores the attention to detail and the surreal quality that pervades Gatsby\u2019s home."
+    },
+    {
+      "scene_number": 4,
+      "characters": [
+        "Nick Carraway",
+        "Jordan Baker",
+        "A man of Nick\u2019s age (later revealed as Jay Gatsby)",
+        "A rowdy little girl"
+      ],
+      "location": "An outdoor cocktail area and adjoining dining space in Gatsby\u2019s garden",
+      "summary": "Returning outdoors, the party grows more animated with a string of musical performances, energetic dancing, and lively conversations. While seated at a table with various guests\u2014including a man recounting his war service and a cheeky young girl\u2014Nick engages in conversation that gradually shifts the focus onto Gatsby himself. Unexpectedly, the man he\u2019s speaking with reveals, 'I'm Gatsby,' in a casually self-introducing moment that is marked by a rare, reassuring smile and a promise of an early-morning hydroplane ride."
+    },
+    {
+      "scene_number": 5,
+      "characters": [
+        "Jay Gatsby",
+        "Nick Carraway",
+        "Jordan Baker",
+        "Gatsby\u2019s butler",
+        "A man in a long duster (implied to be a familiar, reflective party guest associated with Gatsby\u2019s library)",
+        "Curious chauffeurs and onlookers"
+      ],
+      "location": "Various areas around Gatsby\u2019s estate \u2013 from the marble steps and porch to the roadside along Gatsby\u2019s drive",
+      "summary": "As the party begins to wind down, Gatsby briefly departs to take an important phone call while rejoining guests on the porch. In the ensuing moments, Nick observes the final, almost ritualistic farewells from Gatsby and witnesses a bizarre roadside spectacle: a coup\u00e9, fresh from Gatsby\u2019s drive, has crashed with a detached wheel. A man in a long duster examines the accident with a confused candor while bewildered chauffeurs and onlookers discuss the inexplicable incident. This curious disruption adds to the night\u2019s surreal energy."
+    },
+    {
+      "scene_number": 6,
+      "characters": [
+        "Nick Carraway",
+        "Jordan Baker",
+        "(Narrative reflections include mentions of other New York acquaintances)"
+      ],
+      "location": "Shifting between the dwindling party at Gatsby\u2019s mansion and the reflective urban landscape of New York City",
+      "summary": "After the chaotic revelry fades, Nick transitions into a measured, reflective narrative of his daily life. He recounts his routine working in lower New York, the isolation amid urban crowds, and his growing, ambiguous rapport with Jordan Baker. This quieter, introspective section contrasts sharply with the earlier extravagance, hinting at both the allure and the emptiness that underlie the glittering parties and the frenetic pace of the city."
+    }
+  ],
+  "characters": [
+    "(Narrative reflections include mentions of other New York acquaintances)",
+    "A man in a long duster (implied to be a familiar, reflective party guest associated with Gatsby\u2019s library)",
+    "Nick Carraway",
+    "Jay Gatsby",
+    "Mr. Mumble (one or more of the three men introduced under that name)",
+    "Several men (referred to as Mr. Mumble)",
+    "Narrator (Nick Carraway, implied)",
+    "Unnamed rowdy little girl (at the table with the above man)",
+    "Jordan Baker",
+    "Nick Carraway (narrator)",
+    "Gatsby\u2019s chauffeur",
+    "A stout, middle-aged man with owl\u2010eyed spectacles (later identified with Owl Eyes)",
+    "A rowdy little girl",
+    "Unnamed girl in yellow (the other of the twin girls)",
+    "Gatsby\u2019s butler",
+    "Mrs. Claud Roosevelt (mentioned by Owl Eyes)",
+    "Curious chauffeurs and onlookers",
+    "Persistent undergraduate (Jordan\u2019s escort)",
+    "Unnamed table guest (man of about the narrator\u2019s age accompanying a rowdy little girl)",
+    "Vladmir Tostoff (referenced as the composer of the featured musical work)",
+    "Chauffeur",
+    "Unnamed guests",
+    "Mrs. Sigourney Howard (referenced by Jordan Baker when giving her phone book details)",
+    "A man of Nick\u2019s age (later revealed as Jay Gatsby)",
+    "Lucille (one of the twin girls in yellow)",
+    "Man in long duster (the individual emerging from the car wreck)",
+    "Owl Eyes (the stout, middle\u2010aged man in the library with owl-eyed spectacles)",
+    "Two girls in yellow (one later identified as Lucille)",
+    "Gilda Gray (name dropped in the erroneous rumor about an understudy)"
+  ],
+  "major_characters": [
+    "Jay Gatsby",
+    "Nick Carraway (narrator)",
+    "Jordan Baker"
+  ]
+}
