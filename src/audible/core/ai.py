@@ -37,7 +37,8 @@ def call_llm_api(prompt, system_message=None, model=None, temperature=0.0,
     provider = provider or DEFAULT_LLM_PROVIDER
 
     # Check if async should be used
-    use_async = USE_ASYNC if use_async is None else use_async
+    if use_async is None:
+        use_async = os.getenv("AUDIBLE_USE_ASYNC", "false").lower() == "true"
 
     # If async is requested, use async call via event loop
     if use_async:
