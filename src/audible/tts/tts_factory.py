@@ -33,7 +33,7 @@ class TTSFactory:
                 model = "sonic-2"  # Default Cartesia TTS model
             elif provider == "google":
                 from audible.tts.google_tts import GoogleTTS
-                model = "en-US-Neural2-D"  # Default Google TTS model
+                model = "gemini-2.5-pro-preview-tts"  # Default Google TTS model
             elif provider == "csm":
                 from audible.tts.csm_tts import CSMTTS
                 model = "csm-1b"  # Default CSM TTS model

@@ -11,7 +11,7 @@ from audible.utils.common import log
 class GoogleTTS:
     """Class for interacting with Google Cloud text-to-speech API."""
 
-    def __init__(self, model="en-US-Neural2-D"):
+    def __init__(self, model="gemini-2.5-pro-preview-tts"):
         """
         Initialize Google Cloud TTS provider.
 

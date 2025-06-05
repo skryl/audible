@@ -313,7 +313,7 @@ After generating the default voice mappings, you can customize them by editing t
   "Narrator": {
     "openai": "onyx",
     "cartesia": "0123456789abcdef0123456789abcdef",
-    "google": "en-US-Neural2-D"
+    "google": "gemini-2.5-pro-preview-tts"
   },
   "Character Name": {
     "openai": "nova",
