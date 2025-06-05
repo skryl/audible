@@ -132,6 +132,8 @@ def test_generate_audio_openai(temp_test_book_dir, mock_openai_tts, mock_ffmpeg,
         use_async=False # Test sync path first
     )
 
+    assert result is True
+
     # --- Verification ---
     # Actual chapter directory is in the audio/provider/chapter_1 format
     audio_provider_dir = os.path.join(book_dir, "audio", tts_provider)
