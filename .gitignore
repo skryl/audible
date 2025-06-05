@@ -20,6 +20,7 @@ credentials.json
 .env
 .env.*
 !.env.example
+.specstory
 
 # Generated audio files and large artifacts
 *.mp3
