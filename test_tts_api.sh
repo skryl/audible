@@ -4,7 +4,7 @@
 echo "Testing Gemini TTS API..."
 
 # Get the API key from environment
-API_KEY="AIzaSyC5HeFMfV0wFwE4gqyxwAyM2M99bTuQEOg"
+API_KEY=""
 
 if [ -z "$API_KEY" ]; then
     echo "Error: No API key found. Set GOOGLE_API_KEY or GEMINI_API_KEY"
