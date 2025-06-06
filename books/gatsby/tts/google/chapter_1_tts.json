@@ -30,7 +30,7 @@
         "pauses": "natural pauses for emphasis",
         "distinctive_speech_patterns": "gentle, advisory cadence"
       },
-      "voice_id": "Achird"
+      "voice_id": "Charon"
     },
     {
       "type": "narration",
@@ -76,7 +76,7 @@
         "pauses": "a small pause after the question",
         "distinctive_speech_patterns": "a reflective lilt typical of someone new in town"
       },
-      "voice_id": "Algieba"
+      "voice_id": "Charon"
     },
     {
       "type": "narration",
@@ -238,6 +238,119 @@
     }
   ],
   "chapter_number": 1,
-  "status": "pending",
-  "audio_file": "chapter_01.mp3"
+  "status": "processed",
+  "audio_file": "chapter_01.mp3",
+  "groups": [
+    {
+      "segments": [
+        {
+          "type": "narration",
+          "text": "I told him the way, and as I resumed my walk I no longer felt the sting of loneliness. In that moment, I became a guide\u2014a pathfinder, an original settler granted the freedom of knowing the neighborhood.",
+          "voice_traits": {
+            "accent": "Neutral American",
+            "tone": "uplifting and assured",
+            "pacing": "smooth and confident",
+            "emotion": "gentle satisfaction",
+            "pronunciation": "clear and precise",
+            "pauses": "deliberate pauses to mark change in tone",
+            "distinctive_speech_patterns": "subtle narrative confidence"
+          },
+          "voice_id": "Charon",
+          "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+        },
+        {
+          "type": "narration",
+          "text": "I eventually settled in West Egg, less fashionable than the East but holding its own charm. My modest house, though an eyesore compared to the grand estates nearby\u2014including the colossal mansion inhabited by a gentleman named Gatsby\u2014afforded a view of the water and the comforting proximity of millionaires.",
+          "voice_traits": {
+            "accent": "Neutral American",
+            "tone": "matter-of-fact, slightly amused",
+            "pacing": "deliberate and descriptive",
+            "emotion": "understated humor with introspection",
+            "pronunciation": "focused and clear",
+            "pauses": "measured to emphasize contrasts",
+            "distinctive_speech_patterns": "a narrative style with a wry observation"
+          },
+          "voice_id": "Charon",
+          "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+        },
+        {
+          "type": "narration",
+          "text": "That evening marked the beginning of a summer filled with anticipation. I drove over to East Egg to dine with the Buchanans\u2014Daisy, my second cousin once removed, and her formidable husband, Tom Buchanan, whom I\u2019d known since our college days. Their home, a cheerful red-and-white Georgian Colonial mansion overlooking the bay, promised an evening of conversation, subtle revelations, and the unfolding complexities of our intertwined lives.",
+          "voice_traits": {
+            "accent": "Neutral American",
+            "tone": "setting the scene with anticipation",
+            "pacing": "gradually building",
+            "emotion": "pensive excitement",
+            "pronunciation": "clear and narrative",
+            "pauses": "well-placed to transition between details",
+            "distinctive_speech_patterns": "a storyteller\u2019s measured build-up"
+          },
+          "voice_id": "Charon",
+          "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+        }
+      ],
+      "speakers": {
+        "Narrator": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "Daisy Buchanan",
+          "text": "I\u2019m p-paralysed with happiness.",
+          "emotion": "excited, nervous, and charmingly self-effacing",
+          "voice_traits": {
+            "accent": "elegant American",
+            "tone": "light, airy, and slightly tremulous",
+            "pacing": "staccato at first and then fluid",
+            "emotion": "giddy, with a subtle undercurrent of vulnerability",
+            "pronunciation": "delicate and lilting",
+            "pauses": "a small pause after the stutter to let the charm settle",
+            "distinctive_speech_patterns": "a playful falter that adds to her allure"
+          },
+          "voice_id": "Zephyr",
+          "character_voice_traits": "Her voice is described as low, thrilling, and melodious\u2014a series of musical notes that captivate and invite others. The sound of her speech carries both sweetness and an undercurrent of irony, making it as enchanting as it is elusive."
+        },
+        {
+          "type": "dialogue",
+          "character": "Tom Buchanan",
+          "text": "What you doing, Nick? Never heard of them.",
+          "emotion": "curt and slightly patronizing",
+          "voice_traits": {
+            "accent": "Brash American",
+            "tone": "gruff and commanding",
+            "pacing": "abrupt and clipped",
+            "emotion": "impatient, as if cutting short a conversation",
+            "pronunciation": "strong, with clear enunciation of each word",
+            "pauses": "short, forceful pauses between phrases",
+            "distinctive_speech_patterns": "a no-nonsense, blunt delivery that brooks no argument"
+          },
+          "voice_id": "Fenrir",
+          "character_voice_traits": "He speaks in a gruff, husky tenor that reinforces his brutish character. There is a hint of paternal or even condescending contempt in his tone, suggesting that his voice serves as an extension of his forceful, domineering nature."
+        },
+        {
+          "type": "dialogue",
+          "character": "Tom Buchanan",
+          "text": "Civilization\u2019s going to pieces. I\u2019ve gotten to be a terrible pessimist about things. Have you read 'The Rise of the Coloured Empires' by that man Goddard? This idea is that we\u2019re Nordics. I am, and you are, and you are, and\u2014",
+          "emotion": "vehement, pompous, and self-important",
+          "voice_traits": {
+            "accent": "Emphatic American",
+            "tone": "forceful with a hint of booming authority",
+            "pacing": "rapid and emphatic when delivering his convictions, with occasional hesitations",
+            "emotion": "arrogant with an undercurrent of unease",
+            "pronunciation": "precise, with deliberate intonation on key words",
+            "pauses": "brief pauses to underscore his certainty",
+            "distinctive_speech_patterns": "a bombastic, rhetorical style that borders on grandstanding"
+          },
+          "voice_id": "Fenrir",
+          "character_voice_traits": "He speaks in a gruff, husky tenor that reinforces his brutish character. There is a hint of paternal or even condescending contempt in his tone, suggesting that his voice serves as an extension of his forceful, domineering nature."
+        }
+      ],
+      "speakers": {
+        "Daisy Buchanan": "Zephyr",
+        "Tom Buchanan": "Fenrir"
+      }
+    }
+  ]
 }

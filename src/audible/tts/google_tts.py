@@ -16,21 +16,18 @@ from audible.utils.thread_pool import process_batch_async
 class GoogleTTS:
     """Class for interacting with Google Gemini text-to-speech API."""
 
-    def __init__(self, model="gemini-2.5-flash-preview-tts", multi_speaker=False):
+    def __init__(self, model="gemini-2.5-flash-preview-tts"):
         """
         Initialize Google Gemini TTS provider.
 
         Args:
             model: Google TTS model to use
-            multi_speaker: Whether to use multi-speaker audio generation
         """
         self.model = model
-        self.multi_speaker = multi_speaker
         self.client = self._initialize_client()
         self.last_request_time = 0
         self.request_delay = 20.0  # 20 seconds between requests to stay under 3/minute quota
-        mode_str = "multi-speaker" if multi_speaker else "single-speaker"
-        log(f"Initialized Google Gemini TTS with model {model} in {mode_str} mode")
+        log(f"Initialized Google Gemini TTS with model {model}")
 
     def _initialize_client(self):
         """Initialize the Gemini client."""
@@ -101,7 +98,7 @@ class GoogleTTS:
 
     def _generate_single_speaker_audio(self, text, voice_id):
         """Generate audio using single-speaker mode."""
-        self._rate_limit()
+        # self._rate_limit()
         try:
             response = self.client.models.generate_content(
                 model=self.model,
@@ -129,6 +126,7 @@ class GoogleTTS:
         """
         Group segments into chunks that can be processed with 2-speaker multi-speaker mode.
         Tries to create balanced groups where both speakers actually have dialogue.
+        Never groups Narrator with other speakers.
         """
         groups = []
         current_group = []
@@ -162,7 +160,14 @@ class GoogleTTS:
             # Check if we need to start a new group
             should_start_new_group = False
 
-            if speaker not in current_speakers and len(current_speakers) >= 2:
+            # Special handling for Narrator - never mix with other speakers
+            if speaker == "Narrator" and len(current_speakers) > 0 and "Narrator" not in current_speakers:
+                # Narrator segment but current group has non-narrator speakers
+                should_start_new_group = True
+            elif speaker != "Narrator" and "Narrator" in current_speakers:
+                # Non-narrator segment but current group has narrator
+                should_start_new_group = True
+            elif speaker not in current_speakers and len(current_speakers) >= 2:
                 # Would exceed 2 speakers
                 should_start_new_group = True
             elif len(current_group) > 10 and len(current_speakers) == 2:
@@ -244,7 +249,7 @@ class GoogleTTS:
         # Combine all text
         full_prompt = "TTS the following conversation:\n" + "\n".join(prompt_parts)
 
-        self._rate_limit()
+        # self._rate_limit()
         try:
             response = self.client.models.generate_content(
                 model=self.model,
@@ -321,26 +326,16 @@ class GoogleTTS:
             log("Missing output file path for TTS request", level="ERROR")
             return None
 
-        if self.multi_speaker:
-            # Multi-speaker mode: process all segments together
-            segments = request.get("segments", [])
-            if not segments:
-                log("No segments found in TTS request", level="ERROR")
-                return None
+        # Single-speaker mode: process just the text
+        text = request.get("text", "")
+        voice_id = request.get("voice_id", "Charon")
 
-            log(f"Generating multi-speaker audio with {len(segments)} segments")
-            audio_data = self._generate_multi_speaker_audio(segments)
-        else:
-            # Single-speaker mode: process just the text
-            text = request.get("text", "")
-            voice_id = request.get("voice_id", "Charon")
+        if not text:
+            log("Missing text for TTS request", level="ERROR")
+            return None
 
-            if not text:
-                log("Missing text for TTS request", level="ERROR")
-                return None
-
-            log(f"Generating single-speaker audio for text: {text[:50]}...")
-            audio_data = self._generate_single_speaker_audio(text, voice_id)
+        log(f"Generating single-speaker audio for text: {text[:50]}...")
+        audio_data = self._generate_single_speaker_audio(text, voice_id)
 
         if audio_data:
             # Check if we got a list of audio segments (multi-speaker with >2 speakers)
@@ -398,49 +393,117 @@ class GoogleTTS:
         Returns:
             bool: True if successful, False otherwise
         """
-        if self.multi_speaker:
-            # Multi-speaker mode: generate entire chapter at once
+        # Check if TTS file contains groups for multi-speaker mode
+        groups = tts_request.get("groups", [])
+        if groups:
+            log(f"Using pre-grouped segments: {len(groups)} groups")
+
+            # Create a mapping from segment to group
+            segment_to_group = {}
+            for group_idx, group in enumerate(groups):
+                for segment in group.get("segments", []):
+                    # Find matching segment in main list by comparing text and character
+                    for i, main_segment in enumerate(tts_request.get("segments", [])):
+                        if (segment.get("text") == main_segment.get("text") and
+                            segment.get("character", "Narrator") == main_segment.get("character", "Narrator")):
+                            segment_to_group[i] = group_idx
+                            break
+
+                        # Process segments in original order
+            # Create chapter directory for temp files
+            chapter_dir = os.path.splitext(output_audio_path)[0]  # Remove .mp3 extension
+            os.makedirs(chapter_dir, exist_ok=True)
+            log(f"Saving audio segments to: {chapter_dir}")
+
+            segment_files = []
+            processed_groups = set()
+            audio_idx = 0
+
+            segments = tts_request.get("segments", [])
+            log(f"Processing {len(segments)} segments in order")
+
+            for i, segment in enumerate(segments):
+                if i in segment_to_group:
+                    # This segment is part of a group
+                    group_idx = segment_to_group[i]
+
+                    # Only process each group once (when we hit its first segment)
+                    if group_idx not in processed_groups:
+                        processed_groups.add(group_idx)
+                        group = groups[group_idx]
+
+                        log(f"Generating audio for group {group_idx+1} with speakers: {list(group['speakers'].keys())}")
+
+                        # Check if we have 1 or 2 speakers
+                        if len(group['speakers']) == 1:
+                            # Single speaker - concatenate all text and use single-speaker mode
+                            speaker_name = list(group['speakers'].keys())[0]
+                            voice_id = group['speakers'][speaker_name]
+                            combined_text = " ".join([seg.get("text", "") for seg in group["segments"]])
+                            log(f"Using single-speaker mode for {speaker_name} (voice: {voice_id})")
+                            audio_data = self._generate_single_speaker_audio(combined_text, voice_id)
+                        else:
+                            # Multi-speaker mode
+                            log("Using multi-speaker mode")
+                            audio_data = self._generate_multi_speaker_audio_for_group(
+                                group["segments"],
+                                group["speakers"]
+                            )
+
+                        if audio_data:
+                            # Save immediately
+                            segment_path = os.path.join(chapter_dir, f"segment_{audio_idx:04d}.wav")
+                            self._save_wave_file(segment_path, audio_data)
+                            segment_files.append(segment_path)
+                            log(f"Saved segment {audio_idx+1} to {segment_path}")
+                            audio_idx += 1
+                        else:
+                            log(f"Failed to generate audio for group {group_idx+1}", level="ERROR")
+                else:
+                    # This segment is not part of any group
+                    if segment.get("type") == "dialogue":
+                        text = segment.get("text", "")
+                        voice_id = segment.get("voice_id", "Charon")
+                        character = segment.get("character", "Unknown")
+                        log(f"Generating audio for ungrouped dialogue: {character}")
+                    else:
+                        # Narration
+                        text = segment.get("text", "")
+                        voice_id = segment.get("voice_id", "Charon")  # Default narrator voice
+                        log("Generating audio for ungrouped narration")
+
+                    if text:
+                        audio_data = self._generate_single_speaker_audio(text, voice_id)
+                        if audio_data:
+                            # Save immediately
+                            segment_path = os.path.join(chapter_dir, f"segment_{audio_idx:04d}.wav")
+                            self._save_wave_file(segment_path, audio_data)
+                            segment_files.append(segment_path)
+                            log(f"Saved segment {audio_idx+1} to {segment_path}")
+                            audio_idx += 1
+
+            # Concatenate all audio segments
+            if segment_files:
+                log(f"Concatenating {len(segment_files)} audio segments")
+                if self._concatenate_audio_files(segment_files, output_audio_path):
+                    log(f"Successfully created {output_audio_path}")
+                    log(f"Temporary WAV files kept in: {chapter_dir}")
+                    return True
+                else:
+                    return False
+            else:
+                log("No audio segments generated", level="ERROR")
+                return False
+        else:
+            # Single-speaker mode: process all segments individually
             request = {
                 "segments": tts_request.get("segments", []),
                 "output_file": output_audio_path
             }
             result = self.generate_speech(request)
             return result is not None
-        else:
-            # Single-speaker mode: generate each segment separately
-            segments = tts_request.get("segments", [])
-            if not segments:
-                log("No segments found in TTS request", level="ERROR")
-                return False
 
-            # Create a directory for individual segment files
-            chapter_dir = os.path.join(
-                os.path.dirname(output_audio_path),
-                os.path.splitext(os.path.basename(output_audio_path))[0]
-            )
-            os.makedirs(chapter_dir, exist_ok=True)
 
-            segment_files = []
-            for i, segment in enumerate(segments):
-                segment_path = os.path.join(chapter_dir, f"segment_{i:04d}.wav")
-
-                request = {
-                    "text": segment.get("text", ""),
-                    "voice_id": segment.get("voice_id", "Charon"),
-                    "output_file": segment_path
-                }
-
-                result = self.generate_speech(request)
-                if result:
-                    segment_files.append(result)
-                else:
-                    log(f"Failed to generate audio for segment {i}", level="ERROR")
-
-            # Concatenate all segments
-            if segment_files:
-                return self._concatenate_audio_files(segment_files, output_audio_path)
-
-            return False
 
     def _concatenate_audio_files(self, audio_files, output_path):
         """Concatenate multiple audio files into one."""

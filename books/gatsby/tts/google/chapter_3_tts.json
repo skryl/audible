@@ -362,5 +362,341 @@
   ],
   "chapter_number": 3,
   "status": "pending",
-  "audio_file": "chapter_03.mp3"
+  "audio_file": "chapter_03.mp3",
+  "groups": [
+    {
+      "segments": [
+        {
+          "type": "narration",
+          "text": "There was music from my neighbor\u2019s house through the summer nights. In his blue gardens men and girls came and went like moths among the whisperings, champagne, and stars. At high tide in the afternoon I watched his guests diving from the tower of his raft, or sunning themselves on his beach while motorboats sliced through the Sound. Weekends saw his Rolls\u2010Royce transforming into an omnibus and his station wagon darting to meet arriving trains. And on Mondays eight servants worked all day, restoring the ravages of the night before. Every Friday crates of oranges and lemons arrived from New York, only to be transformed into pulpless halves by a kitchen machine at the press of a butler\u2019s thumb. At least once a fortnight, a team of caterers would descend with canvases and colored lights to transform Gatsby\u2019s enormous garden into a surreal, festive world. Buffet tables overflowed with hors d\u2019oeuvre, hams, salads, and pastries, and the hall\u2019s brass rail bar overflowed with gins, liquors and curios cordials. By seven o\u2019clock the full orchestra arrived\u2014an entire pit of woodwinds, brass, drums and strings\u2014and soon the garden became a riotous swirl of primary colors, modern haircuts, extravagant shawls, and a constant chatter of introductions and innuendo. As twilight deepened, the orchestra shifted to yellow cocktail music and voices pitched a key higher; laughter, light chatter, and the excited mingling of confident wanderers marked the birth of the party.",
+          "character": null,
+          "emotion": null,
+          "voice_id": "Charon",
+          "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+        },
+        {
+          "type": "narration",
+          "text": "Then came a sudden moment on the canvas platform: A gypsy in trembling opal seized a cocktail from thin air, downing it for courage, and danced out alone. The orchestra leader adjusted his rhythm, and whispered rumors flew that she was Gilda Gray\u2019s understudy from the Follies. Thus the party truly began.",
+          "character": null,
+          "emotion": null,
+          "voice_id": "Charon",
+          "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+        },
+        {
+          "type": "narration",
+          "text": "I reflect that on that first night at Gatsby\u2019s house I was one of the few guests actually invited. A formal note delivered by a chauffeur \u2013 signed in a majestic hand by Jay Gatsby himself \u2013 had summoned me to his 'little party'. Dressed in white flannels I arrived just after seven, wandering awkwardly among swirls of strangers, noting familiar faces from the train and a throng of well-dressed young Englishmen earnestly discussing bonds, insurance, or automobiles.",
+          "character": null,
+          "emotion": null,
+          "voice_id": "Charon",
+          "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+        }
+      ],
+      "speakers": {
+        "Narrator": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "Nick Carraway",
+          "text": "Hello!",
+          "emotion": "boisterous, slightly self-conscious",
+          "voice_traits": {
+            "accent": "Mid-Atlantic American",
+            "tone": "loud, eager",
+            "pacing": "energetic, with a deliberate emphasis on greeting",
+            "pronunciation": "clear, precise",
+            "pauses": "a short pause after the greeting",
+            "distinctive": "slightly theatrical due to excitement"
+          },
+          "voice_id": "Kore",
+          "character_voice_traits": "His narrative voice is measured, reflective, and gentle with hints of a Midwestern accent. There is a calm, understated quality in his speech that comes off as both polite and insightful."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jordan Baker",
+          "text": "I thought you might be here. I remembered you lived next door to\u2014",
+          "emotion": "detached yet kindly",
+          "voice_traits": {
+            "accent": "Standard American",
+            "tone": "smooth and unhurried",
+            "pacing": "even, measured",
+            "pronunciation": "clear and slightly clipped",
+            "pauses": "a brief pause as she searches for the right words",
+            "distinctive": "a hint of amused detachment"
+          },
+          "voice_id": "Puck",
+          "character_voice_traits": "While specific vocal descriptions are limited, her speech is hinted to be cool and composed. There is a sense of polite curiosity and understated assurance in her manner of speaking, in keeping with her overall detached persona."
+        }
+      ],
+      "speakers": {
+        "Nick Carraway": "Kore",
+        "Jordan Baker": "Puck"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "narration",
+          "text": "The reference was to the golf tournament finals the previous week. One girl remarked to her companion, 'You don\u2019t know who we are, but we met you here about a month ago.' Jordan noted, 'You've dyed your hair since then.' The conversation swirled\u2014a mix of playful banter and gossip about Gatsby, including murmurs that he might have killed a man or been a German spy during the war. The speculation lent a heady, secretive air to the festivities, and the assembled Mr. Mumbles and other guests leaned in eagerly to listen.",
+          "character": null,
+          "emotion": null,
+          "voice_id": "Charon",
+          "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+        },
+        {
+          "type": "narration",
+          "text": "As supper was served and groups reformed across the garden, I found myself invited by Jordan to join her own party\u2014a gathering of polished East Egg types, complete with a persistent undergraduate whose hopes of gaining her favor were as obvious as his violent innuendo. I left the cocktail table, seeking companionship as I searched for my elusive host.",
+          "character": null,
+          "emotion": null,
+          "voice_id": "Charon",
+          "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+        },
+        {
+          "type": "narration",
+          "text": "Wandering through the extravagant space, Jordan and I eventually discovered an important-looking door leading into a high Gothic library. Inside, panelled with carved English oak, a stout, middle-aged man with enormous owl-eyed spectacles sat somewhat drunk at a great table, intently studying the shelves of books. As we entered, he wheeled around excitedly.",
+          "character": null,
+          "emotion": null,
+          "voice_id": "Charon",
+          "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+        }
+      ],
+      "speakers": {
+        "Narrator": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "Man of Nick\u2019s Age",
+          "text": "Your face is familiar. Weren\u2019t you in the First Division during the war?",
+          "emotion": "curious, affable",
+          "voice_traits": {
+            "accent": "Midwestern American",
+            "tone": "pleasant and reflective",
+            "pacing": "steady and conversational",
+            "pronunciation": "clear with a casual drawl",
+            "pauses": "well-timed, inviting explanation",
+            "distinctive": "friendly with a slight military nod in his tone"
+          },
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "Nick Carraway",
+          "text": "Yes, I was with the Twenty-eighth Infantry.",
+          "emotion": "matter-of-fact, reserved",
+          "voice_traits": {
+            "accent": "New England American",
+            "tone": "even and subdued",
+            "pacing": "measured, reflective",
+            "pronunciation": "precise but unassuming",
+            "pauses": "a brief pause after the statement",
+            "distinctive": "calm and observant"
+          },
+          "voice_id": "Kore",
+          "character_voice_traits": "His narrative voice is measured, reflective, and gentle with hints of a Midwestern accent. There is a calm, understated quality in his speech that comes off as both polite and insightful."
+        },
+        {
+          "type": "dialogue",
+          "character": "Man of Nick\u2019s Age",
+          "text": "I was in the Sixteenth until June nineteen-eighteen. I knew I\u2019d seen you somewhere before. How about joining me tomorrow morning for a ride on my hydroplane along the Sound?",
+          "emotion": "inviting, pleasantly nostalgic",
+          "voice_traits": {
+            "accent": "General American",
+            "tone": "casual yet enthusiastic",
+            "pacing": "smooth and deliberate",
+            "pronunciation": "clear with friendly inflections",
+            "pauses": "pausing between thoughts",
+            "distinctive": "a hint of old-world charm mixed with modern ease"
+          },
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "Nick Carraway",
+          "text": "That sounds unusual\u2026 I haven\u2019t even seen the host. By the way, I live over there\u2014and my invitation came directly via Gatsby\u2019s chauffeur.",
+          "emotion": "curious and slightly bemused",
+          "voice_traits": {
+            "accent": "New England American",
+            "tone": "inquisitive, measured",
+            "pacing": "moderate, thoughtful",
+            "pronunciation": "clear with an unforced casualness",
+            "pauses": "measured pauses between clauses",
+            "distinctive": "a blend of honesty and reserve"
+          },
+          "voice_id": "Kore",
+          "character_voice_traits": "His narrative voice is measured, reflective, and gentle with hints of a Midwestern accent. There is a calm, understated quality in his speech that comes off as both polite and insightful."
+        }
+      ],
+      "speakers": {
+        "Man of Nick\u2019s Age": "Charon",
+        "Nick Carraway": "Kore"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "Mysterious Stranger (Jay Gatsby)",
+          "text": "I'm Gatsby.",
+          "emotion": "quietly confident, almost revealing",
+          "voice_traits": {
+            "accent": "refined East Coast",
+            "tone": "calm, measured with a slight smile in his voice",
+            "pacing": "deliberate and unhurried",
+            "pronunciation": "precise, every syllable clear",
+            "pauses": "a brief, loaded pause right before his name",
+            "distinctive": "an air of mystery and understated authority"
+          },
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "Nick Carraway",
+          "text": "What! I beg your pardon.",
+          "emotion": "surprised, a bit embarrassed",
+          "voice_traits": {
+            "accent": "New England American",
+            "tone": "startled, then apologetic",
+            "pacing": "quickened slightly due to surprise",
+            "pronunciation": "clear with a rising intonation on 'What!'",
+            "pauses": "a brief pause for effect",
+            "distinctive": "honest and unpretentious"
+          },
+          "voice_id": "Kore",
+          "character_voice_traits": "His narrative voice is measured, reflective, and gentle with hints of a Midwestern accent. There is a calm, understated quality in his speech that comes off as both polite and insightful."
+        }
+      ],
+      "speakers": {
+        "Mysterious Stranger (Jay Gatsby)": "Charon",
+        "Nick Carraway": "Kore"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "Jay Gatsby",
+          "text": "I thought you knew, old sport. I\u2019m afraid I\u2019m not a very good host. If you need anything, just ask.",
+          "emotion": "reassuring, warm",
+          "voice_traits": {
+            "accent": "refined East Coast",
+            "tone": "smooth, with an undercurrent of charm",
+            "pacing": "even and deliberate",
+            "pronunciation": "meticulous and reassuring",
+            "pauses": "a gentle pause after 'old sport'",
+            "distinctive": "a rare, knowing smile in his vocal cadence"
+          },
+          "voice_id": "Orus",
+          "character_voice_traits": "Gatsby\u2019s voice likely exudes a refined, controlled quality\u2014a quiet intensity that hints at both warmth and melancholy. Though not described in detail here, his indirect presence conveys a voice that blends charm with an air of mystery."
+        },
+        {
+          "type": "dialogue",
+          "character": "Gatsby\u2019s Butler",
+          "text": "Miss Baker? I beg your pardon, but Mr. Gatsby would like to speak to you alone.",
+          "emotion": "formal and courteous",
+          "voice_traits": {
+            "accent": "classic American",
+            "tone": "measured, precise, and respectful",
+            "pacing": "deliberate and restrained",
+            "pronunciation": "very clear and formal",
+            "pauses": "a brief pause before addressing her by name",
+            "distinctive": "a polite, almost understated tone of authority"
+          },
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "Jay Gatsby": "Orus",
+        "Gatsby\u2019s Butler": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "Man in Long Duster",
+          "text": "See! It went in the ditch.",
+          "emotion": "puzzled and incredulous",
+          "voice_traits": {
+            "accent": "American with a rural twang",
+            "tone": "bemused and matter-of-fact",
+            "pacing": "slow, deliberate",
+            "pronunciation": "clear with an emphasis on 'ditch'",
+            "pauses": "a brief pause after 'See!' as if inviting confirmation",
+            "distinctive": "a slightly frustrated drawl"
+          },
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "Owl Eyes (Reappearing)",
+          "text": "How\u2019d it happen?",
+          "emotion": "curious, with an edge of disbelief",
+          "voice_traits": {
+            "accent": "measured and scholarly",
+            "tone": "inquiring",
+            "pacing": "slow and measured",
+            "pronunciation": "distinct, with clear enunciation",
+            "pauses": "a slight pause after the question",
+            "distinctive": "a tone that blends awe with cynicism"
+          },
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "Man in Long Duster",
+          "text": "Don\u2019t ask me \u2013 I wasn\u2019t even trying. There was another man in the car.",
+          "emotion": "defensive, almost indignant",
+          "voice_traits": {
+            "accent": "rural American",
+            "tone": "irritated and matter-of-fact",
+            "pacing": "hurried and clipped",
+            "pronunciation": "abrupt and direct",
+            "pauses": "short, rapid-fire delivery",
+            "distinctive": "a rough, no-nonsense quality"
+          },
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "Man in Long Duster": "Charon",
+        "Owl Eyes (Reappearing)": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "narration",
+          "text": "A stunned silence fell upon the gathered onlookers as the explanation hung in the air. I then turned away, crossing the lawn toward home. Glancing back, the moon\u2014like a delicate wafer\u2014shone over Gatsby\u2019s house, its windows dark and isolated, while the host himself stood on the porch in a final, formal gesture of farewell.",
+          "character": null,
+          "emotion": null,
+          "voice_id": "Charon",
+          "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+        },
+        {
+          "type": "narration",
+          "text": "Reading over what I have written so far, I recognize that what seemed like absorbing, events spanning three nights were in fact merely casual episodes in a crowded summer. For much of the time I worked\u2014the early morning rush to the Probity Trust, lunch among familiar clerks on pig sausages and mashed potatoes, and evenings of solitary study in the Yale Club library or long walks through New York\u2019s neon twilight. There were fleeting romances and quiet observations of the city\u2019s restless pulse. In that enchanted metropolitan dusk I even fancied following a few unknown, attractive women just to imagine I might slip into their secret lives.",
+          "character": null,
+          "emotion": null,
+          "voice_id": "Charon",
+          "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+        },
+        {
+          "type": "narration",
+          "text": "I began to sense, in the soft melancholy of midnight on Fifth Avenue and among the throngs of cabs bound for the theater district, a sinking loneliness even as lively voices and lighted cigarettes swirled around me. And then, sometime later in midsummer, I found Jordan Baker again. Our companionship, initially flattering because of her fame as a golf champion, soon became something more complicated\u2014a blend of tender curiosity and the recognition of her incurable dishonesty. I recalled a rainy day at a house-party in Warwick, a small scandal over a misplayed golf ball, and the secret shifts in our conversation that hinted at deeper emotional divides. All the while, I maintained my modest claim: I am one of the few honest people I have ever known.",
+          "character": null,
+          "emotion": null,
+          "voice_id": "Charon",
+          "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+        }
+      ],
+      "speakers": {
+        "Narrator": "Charon"
+      }
+    }
+  ]
 }

@@ -1866,5 +1866,2933 @@
     }
   ],
   "status": "pending",
-  "audio_file": "chapter_06.mp3"
+  "audio_file": "chapter_06.mp3",
+  "groups": [
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"title\"",
+          "text": "\"Chapter 6\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"segments\"",
+          "text": "[ {",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"title\"": "Charon",
+        "\"segments\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"type\"",
+          "text": "\"narration\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"text\"",
+          "text": "\"Around that time an ambitious young New York reporter shows up at Gatsby\u2019s door on his day off. The man, having heard whispers of Gatsby\u2019s name connected with mysterious events, is determined to get a statement from him. Meanwhile, rumors swirl about Gatsby\u2019s past, including fantastic legends like an underground pipeline to Canada and even tales of him living in a boat that looks like a house.\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"type\"": "Charon",
+        "\"text\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"voice_traits\"",
+          "text": "{",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"accent\"",
+          "text": "\"Neutral American\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"voice_traits\"": "Charon",
+        "\"accent\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"tone\"",
+          "text": "\"measured, reflective\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pacing\"",
+          "text": "\"calm and deliberate\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"tone\"": "Charon",
+        "\"pacing\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"curious, understated\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pronunciation\"",
+          "text": "\"clear\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"emotion\"": "Charon",
+        "\"pronunciation\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"pauses\"",
+          "text": "\"occasional brief pauses for effect\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"distinctive_speech_patterns\"",
+          "text": "\"narrative cadence with slight intrigue\" } }, {",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"pauses\"": "Charon",
+        "\"distinctive_speech_patterns\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"type\"",
+          "text": "\"dialogue\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"character\"",
+          "text": "\"Jay Gatsby\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"type\"": "Charon",
+        "\"character\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"text\"",
+          "text": "\"Anything to say about what?\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"polite, slightly curious\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"text\"": "Charon",
+        "\"emotion\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"voice_traits\"",
+          "text": "{",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"accent\"",
+          "text": "\"refined East Coast\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"voice_traits\"": "Charon",
+        "\"accent\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"tone\"",
+          "text": "\"civil, measured\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pacing\"",
+          "text": "\"even, unhurried\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"tone\"": "Charon",
+        "\"pacing\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"polite\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pronunciation\"",
+          "text": "\"precise\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"emotion\"": "Charon",
+        "\"pronunciation\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"pauses\"",
+          "text": "\"a brief pause after his question\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"distinctive_speech_patterns\"",
+          "text": "\"formal phrasing\" } }, {",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"pauses\"": "Charon",
+        "\"distinctive_speech_patterns\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"type\"",
+          "text": "\"dialogue\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"character\"",
+          "text": "\"Reporter\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"type\"": "Charon",
+        "\"character\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"text\"",
+          "text": "\"Why\u2014any statement to give out.\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"confused, earnest\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"text\"": "Charon",
+        "\"emotion\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"voice_traits\"",
+          "text": "{",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"accent\"",
+          "text": "\"New Yorkish\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"voice_traits\"": "Charon",
+        "\"accent\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"tone\"",
+          "text": "\"inquisitive with a hint of urgency\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pacing\"",
+          "text": "\"slightly hurried\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"tone\"": "Charon",
+        "\"pacing\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"eager yet puzzled\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pronunciation\"",
+          "text": "\"casual, unpolished\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"emotion\"": "Charon",
+        "\"pronunciation\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"pauses\"",
+          "text": "\"brief, uncertain pauses\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"distinctive_speech_patterns\"",
+          "text": "\"rapid, clipped syllables at times\" } }, {",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"pauses\"": "Charon",
+        "\"distinctive_speech_patterns\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"type\"",
+          "text": "\"narration\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"text\"",
+          "text": "\"After a confused five minutes of back-and-forth, it becomes clear that the reporter\u2019s vague understanding of Gatsby\u2019s reputation was enough to prompt his visit. Over the summer, Gatsby\u2019s notoriety grew as hundreds who had enjoyed his hospitality spread legends about his mysterious past.\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"type\"": "Charon",
+        "\"text\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"voice_traits\"",
+          "text": "{",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"accent\"",
+          "text": "\"Neutral American\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"voice_traits\"": "Charon",
+        "\"accent\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"tone\"",
+          "text": "\"expository, reflective\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pacing\"",
+          "text": "\"steady, unfolding gradually\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"tone\"": "Charon",
+        "\"pacing\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"observant\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pronunciation\"",
+          "text": "\"crisp\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"emotion\"": "Charon",
+        "\"pronunciation\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"pauses\"",
+          "text": "\"measured pauses between ideas\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"distinctive_speech_patterns\"",
+          "text": "\"narrative clarity with a hint of mystery\" } }, {",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"pauses\"": "Charon",
+        "\"distinctive_speech_patterns\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"type\"",
+          "text": "\"narration\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"text\"",
+          "text": "\"We learn that James Gatz \u2013 the name he was born with back in North Dakota \u2013 transformed himself into Jay Gatsby, a persona conceived from his youthful dreams. As a young man, he had already pictured himself as a son of God, destined to serve a vast, lavish, and even vulgar beauty.\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"type\"": "Charon",
+        "\"text\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"voice_traits\"",
+          "text": "{",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"accent\"",
+          "text": "\"Neutral American\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"voice_traits\"": "Charon",
+        "\"accent\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"tone\"",
+          "text": "\"reminiscent, philosophical\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pacing\"",
+          "text": "\"deliberate, thoughtful\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"tone\"": "Charon",
+        "\"pacing\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"wistful, intense\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pronunciation\"",
+          "text": "\"clear and precise\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"emotion\"": "Charon",
+        "\"pronunciation\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"pauses\"",
+          "text": "\"longer pauses at reflective moments\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"distinctive_speech_patterns\"",
+          "text": "\"imaginative and slightly lofty\" } }, {",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"pauses\"": "Charon",
+        "\"distinctive_speech_patterns\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"type\"",
+          "text": "\"narration\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"text\"",
+          "text": "\"For over a year, he labored along the south shore of Lake Superior, eking out a living as a clam-digger, salmon-fisher, or any other role that met his basic needs. By night, his mind erupted in a turbulent riot of fantastical dreams, hinting at an unreality beneath the everyday world.\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"type\"": "Charon",
+        "\"text\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"voice_traits\"",
+          "text": "{",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"accent\"",
+          "text": "\"Neutral American\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"voice_traits\"": "Charon",
+        "\"accent\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"tone\"",
+          "text": "\"introspective, vivid\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pacing\"",
+          "text": "\"variable \u2013 quiet in the labor description and more rapid in the dream description\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"tone\"": "Charon",
+        "\"pacing\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"yearning, restless\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pronunciation\"",
+          "text": "\"clear and evocative\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"emotion\"": "Charon",
+        "\"pronunciation\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"pauses\"",
+          "text": "\"thoughtful pauses before turning to the fantastical imagery\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"distinctive_speech_patterns\"",
+          "text": "\"lyrical and expressive\" } }, {",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"pauses\"": "Charon",
+        "\"distinctive_speech_patterns\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"type\"",
+          "text": "\"narration\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"text\"",
+          "text": "\"An instinct for his future glory led him briefly to a small Lutheran college in southern Minnesota, only to find the institution indifferent to his destiny. Fate, however, intervened when Dan Cody\u2019s yacht anchored near where young Gatz was adrift on Lake Superior.\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"type\"": "Charon",
+        "\"text\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"voice_traits\"",
+          "text": "{",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"accent\"",
+          "text": "\"Neutral American\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"voice_traits\"": "Charon",
+        "\"accent\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"tone\"",
+          "text": "\"narrative, anticipatory\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pacing\"",
+          "text": "\"evenly paced with a hint of building suspense\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"tone\"": "Charon",
+        "\"pacing\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"hopeful yet reflective\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pronunciation\"",
+          "text": "\"distinct and measured\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"emotion\"": "Charon",
+        "\"pronunciation\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"pauses\"",
+          "text": "\"strategic, building tension\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"distinctive_speech_patterns\"",
+          "text": "\"storytelling rhythm\" } }, {",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"pauses\"": "Charon",
+        "\"distinctive_speech_patterns\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"type\"",
+          "text": "\"narration\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"text\"",
+          "text": "\"To young Gatz, the yacht symbolized all the beauty and glamour in the world. Dan Cody, a rugged fifty-year-old adventurer of mining fortunes and boozy escapades, soon took an interest in him. In a few days, Cody not only renamed him Jay Gatsby but also outfitted him with lavish attire\u2014a blue coat, white duck trousers, and a yachting cap\u2014sending the young man on a course that would define his life.\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"type\"": "Charon",
+        "\"text\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"voice_traits\"",
+          "text": "{",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"accent\"",
+          "text": "\"Neutral American\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"voice_traits\"": "Charon",
+        "\"accent\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"tone\"",
+          "text": "\"vivid, descriptive\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pacing\"",
+          "text": "\"fluid and story-like\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"tone\"": "Charon",
+        "\"pacing\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"nostalgic with hints of admiration\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pronunciation\"",
+          "text": "\"articulate\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"emotion\"": "Charon",
+        "\"pronunciation\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"pauses\"",
+          "text": "\"brief, to emphasize significance\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"distinctive_speech_patterns\"",
+          "text": "\"cinematic narrative style\" } }, {",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"pauses\"": "Charon",
+        "\"distinctive_speech_patterns\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"type\"",
+          "text": "\"narration\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"text\"",
+          "text": "\"Over the following years, Gatsby served Cody in numerous capacities\u2014from steward to skipper. Although Cody\u2019s legacy included a tangled legacy of money and mishaps (notably involving Ella Kaye and dangerous parties at sea), for Gatsby it was a crucible in which his identity was forged. He barely understood the legal devices that prevented him from receiving Cody\u2019s money, yet the experience endowed him with an education and ambition befitting the man he had dreamed of becoming.\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"type\"": "Charon",
+        "\"text\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"voice_traits\"",
+          "text": "{",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"accent\"",
+          "text": "\"Neutral American\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"voice_traits\"": "Charon",
+        "\"accent\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"tone\"",
+          "text": "\"expository with a tinge of melancholy\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pacing\"",
+          "text": "\"steady and reflective\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"tone\"": "Charon",
+        "\"pacing\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"wistful\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pronunciation\"",
+          "text": "\"precise\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"emotion\"": "Charon",
+        "\"pronunciation\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"pauses\"",
+          "text": "\"well-timed to transition between ideas\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"distinctive_speech_patterns\"",
+          "text": "\"narrative storytelling with smooth continuity\" } }, {",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"pauses\"": "Charon",
+        "\"distinctive_speech_patterns\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"type\"",
+          "text": "\"narration\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"text\"",
+          "text": "\"Later, as I (Nick Carraway) reflect on these early revelations, I realize that Gatsby\u2019s origins were far more complex than the wild rumors suggested. Though I had believed both everything and nothing about him at different times, I now use this quiet interlude to set the record straight.\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"type\"": "Charon",
+        "\"text\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"voice_traits\"",
+          "text": "{",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"accent\"",
+          "text": "\"Neutral American\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"voice_traits\"": "Charon",
+        "\"accent\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"tone\"",
+          "text": "\"confessional, reflective\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pacing\"",
+          "text": "\"calm and measured\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"tone\"": "Charon",
+        "\"pacing\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"introspective, candid\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pronunciation\"",
+          "text": "\"clear, with a subtle narrative lilt\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"emotion\"": "Charon",
+        "\"pronunciation\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"pauses\"",
+          "text": "\"pausing before weighty admissions\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"distinctive_speech_patterns\"",
+          "text": "\"personal, slightly self-aware\" } }, {",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"pauses\"": "Charon",
+        "\"distinctive_speech_patterns\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"type\"",
+          "text": "\"narration\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"text\"",
+          "text": "\"Shortly thereafter, I began spending more time at Gatsby\u2019s house. One Sunday afternoon, barely two minutes into my visit, a party formed as Tom Buchanan was unexpectedly brought in for a drink. Alongside him were a man named Sloane and a charming woman, both arriving on horseback.\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"type\"": "Charon",
+        "\"text\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"voice_traits\"",
+          "text": "{",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"accent\"",
+          "text": "\"Neutral American\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"voice_traits\"": "Charon",
+        "\"accent\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"tone\"",
+          "text": "\"observant, setting the scene\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pacing\"",
+          "text": "\"steady\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"tone\"": "Charon",
+        "\"pacing\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"matter-of-fact, slightly amused\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pronunciation\"",
+          "text": "\"clear\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"emotion\"": "Charon",
+        "\"pronunciation\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"pauses\"",
+          "text": "\"strategic pauses to underscore shifts in the scene\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"distinctive_speech_patterns\"",
+          "text": "\"narrative clarity and subtle humor\" } }, {",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"pauses\"": "Charon",
+        "\"distinctive_speech_patterns\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"type\"",
+          "text": "\"dialogue\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"character\"",
+          "text": "\"Jay Gatsby\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"type\"": "Charon",
+        "\"character\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"text\"",
+          "text": "\"I'm delighted to see you. I'm delighted that you dropped in. Sit right down. Have a cigarette or a cigar. I\u2019ll have something to drink for you in just a minute.\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"cordial yet slightly anxious\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"text\"": "Charon",
+        "\"emotion\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"voice_traits\"",
+          "text": "{",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"accent\"",
+          "text": "\"refined East Coast\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"voice_traits\"": "Charon",
+        "\"accent\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"tone\"",
+          "text": "\"welcoming but controlled\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pacing\"",
+          "text": "\"even, with thoughtful pauses between invitations\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"tone\"": "Charon",
+        "\"pacing\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"earnest, concealing his unease about Tom's unexpected presence\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pronunciation\"",
+          "text": "\"crisp and polite\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"emotion\"": "Charon",
+        "\"pronunciation\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"pauses\"",
+          "text": "\"brief pauses to convey hospitality\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"distinctive_speech_patterns\"",
+          "text": "\"measured, with an underlying formality\" } }, {",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"pauses\"": "Charon",
+        "\"distinctive_speech_patterns\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"type\"",
+          "text": "\"dialogue\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"character\"",
+          "text": "\"Tom Buchanan\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"type\"": "Charon",
+        "\"character\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"text\"",
+          "text": "\"Did you have a nice ride?\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"gruffly polite, with a note of superiority\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"text\"": "Charon",
+        "\"emotion\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"voice_traits\"",
+          "text": "{",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"accent\"",
+          "text": "\"Mid-Atlantic\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"voice_traits\"": "Charon",
+        "\"accent\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"tone\"",
+          "text": "\"blunt, slightly dismissive\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pacing\"",
+          "text": "\"deliberate, with a measured drawl\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"tone\"": "Charon",
+        "\"pacing\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"arrogant\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pronunciation\"",
+          "text": "\"firm and direct\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"emotion\"": "Charon",
+        "\"pronunciation\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"pauses\"",
+          "text": "\"a short pause after the question\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"distinctive_speech_patterns\"",
+          "text": "\"commanding and self-assured\" } }, {",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"pauses\"": "Charon",
+        "\"distinctive_speech_patterns\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"type\"",
+          "text": "\"dialogue\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"character\"",
+          "text": "\"Jay Gatsby\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"type\"": "Charon",
+        "\"character\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"text\"",
+          "text": "\"I believe we\u2019ve met somewhere before, Mr. Buchanan. I know your wife.\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"cocky yet restrained, almost confrontational\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"text\"": "Charon",
+        "\"emotion\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"voice_traits\"",
+          "text": "{",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"accent\"",
+          "text": "\"refined East Coast\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"voice_traits\"": "Charon",
+        "\"accent\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"tone\"",
+          "text": "\"assertive, with a hint of challenge\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pacing\"",
+          "text": "\"controlled, with deliberate emphasis\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"tone\"": "Charon",
+        "\"pacing\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"defiant\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pronunciation\"",
+          "text": "\"clear with an undercurrent of tension\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"emotion\"": "Charon",
+        "\"pronunciation\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"pauses\"",
+          "text": "\"a measured pause to let the implication sink in\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"distinctive_speech_patterns\"",
+          "text": "\"polite formalism masking inner conflict\" } }, {",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"pauses\"": "Charon",
+        "\"distinctive_speech_patterns\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"type\"",
+          "text": "\"dialogue\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"character\"",
+          "text": "\"Tom Buchanan\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"type\"": "Charon",
+        "\"character\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"text\"",
+          "text": "\"Oh, yes. We did meet. I remember very well\u2026 About two weeks ago\u2014you were with Nick here.\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"cool, with a touch of condescension\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"text\"": "Charon",
+        "\"emotion\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"voice_traits\"",
+          "text": "{",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"accent\"",
+          "text": "\"Mid-Atlantic\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"voice_traits\"": "Charon",
+        "\"accent\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"tone\"",
+          "text": "\"dismissive and slightly patronizing\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pacing\"",
+          "text": "\"steady, with an undercurrent of smug assurance\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"tone\"": "Charon",
+        "\"pacing\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"slightly mocking\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pronunciation\"",
+          "text": "\"crisp and clipped\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"emotion\"": "Charon",
+        "\"pronunciation\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"pauses\"",
+          "text": "\"pauses that underscore his certainty\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"distinctive_speech_patterns\"",
+          "text": "\"authoritative, even when reminiscing\" } }, {",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"pauses\"": "Charon",
+        "\"distinctive_speech_patterns\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"type\"",
+          "text": "\"dialogue\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"character\"",
+          "text": "\"Party Guest (Riding Lady)\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"type\"": "Charon",
+        "\"character\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"text\"",
+          "text": "\"We\u2019ll all come over to your next party, Mr. Gatsby. What do you say?\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"enthusiastic, lighthearted\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"text\"": "Charon",
+        "\"emotion\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"voice_traits\"",
+          "text": "{",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"accent\"",
+          "text": "\"Neutral American with a hint of Southern charm\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"voice_traits\"": "Charon",
+        "\"accent\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"tone\"",
+          "text": "\"cheerful, inviting\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pacing\"",
+          "text": "\"lively and upbeat\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"tone\"": "Charon",
+        "\"pacing\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"friendly, with genuine warmth\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pronunciation\"",
+          "text": "\"clear and melodic\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"emotion\"": "Charon",
+        "\"pronunciation\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"pauses\"",
+          "text": "\"brief, to emphasize conviviality\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"distinctive_speech_patterns\"",
+          "text": "\"casual yet exuberant\" } }, {",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"pauses\"": "Charon",
+        "\"distinctive_speech_patterns\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"type\"",
+          "text": "\"dialogue\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"character\"",
+          "text": "\"Jay Gatsby\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"type\"": "Charon",
+        "\"character\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"text\"",
+          "text": "\"Certainly; I\u2019d be delighted to have you. Please, don\u2019t hurry\u2014why don\u2019t you stay for supper? I wouldn\u2019t be surprised if some other guests from New York drop in.\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"eager yet somewhat forced in his politeness\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"text\"": "Charon",
+        "\"emotion\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"voice_traits\"",
+          "text": "{",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"accent\"",
+          "text": "\"refined East Coast\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"voice_traits\"": "Charon",
+        "\"accent\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"tone\"",
+          "text": "\"cordial, with an undercurrent of anxiety\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pacing\"",
+          "text": "\"even, measured carefully\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"tone\"": "Charon",
+        "\"pacing\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"hopeful,",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pronunciation\"",
+          "text": "\"distinct and careful\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"emotion\"": "Charon",
+        "\"pronunciation\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"pauses\"",
+          "text": "\"deliberate pauses to mask inner tension\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"distinctive_speech_patterns\"",
+          "text": "\"formal, with hints of persuasive charm\" } }, {",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"pauses\"": "Charon",
+        "\"distinctive_speech_patterns\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"type\"",
+          "text": "\"narration\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"text\"",
+          "text": "\"As the party unfolds, conversation turns to matters of celebrity and scandal. Tom smirks over comments about guests and famous faces. At one point, Daisy\u2019s voice sparkles as she remarks on a gorgeous woman under a white-plum tree, noting that even the man directing her attention seems to be an acquaintance from a long-forgotten film.\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"type\"": "Charon",
+        "\"text\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"voice_traits\"",
+          "text": "{",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"accent\"",
+          "text": "\"Neutral American\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"voice_traits\"": "Charon",
+        "\"accent\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"tone\"",
+          "text": "\"observant, with a subtle irony\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pacing\"",
+          "text": "\"smooth and engaging\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"tone\"": "Charon",
+        "\"pacing\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"amused, slightly cynical\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pronunciation\"",
+          "text": "\"clear and vivid\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"emotion\"": "Charon",
+        "\"pronunciation\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"pauses\"",
+          "text": "\"measured to enhance the ironic tone\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"distinctive_speech_patterns\"",
+          "text": "\"narrative with a cinematic quality\" } }, {",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"pauses\"": "Charon",
+        "\"distinctive_speech_patterns\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"type\"",
+          "text": "\"dialogue\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"character\"",
+          "text": "\"Daisy Buchanan\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"type\"": "Charon",
+        "\"character\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"text\"",
+          "text": "\"These things excite me so. If you want to kiss me any time this evening, Nick, just mention my name\u2014or even present a green card. I'm giving out green\u2014\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"bubbly and flirtatious, with playful undertones\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"text\"": "Charon",
+        "\"emotion\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"voice_traits\"",
+          "text": "{",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"accent\"",
+          "text": "\"soft Mid-Atlantic\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"voice_traits\"": "Charon",
+        "\"accent\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"tone\"",
+          "text": "\"mellifluous and teasing\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pacing\"",
+          "text": "\"lively yet smooth\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"tone\"": "Charon",
+        "\"pacing\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"flirtatious, with a hint of mischief\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pronunciation\"",
+          "text": "\"rich and clear\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"emotion\"": "Charon",
+        "\"pronunciation\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"pauses\"",
+          "text": "\"natural pauses that highlight her playful banter\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"distinctive_speech_patterns\"",
+          "text": "\"light, charming, and rhythmic\" } }, {",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"pauses\"": "Charon",
+        "\"distinctive_speech_patterns\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"type\"",
+          "text": "\"dialogue\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"character\"",
+          "text": "\"Jay Gatsby\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"type\"": "Charon",
+        "\"character\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"text\"",
+          "text": "\"Look around, Daisy. You must see the faces of many people you've only heard about.\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"encouraging yet reflective\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"text\"": "Charon",
+        "\"emotion\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"voice_traits\"",
+          "text": "{",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"accent\"",
+          "text": "\"refined East Coast\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"voice_traits\"": "Charon",
+        "\"accent\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"tone\"",
+          "text": "\"gentle, with a note of wistfulness\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pacing\"",
+          "text": "\"steady and measured\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"tone\"": "Charon",
+        "\"pacing\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"hopeful\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pronunciation\"",
+          "text": "\"articulate, with emphasis on key words\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"emotion\"": "Charon",
+        "\"pronunciation\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"pauses\"",
+          "text": "\"brief, thoughtful pauses\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"distinctive_speech_patterns\"",
+          "text": "\"poised, with an almost dreamlike quality\" } }, {",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"pauses\"": "Charon",
+        "\"distinctive_speech_patterns\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"type\"",
+          "text": "\"narration\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"text\"",
+          "text": "\"Later that evening, as twilight gives way to night, conversations grow more intimate and confessions more weighted. Amid the sparkling crowd at Gatsby\u2019s party, the pervasive feeling of superficial gaiety begins to crack as deeper, unresolved emotions surface\u2014especially for Gatsby himself, whose heart feels further and further from the woman he adores.\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"type\"": "Charon",
+        "\"text\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"voice_traits\"",
+          "text": "{",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"accent\"",
+          "text": "\"Neutral American\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"voice_traits\"": "Charon",
+        "\"accent\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"tone\"",
+          "text": "\"melancholic, reflective\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pacing\"",
+          "text": "\"unhurried, allowing each emotion to breathe\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"tone\"": "Charon",
+        "\"pacing\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"somber, introspective\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pronunciation\"",
+          "text": "\"clear and emotive\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"emotion\"": "Charon",
+        "\"pronunciation\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"pauses\"",
+          "text": "\"elongated during moments of introspection\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"distinctive_speech_patterns\"",
+          "text": "\"lyrical, with a touch of wistfulness\" } }, {",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"pauses\"": "Charon",
+        "\"distinctive_speech_patterns\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"type\"",
+          "text": "\"dialogue\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"character\"",
+          "text": "\"Jay Gatsby\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"type\"": "Charon",
+        "\"character\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"text\"",
+          "text": "\"She didn\u2019t like it. She didn\u2019t have a good time.\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"despondent, resigned\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"text\"": "Charon",
+        "\"emotion\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"voice_traits\"",
+          "text": "{",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"accent\"",
+          "text": "\"refined East Coast\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"voice_traits\"": "Charon",
+        "\"accent\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"tone\"",
+          "text": "\"quiet, heavy with disappointment\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pacing\"",
+          "text": "\"slow and measured\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"tone\"": "Charon",
+        "\"pacing\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"sorrowful, a tinge of bitterness\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pronunciation\"",
+          "text": "\"soft, almost whisper-like\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"emotion\"": "Charon",
+        "\"pronunciation\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"pauses\"",
+          "text": "\"long and reflective between phrases\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"distinctive_speech_patterns\"",
+          "text": "\"mournful and hesitant\" } }, {",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"pauses\"": "Charon",
+        "\"distinctive_speech_patterns\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"type\"",
+          "text": "\"dialogue\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"character\"",
+          "text": "\"Jay Gatsby\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"type\"": "Charon",
+        "\"character\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"text\"",
+          "text": "\"I wouldn\u2019t ask too much of her. I\u2019m going to fix everything just the way it was before. She\u2019ll see.\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"determined, yet tragically delusional\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"text\"": "Charon",
+        "\"emotion\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"voice_traits\"",
+          "text": "{",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"accent\"",
+          "text": "\"refined East Coast\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"voice_traits\"": "Charon",
+        "\"accent\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"tone\"",
+          "text": "\"firm, with palpable longing\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pacing\"",
+          "text": "\"steady with moments of urgency\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"tone\"": "Charon",
+        "\"pacing\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"resolute yet melancholy\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pronunciation\"",
+          "text": "\"clear with a note of desperation\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"emotion\"": "Charon",
+        "\"pronunciation\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"pauses\"",
+          "text": "\"deliberate pauses to emphasize his conviction\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"distinctive_speech_patterns\"",
+          "text": "\"almost prophetic in its cadence\" } }, {",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"pauses\"": "Charon",
+        "\"distinctive_speech_patterns\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"type\"",
+          "text": "\"narration\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"text\"",
+          "text": "\"In a final, almost dreamlike flashback, Gatsby recalls an autumn night five years past\u2014a time when the falling leaves and the moonlit sidewalk formed a secret ladder between worlds. In that evocative darkness, his kiss with Daisy sealed the union of his transcendent dreams with the fragile reality of her mortal breath; an ineffable moment that rendered his inner life both immortal and eternally out of reach.\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"type\"": "Charon",
+        "\"text\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"voice_traits\"",
+          "text": "{",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"accent\"",
+          "text": "\"Neutral American\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"voice_traits\"": "Charon",
+        "\"accent\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"tone\"",
+          "text": "\"poetic, ethereal\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pacing\"",
+          "text": "\"slow and deliberate, as if savoring every word\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"tone\"": "Charon",
+        "\"pacing\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"emotion\"",
+          "text": "\"wistful, enchanted\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"pronunciation\"",
+          "text": "\"richly expressive\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"emotion\"": "Charon",
+        "\"pronunciation\"": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "\"pauses\"",
+          "text": "\"long, reflective pauses that draw out the imagery\",",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "\"distinctive_speech_patterns\"",
+          "text": "\"flowing, almost musical in its cadence\" } } ] }",
+          "emotion": "neutral",
+          "voice_id": "Charon"
+        }
+      ],
+      "speakers": {
+        "\"pauses\"": "Charon",
+        "\"distinctive_speech_patterns\"": "Charon"
+      }
+    }
+  ]
 }

@@ -556,5 +556,400 @@
   ],
   "chapter_number": 8,
   "status": "pending",
-  "audio_file": "chapter_08.mp3"
+  "audio_file": "chapter_08.mp3",
+  "groups": [
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "Nick Carraway",
+          "text": "You ought to go away. It\u2019s pretty certain they\u2019ll trace your car.",
+          "emotion": "Worried yet matter-of-fact",
+          "voice_traits": {
+            "accent": "Mid-Atlantic",
+            "voice_affect": "Direct and earnest",
+            "tone": "Cautionary",
+            "pacing": "Steady with slight urgency",
+            "emotion": "Concern mixed with practicality",
+            "pronunciation": "Clear and concise",
+            "pauses": "A brief pause after the first sentence for emphasis",
+            "distinctive_speech_patterns": "Informal yet thoughtful"
+          },
+          "voice_id": "Kore",
+          "character_voice_traits": "His narrative voice is measured, reflective, and gentle with hints of a Midwestern accent. There is a calm, understated quality in his speech that comes off as both polite and insightful."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jay Gatsby",
+          "text": "Go away now, old sport?",
+          "emotion": "Mildly incredulous, with a trace of longing",
+          "voice_traits": {
+            "accent": "Refined, with a hint of yearning",
+            "voice_affect": "Slightly teasing yet anxious",
+            "tone": "Conversational with a touch of despair",
+            "pacing": "Measured, with a rising inflection at the end",
+            "emotion": "Conflicted, hopeful yet resigned",
+            "pronunciation": "Elegant and fluid",
+            "pauses": "A brief pause after the address",
+            "distinctive_speech_patterns": "Recurrent use of 'old sport' lending an affectionate, old-world charm"
+          },
+          "voice_id": "Orus",
+          "character_voice_traits": "Gatsby\u2019s voice likely exudes a refined, controlled quality\u2014a quiet intensity that hints at both warmth and melancholy. Though not described in detail here, his indirect presence conveys a voice that blends charm with an air of mystery."
+        },
+        {
+          "type": "dialogue",
+          "character": "Nick Carraway",
+          "text": "Go to Atlantic City for a week, or up to Montreal.",
+          "emotion": "Advisory and pragmatic",
+          "voice_traits": {
+            "accent": "Clear Standard American",
+            "voice_affect": "Sincere and straightforward",
+            "tone": "Matter-of-fact",
+            "pacing": "Even and deliberate",
+            "emotion": "Concerned and slightly exasperated",
+            "pronunciation": "Precise",
+            "pauses": "Slight pause before listing options",
+            "distinctive_speech_patterns": "Unembellished, direct speech"
+          },
+          "voice_id": "Kore",
+          "character_voice_traits": "His narrative voice is measured, reflective, and gentle with hints of a Midwestern accent. There is a calm, understated quality in his speech that comes off as both polite and insightful."
+        }
+      ],
+      "speakers": {
+        "Nick Carraway": "Kore",
+        "Jay Gatsby": "Orus"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "Nick Carraway",
+          "text": "Twelve minutes to my train.",
+          "emotion": "Regretful yet matter-of-fact",
+          "voice_traits": {
+            "accent": "Standard American",
+            "voice_affect": "Sincere and slightly rushed",
+            "tone": "Resigned",
+            "pacing": "Quick, reflecting the urgency of departure",
+            "emotion": "Mild disappointment mixed with duty",
+            "pronunciation": "Clear and clipped",
+            "pauses": "Brief pause after the announcement",
+            "distinctive_speech_patterns": "Informal, everyday speech"
+          },
+          "voice_id": "Kore",
+          "character_voice_traits": "His narrative voice is measured, reflective, and gentle with hints of a Midwestern accent. There is a calm, understated quality in his speech that comes off as both polite and insightful."
+        },
+        {
+          "type": "dialogue",
+          "character": "Jay Gatsby",
+          "text": "Do, old sport.",
+          "emotion": "Optimistic in a weary way",
+          "voice_traits": {
+            "accent": "Slightly refined with a nostalgic lilt",
+            "voice_affect": "Light but carrying an undercurrent of melancholy",
+            "tone": "Encouraging yet bittersweet",
+            "pacing": "Measured, with a soft trailing off",
+            "emotion": "Hopeful, masking a deep-seated sadness",
+            "pronunciation": "Smooth and distinct",
+            "pauses": "A slight pause before the closing",
+            "distinctive_speech_patterns": "Recurrent informal address \u2018old sport\u2019"
+          },
+          "voice_id": "Orus",
+          "character_voice_traits": "Gatsby\u2019s voice likely exudes a refined, controlled quality\u2014a quiet intensity that hints at both warmth and melancholy. Though not described in detail here, his indirect presence conveys a voice that blends charm with an air of mystery."
+        },
+        {
+          "type": "dialogue",
+          "character": "Nick Carraway",
+          "text": "I\u2019ll call you about noon.",
+          "emotion": "Resigned and heartfelt",
+          "voice_traits": {
+            "accent": "Neutral",
+            "voice_affect": "Gentle yet firm",
+            "tone": "Conversational, with a final hint of regret",
+            "pacing": "Leisurely, letting the words linger",
+            "emotion": "Bittersweet farewell",
+            "pronunciation": "Clear and thoughtful",
+            "pauses": "A pause before and after to signify the parting",
+            "distinctive_speech_patterns": "Informal, with sincere warmth"
+          },
+          "voice_id": "Kore",
+          "character_voice_traits": "His narrative voice is measured, reflective, and gentle with hints of a Midwestern accent. There is a calm, understated quality in his speech that comes off as both polite and insightful."
+        }
+      ],
+      "speakers": {
+        "Nick Carraway": "Kore",
+        "Jay Gatsby": "Orus"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "narration",
+          "text": "We shook hands and parted ways. Just before I reached the hedge, I turned back and shouted, 'They\u2019re a rotten crowd! You\u2019re worth the whole damn bunch put together!' That was the only genuine compliment I ever gave him\u2014despite, or perhaps because of, my deep disapproval of his entire existence. His face then broke into a radiant smile, as if we alone shared the secret of his incorruptible dream.",
+          "voice_traits": {
+            "accent": "Neutral with a slight Midwestern twang",
+            "voice_affect": "Warm and introspective",
+            "tone": "Sincere and confessional",
+            "pacing": "Measured, allowing the sentiment to build",
+            "emotion": "Genuine admiration mixed with regret",
+            "pronunciation": "Clearly enunciated and heartfelt",
+            "pauses": "Thoughtful pauses around the exclamatory remark",
+            "distinctive_speech_patterns": "Conversational, with a direct and honest cadence"
+          },
+          "voice_id": "Charon",
+          "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+        },
+        {
+          "type": "narration",
+          "text": "Later that day in the city, I sat numbly at my desk trying to list countless stock quotations until exhaustion overtook me in my swivel-chair. Just before noon, the phone rang\u2014and it was Jordan Baker. Her usually fresh, cool voice sounded harsh and dry as she informed me that she had left Daisy\u2019s house and was headed from Hempstead to Southampton. Our conversation was brusque. I remarked, 'You weren\u2019t so nice to me last night.' When I asked how it mattered, her tone shifted as she declared, 'However, I want to see you.' Though we attempted to plan a meeting, the exchange broke off abruptly, leaving an unsettling finality in its wake.",
+          "voice_traits": {
+            "accent": "Neutral, with a hint of urban edge",
+            "voice_affect": "Detached yet introspective",
+            "tone": "Reflective with a touch of disquiet",
+            "pacing": "Unhurried, with pauses that suggest introspection",
+            "emotion": "A mix of irritation and resignation",
+            "pronunciation": "Measured, with a slight edge in stress",
+            "pauses": "Natural breaks emphasizing uncertainty",
+            "distinctive_speech_patterns": "Conversational interlaced with a hint of melancholy"
+          },
+          "voice_id": "Charon",
+          "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+        },
+        {
+          "type": "narration",
+          "text": "A later train ride led me past ash-heaps and restless children, and my mind drifted back to the events at the garage the night before. There, amid the murmur of voices and the endless questions of onlookers, the search for meaning in tragedy took on a surreal quality. Catherine, altered by liquor and the shock of events, was swept away in the wake of her sister\u2019s body. Inside the garage, George Wilson sat rocked on a shabby couch while Michaelis and other men milled about, each trying to piece together the fragments of what had happened.",
+          "voice_traits": {
+            "accent": "Somber and reflective",
+            "voice_affect": "Low and observational",
+            "tone": "Gritty and evocative",
+            "pacing": "Slow, allowing the gravity of the situation to resonate",
+            "emotion": "Sombre, with an undercurrent of impending doom",
+            "pronunciation": "Clear and descriptive",
+            "pauses": "Deliberate, matching the heaviness of the scene",
+            "distinctive_speech_patterns": "Narrative that blends reportage with poetic imagery"
+          },
+          "voice_id": "Charon",
+          "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+        }
+      ],
+      "speakers": {
+        "Narrator": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "Michaelis",
+          "text": "How long have you been married, George? Come on now, try to sit still a minute and answer me\u2014how long have you been married?",
+          "emotion": "Concern mixed with incredulity",
+          "voice_traits": {
+            "accent": "Working-class American",
+            "voice_affect": "Gruff yet caring",
+            "tone": "Inquisitive and slightly admonishing",
+            "pacing": "Steady with emphasis on key words",
+            "emotion": "Worried and probing",
+            "pronunciation": "Clear with an edge of urgency",
+            "pauses": "Short pauses between questions",
+            "distinctive_speech_patterns": "Direct, unadorned speech"
+          },
+          "voice_id": "Fenrir",
+          "character_voice_traits": "His voice is clear and matter-of-fact, with a slight tremor that betrays his concern for Wilson. There\u2019s an unassuming, down-to-earth quality in his speech, without the flourish of the more affluent characters. He speaks in a measured tone that reflects both his practical mindset and his underlying sympathy."
+        },
+        {
+          "type": "dialogue",
+          "character": "George Wilson",
+          "text": "Twelve years.",
+          "emotion": "Flat and weary",
+          "voice_traits": {
+            "accent": "Rustic American",
+            "voice_affect": "Monotone and resigned",
+            "tone": "Weary, with a hint of sorrow",
+            "pacing": "Slow and deliberate",
+            "emotion": "Emotionally drained",
+            "pronunciation": "Simple and straightforward",
+            "pauses": "A brief pause before speaking, then a languid delivery",
+            "distinctive_speech_patterns": "Plain, without embellishment"
+          },
+          "voice_id": "Orus",
+          "character_voice_traits": "George\u2019s voice is likely soft, trembling, and tentative. It carries the weary cadence of someone burdened by life\u2019s hardships, marked by a lack of assertiveness and a habit of speaking in a measured, almost subdued tone."
+        },
+        {
+          "type": "dialogue",
+          "character": "Michaelis",
+          "text": "Ever had any children? Come on, George\u2014sit still. I asked you a question. Did you ever have any children?",
+          "emotion": "Impatient and concerned",
+          "voice_traits": {
+            "accent": "Rustic American",
+            "voice_affect": "Slightly irritated yet sympathetic",
+            "tone": "Direct and insistent",
+            "pacing": "Paced with urgency",
+            "emotion": "Anxious about the truth",
+            "pronunciation": "Crisp, with a touch of brusqueness",
+            "pauses": "A short pause after each key query",
+            "distinctive_speech_patterns": "Plainspoken with an undercurrent of frustration"
+          },
+          "voice_id": "Fenrir",
+          "character_voice_traits": "His voice is clear and matter-of-fact, with a slight tremor that betrays his concern for Wilson. There\u2019s an unassuming, down-to-earth quality in his speech, without the flourish of the more affluent characters. He speaks in a measured tone that reflects both his practical mindset and his underlying sympathy."
+        },
+        {
+          "type": "dialogue",
+          "character": "Michaelis",
+          "text": "Have you got a church you go to sometimes, George? Even if you haven\u2019t been there for long, maybe I could call a priest to come and talk to you?",
+          "emotion": "Gently urging, concerned",
+          "voice_traits": {
+            "accent": "Rustic",
+            "voice_affect": "Softened by concern",
+            "tone": "Soliciting and caring",
+            "pacing": "Measured and calm",
+            "emotion": "Sympathetic",
+            "pronunciation": "Clear and compassionate",
+            "pauses": "A contemplative pause after asking for a church",
+            "distinctive_speech_patterns": "Unpretentious and sincere"
+          },
+          "voice_id": "Fenrir",
+          "character_voice_traits": "His voice is clear and matter-of-fact, with a slight tremor that betrays his concern for Wilson. There\u2019s an unassuming, down-to-earth quality in his speech, without the flourish of the more affluent characters. He speaks in a measured tone that reflects both his practical mindset and his underlying sympathy."
+        },
+        {
+          "type": "dialogue",
+          "character": "George Wilson",
+          "text": "I don\u2019t belong to any.",
+          "emotion": "Defensive and hurt",
+          "voice_traits": {
+            "accent": "Rough, country inflected",
+            "voice_affect": "Tense",
+            "tone": "Guarded",
+            "pacing": "Short and clipped",
+            "emotion": "Resentful",
+            "pronunciation": "Uneven, with a slight stutter of emotion",
+            "pauses": "No pause\u2014abrupt statement",
+            "distinctive_speech_patterns": "Spare, direct, with a hint of bitterness"
+          },
+          "voice_id": "Orus",
+          "character_voice_traits": "George\u2019s voice is likely soft, trembling, and tentative. It carries the weary cadence of someone burdened by life\u2019s hardships, marked by a lack of assertiveness and a habit of speaking in a measured, almost subdued tone."
+        },
+        {
+          "type": "dialogue",
+          "character": "Michaelis",
+          "text": "You ought to have a church, George, for times like this. You must have been to one once\u2014didn\u2019t you get married in a church? Listen to me, George, didn\u2019t you?",
+          "emotion": "Encouraging yet frustrated",
+          "voice_traits": {
+            "accent": "Plain American",
+            "voice_affect": "Sincere with an edge of urgency",
+            "tone": "Imploring",
+            "pacing": "Measured with emphatic cadence",
+            "emotion": "Concerned and insistent",
+            "pronunciation": "Clear and unembellished",
+            "pauses": "Brief pauses to let the rhetoric sink in",
+            "distinctive_speech_patterns": "Direct, repetitive for emphasis"
+          },
+          "voice_id": "Fenrir",
+          "character_voice_traits": "His voice is clear and matter-of-fact, with a slight tremor that betrays his concern for Wilson. There\u2019s an unassuming, down-to-earth quality in his speech, without the flourish of the more affluent characters. He speaks in a measured tone that reflects both his practical mindset and his underlying sympathy."
+        },
+        {
+          "type": "dialogue",
+          "character": "George Wilson",
+          "text": "That was a long time ago.",
+          "emotion": "Lamenting and bitter",
+          "voice_traits": {
+            "accent": "Rural American",
+            "voice_affect": "Quiet resignation",
+            "tone": "Somber",
+            "pacing": "Leisurely",
+            "emotion": "Wistful sorrow",
+            "pronunciation": "Slow, dragging slightly",
+            "pauses": "A long pause after the statement",
+            "distinctive_speech_patterns": "Bare, with minimal inflection"
+          },
+          "voice_id": "Orus",
+          "character_voice_traits": "George\u2019s voice is likely soft, trembling, and tentative. It carries the weary cadence of someone burdened by life\u2019s hardships, marked by a lack of assertiveness and a habit of speaking in a measured, almost subdued tone."
+        }
+      ],
+      "speakers": {
+        "Michaelis": "Fenrir",
+        "George Wilson": "Orus"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "George Wilson",
+          "text": "Then he killed her.",
+          "emotion": "Stunned and accusatory",
+          "voice_traits": {
+            "accent": "Rustic, with a raw edge",
+            "voice_affect": "Shaken and abrupt",
+            "tone": "Accusatory, with an undercurrent of despair",
+            "pacing": "Hastened and clipped",
+            "emotion": "Traumatized anger",
+            "pronunciation": "Harsh, with a quiver",
+            "pauses": "A hard break after the phrase",
+            "distinctive_speech_patterns": "Rudimentary and elemental in expression"
+          },
+          "voice_id": "Orus",
+          "character_voice_traits": "George\u2019s voice is likely soft, trembling, and tentative. It carries the weary cadence of someone burdened by life\u2019s hardships, marked by a lack of assertiveness and a habit of speaking in a measured, almost subdued tone."
+        },
+        {
+          "type": "dialogue",
+          "character": "George Wilson",
+          "text": "I have a way of finding out.",
+          "emotion": "Defiant and determined",
+          "voice_traits": {
+            "accent": "Barely controlled rural drawl",
+            "voice_affect": "Low and resolute",
+            "tone": "Menacing yet sorrowful",
+            "pacing": "Measured deliberately",
+            "emotion": "Bitter determination",
+            "pronunciation": "Rudimentary, with a rasp",
+            "pauses": "A slight pause before the delivery",
+            "distinctive_speech_patterns": "Gravelly, with a fatalistic rhythm"
+          },
+          "voice_id": "Orus",
+          "character_voice_traits": "George\u2019s voice is likely soft, trembling, and tentative. It carries the weary cadence of someone burdened by life\u2019s hardships, marked by a lack of assertiveness and a habit of speaking in a measured, almost subdued tone."
+        },
+        {
+          "type": "dialogue",
+          "character": "Michaelis",
+          "text": "You\u2019re morbid, George. This has been a strain on you\u2014you don\u2019t know what you\u2019re saying. You\u2019d better sit quiet till morning.",
+          "emotion": "Concerned and admonishing",
+          "voice_traits": {
+            "accent": "Plain American",
+            "voice_affect": "Softened concern with a hint of reproach",
+            "tone": "Cautionary",
+            "pacing": "Even, with deliberate emphasis",
+            "emotion": "Worried yet firm",
+            "pronunciation": "Clear and steady",
+            "pauses": "Brief pauses to underline his concern",
+            "distinctive_speech_patterns": "Direct, without unnecessary embellishment"
+          },
+          "voice_id": "Fenrir",
+          "character_voice_traits": "His voice is clear and matter-of-fact, with a slight tremor that betrays his concern for Wilson. There\u2019s an unassuming, down-to-earth quality in his speech, without the flourish of the more affluent characters. He speaks in a measured tone that reflects both his practical mindset and his underlying sympathy."
+        },
+        {
+          "type": "dialogue",
+          "character": "George Wilson",
+          "text": "He murdered her.",
+          "emotion": "Accusatory and grief-stricken",
+          "voice_traits": {
+            "accent": "Rural, heavy",
+            "voice_affect": "Bitter and broken",
+            "tone": "Definitive and shocking",
+            "pacing": "Staccato and rapid",
+            "emotion": "Anguish and conviction",
+            "pronunciation": "Harsh and uneven",
+            "pauses": "Quick, almost clipped",
+            "distinctive_speech_patterns": "Raw, with a tremor of loss"
+          },
+          "voice_id": "Orus",
+          "character_voice_traits": "George\u2019s voice is likely soft, trembling, and tentative. It carries the weary cadence of someone burdened by life\u2019s hardships, marked by a lack of assertiveness and a habit of speaking in a measured, almost subdued tone."
+        }
+      ],
+      "speakers": {
+        "George Wilson": "Orus",
+        "Michaelis": "Fenrir"
+      }
+    }
+  ]
 }

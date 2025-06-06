@@ -9,7 +9,7 @@ class TTSFactory:
     """Factory class for creating TTS provider instances."""
 
     @staticmethod
-    def create(provider="openai", model=None, use_cloned_voices=False, multi_speaker=False):
+    def create(provider="openai", model=None, use_cloned_voices=False):
         """
         Create an instance of the appropriate TTS provider.
 
@@ -17,7 +17,6 @@ class TTSFactory:
             provider: String specifying the TTS provider ('openai', 'cartesia', 'google', or 'csm')
             model: Model name to use (provider-specific)
             use_cloned_voices: Whether to use cloned voices when available (Cartesia only)
-            multi_speaker: Whether to use multi-speaker audio generation (Google only)
 
         Returns:
             An instance of the specified TTS provider
@@ -64,8 +63,8 @@ class TTSFactory:
             return CartesiaTTS(model=model, use_cloned_voices=use_cloned_voices)
         elif provider == "google":
             from audible.tts.google_tts import GoogleTTS
-            log(f"Creating Google TTS with model {model} (multi_speaker={multi_speaker})")
-            return GoogleTTS(model=model, multi_speaker=multi_speaker)
+            log(f"Creating Google TTS with model {model}")
+            return GoogleTTS(model=model)
         elif provider == "csm":
             from audible.tts.csm_tts import CSMTTS
             log(f"Creating CSM TTS with model {model}")

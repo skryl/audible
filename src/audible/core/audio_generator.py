@@ -13,7 +13,7 @@ from audible.utils.common import (
 from audible.tts.tts_factory import TTSFactory
 from audible.utils.thread_pool import process_batch_async
 
-def process_tts_files(book_dir, provider=None, model=None, use_cloned_voices=False, force=False, single_file=None, use_async=False, multi_speaker=False):
+def process_tts_files(book_dir, provider=None, model=None, use_cloned_voices=False, force=False, single_file=None, use_async=False):
     """
     Process TTS request files to generate audio.
 
@@ -25,7 +25,6 @@ def process_tts_files(book_dir, provider=None, model=None, use_cloned_voices=Fal
         force (bool): Force regeneration of audio files even if they exist
         single_file (str): Optional specific TTS file to process
         use_async (bool): Whether to use asynchronous processing (default: True)
-        multi_speaker (bool): Whether to use multi-speaker audio generation (Google TTS only)
 
     Returns:
         bool: True if successful, False otherwise
@@ -59,8 +58,7 @@ def process_tts_files(book_dir, provider=None, model=None, use_cloned_voices=Fal
     tts_engine = TTSFactory.create(
         provider=tts_provider,
         model=tts_model,
-        use_cloned_voices=use_cloned,
-        multi_speaker=multi_speaker
+        use_cloned_voices=use_cloned
     )
 
     # Get TTS request files to process

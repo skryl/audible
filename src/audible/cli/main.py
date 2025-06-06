@@ -197,7 +197,8 @@ def main():
         generate_scripts(book_dir=args.book_dir, force=args.force)
 
     if args.prepare_tts:
-        prepare_tts(book_dir=args.book_dir, force=args.force, provider=args.tts_provider)
+        prepare_tts(book_dir=args.book_dir, force=args.force, provider=args.tts_provider,
+                   multi_speaker=args.multi_speaker)
 
     if args.generate_audio or args.tts_file:
         log("Generating audio from TTS files")
@@ -208,8 +209,7 @@ def main():
             use_cloned_voices=args.use_cloned_voices,
             force=args.force,
             single_file=args.tts_file,
-            use_async=not args.no_async,
-            multi_speaker=args.multi_speaker
+            use_async=not args.no_async
         )
         return
 

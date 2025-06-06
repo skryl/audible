@@ -12,7 +12,7 @@ from audible.utils.common import (
     get_best_string_match
 )
 
-def prepare_tts(book_dir, force=False, provider=None):
+def prepare_tts(book_dir, force=False, provider=None, multi_speaker=False):
     """
     Prepare TTS request files from scripts.
 
@@ -20,6 +20,7 @@ def prepare_tts(book_dir, force=False, provider=None):
         book_dir (str): Directory containing the book data
         force (bool): Force regeneration of TTS files even if they exist
         provider (str, optional): TTS provider name (e.g., 'openai', 'cartesia')
+        multi_speaker (bool): Whether to create groups for multi-speaker mode (Google only)
 
     Returns:
         bool: True if successful, False otherwise
@@ -111,7 +112,7 @@ def prepare_tts(book_dir, force=False, provider=None):
         log(f"Preparing TTS request for chapter {chapter_num}")
 
         # Generate the TTS request
-        tts_request = generate_tts_request(script, voice_mappings, characters)
+        tts_request = generate_tts_request(script, voice_mappings, characters, provider, multi_speaker)
 
         # Save the TTS request to file
         with open(tts_file, "w", encoding="utf-8") as f:
@@ -121,13 +122,16 @@ def prepare_tts(book_dir, force=False, provider=None):
     log("TTS preparation complete")
     return True
 
-def generate_tts_request(script, voice_mappings, characters):
+def generate_tts_request(script, voice_mappings, characters, provider=None, multi_speaker=False):
     """Generate a TTS request from a script."""
     # Create a copy of the script to convert to TTS request format
     tts_request = copy.deepcopy(script)
 
+    # Get provider if not specified
+    if provider is None:
+        provider = os.getenv("AUDIBLE_TTS_PROVIDER", "openai").lower()
+
     # Debug: Print voice mappings structure for Cartesia provider
-    provider = os.getenv("AUDIBLE_TTS_PROVIDER", "openai").lower()
     if provider == "cartesia":
         log("Voice mappings for Cartesia (DEBUG):", level="DEBUG")
         for char_name, voices in voice_mappings.items():
@@ -179,7 +183,117 @@ def generate_tts_request(script, voice_mappings, characters):
                 segment["character_voice_traits"] = """Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.
                 """
 
+    # For Google provider with multi-speaker mode, add grouped segments
+    if provider == "google" and multi_speaker:
+        groups = group_segments_for_multi_speaker(segments, voice_mappings)
+        tts_request["groups"] = groups
+        log(f"Created {len(groups)} multi-speaker groups for Google TTS")
+
     return tts_request
+
+def group_segments_for_multi_speaker(segments, voice_mappings):
+    """
+    Group segments into chunks that can be processed with 2-speaker multi-speaker mode.
+    Tries to create balanced groups where both speakers actually have dialogue.
+    Never groups Narrator with other speakers.
+
+    Args:
+        segments: List of segment dictionaries
+        voice_mappings: Voice mapping dictionary
+
+    Returns:
+        List of groups, each with 'segments' and 'speakers' keys
+    """
+    groups = []
+    current_group = []
+    current_speakers = {}
+    speaker_segment_count = {}  # Track how many segments each speaker has
+
+    # First pass: identify all speakers and their segment counts
+    all_speakers = {}
+    for segment in segments:
+        if segment.get("type") == "dialogue":
+            speaker = segment.get("character", "Narrator")
+            voice_id = segment.get("voice_id", "Charon")
+        else:
+            speaker = "Narrator"
+            voice_id = segment.get("voice_id", "Charon")
+
+        if speaker not in all_speakers:
+            all_speakers[speaker] = voice_id
+
+    log(f"Found {len(all_speakers)} unique speakers in {len(segments)} segments", level="DEBUG")
+
+    for i, segment in enumerate(segments):
+        # Determine the speaker for this segment
+        if segment.get("type") == "dialogue":
+            speaker = segment.get("character", "Narrator")
+            voice_id = segment.get("voice_id", "Charon")
+        else:
+            speaker = "Narrator"
+            voice_id = segment.get("voice_id", "Charon")
+
+        # Check if we need to start a new group
+        should_start_new_group = False
+
+        # Special handling for Narrator - never mix with other speakers
+        if speaker == "Narrator" and len(current_speakers) > 0 and "Narrator" not in current_speakers:
+            # Narrator segment but current group has non-narrator speakers
+            should_start_new_group = True
+        elif speaker != "Narrator" and "Narrator" in current_speakers:
+            # Non-narrator segment but current group has narrator
+            should_start_new_group = True
+        elif speaker not in current_speakers and len(current_speakers) >= 2:
+            # Would exceed 2 speakers
+            should_start_new_group = True
+        elif len(current_group) > 10 and len(current_speakers) == 2:
+            # Group is getting too long with 2 speakers
+            should_start_new_group = True
+        elif speaker in current_speakers and len(current_speakers) == 1 and len(current_group) > 5:
+            # Single speaker group is getting too long, look ahead for dialogue
+            # Check if there's dialogue coming up soon
+            for j in range(i + 1, min(i + 5, len(segments))):
+                future_segment = segments[j]
+                if future_segment.get("type") == "dialogue":
+                    future_speaker = future_segment.get("character", "Narrator")
+                    if future_speaker != speaker:
+                        # Different speaker coming up, start new group now
+                        should_start_new_group = True
+                        break
+
+        if should_start_new_group:
+            # Save current group if it has segments
+            if current_group:
+                # Only create group if it has meaningful content
+                if len(current_speakers) == 2 or len(current_group) >= 3:
+                    groups.append({
+                        "segments": current_group,
+                        "speakers": current_speakers.copy()
+                    })
+                    log(f"Created group {len(groups)} with {len(current_speakers)} speakers: {list(current_speakers.keys())} ({len(current_group)} segments)", level="DEBUG")
+
+            # Start new group
+            current_group = []
+            current_speakers = {}
+            speaker_segment_count = {}
+
+        # Add speaker to current group
+        if speaker not in current_speakers:
+            current_speakers[speaker] = voice_id
+            speaker_segment_count[speaker] = 0
+
+        speaker_segment_count[speaker] += 1
+        current_group.append(segment)
+
+    # Don't forget the last group
+    if current_group and (len(current_speakers) == 2 or len(current_group) >= 3):
+        groups.append({
+            "segments": current_group,
+            "speakers": current_speakers
+        })
+        log(f"Created final group {len(groups)} with {len(current_speakers)} speakers: {list(current_speakers.keys())} ({len(current_group)} segments)", level="DEBUG")
+
+    return groups
 
 def extract_voice_characteristics(character_name, characters):
     """

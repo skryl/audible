@@ -133,5 +133,88 @@
   ],
   "chapter_number": 9,
   "status": "pending",
-  "audio_file": "chapter_09.mp3"
+  "audio_file": "chapter_09.mp3",
+  "groups": [
+    {
+      "segments": [
+        {
+          "type": "narration",
+          "text": "After two years I remember the rest of that day, the night, and the next day only as an endless drill of police, photographers, and newspaper men streaming in and out of Gatsby\u2019s front door. A rope had been stretched across the main gate with a lone policeman guarding it, while curious children discovered a secret path through my yard, gawking open-mouthed around the pool. In the midst of it all, a detective \u2013 or perhaps someone with a positive manner \u2013 had muttered the word \u201cmadman\u201d while bending over Wilson\u2019s body, his authoritative tone setting the stage for the newspaper reports the following morning.",
+          "voice_traits": "calm, reflective, moderate pace, clear and contemplative tone",
+          "voice_id": "Charon",
+          "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+        },
+        {
+          "type": "narration",
+          "text": "Most of the reports were grotesque mixtures of nightmare, circumstantial evidence, eagerness, and falsehoods. When Michaelis testified about Wilson\u2019s suspicions regarding his wife, I expected the tale to burst into scandal. Instead, Catherine \u2013 with a steely look and determined eyes beneath her carefully raised brow \u2013 simply denied that her sister had ever seen Gatsby. She declared that her sister was content with her husband and had committed no mischief whatsoever. Her quiet strength and silent tears as she cradled her handkerchief transformed Wilson into a man \u2018deranged by grief\u2019 \u2013 a convenient simplification to keep the case uncomplicated.",
+          "voice_traits": "measured, somber tone with a hint of irony; deliberate pacing",
+          "voice_id": "Charon",
+          "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+        },
+        {
+          "type": "narration",
+          "text": "In that moment, I found myself on Gatsby\u2019s side, feeling alone in a sea of curiosity and detachment. Every question and surmise that followed the catastrophe was directed towards me, and as Gatsby lay unmoving in his mansion \u2013 silent and still \u2013 I internalized a responsibility that no one else would claim.",
+          "voice_traits": "introspective, quiet, reflective with a slow cadence",
+          "voice_id": "Charon",
+          "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+        }
+      ],
+      "speakers": {
+        "Narrator": "Charon"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "dialogue",
+          "character": "Unnamed Phone Caller (Slagle from Chicago)",
+          "emotion": "impatient, brusque",
+          "text": "(Telephone connection crackles to life) 'This is Slagle speaking...' he said in a thin, faraway tone. I replied, 'Yes?' After a brief pause he continued, 'Hell of a note, isn\u2019t it? Get my wire? Young Parke\u2019s in trouble \u2013 they picked him up when he handed the bonds over the counter\u2026 They got a circular from New York just five minutes before.'",
+          "voice_traits": "nasal tone, clipped speech, quick delivery with a sense of urgency and a hint of sarcasm",
+          "voice_id": "Charon"
+        },
+        {
+          "type": "dialogue",
+          "character": "Nick Carraway",
+          "emotion": "breathless, incredulous",
+          "text": "(Interrupting sharply) 'Hello! Look here \u2013 this isn\u2019t Mr. Gatsby. Mr. Gatsby\u2019s dead.'",
+          "voice_traits": "suddenly halting, forceful inflection with rising intensity and a pause to let the words sink in",
+          "voice_id": "Kore",
+          "character_voice_traits": "His narrative voice is measured, reflective, and gentle with hints of a Midwestern accent. There is a calm, understated quality in his speech that comes off as both polite and insightful."
+        }
+      ],
+      "speakers": {
+        "Unnamed Phone Caller (Slagle from Chicago)": "Charon",
+        "Nick Carraway": "Kore"
+      }
+    },
+    {
+      "segments": [
+        {
+          "type": "narration",
+          "text": "I could only offer the one silent counterpoint \u2013 the undeniable truth that his twisted rendition was not what truly happened. As the day wore on, I reflected on the carelessness of Tom and Daisy \u2013 how they had smashed apart lives and retreated back into their money and indifference, leaving others to clean up the resulting mess.",
+          "voice_traits": "quiet, resigned, with a slow cadence and a tone of bitter introspection",
+          "voice_id": "Charon",
+          "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+        },
+        {
+          "type": "narration",
+          "text": "Gatsby\u2019s house remained empty after his death, the long grass on the lawn mirroring the neglect and finality of his absence. The memory of his dazzling parties\u2014its music, laughter, and the ceaseless rumble of cars\u2014lingered like ghostly echoes. One last time, before leaving, I walked up the white steps and erased an obscene word scrawled on the stone, and then I strolled down to the beach to brood on the inescapable transience of dreams.",
+          "voice_traits": "reflective, somber, with a slow, mournful pace and gentle pauses that evoke a fading dream",
+          "voice_id": "Charon",
+          "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+        },
+        {
+          "type": "narration",
+          "text": "In my final reflections, as I sat quietly on that darkening beach, the image of Gatsby\u2019s green light flashed in my mind \u2013 a beacon of hope, a dream receding into the vast obscurity of the past. Gatsby believed in that green light and a future always just a little too far away. And as I contemplated how we all drift on like boats against the current, I realized that, despite everything, we are all inevitably borne back into our own pasts.",
+          "voice_traits": "calm, elegiac tone with measured pacing, reflective inflections and a lingering melancholy",
+          "voice_id": "Charon",
+          "character_voice_traits": "Voice Affect: Low, hushed, and suspenseful narration voice; convey tension and intrigue.\n\n Pronunciation: British accent, slightly elongated vowels and softened consonants for an eerie, haunting effect.\n\n Pauses: Insert meaningful pauses to enhance suspense.\n                "
+        }
+      ],
+      "speakers": {
+        "Narrator": "Charon"
+      }
+    }
+  ]
 }
